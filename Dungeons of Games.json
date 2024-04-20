@@ -1009,6 +1009,100 @@
         "name": "images-removebg-preview.png",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "npc-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "npc-3.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "file": "small-dog-barking-84707.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "small-dog-barking-84707.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "pngtree-speech-bubble-pixel-icon-simple-design-classic-talk-banner-vector-png-image_12614253-removebg-preview.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pngtree-speech-bubble-pixel-icon-simple-design-classic-talk-banner-vector-png-image_12614253-removebg-preview.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/pngtree-speech-bubble-pixel-icon-simple-design-classic-talk-banner-vector-png-image_12614253-removebg-preview.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "pngtree-speech-bubble-pixel-icon-simple-design-classic-talk-banner-vector-png-image_12614253-removebg-preview",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "hk2GhR.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "hk2GhR.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "pngtree-speech-bubble-pixel-icon-simple-design-classic-talk-banner-vector-png-image_12614253-removebg-preview2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pngtree-speech-bubble-pixel-icon-simple-design-classic-talk-banner-vector-png-image_12614253-removebg-preview2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/pngtree-speech-bubble-pixel-icon-simple-design-classic-talk-banner-vector-png-image_12614253-removebg-preview2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "pngtree-speech-bubble-pixel-icon-simple-design-classic-talk-banner-vector-png-image_12614253-removebg-preview2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "file": "cat-98721.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "cat-98721.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "file": "cat-98721 (mp3cut.net).mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "cat-98721 (mp3cut.net).mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "file": "small-dog-barking-84707 (mp3cut.net).mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "small-dog-barking-84707 (mp3cut.net).mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -2139,10 +2233,33 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.26167741169921527,
+        "zoomFactor": 0.47535850871269403,
         "windowMask": false
       },
-      "objectsGroups": [],
+      "objectsGroups": [
+        {
+          "name": "Fala_dog",
+          "objects": [
+            {
+              "name": "Balao_fala"
+            },
+            {
+              "name": "Fala_cao"
+            }
+          ]
+        },
+        {
+          "name": "Fala_cat",
+          "objects": [
+            {
+              "name": "Fala_gato"
+            },
+            {
+              "name": "Balao_gato"
+            }
+          ]
+        }
+      ],
       "variables": [],
       "instances": [
         {
@@ -2154,8 +2271,8 @@
           "name": "Player",
           "persistentUuid": "d554c136-5223-4743-b9c0-bddafea32ea5",
           "width": 112,
-          "x": 892,
-          "y": 426,
+          "x": 919,
+          "y": 335,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -2237,6 +2354,106 @@
           "x": 105,
           "y": 26,
           "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Npc_1",
+          "persistentUuid": "6c741ebf-9bc2-4b5b-a9d1-4b3fde382a57",
+          "width": 0,
+          "x": 501,
+          "y": 221,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 75,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Balao_fala",
+          "persistentUuid": "d5ca7903-82b6-4509-8945-7944755aaaed",
+          "width": 144,
+          "x": 688,
+          "y": 180,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 31,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Fala_cao",
+          "persistentUuid": "0dfeb4f9-555e-4ff3-9fca-06d1bf05a0cf",
+          "width": 100,
+          "x": 730,
+          "y": 195,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 118,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Npc_6",
+          "persistentUuid": "c9539078-3166-4cdf-bd75-6609e1a141b3",
+          "width": 149,
+          "x": 1220,
+          "y": 183,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 80,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Balao_gato",
+          "persistentUuid": "eb3e173b-44e7-4432-bf79-e0ad744c272a",
+          "width": 154,
+          "x": 1197,
+          "y": 143,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Fala_gato",
+          "persistentUuid": "f7850a1b-367b-4208-a01a-f2d57d7c6030",
+          "width": 0,
+          "x": 1219,
+          "y": 158,
+          "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3168,6 +3385,210 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Balao_fala",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "pngtree-speech-bubble-pixel-icon-simple-design-classic-talk-banner-vector-png-image_12614253-removebg-preview",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "pngtree-speech-bubble-pixel-icon-simple-design-classic-talk-banner-vector-png-image_12614253-removebg-preview",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 0
+                          },
+                          {
+                            "x": 512,
+                            "y": 0
+                          },
+                          {
+                            "x": 512,
+                            "y": 266
+                          },
+                          {
+                            "x": 2,
+                            "y": 266
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "Fala_cao",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "au-au",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "au-au",
+            "font": "",
+            "textAlignment": "left",
+            "characterSize": 20,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "Fala_gato",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "meow-meow",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "meow-meow",
+            "font": "",
+            "textAlignment": "left",
+            "characterSize": 20,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Balao_gato",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "pngtree-speech-bubble-pixel-icon-simple-design-classic-talk-banner-vector-png-image_12614253-removebg-preview2",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "pngtree-speech-bubble-pixel-icon-simple-design-classic-talk-banner-vector-png-image_12614253-removebg-preview2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 0
+                          },
+                          {
+                            "x": 512,
+                            "y": 0
+                          },
+                          {
+                            "x": 512,
+                            "y": 266
+                          },
+                          {
+                            "x": 2,
+                            "y": 266
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -3202,6 +3623,18 @@
           },
           {
             "objectName": "Npc_6"
+          },
+          {
+            "objectName": "Balao_fala"
+          },
+          {
+            "objectName": "Fala_cao"
+          },
+          {
+            "objectName": "Fala_gato"
+          },
+          {
+            "objectName": "Balao_gato"
           }
         ]
       },
@@ -3336,6 +3769,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Bau",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -3520,6 +3954,185 @@
                     "Animation",
                     "=",
                     "\"closed\""
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "sounds",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Npc_1",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "small-dog-barking-84707 (mp3cut.net).mp3",
+                    "",
+                    "30",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Montre"
+                  },
+                  "parameters": [
+                    "Fala_dog",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "1.5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "Fala_dog"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Npc_6",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "cat-98721 (mp3cut.net).mp3",
+                    "",
+                    "30",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Montre"
+                  },
+                  "parameters": [
+                    "Fala_cat",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "2.5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "Fala_cat"
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "inicio de tela",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "DepartScene"
+                  },
+                  "parameters": [
+                    "Fala_dog"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "Fala_dog"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "Fala_cat"
                   ]
                 }
               ]
@@ -4165,7 +4778,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.3768772036750871,
+        "zoomFactor": 0.3192894589690163,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -4261,6 +4874,17 @@
               "name": "Vida",
               "type": "number",
               "value": 1
+            },
+            {
+              "folded": true,
+              "name": "type",
+              "type": "string",
+              "value": "normal"
+            },
+            {
+              "name": "limitAttack",
+              "type": "number",
+              "value": 3
             }
           ],
           "effects": [],
@@ -4328,6 +4952,18 @@
               "name": "Vida",
               "type": "number",
               "value": 2
+            },
+            {
+              "folded": true,
+              "name": "type",
+              "type": "string",
+              "value": "wind"
+            },
+            {
+              "folded": true,
+              "name": "limitAttack",
+              "type": "number",
+              "value": 5
             }
           ],
           "effects": [],
@@ -4394,6 +5030,18 @@
               "name": "Vida",
               "type": "number",
               "value": 4
+            },
+            {
+              "folded": true,
+              "name": "type",
+              "type": "string",
+              "value": "water"
+            },
+            {
+              "folded": true,
+              "name": "limitAttack",
+              "type": "number",
+              "value": 7
             }
           ],
           "effects": [],
@@ -4461,6 +5109,18 @@
               "name": "Vida",
               "type": "number",
               "value": 5
+            },
+            {
+              "folded": true,
+              "name": "type",
+              "type": "string",
+              "value": "earth"
+            },
+            {
+              "folded": true,
+              "name": "limitAttack",
+              "type": "number",
+              "value": 8
             }
           ],
           "effects": [],
@@ -4526,6 +5186,18 @@
             {
               "folded": true,
               "name": "Vida",
+              "type": "number",
+              "value": 10
+            },
+            {
+              "folded": true,
+              "name": "type",
+              "type": "string",
+              "value": "dragon"
+            },
+            {
+              "folded": true,
+              "name": "limitAttack",
               "type": "number",
               "value": 10
             }

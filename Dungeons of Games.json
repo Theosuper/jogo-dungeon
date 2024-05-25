@@ -1607,6 +1607,87 @@
         "name": "download-removebg-preview (1)2.png",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "download-removebg-preview (1)3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "download-removebg-preview (1)3.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/monge2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "monge2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4369e72f78554931a58014adf769ac59-removebg-preview2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4369e72f78554931a58014adf769ac59-removebg-preview2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/arqueiro2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "arqueiro2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Pixel-Art-Knight-1-removebg-preview2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixel-Art-Knight-1-removebg-preview2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/guerreiro2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "guerreiro2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "images-removebg-preview (4).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "images-removebg-preview (4).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite14",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "23419f89e6100a9dca341ece9d67b54c.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "23419f89e6100a9dca341ece9d67b54c.jpg",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -2808,7 +2889,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.5079575118131743,
+        "zoomFactor": 0.402722583332592,
         "windowMask": false
       },
       "objectsGroups": [
@@ -3060,14 +3141,15 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 250,
           "layer": "",
           "name": "Portal_dungeon",
           "persistentUuid": "dba7eaf1-e188-48a0-b2cb-1fda3f82424d",
-          "width": 0,
+          "width": 302,
           "x": 873,
-          "y": 744,
+          "y": 664,
           "zOrder": 14,
           "numberProperties": [],
           "stringProperties": [],
@@ -4328,7 +4410,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "NewSprite13",
+                      "image": "NewSprite14",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4344,20 +4426,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
-                            "y": 0
+                            "x": 2,
+                            "y": 2
                           },
                           {
-                            "x": 64,
-                            "y": 0
+                            "x": 204,
+                            "y": 2
                           },
                           {
-                            "x": 64,
-                            "y": 64
+                            "x": 204,
+                            "y": 168
                           },
                           {
-                            "x": 0,
-                            "y": 64
+                            "x": 2,
+                            "y": 168
                           }
                         ]
                       ]
@@ -5652,7 +5734,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.3411856023473471,
+        "zoomFactor": 0.3526904934771247,
         "windowMask": false
       },
       "objectsGroups": [
@@ -5835,36 +5917,6 @@
           "x": 3,
           "y": 467,
           "zOrder": 9,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "teste_variavel",
-          "persistentUuid": "7c7a3159-7c88-497d-bfb6-de858a23723c",
-          "width": 0,
-          "x": 352,
-          "y": 905,
-          "zOrder": 10,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "teste_global",
-          "persistentUuid": "b8181ada-6997-4bef-84ad-4537a34496d3",
-          "width": 0,
-          "x": 343,
-          "y": 981,
-          "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -9811,7 +9863,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.3645833333333333,
+        "zoomFactor": 0.2368956372544656,
         "windowMask": false
       },
       "objectsGroups": [
@@ -9849,8 +9901,8 @@
           "name": "inicial",
           "persistentUuid": "7ab1c352-a538-4688-8744-2422f3ea2cfe",
           "width": 0,
-          "x": 697,
-          "y": 240,
+          "x": 735,
+          "y": 5,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -9858,14 +9910,15 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 266,
           "layer": "",
           "name": "ninja",
           "persistentUuid": "3664bafa-d818-4656-a74e-aa3f7a920da2",
-          "width": 0,
-          "x": 126,
-          "y": 288,
+          "width": 371,
+          "x": 285,
+          "y": 710,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -9873,14 +9926,15 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 328,
           "layer": "",
           "name": "guerreiro",
           "persistentUuid": "da6e8d91-7a06-4122-9d9f-88bb7793b4bb",
-          "width": 0,
-          "x": 917,
-          "y": 492,
+          "width": 246,
+          "x": 795,
+          "y": 247,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -9888,14 +9942,15 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 3,
+          "height": 290,
           "layer": "",
           "name": "monge",
           "persistentUuid": "84ff6f09-97ba-4ab5-a2c3-52d73109a80c",
-          "width": 0,
-          "x": 1171,
-          "y": 478,
+          "width": 225,
+          "x": 316,
+          "y": 288,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -9909,8 +9964,8 @@
           "name": "arqueiro",
           "persistentUuid": "00560ba9-3177-4c62-ab4a-f690cc11cc8f",
           "width": 0,
-          "x": 645,
-          "y": 700,
+          "x": 774,
+          "y": 683,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -9918,14 +9973,15 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 319,
           "layer": "",
           "name": "mago",
           "persistentUuid": "2c98b397-a736-4e90-9a10-bc7b4199314f",
-          "width": 0,
-          "x": 1126,
-          "y": 597,
+          "width": 193,
+          "x": 1278,
+          "y": 232,
           "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
@@ -9935,14 +9991,30 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 205,
+          "height": 305,
           "layer": "",
           "name": "aventureiro",
           "persistentUuid": "48380201-2f0e-4439-b621-857a35f658bb",
-          "width": 225,
-          "x": 843,
-          "y": 612,
+          "width": 335,
+          "x": 1205,
+          "y": 643,
           "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 3,
+          "height": 1427,
+          "layer": "",
+          "name": "fundo_class_selector",
+          "persistentUuid": "473c6b67-b816-4262-9ea4-50da8382e39d",
+          "width": 2015,
+          "x": -63,
+          "y": -210,
+          "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -10222,7 +10294,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "monge",
+                      "image": "monge2",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -10238,20 +10310,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
-                            "y": 0
+                            "x": 1,
+                            "y": 1
                           },
                           {
-                            "x": 64,
-                            "y": 0
+                            "x": 72,
+                            "y": 1
                           },
                           {
-                            "x": 64,
-                            "y": 64
+                            "x": 72,
+                            "y": 92
                           },
                           {
-                            "x": 0,
-                            "y": 64
+                            "x": 1,
+                            "y": 92
                           }
                         ]
                       ]
@@ -10289,7 +10361,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "guerreiro",
+                      "image": "guerreiro2",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -10309,16 +10381,16 @@
                             "y": 0
                           },
                           {
-                            "x": 64,
+                            "x": 341,
                             "y": 0
                           },
                           {
-                            "x": 64,
-                            "y": 64
+                            "x": 341,
+                            "y": 455
                           },
                           {
                             "x": 0,
-                            "y": 64
+                            "y": 455
                           }
                         ]
                       ]
@@ -10357,7 +10429,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "arqueiro",
+                      "image": "arqueiro2",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -10373,20 +10445,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
-                            "y": 0
+                            "x": 1,
+                            "y": 1
                           },
                           {
-                            "x": 64,
-                            "y": 0
+                            "x": 342,
+                            "y": 1
                           },
                           {
-                            "x": 64,
-                            "y": 64
+                            "x": 342,
+                            "y": 317
                           },
                           {
-                            "x": 0,
-                            "y": 64
+                            "x": 1,
+                            "y": 317
                           }
                         ]
                       ]
@@ -10756,6 +10828,66 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "fundo_class_selector",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "23419f89e6100a9dca341ece9d67b54c.jpg",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 735,
+                            "y": 0
+                          },
+                          {
+                            "x": 735,
+                            "y": 555
+                          },
+                          {
+                            "x": 0,
+                            "y": 555
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -10799,6 +10931,9 @@
           },
           {
             "objectName": "Monge_sign"
+          },
+          {
+            "objectName": "fundo_class_selector"
           }
         ]
       },
@@ -11343,26 +11478,59 @@
           "conditions": [
             {
               "type": {
-                "value": "KeyReleased"
+                "value": "VarGlobalTxt"
               },
               "parameters": [
-                "",
-                "h"
+                "class",
+                "=",
+                "GlobalVariableString(mage)"
               ]
             }
           ],
-          "actions": [
+          "actions": [],
+          "events": [
             {
-              "type": {
-                "value": "Create"
-              },
-              "parameters": [
-                "",
-                "Ataque_mago",
-                "Player.CenterX()",
-                "Player.CenterY()",
-                ""
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyReleased"
+                  },
+                  "parameters": [
+                    "",
+                    "h"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "Ataque_mago",
+                    "Player.CenterX()",
+                    "Player.CenterY()",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "mana",
+                    "-",
+                    "5"
+                  ]
+                }
               ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": []
             }
           ]
         },
@@ -11371,22 +11539,28 @@
           "conditions": [
             {
               "type": {
-                "value": "VarGlobalTxt"
+                "value": "CollisionNP"
               },
               "parameters": [
-                "class",
-                "=",
-                "ToString(GlobalVariable(mage))",
+                "Ataque_mago",
+                "MonstersGroup2",
+                "",
+                "",
                 ""
               ]
             }
           ],
-          "actions": [],
-          "events": [
+          "actions": [
             {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": []
+              "type": {
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "MonstersGroup2",
+                "Vida",
+                "-",
+                "RandomInRange(0,Ataque_mago.dano)"
+              ]
             }
           ]
         }

@@ -1844,6 +1844,159 @@
         "name": "light_sword_1_24_27-removebg-preview2",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "images-removebg-preview (5).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "images-removebg-preview (5).png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "9877762-loja-loja-pixel-art-com-vermelho-construir-para-jogo-de-8-bits-em-fundo-branco-vetor-removebg-preview (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "9877762-loja-loja-pixel-art-com-vermelho-construir-para-jogo-de-8-bits-em-fundo-branco-vetor-removebg-preview (1).png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/images-removebg-preview (5).png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "images-removebg-preview (5)",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "pixel-art-illustration-hospital-background-260nw-2406465739.webp",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-art-illustration-hospital-background-260nw-2406465739.webp",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/pixel-art-illustration-hospital-background-260nw-2406465739.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "pixel-art-illustration-hospital-background-260nw-2406465739",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "images-removebg-preview (7).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "images-removebg-preview (7).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/images-removebg-preview (7).png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "images-removebg-preview (7)",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "download-removebg-preview (5).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "download-removebg-preview (5).png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/download-removebg-preview (5).png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "download-removebg-preview (5)",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "images-removebg-preview (8).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "images-removebg-preview (8).png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/download-removebg-preview (5)2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/download-removebg-preview (5)2.png\"}",
+        "name": "download-removebg-preview (5)2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/download-removebg-preview (5)3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "download-removebg-preview (5)3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "images-removebg-preview (9).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "images-removebg-preview (9).png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "images-removebg-preview (10).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "images-removebg-preview (10).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "tumblr_mk7vq11eBN1qmf2zwo1_640.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tumblr_mk7vq11eBN1qmf2zwo1_640.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "images-removebg-preview (11).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "images-removebg-preview (11).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/images-removebg-preview (11).png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "images-removebg-preview (11)",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -2920,7 +3073,7 @@
       "folded": true,
       "name": "DungeonPiso",
       "type": "number",
-      "value": 1
+      "value": 0
     },
     {
       "folded": true,
@@ -3349,7 +3502,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.45985214267363417,
+        "zoomFactor": 0.34118560234734574,
         "windowMask": false
       },
       "objectsGroups": [
@@ -3414,13 +3567,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 7,
-          "height": 1089,
+          "height": 1226,
           "layer": "",
           "name": "NewTiledSprite",
           "persistentUuid": "d180a865-fb6e-4323-8a48-1960e727a181",
-          "width": 2003,
-          "x": 27,
-          "y": -14,
+          "width": 2161,
+          "x": -110,
+          "y": -113,
           "zOrder": -1,
           "numberProperties": [],
           "stringProperties": [],
@@ -3611,6 +3764,23 @@
           "x": 873,
           "y": 664,
           "zOrder": 14,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 248,
+          "keepRatio": true,
+          "layer": "",
+          "name": "mercado",
+          "persistentUuid": "619e003e-96ff-433b-b855-281b907beae3",
+          "width": 267,
+          "x": 308,
+          "y": 688,
+          "zOrder": 15,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4909,6 +5079,67 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "mercado",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "images-removebg-preview (5)",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "images-removebg-preview (5)",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 1
+                          },
+                          {
+                            "x": 495,
+                            "y": 1
+                          },
+                          {
+                            "x": 495,
+                            "y": 459
+                          },
+                          {
+                            "x": 0,
+                            "y": 459
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -4964,6 +5195,9 @@
           },
           {
             "objectName": "Portal_dungeon"
+          },
+          {
+            "objectName": "mercado"
           }
         ]
       },
@@ -5295,6 +5529,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "sounds",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -5431,6 +5666,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "inicio de tela",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -5491,6 +5727,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "portais",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -5555,6 +5792,35 @@
             }
           ],
           "parameters": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Player",
+                "mercado",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"mercador\"",
+                ""
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -6194,12 +6460,12 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.4027225833325936,
+        "zoomFactor": 0.3526904934771248,
         "windowMask": false
       },
       "objectsGroups": [
         {
-          "name": "MonstrosGroup1",
+          "name": "MonstersGroup1",
           "objects": [
             {
               "name": "Enemy_nivel_1"
@@ -6236,6 +6502,18 @@
       "variables": [
         {
           "name": "Lutando",
+          "type": "boolean",
+          "value": false
+        },
+        {
+          "folded": true,
+          "name": "Girando",
+          "type": "boolean",
+          "value": false
+        },
+        {
+          "folded": true,
+          "name": "playerFerido",
           "type": "boolean",
           "value": false
         }
@@ -6559,10 +6837,33 @@
               "name": "minimocoin",
               "type": "number",
               "value": 1
+            },
+            {
+              "folded": true,
+              "name": "xp",
+              "type": "number",
+              "value": 2
             }
           ],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "acceleration": 400,
+              "allowDiagonals": true,
+              "angleOffset": 0,
+              "angularMaxSpeed": 180,
+              "cellHeight": 20,
+              "cellWidth": 20,
+              "extraBorder": 0,
+              "gridOffsetX": 0,
+              "gridOffsetY": 0,
+              "maxSpeed": 200,
+              "name": "Pathfinding",
+              "rotateObject": false,
+              "smoothingMaxCellGap": 1,
+              "type": "PathfindingBehavior::PathfindingBehavior"
+            }
+          ],
           "animations": [
             {
               "name": "",
@@ -6650,10 +6951,33 @@
               "name": "minimocoin",
               "type": "number",
               "value": 2
+            },
+            {
+              "folded": true,
+              "name": "xp",
+              "type": "number",
+              "value": 3
             }
           ],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "acceleration": 400,
+              "allowDiagonals": true,
+              "angleOffset": 0,
+              "angularMaxSpeed": 180,
+              "cellHeight": 20,
+              "cellWidth": 20,
+              "extraBorder": 0,
+              "gridOffsetX": 0,
+              "gridOffsetY": 0,
+              "maxSpeed": 200,
+              "name": "Pathfinding",
+              "rotateObject": false,
+              "smoothingMaxCellGap": 1,
+              "type": "PathfindingBehavior::PathfindingBehavior"
+            }
+          ],
           "animations": [
             {
               "name": "",
@@ -6739,10 +7063,33 @@
               "name": "minimocoin",
               "type": "number",
               "value": 3
+            },
+            {
+              "folded": true,
+              "name": "xp",
+              "type": "number",
+              "value": 4
             }
           ],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "acceleration": 400,
+              "allowDiagonals": true,
+              "angleOffset": 0,
+              "angularMaxSpeed": 180,
+              "cellHeight": 20,
+              "cellWidth": 20,
+              "extraBorder": 0,
+              "gridOffsetX": 0,
+              "gridOffsetY": 0,
+              "maxSpeed": 200,
+              "name": "Pathfinding",
+              "rotateObject": false,
+              "smoothingMaxCellGap": 1,
+              "type": "PathfindingBehavior::PathfindingBehavior"
+            }
+          ],
           "animations": [
             {
               "name": "",
@@ -6830,10 +7177,33 @@
               "name": "minimocoin",
               "type": "number",
               "value": 5
+            },
+            {
+              "folded": true,
+              "name": "xp",
+              "type": "number",
+              "value": 4
             }
           ],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "acceleration": 400,
+              "allowDiagonals": true,
+              "angleOffset": 0,
+              "angularMaxSpeed": 180,
+              "cellHeight": 20,
+              "cellWidth": 20,
+              "extraBorder": 0,
+              "gridOffsetX": 0,
+              "gridOffsetY": 0,
+              "maxSpeed": 200,
+              "name": "Pathfinding",
+              "rotateObject": false,
+              "smoothingMaxCellGap": 1,
+              "type": "PathfindingBehavior::PathfindingBehavior"
+            }
+          ],
           "animations": [
             {
               "name": "",
@@ -6909,10 +7279,33 @@
               "name": "limitAttack",
               "type": "number",
               "value": 10
+            },
+            {
+              "folded": true,
+              "name": "xp",
+              "type": "number",
+              "value": 20
             }
           ],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "acceleration": 400,
+              "allowDiagonals": true,
+              "angleOffset": 0,
+              "angularMaxSpeed": 180,
+              "cellHeight": 20,
+              "cellWidth": 20,
+              "extraBorder": 0,
+              "gridOffsetX": 0,
+              "gridOffsetY": 0,
+              "maxSpeed": 200,
+              "name": "Pathfinding",
+              "rotateObject": false,
+              "smoothingMaxCellGap": 1,
+              "type": "PathfindingBehavior::PathfindingBehavior"
+            }
+          ],
           "animations": [
             {
               "name": "images\\Dungeon\\boss-nivel-5-removebg-preview",
@@ -7335,9 +7728,33 @@
           "name": "Boss_tema_2",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [],
+          "variables": [
+            {
+              "folded": true,
+              "name": "xp",
+              "type": "number",
+              "value": 35
+            }
+          ],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "acceleration": 400,
+              "allowDiagonals": true,
+              "angleOffset": 0,
+              "angularMaxSpeed": 180,
+              "cellHeight": 20,
+              "cellWidth": 20,
+              "extraBorder": 0,
+              "gridOffsetX": 0,
+              "gridOffsetY": 0,
+              "maxSpeed": 200,
+              "name": "Pathfinding",
+              "rotateObject": false,
+              "smoothingMaxCellGap": 1,
+              "type": "PathfindingBehavior::PathfindingBehavior"
+            }
+          ],
           "animations": [
             {
               "name": "images\\Dungeon\\boss-nivel-5-removebg-preview",
@@ -7547,10 +7964,33 @@
               "name": "minimocoin",
               "type": "number",
               "value": 5
+            },
+            {
+              "folded": true,
+              "name": "xp",
+              "type": "number",
+              "value": 8
             }
           ],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "acceleration": 400,
+              "allowDiagonals": true,
+              "angleOffset": 0,
+              "angularMaxSpeed": 180,
+              "cellHeight": 20,
+              "cellWidth": 20,
+              "extraBorder": 0,
+              "gridOffsetX": 0,
+              "gridOffsetY": 0,
+              "maxSpeed": 200,
+              "name": "Pathfinding",
+              "rotateObject": false,
+              "smoothingMaxCellGap": 1,
+              "type": "PathfindingBehavior::PathfindingBehavior"
+            }
+          ],
           "animations": [
             {
               "name": "images\\Dungeon\\inimigo-nivel-5png",
@@ -7638,10 +8078,33 @@
               "name": "minimocoin",
               "type": "number",
               "value": 6
+            },
+            {
+              "folded": true,
+              "name": "xp",
+              "type": "number",
+              "value": 5
             }
           ],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "acceleration": 400,
+              "allowDiagonals": true,
+              "angleOffset": 0,
+              "angularMaxSpeed": 180,
+              "cellHeight": 20,
+              "cellWidth": 20,
+              "extraBorder": 0,
+              "gridOffsetX": 0,
+              "gridOffsetY": 0,
+              "maxSpeed": 200,
+              "name": "Pathfinding",
+              "rotateObject": false,
+              "smoothingMaxCellGap": 1,
+              "type": "PathfindingBehavior::PathfindingBehavior"
+            }
+          ],
           "animations": [
             {
               "name": "",
@@ -7729,10 +8192,33 @@
               "name": "minimocoin",
               "type": "number",
               "value": 7
+            },
+            {
+              "folded": true,
+              "name": "xp",
+              "type": "number",
+              "value": 6
             }
           ],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "acceleration": 400,
+              "allowDiagonals": true,
+              "angleOffset": 0,
+              "angularMaxSpeed": 180,
+              "cellHeight": 20,
+              "cellWidth": 20,
+              "extraBorder": 0,
+              "gridOffsetX": 0,
+              "gridOffsetY": 0,
+              "maxSpeed": 200,
+              "name": "Pathfinding",
+              "rotateObject": false,
+              "smoothingMaxCellGap": 1,
+              "type": "PathfindingBehavior::PathfindingBehavior"
+            }
+          ],
           "animations": [
             {
               "name": "",
@@ -7820,10 +8306,33 @@
               "name": "minimocoin",
               "type": "number",
               "value": 8
+            },
+            {
+              "folded": true,
+              "name": "xp",
+              "type": "number",
+              "value": 7
             }
           ],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "acceleration": 400,
+              "allowDiagonals": true,
+              "angleOffset": 0,
+              "angularMaxSpeed": 180,
+              "cellHeight": 20,
+              "cellWidth": 20,
+              "extraBorder": 0,
+              "gridOffsetX": 0,
+              "gridOffsetY": 0,
+              "maxSpeed": 200,
+              "name": "Pathfinding",
+              "rotateObject": false,
+              "smoothingMaxCellGap": 1,
+              "type": "PathfindingBehavior::PathfindingBehavior"
+            }
+          ],
           "animations": [
             {
               "name": "",
@@ -8639,7 +9148,14 @@
           "name": "sabre_de_luz_jedi",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [],
+          "variables": [
+            {
+              "folded": true,
+              "name": "dano",
+              "type": "number",
+              "value": 30
+            }
+          ],
           "effects": [],
           "behaviors": [],
           "animations": [
@@ -8658,14 +9174,14 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 43,
+                        "y": 429
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 43.5,
+                        "y": 426.5
                       },
                       "customCollisionMask": [
                         [
@@ -8810,10 +9326,10 @@
             ]
           },
           {
-            "objectName": "teste_global"
+            "objectName": "teste_variavel"
           },
           {
-            "objectName": "teste_variavel"
+            "objectName": "teste_global"
           },
           {
             "objectName": "GreenFlatBar"
@@ -8829,10 +9345,152 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
+          "name": "movimentacao monstros",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PathfindingBehavior::SetDestination"
+                  },
+                  "parameters": [
+                    "MonstersGroup1",
+                    "Pathfinding",
+                    "=",
+                    "Player.X()",
+                    "Player.Y()"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "MonstersGroup1",
+                    "Player",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "playerFerido",
+                    "=",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "hp",
+                    "-",
+                    "RandomInRange(0,MonstersGroup1.limitAttack)"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"dano-player\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "playerFerido",
+                    "True",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "OpacityCapability::OpacityBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Opacity",
+                    "=",
+                    "200"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CompareTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"dano-player\"",
+                    ">=",
+                    "0.5"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "playerFerido",
+                    "False",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "folded": true,
           "name": "player",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
           "events": [
+            {
+              "type": "BuiltinCommonInstructions::Link",
+              "include": {
+                "includeConfig": 0
+              },
+              "target": "Jedi-class-player"
+            },
             {
               "type": "BuiltinCommonInstructions::Link",
               "include": {
@@ -8906,6 +9564,33 @@
                   ]
                 }
               ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "hp",
+                    "<=",
+                    "0"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"hospital\"",
+                    ""
+                  ]
+                }
+              ]
             }
           ],
           "parameters": []
@@ -8915,6 +9600,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "spawn monster",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -8949,7 +9635,7 @@
                       "parameters": [
                         "DungeonPiso",
                         "=",
-                        "2"
+                        "1"
                       ]
                     },
                     {
@@ -9039,7 +9725,7 @@
                       "parameters": [
                         "DungeonPiso",
                         "=",
-                        "1"
+                        "0"
                       ]
                     },
                     {
@@ -9069,7 +9755,7 @@
                       },
                       "parameters": [
                         "",
-                        "MonstrosGroup1",
+                        "MonstersGroup1",
                         "\"Enemy_nivel_\"+ToString(RandomInRange(1,4))",
                         "RandomInRange(0,ScreenWidth()-256)",
                         "RandomInRange(0,ScreenHeight()-256)",
@@ -9107,6 +9793,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "quando Iniciar A Tela",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -9222,6 +9909,23 @@
                   ]
                 }
               ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+                  },
+                  "parameters": [
+                    "Fundo_tema_1",
+                    "Animation",
+                    "=",
+                    "DungeonPiso"
+                  ]
+                }
+              ]
             }
           ],
           "parameters": []
@@ -9231,6 +9935,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Menu final",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -9421,6 +10126,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "luta",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -9488,7 +10194,7 @@
                         "value": "VarObjet"
                       },
                       "parameters": [
-                        "MonstrosGroup1",
+                        "MonstersGroup1",
                         "Vida",
                         "<=",
                         "0"
@@ -9507,10 +10213,10 @@
                         "value": "ModVarObjet"
                       },
                       "parameters": [
-                        "MonstrosGroup1",
+                        "MonstersGroup1",
                         "Vida",
                         "=",
-                        "MonstrosGroup1.Variable(Vida)"
+                        "MonstersGroup1.Variable(Vida)"
                       ]
                     },
                     {
@@ -9539,7 +10245,7 @@
                       "parameters": [
                         "coins",
                         "+",
-                        "RandomInRange(MonstrosGroup1.minimocoin,MonstrosGroup1.limitcoin)"
+                        "RandomInRange(MonstersGroup1.minimocoin, MonstersGroup1.limitcoin)"
                       ]
                     },
                     {
@@ -9547,7 +10253,7 @@
                         "value": "Delete"
                       },
                       "parameters": [
-                        "MonstrosGroup1",
+                        "MonstersGroup1",
                         ""
                       ]
                     },
@@ -9581,7 +10287,7 @@
                         "value": "CollisionNP"
                       },
                       "parameters": [
-                        "MonstrosGroup1",
+                        "MonstersGroup1",
                         "Player",
                         "",
                         "",
@@ -9601,7 +10307,7 @@
                         "value": "ModVarObjet"
                       },
                       "parameters": [
-                        "MonstrosGroup1",
+                        "MonstersGroup1",
                         "Vida",
                         "-",
                         "1"
@@ -9793,7 +10499,6 @@
               "colorG": 160,
               "colorR": 243,
               "creationTime": 0,
-              "folded": true,
               "name": "boss",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -11005,13 +11710,270 @@
       "stopSoundsOnStartup": true,
       "title": "",
       "v": 209,
-      "uiSettings": {},
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.2987985363606903,
+        "windowMask": false
+      },
       "objectsGroups": [],
       "variables": [],
-      "instances": [],
-      "objects": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 3,
+          "height": 1250,
+          "keepRatio": true,
+          "layer": "",
+          "name": "fundo_mercador",
+          "persistentUuid": "10e29d94-9963-4dff-8c6b-bc7378869ffb",
+          "width": 2005,
+          "x": -106,
+          "y": -145,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 4,
+          "height": 929,
+          "keepRatio": true,
+          "layer": "",
+          "name": "vendedor",
+          "persistentUuid": "88be667e-0f35-494d-a1c9-c858c6b4a459",
+          "width": 929,
+          "x": 1192,
+          "y": -133,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 6,
+          "height": 886,
+          "keepRatio": true,
+          "layer": "",
+          "name": "bancada",
+          "persistentUuid": "59ea5602-069a-45c7-849f-2203aff860ab",
+          "width": 790,
+          "x": 118,
+          "y": -40,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "vendedor",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "images-removebg-preview (10).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 100,
+                            "y": 44
+                          },
+                          {
+                            "x": 144,
+                            "y": 44
+                          },
+                          {
+                            "x": 144,
+                            "y": 189
+                          },
+                          {
+                            "x": 100,
+                            "y": 189
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "fundo_mercador",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "tumblr_mk7vq11eBN1qmf2zwo1_640.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 638,
+                            "y": 0
+                          },
+                          {
+                            "x": 638,
+                            "y": 398
+                          },
+                          {
+                            "x": 0,
+                            "y": 398
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "bancada",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "images-removebg-preview (11)",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "images-removebg-preview (11)",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 131,
+                            "y": 1
+                          },
+                          {
+                            "x": 131,
+                            "y": 146
+                          },
+                          {
+                            "x": 1,
+                            "y": 146
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
       "objectsFolderStructure": {
-        "folderName": "__ROOT"
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "objectName": "vendedor"
+          },
+          {
+            "objectName": "fundo_mercador"
+          },
+          {
+            "objectName": "bancada"
+          }
+        ]
       },
       "events": [],
       "layers": [
@@ -12686,64 +13648,6 @@
           "conditions": [
             {
               "type": {
-                "value": "SourisSurObjet"
-              },
-              "parameters": [
-                "selectGroup",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "MouseButtonReleased"
-              },
-              "parameters": [
-                "",
-                "Left"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "ModVarObjetTxt"
-              },
-              "parameters": [
-                "Player",
-                "race",
-                "=",
-                "selectGroup.class"
-              ]
-            },
-            {
-              "type": {
-                "value": "ModVarGlobalTxt"
-              },
-              "parameters": [
-                "class",
-                "=",
-                "selectGroup.class"
-              ]
-            },
-            {
-              "type": {
-                "value": "Scene"
-              },
-              "parameters": [
-                "",
-                "\"saguao\"",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
                 "value": "MouseButtonReleased"
               },
               "parameters": [
@@ -12843,6 +13747,16 @@
                 "arrows",
                 "=",
                 "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"saguao\"",
+                ""
               ]
             }
           ]
@@ -12952,6 +13866,16 @@
                 "=",
                 "0"
               ]
+            },
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"saguao\"",
+                ""
+              ]
             }
           ]
         },
@@ -13059,6 +13983,16 @@
                 "arrows",
                 "=",
                 "50"
+              ]
+            },
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"saguao\"",
+                ""
               ]
             }
           ]
@@ -13168,6 +14102,16 @@
                 "=",
                 "0"
               ]
+            },
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"saguao\"",
+                ""
+              ]
             }
           ]
         }
@@ -13250,6 +14194,504 @@
         {
           "name": "Text",
           "type": "TextContainerCapability::TextContainerBehavior"
+        }
+      ]
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "hospital",
+      "name": "hospital",
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.3300560049165925,
+        "windowMask": false
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 4,
+          "height": 1221,
+          "keepRatio": true,
+          "layer": "",
+          "name": "fundo_hospital",
+          "persistentUuid": "eee7d680-3772-45ae-8d25-1ae6e6ab6601",
+          "width": 1970,
+          "x": -37,
+          "y": -46,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 3,
+          "height": 675,
+          "keepRatio": true,
+          "layer": "",
+          "name": "medico",
+          "persistentUuid": "058859ae-46bb-4ce7-9a7f-6a546bf95e1e",
+          "width": 675,
+          "x": 1032,
+          "y": 392,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 4,
+          "height": 478,
+          "keepRatio": true,
+          "layer": "",
+          "name": "porta_saida",
+          "persistentUuid": "bcd4ae5c-5f74-4384-be9d-fb85bb02cb92",
+          "width": 474,
+          "x": 1487,
+          "y": 563,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 540,
+          "keepRatio": true,
+          "layer": "",
+          "name": "enfermeira",
+          "persistentUuid": "85a4b114-bd3e-4c6b-b919-3f7fad1cafa5",
+          "width": 540,
+          "x": 189,
+          "y": 583,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "fundo_hospital",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "pixel-art-illustration-hospital-background-260nw-2406465739",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "pixel-art-illustration-hospital-background-260nw-2406465739",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 416,
+                            "y": 0
+                          },
+                          {
+                            "x": 416,
+                            "y": 258
+                          },
+                          {
+                            "x": 0,
+                            "y": 258
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "medico",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "images-removebg-preview (7)",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "images-removebg-preview (7)",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 71,
+                            "y": 15
+                          },
+                          {
+                            "x": 155,
+                            "y": 15
+                          },
+                          {
+                            "x": 155,
+                            "y": 209
+                          },
+                          {
+                            "x": 71,
+                            "y": 209
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "porta_saida",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "download-removebg-preview (5)",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "download-removebg-preview (5)3",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 102,
+                            "y": 0
+                          },
+                          {
+                            "x": 102,
+                            "y": 103
+                          },
+                          {
+                            "x": 0,
+                            "y": 103
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "enfermeira",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "images-removebg-preview (9).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 72,
+                            "y": 22
+                          },
+                          {
+                            "x": 153,
+                            "y": 22
+                          },
+                          {
+                            "x": 153,
+                            "y": 203
+                          },
+                          {
+                            "x": 72,
+                            "y": 203
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "objectName": "fundo_hospital"
+          },
+          {
+            "objectName": "medico"
+          },
+          {
+            "objectName": "porta_saida"
+          },
+          {
+            "objectName": "enfermeira"
+          }
+        ]
+      },
+      "events": [
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "quando iniciar a tela",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [],
+          "parameters": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "hp",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "hp",
+                "=",
+                "limithp/2"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "coins",
+                "=",
+                "0"
+              ]
+            }
+          ]
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Light",
+              "doubleParameters": {
+                "elevation": 45,
+                "intensity": 1,
+                "rotation": 0
+              },
+              "stringParameters": {
+                "groundColor": "64;64;64",
+                "skyColor": "255;255;255",
+                "top": "Y-"
+              },
+              "booleanParameters": {}
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Animation",
+          "type": "AnimatableCapability::AnimatableBehavior"
+        },
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Pathfinding",
+          "type": "PathfindingBehavior::PathfindingBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
         }
       ]
     }
@@ -13895,7 +15337,7 @@
               },
               "parameters": [
                 "ataque_mago",
-                "MonstrosGroup1",
+                "MonstersGroup1",
                 "",
                 "",
                 ""
@@ -13908,7 +15350,7 @@
                 "value": "ModVarObjet"
               },
               "parameters": [
-                "MonstrosGroup1",
+                "MonstersGroup1",
                 "Vida",
                 "-",
                 "RandomInRange(0, ataque_mago.dano)"
@@ -14188,7 +15630,7 @@
               },
               "parameters": [
                 "ataque_arqueiro",
-                "MonstrosGroup1",
+                "MonstersGroup1",
                 "",
                 "",
                 ""
@@ -14201,7 +15643,7 @@
                 "value": "ModVarObjet"
               },
               "parameters": [
-                "MonstrosGroup1",
+                "MonstersGroup1",
                 "Vida",
                 "-",
                 "RandomInRange(0,ataque_arqueiro.dano)"
@@ -14267,12 +15709,103 @@
               "conditions": [
                 {
                   "type": {
-                    "value": "KeyReleased"
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "Girando",
+                    "True",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "MettreXY"
+                  },
+                  "parameters": [
+                    "sabre_de_luz_jedi",
+                    "=",
+                    "Player.PointX(\"attack\")",
+                    "=",
+                    "Player.PointY(\"attack\")"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "Girando",
+                    "False",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "MettreXY"
+                  },
+                  "parameters": [
+                    "sabre_de_luz_jedi",
+                    "=",
+                    "Player.PointX(\"attack\")",
+                    "=",
+                    "Player.PointY(\"attack\")"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyPressed"
                   },
                   "parameters": [
                     "",
                     "h"
                   ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Rotate"
+                  },
+                  "parameters": [
+                    "sabre_de_luz_jedi",
+                    "1000",
+                    "MouseY()+200"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "Girando",
+                    "True",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
                 }
               ],
               "actions": [
@@ -14314,23 +15847,126 @@
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyReleased"
+                  },
+                  "parameters": [
+                    "",
+                    "h"
+                  ]
+                }
+              ],
               "actions": [
                 {
                   "type": {
-                    "value": "RotateTowardPosition"
+                    "value": "SetBooleanVariable"
                   },
                   "parameters": [
-                    "sabre_de_luz_jedi",
-                    "MouseX()+200",
-                    "MouseY()+200",
-                    "0",
+                    "Girando",
+                    "False",
                     ""
                   ]
                 }
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "sabre_de_luz_jedi",
+                "MonstersGroup2",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "MonstersGroup2",
+                "Vida",
+                "-",
+                "RandomInRange(0,sabre_de_luz_jedi.dano)"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "sabre_de_luz_jedi",
+                "MonstersGroup1",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "MonstersGroup1",
+                "Vida",
+                "-",
+                "RandomInRange(0,sabre_de_luz_jedi.dano)"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "sabre_de_luz_jedi",
+                "Boss_tema_1",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Boss_tema_1",
+                "Vida",
+                "-",
+                "sabre_de_luz_jedi.dano"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
         }
       ]
     },
@@ -14589,7 +16225,7 @@
               },
               "parameters": [
                 "ataque_ninja",
-                "MonstrosGroup1",
+                "MonstersGroup1",
                 "",
                 "",
                 ""
@@ -14602,7 +16238,7 @@
                 "value": "ModVarObjet"
               },
               "parameters": [
-                "MonstrosGroup1",
+                "MonstersGroup1",
                 "Vida",
                 "-",
                 "RandomInRange(0,ataque_ninja.dano)"
@@ -14731,6 +16367,8 @@
         "q8ubdigLvIRXLxsJDDTaokO41mc2"
       ],
       "dependencies": [],
+      "globalVariables": [],
+      "sceneVariables": [],
       "eventsFunctions": [],
       "eventsBasedBehaviors": [
         {
@@ -17271,6 +18909,8 @@
         "gqDaZjCfevOOxBYkK6zlhtZnXCg1"
       ],
       "dependencies": [],
+      "globalVariables": [],
+      "sceneVariables": [],
       "eventsFunctions": [],
       "eventsBasedBehaviors": [
         {

@@ -1993,10 +1993,301 @@
         "alwaysLoaded": false,
         "file": "assets/images-removebg-preview (11).png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/images-removebg-preview (11).png\"}",
         "name": "images-removebg-preview (11)",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "images/dialogue/dialogue_box.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "images\\dialogue\\dialogue_box.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/images_player_idle_player-idle1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "images\\player\\idle\\player-idle1",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/images-removebg-preview (10).png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "images-removebg-preview (10)",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/fundo-mercador.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/fundo-mercador.png\",\"extension\":\".png\"}",
+        "name": "assets\\fundo-mercador.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/images-removebg-preview (11)2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "images-removebg-preview (11)2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "images/dialogue/name_box.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "images\\dialogue\\name_box.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "images/dialogue/option_box.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "images\\dialogue\\option_box.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/DotGothic16-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "561d75b195f4dfcbdf0c38511984c83680574032d6b8c3c6a436a4fd32094320_DotGothic16-Regular.ttf",
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Open Font License/Japanese/561d75b195f4dfcbdf0c38511984c83680574032d6b8c3c6a436a4fd32094320_DotGothic16-Regular.ttf",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/Graduate-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "6f90be937f63a6c9500df06e4da70fbe27147c38a70222c4d4102d12cee13ac6_Graduate-Regular.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Open Font License/6f90be937f63a6c9500df06e4da70fbe27147c38a70222c4d4102d12cee13ac6_Graduate-Regular.ttf",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "disablePreload": false,
+        "file": "assets/dialogueData.json",
+        "kind": "json",
+        "metadata": "{\"extension\":\".json\"}",
+        "name": "dialogueData",
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "download-removebg-preview (6).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "download-removebg-preview (6).png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "images-removebg-preview (12).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "images-removebg-preview (12).png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "images-removebg-preview (13).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "images-removebg-preview (13).png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "images-removebg-preview (14).png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"images-removebg-preview (14).png\",\"extension\":\".png\"}",
+        "name": "images-removebg-preview (14).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "download-removebg-preview (8).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "download-removebg-preview (8).png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/download-removebg-preview (8).png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "download-removebg-preview (8)",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "images-removebg-preview (16).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "images-removebg-preview (16).png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/images-removebg-preview (16).png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "images-removebg-preview (16)",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/colecao-de-pocoes.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\colecao-de-pocoes.jpg",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_colecao-de-pocoes.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\colecao-de-pocoes",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "download-removebg-preview (6)2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "download-removebg-preview (6)2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../../Downloads/images-removebg-preview (18).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\Downloads\\images-removebg-preview (18).png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/.._.._.._Downloads_images-removebg-preview (18).png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "..\\..\\..\\Downloads\\images-removebg-preview (18)",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "images-removebg-preview (17).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "images-removebg-preview (17).png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "images-removebg-preview (19).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "images-removebg-preview (19).png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/images-removebg-preview (17).png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "images-removebg-preview (17)",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "images-removebg-preview (20).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "images-removebg-preview (20).png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/images-removebg-preview (17)2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "images-removebg-preview (17)2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "download-removebg-preview (11).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "download-removebg-preview (11).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/download-removebg-preview (11).png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/download-removebg-preview (11).png\"}",
+        "name": "download-removebg-preview (11)",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "images-removebg-preview (21).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "images-removebg-preview (21).png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/images-removebg-preview (21).png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "images-removebg-preview (21)",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -3502,7 +3793,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.34118560234734574,
+        "zoomFactor": 0.4753585087126943,
         "windowMask": false
       },
       "objectsGroups": [
@@ -6848,6 +7139,8 @@
           "effects": [],
           "behaviors": [
             {
+              "name": "Pathfinding",
+              "type": "PathfindingBehavior::PathfindingBehavior",
               "acceleration": 400,
               "allowDiagonals": true,
               "angleOffset": 0,
@@ -6858,10 +7151,8 @@
               "gridOffsetX": 0,
               "gridOffsetY": 0,
               "maxSpeed": 200,
-              "name": "Pathfinding",
               "rotateObject": false,
-              "smoothingMaxCellGap": 1,
-              "type": "PathfindingBehavior::PathfindingBehavior"
+              "smoothingMaxCellGap": 1
             }
           ],
           "animations": [
@@ -6879,8 +7170,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 284,
+                        "y": 221
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -6962,6 +7253,8 @@
           "effects": [],
           "behaviors": [
             {
+              "name": "Pathfinding",
+              "type": "PathfindingBehavior::PathfindingBehavior",
               "acceleration": 400,
               "allowDiagonals": true,
               "angleOffset": 0,
@@ -6972,10 +7265,8 @@
               "gridOffsetX": 0,
               "gridOffsetY": 0,
               "maxSpeed": 200,
-              "name": "Pathfinding",
               "rotateObject": false,
-              "smoothingMaxCellGap": 1,
-              "type": "PathfindingBehavior::PathfindingBehavior"
+              "smoothingMaxCellGap": 1
             }
           ],
           "animations": [
@@ -6993,8 +7284,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 149.5,
+                        "y": 83
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -7074,6 +7365,8 @@
           "effects": [],
           "behaviors": [
             {
+              "name": "Pathfinding",
+              "type": "PathfindingBehavior::PathfindingBehavior",
               "acceleration": 400,
               "allowDiagonals": true,
               "angleOffset": 0,
@@ -7084,10 +7377,8 @@
               "gridOffsetX": 0,
               "gridOffsetY": 0,
               "maxSpeed": 200,
-              "name": "Pathfinding",
               "rotateObject": false,
-              "smoothingMaxCellGap": 1,
-              "type": "PathfindingBehavior::PathfindingBehavior"
+              "smoothingMaxCellGap": 1
             }
           ],
           "animations": [
@@ -7105,8 +7396,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 150.5,
+                        "y": 83
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -7188,6 +7479,8 @@
           "effects": [],
           "behaviors": [
             {
+              "name": "Pathfinding",
+              "type": "PathfindingBehavior::PathfindingBehavior",
               "acceleration": 400,
               "allowDiagonals": true,
               "angleOffset": 0,
@@ -7198,10 +7491,8 @@
               "gridOffsetX": 0,
               "gridOffsetY": 0,
               "maxSpeed": 200,
-              "name": "Pathfinding",
               "rotateObject": false,
-              "smoothingMaxCellGap": 1,
-              "type": "PathfindingBehavior::PathfindingBehavior"
+              "smoothingMaxCellGap": 1
             }
           ],
           "animations": [
@@ -7219,8 +7510,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 141,
+                        "y": 89
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -7290,6 +7581,8 @@
           "effects": [],
           "behaviors": [
             {
+              "name": "Pathfinding",
+              "type": "PathfindingBehavior::PathfindingBehavior",
               "acceleration": 400,
               "allowDiagonals": true,
               "angleOffset": 0,
@@ -7300,10 +7593,8 @@
               "gridOffsetX": 0,
               "gridOffsetY": 0,
               "maxSpeed": 200,
-              "name": "Pathfinding",
               "rotateObject": false,
-              "smoothingMaxCellGap": 1,
-              "type": "PathfindingBehavior::PathfindingBehavior"
+              "smoothingMaxCellGap": 1
             }
           ],
           "animations": [
@@ -7322,8 +7613,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 28.5,
+                        "y": 29.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -7739,6 +8030,8 @@
           "effects": [],
           "behaviors": [
             {
+              "name": "Pathfinding",
+              "type": "PathfindingBehavior::PathfindingBehavior",
               "acceleration": 400,
               "allowDiagonals": true,
               "angleOffset": 0,
@@ -7749,10 +8042,8 @@
               "gridOffsetX": 0,
               "gridOffsetY": 0,
               "maxSpeed": 200,
-              "name": "Pathfinding",
               "rotateObject": false,
-              "smoothingMaxCellGap": 1,
-              "type": "PathfindingBehavior::PathfindingBehavior"
+              "smoothingMaxCellGap": 1
             }
           ],
           "animations": [
@@ -7771,8 +8062,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 23.5,
+                        "y": 35
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -7975,6 +8266,8 @@
           "effects": [],
           "behaviors": [
             {
+              "name": "Pathfinding",
+              "type": "PathfindingBehavior::PathfindingBehavior",
               "acceleration": 400,
               "allowDiagonals": true,
               "angleOffset": 0,
@@ -7985,10 +8278,8 @@
               "gridOffsetX": 0,
               "gridOffsetY": 0,
               "maxSpeed": 200,
-              "name": "Pathfinding",
               "rotateObject": false,
-              "smoothingMaxCellGap": 1,
-              "type": "PathfindingBehavior::PathfindingBehavior"
+              "smoothingMaxCellGap": 1
             }
           ],
           "animations": [
@@ -8007,8 +8298,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 109,
+                        "y": 98
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -8089,6 +8380,8 @@
           "effects": [],
           "behaviors": [
             {
+              "name": "Pathfinding",
+              "type": "PathfindingBehavior::PathfindingBehavior",
               "acceleration": 400,
               "allowDiagonals": true,
               "angleOffset": 0,
@@ -8099,10 +8392,8 @@
               "gridOffsetX": 0,
               "gridOffsetY": 0,
               "maxSpeed": 200,
-              "name": "Pathfinding",
               "rotateObject": false,
-              "smoothingMaxCellGap": 1,
-              "type": "PathfindingBehavior::PathfindingBehavior"
+              "smoothingMaxCellGap": 1
             }
           ],
           "animations": [
@@ -8120,8 +8411,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 250.5,
+                        "y": 251.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -8203,6 +8494,8 @@
           "effects": [],
           "behaviors": [
             {
+              "name": "Pathfinding",
+              "type": "PathfindingBehavior::PathfindingBehavior",
               "acceleration": 400,
               "allowDiagonals": true,
               "angleOffset": 0,
@@ -8213,10 +8506,8 @@
               "gridOffsetX": 0,
               "gridOffsetY": 0,
               "maxSpeed": 200,
-              "name": "Pathfinding",
               "rotateObject": false,
-              "smoothingMaxCellGap": 1,
-              "type": "PathfindingBehavior::PathfindingBehavior"
+              "smoothingMaxCellGap": 1
             }
           ],
           "animations": [
@@ -8234,8 +8525,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 113,
+                        "y": 113
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -8317,6 +8608,8 @@
           "effects": [],
           "behaviors": [
             {
+              "name": "Pathfinding",
+              "type": "PathfindingBehavior::PathfindingBehavior",
               "acceleration": 400,
               "allowDiagonals": true,
               "angleOffset": 0,
@@ -8327,10 +8620,8 @@
               "gridOffsetX": 0,
               "gridOffsetY": 0,
               "maxSpeed": 200,
-              "name": "Pathfinding",
               "rotateObject": false,
-              "smoothingMaxCellGap": 1,
-              "type": "PathfindingBehavior::PathfindingBehavior"
+              "smoothingMaxCellGap": 1
             }
           ],
           "animations": [
@@ -8348,8 +8639,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 242,
+                        "y": 260
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -11720,7 +12011,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.2987985363606903,
+        "zoomFactor": 0.41630252177333266,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -11730,12 +12021,12 @@
           "angle": 0,
           "customSize": true,
           "depth": 3,
-          "height": 1250,
+          "height": 1319,
           "keepRatio": true,
           "layer": "",
           "name": "fundo_mercador",
           "persistentUuid": "10e29d94-9963-4dff-8c6b-bc7378869ffb",
-          "width": 2005,
+          "width": 2116,
           "x": -106,
           "y": -145,
           "zOrder": -1,
@@ -11746,16 +12037,32 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 4,
-          "height": 929,
+          "depth": 5,
+          "height": 386,
           "keepRatio": true,
           "layer": "",
-          "name": "vendedor",
-          "persistentUuid": "88be667e-0f35-494d-a1c9-c858c6b4a459",
-          "width": 929,
-          "x": 1192,
-          "y": -133,
-          "zOrder": 0,
+          "name": "bancada",
+          "persistentUuid": "59ea5602-069a-45c7-849f-2203aff860ab",
+          "width": 378,
+          "x": 1500,
+          "y": 293,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "dialogue_box",
+          "persistentUuid": "b0a54ed6-21fb-42de-b221-f9c33609580a",
+          "width": 0,
+          "x": 90,
+          "y": 761,
+          "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -11763,16 +12070,83 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 6,
-          "height": 886,
+          "depth": 19,
+          "height": 301,
           "keepRatio": true,
           "layer": "",
-          "name": "bancada",
-          "persistentUuid": "59ea5602-069a-45c7-849f-2203aff860ab",
-          "width": 790,
-          "x": 118,
-          "y": -40,
-          "zOrder": 1,
+          "name": "player_dialogo",
+          "persistentUuid": "0870da5d-ef73-46ca-a9cb-ae26d5f41b64",
+          "width": 245,
+          "x": 916,
+          "y": 459,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 3,
+          "height": 397,
+          "keepRatio": true,
+          "layer": "",
+          "name": "vendedor",
+          "persistentUuid": "f52e22fa-56fb-44b5-84cb-14c152e51599",
+          "width": 125,
+          "x": 534,
+          "y": 378,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "name_box",
+          "persistentUuid": "39739029-57ae-4361-bf6e-cce68ca8da10",
+          "width": 0,
+          "x": 101,
+          "y": 611,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 37,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Nametxt",
+          "persistentUuid": "826bc98e-0312-48cc-806b-2b6c5492d224",
+          "width": 221,
+          "x": 255,
+          "y": 640,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 308,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Dialoguetxt",
+          "persistentUuid": "e8546d08-c8d6-44a3-832d-bd702061be26",
+          "width": 1727,
+          "x": 109,
+          "y": 778,
+          "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -11790,16 +12164,17 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "",
+              "name": "images-removebg-preview (10)",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "images-removebg-preview (10).png",
+                      "image": "images-removebg-preview (10)",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -11815,20 +12190,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 100,
-                            "y": 44
+                            "x": 1,
+                            "y": 1
                           },
                           {
-                            "x": 144,
-                            "y": 44
+                            "x": 45,
+                            "y": 1
                           },
                           {
-                            "x": 144,
-                            "y": 189
+                            "x": 45,
+                            "y": 146
                           },
                           {
-                            "x": 100,
-                            "y": 189
+                            "x": 1,
+                            "y": 146
                           }
                         ]
                       ]
@@ -11850,16 +12225,17 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "",
+              "name": "tumblr_mk7vq11eBN1qmf2zwo1_640",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "tumblr_mk7vq11eBN1qmf2zwo1_640.png",
+                      "image": "assets\\fundo-mercador.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -11884,11 +12260,11 @@
                           },
                           {
                             "x": 638,
-                            "y": 398
+                            "y": 468
                           },
                           {
                             "x": 0,
-                            "y": 398
+                            "y": 468
                           }
                         ]
                       ]
@@ -11920,7 +12296,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "images-removebg-preview (11)",
+                      "image": "images-removebg-preview (11)2",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -11936,20 +12312,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 1,
-                            "y": 1
+                            "x": 0,
+                            "y": 0
                           },
                           {
-                            "x": 131,
-                            "y": 1
+                            "x": 90,
+                            "y": 0
                           },
                           {
-                            "x": 131,
-                            "y": 146
+                            "x": 90,
+                            "y": 75
                           },
                           {
-                            "x": 1,
-                            "y": 146
+                            "x": 0,
+                            "y": 75
                           }
                         ]
                       ]
@@ -11959,6 +12335,252 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "dialogue_box",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "images\\dialogue\\dialogue_box.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1775,
+                            "y": 0
+                          },
+                          {
+                            "x": 1775,
+                            "y": 345
+                          },
+                          {
+                            "x": 0,
+                            "y": 345
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "player_dialogo",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "images\\player\\idle\\player-idle1",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "images\\player\\idle\\player-idle1",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 13,
+                            "y": 0
+                          },
+                          {
+                            "x": 13,
+                            "y": 16
+                          },
+                          {
+                            "x": 0,
+                            "y": 16
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "name_box",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "images\\dialogue\\name_box.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 425,
+                            "y": 0
+                          },
+                          {
+                            "x": 425,
+                            "y": 105
+                          },
+                          {
+                            "x": 0,
+                            "y": 105
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "option_box",
+          "texture": "images\\dialogue\\option_box.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "name": "Nametxt",
+          "type": "BBText::BBText",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "text": "names",
+            "opacity": 255,
+            "fontSize": 32,
+            "visible": true,
+            "color": "253;253;253",
+            "fontFamily": "561d75b195f4dfcbdf0c38511984c83680574032d6b8c3c6a436a4fd32094320_DotGothic16-Regular.ttf",
+            "align": "left",
+            "wordWrap": true
+          }
+        },
+        {
+          "assetStoreId": "",
+          "name": "Dialoguetxt",
+          "type": "BBText::BBText",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "text": "dialogue",
+            "opacity": 255,
+            "fontSize": 32,
+            "visible": true,
+            "color": "255;255;255",
+            "fontFamily": "6f90be937f63a6c9500df06e4da70fbe27147c38a70222c4d4102d12cee13ac6_Graduate-Regular.ttf",
+            "align": "left",
+            "wordWrap": true
+          }
+        },
+        {
+          "assetStoreId": "",
+          "name": "Optionstxt",
+          "type": "BBText::BBText",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "text": "option1\noption2",
+            "opacity": 255,
+            "fontSize": 32,
+            "visible": true,
+            "color": "255;255;255",
+            "fontFamily": "6f90be937f63a6c9500df06e4da70fbe27147c38a70222c4d4102d12cee13ac6_Graduate-Regular.ttf",
+            "align": "left",
+            "wordWrap": true
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -11972,10 +12594,183 @@
           },
           {
             "objectName": "bancada"
+          },
+          {
+            "objectName": "dialogue_box"
+          },
+          {
+            "objectName": "player_dialogo"
+          },
+          {
+            "objectName": "name_box"
+          },
+          {
+            "objectName": "option_box"
+          },
+          {
+            "objectName": "Nametxt"
+          },
+          {
+            "objectName": "Dialoguetxt"
+          },
+          {
+            "objectName": "Optionstxt"
           }
         ]
       },
-      "events": [],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "DialogueTree::LoadDialogueFromJsonFile"
+              },
+              "parameters": [
+                "",
+                "dialogueData"
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"typewriter\""
+              ]
+            },
+            {
+              "type": {
+                "value": "DialogueTree::StartDialogueFromBranch"
+              },
+              "parameters": [
+                "\"begin\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DialogueTree::IsDialogueLineType"
+              },
+              "parameters": [
+                "\"text\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "BBText::SetBBText"
+              },
+              "parameters": [
+                "Dialoguetxt",
+                "=",
+                "DialogueTree::ClippedLineText()"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CompareTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"typewriter\"",
+                    ">=",
+                    "0.1"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "DialogueTree::ScrollClippedText"
+                  },
+                  "parameters": []
+                },
+                {
+                  "type": {
+                    "value": "ResetTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"typewriter\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "MouseButtonReleased"
+                  },
+                  "parameters": [
+                    "",
+                    "Left"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "DialogueTree::HasClippedTextScrollingCompleted"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "DialogueTree::GoToNextLine"
+                  },
+                  "parameters": []
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "MouseButtonReleased"
+                  },
+                  "parameters": [
+                    "",
+                    "Right"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "DialogueTree::CompleteClippedTextScrolling"
+                  },
+                  "parameters": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
       "layers": [
         {
           "ambientLightColorB": 200,
@@ -14614,10 +15409,891 @@
                 "=",
                 "0"
               ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"saguao\"",
+                ""
+              ]
             }
           ]
         }
       ],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Light",
+              "doubleParameters": {
+                "elevation": 45,
+                "intensity": 1,
+                "rotation": 0
+              },
+              "stringParameters": {
+                "groundColor": "64;64;64",
+                "skyColor": "255;255;255",
+                "top": "Y-"
+              },
+              "booleanParameters": {}
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Animation",
+          "type": "AnimatableCapability::AnimatableBehavior"
+        },
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Pathfinding",
+          "type": "PathfindingBehavior::PathfindingBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
+        }
+      ]
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "itens",
+      "name": "itens",
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.3645833333333333,
+        "windowMask": false
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [],
+      "objects": [
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "item_casco",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "download-removebg-preview (6).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 61,
+                            "y": 93
+                          },
+                          {
+                            "x": 174,
+                            "y": 93
+                          },
+                          {
+                            "x": 174,
+                            "y": 168
+                          },
+                          {
+                            "x": 61,
+                            "y": 168
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "item_planta",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "images-removebg-preview (12).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 60,
+                            "y": 25
+                          },
+                          {
+                            "x": 166,
+                            "y": 25
+                          },
+                          {
+                            "x": 166,
+                            "y": 200
+                          },
+                          {
+                            "x": 60,
+                            "y": 200
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "item_ferro",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "images-removebg-preview (13)",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "images-removebg-preview (14).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 35,
+                            "y": 77
+                          },
+                          {
+                            "x": 190,
+                            "y": 77
+                          },
+                          {
+                            "x": 190,
+                            "y": 176
+                          },
+                          {
+                            "x": 35,
+                            "y": 176
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "item_madeira",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "download-removebg-preview (8)",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "download-removebg-preview (8)",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 1
+                          },
+                          {
+                            "x": 102,
+                            "y": 1
+                          },
+                          {
+                            "x": 102,
+                            "y": 31
+                          },
+                          {
+                            "x": 0,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "item_cristal",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "images-removebg-preview (16)",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "images-removebg-preview (16)",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 33,
+                            "y": 0
+                          },
+                          {
+                            "x": 33,
+                            "y": 65
+                          },
+                          {
+                            "x": 1,
+                            "y": 65
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "objectName": "item_casco"
+          },
+          {
+            "objectName": "item_planta"
+          },
+          {
+            "objectName": "item_ferro"
+          },
+          {
+            "objectName": "item_madeira"
+          },
+          {
+            "objectName": "item_cristal"
+          }
+        ]
+      },
+      "events": [],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Light",
+              "doubleParameters": {
+                "elevation": 45,
+                "intensity": 1,
+                "rotation": 0
+              },
+              "stringParameters": {
+                "groundColor": "64;64;64",
+                "skyColor": "255;255;255",
+                "top": "Y-"
+              },
+              "booleanParameters": {}
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Animation",
+          "type": "AnimatableCapability::AnimatableBehavior"
+        },
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Pathfinding",
+          "type": "PathfindingBehavior::PathfindingBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
+        }
+      ]
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "pocoes",
+      "name": "pocoes",
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.3645833333333333,
+        "windowMask": false
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "pocao_de_forca",
+          "persistentUuid": "17c1a41d-4812-40b4-b8f6-e29f69c5b718",
+          "width": 0,
+          "x": 924,
+          "y": 632,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "pocao_de_cura",
+          "persistentUuid": "90dfddbf-ca60-4ed0-a7a0-98a0712f6484",
+          "width": 0,
+          "x": 1157,
+          "y": 676,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 4,
+          "height": 345,
+          "keepRatio": true,
+          "layer": "",
+          "name": "pocao_de_velocidade",
+          "persistentUuid": "cd003355-f9c9-4858-b864-29993c870c32",
+          "width": 256,
+          "x": 1339,
+          "y": 577,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 5,
+          "height": 494,
+          "keepRatio": true,
+          "layer": "",
+          "name": "pocao_de_mana",
+          "persistentUuid": "8ac642dc-bd06-4acc-8574-3cfa84526dda",
+          "width": 347,
+          "x": 482,
+          "y": 538,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "pocao_de_forca",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "..\\..\\..\\Downloads\\images-removebg-preview (18)",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\..\\..\\Downloads\\images-removebg-preview (18)",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 151,
+                            "y": 1
+                          },
+                          {
+                            "x": 151,
+                            "y": 208
+                          },
+                          {
+                            "x": 1,
+                            "y": 208
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "pocao_de_cura",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "images-removebg-preview (17)",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "images-removebg-preview (17)2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 111,
+                            "y": 0
+                          },
+                          {
+                            "x": 111,
+                            "y": 171
+                          },
+                          {
+                            "x": 0,
+                            "y": 171
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "pocao_de_velocidade",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "download-removebg-preview (11)",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "download-removebg-preview (11)",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 72,
+                            "y": 0
+                          },
+                          {
+                            "x": 72,
+                            "y": 97
+                          },
+                          {
+                            "x": 0,
+                            "y": 97
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "pocao_de_mana",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "images-removebg-preview (21)",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "images-removebg-preview (21)",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 66,
+                            "y": 0
+                          },
+                          {
+                            "x": 66,
+                            "y": 94
+                          },
+                          {
+                            "x": 0,
+                            "y": 94
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "objectName": "pocao_de_forca"
+          },
+          {
+            "objectName": "pocao_de_cura"
+          },
+          {
+            "objectName": "pocao_de_velocidade"
+          },
+          {
+            "objectName": "pocao_de_mana"
+          }
+        ]
+      },
+      "events": [],
       "layers": [
         {
           "ambientLightColorB": 200,
@@ -16331,6 +18007,925 @@
     }
   ],
   "eventsFunctionsExtensions": [
+    {
+      "author": "",
+      "category": "User interface",
+      "extensionNamespace": "",
+      "fullName": "Dialog Box",
+      "helpPath": "https://github.com/PANDAKO-GitHub/DialogBoxExtension",
+      "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyMy4wLjMsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iSWNvbnMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4Ig0KCSB2aWV3Qm94PSIwIDAgMzIgMzIiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDMyIDMyOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPg0KCS5zdDB7ZmlsbDpub25lO3N0cm9rZTojMDAwMDAwO3N0cm9rZS13aWR0aDoyO3N0cm9rZS1saW5lY2FwOnJvdW5kO3N0cm9rZS1saW5lam9pbjpyb3VuZDtzdHJva2UtbWl0ZXJsaW1pdDoxMDt9DQo8L3N0eWxlPg0KPGxpbmUgY2xhc3M9InN0MCIgeDE9IjEyIiB5MT0iMTQiIHgyPSIxMiIgeTI9IjE0Ii8+DQo8bGluZSBjbGFzcz0ic3QwIiB4MT0iMTYiIHkxPSIxNCIgeDI9IjE2IiB5Mj0iMTQiLz4NCjxsaW5lIGNsYXNzPSJzdDAiIHgxPSIyMCIgeTE9IjE0IiB4Mj0iMjAiIHkyPSIxNCIvPg0KPHBhdGggY2xhc3M9InN0MCIgZD0iTTExLDRjLTQuNCwwLTgsMy42LTgsOHYxMnY1bDAsMGMzLjctMy4yLDguNC01LDEzLjMtNUgyMWM0LjQsMCw4LTMuNiw4LTh2LTRjMC00LjQtMy42LTgtOC04SDExeiIvPg0KPC9zdmc+DQo=",
+      "name": "DialogBox",
+      "previewIconUrl": "https://resources.gdevelop-app.com/assets/Icons/Line Hero Pack/Master/SVG/UI Essentials/UI Essentials_chat_message_sms.svg",
+      "shortDescription": "This extension adds Dialog Box functionality that can be used for RPGs, visual novels, and more.",
+      "version": "1.0.0",
+      "description": [
+        "## Summary",
+        "This extension adds Dialog Box functionality that can be used for RPGs, visual novels, and more.",
+        "",
+        "## How to use:",
+        "1. You will need a background **sprite**, a character **sprite**, a **BBText** to display the name, a **BBText** to display the text, and a **sprite** for the icon to prompt the player for action.",
+        "1. Add the \"Dialog Box\" behavior to the background object.",
+        "1. Place each object in the scene.",
+        "1. Execute the \"Setup Dialog Box\" action only once in the event.",
+        "1. After that, execute the \"Open Dialog Box\" action, \"Close Dialog Box\" action, etc.",
+        "",
+        "## This extension add:",
+        "**Dialog Box** - behavior",
+        "**Setup Dialog Box** - action",
+        "**Open Dialog Box** - action",
+        "**Close Dialog Box** - action",
+        "**Change Dialog Box Text** - action",
+        "**Change Dialog Box contents** - action",
+        "**Change Dialog Box typing sound** - action",
+        "**Change Dialog Box typing interval** - action",
+        "**Skip Dialog Box typing** - action",
+        "**Dialog Box is open** - condition",
+        "**Dialog Box is typing** - condition",
+        "**Dialog Box is close** - condition",
+        "**Number of times the Text in Dialog Box has changed** - condition",
+        "**Number of times the Text in Dialog Box has changed** - expression",
+        "",
+        "## Tips",
+        "This Dialog Box has a useful counter function.",
+        "It is zero when the dialog box is opened, and increases by one each time the text changes.",
+        "(However, it will not increase until the frame advances).",
+        "This feature is useful for keeping track of the progress of a conversation.",
+        "",
+        "## Note",
+        "In typing, style tags in BBText OBjects are also counted as characters.",
+        ""
+      ],
+      "origin": {
+        "identifier": "DialogBox",
+        "name": "gdevelop-extension-store"
+      },
+      "tags": [
+        "dialog"
+      ],
+      "authorIds": [
+        "Zu55H5hcb9YmZTltIVOTAFDJQyB2"
+      ],
+      "dependencies": [],
+      "globalVariables": [],
+      "sceneVariables": [],
+      "eventsFunctions": [],
+      "eventsBasedBehaviors": [
+        {
+          "description": "This extension adds the functionality of a dialog box to your game.\nAdd this to the sprite object that will be the background of the dialog box.",
+          "fullName": "Dialog Box",
+          "name": "DialogBoxBackGround",
+          "objectType": "Sprite",
+          "eventsFunctions": [
+            {
+              "description": "Setup the Dialog Box.",
+              "fullName": "Setup Dialog Box",
+              "functionType": "Action",
+              "name": "Setup",
+              "sentence": "Setup the Dialog Box _PARAM0_ with _PARAM2_ , _PARAM3_ , _PARAM4_ and _PARAM5_",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ModVarObjetTxt"
+                      },
+                      "parameters": [
+                        "Object",
+                        "_DialogBoxBackGround.Se",
+                        "=",
+                        "Object.Behavior::PropertySe()"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ModVarObjet"
+                      },
+                      "parameters": [
+                        "Object",
+                        "_DialogBoxBackGround.Interval",
+                        "=",
+                        "Object.Behavior::PropertyInterval()"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ModVarObjet"
+                      },
+                      "parameters": [
+                        "Object",
+                        "_DialogBoxBackGround.Duration",
+                        "=",
+                        "Object.Behavior::PropertyDuration()"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": [
+                    "let dbbg = objects[0]._DialogBoxBackGround = {};",
+                    "dbbg.Bg = {name:objects[0].name, id:objects[0].id};",
+                    "dbbg.Name = {name:eventsFunctionContext.getObjects(\"Name\")[0].name, id:eventsFunctionContext.getObjects(\"Name\")[0].id};",
+                    "dbbg.Text = {name:eventsFunctionContext.getObjects(\"Text\")[0].name, id:eventsFunctionContext.getObjects(\"Text\")[0].id};",
+                    "dbbg.Img = {name:eventsFunctionContext.getObjects(\"Img\")[0].name, id:eventsFunctionContext.getObjects(\"Img\")[0].id};",
+                    "dbbg.Arrow = {name:eventsFunctionContext.getObjects(\"Arrow\")[0].name, id:eventsFunctionContext.getObjects(\"Arrow\")[0].id};",
+                    "dbbg.SeName = objects[0].getVariables().get(\"_DialogBoxBackGround\").getChild(\"Se\").getAsString();",
+                    "dbbg.Interval = objects[0].getVariables().get(\"_DialogBoxBackGround\").getChild(\"Interval\").getAsNumber();",
+                    "dbbg.Duration = objects[0].getVariables().get(\"_DialogBoxBackGround\").getChild(\"Duration\").getAsNumber();",
+                    "dbbg.State = \"Close\";",
+                    "dbbg.Width = objects[0].getWidth();",
+                    "dbbg.Height = objects[0].getHeight();",
+                    "dbbg.TextBuffer = \"\";",
+                    "dbbg.Cnt = 0;",
+                    "dbbg.CntFlag = false;",
+                    "",
+                    "if (dbbg.SeName != \"\") {",
+                    "    //runtimeScene.getSoundManager().loadAudio(dbbg.SeName, false);",
+                    "    dbbg.Se = runtimeScene.getSoundManager().createHowlerSound(dbbg.SeName, false, 1, false, 1);",
+                    "}",
+                    "",
+                    "objects[0].hide(true);",
+                    "eventsFunctionContext.getObjects(\"Name\")[0].hide(true);",
+                    "eventsFunctionContext.getObjects(\"Text\")[0].hide(true);",
+                    "eventsFunctionContext.getObjects(\"Img\")[0].hide(true);",
+                    "eventsFunctionContext.getObjects(\"Arrow\")[0].hide(true);",
+                    "objects[0].pauseTimer(\"_DialogBoxBackGroundInterval\");",
+                    ""
+                  ],
+                  "parameterObjects": "Object",
+                  "useStrict": true,
+                  "eventsSheetExpanded": true
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "supplementaryInformation": "Sprite",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "DialogBox::DialogBoxBackGround",
+                  "type": "behavior"
+                },
+                {
+                  "description": "Name (BB Text)",
+                  "name": "Name",
+                  "supplementaryInformation": "BBText::BBText",
+                  "type": "objectList"
+                },
+                {
+                  "description": "Image (Sprite)",
+                  "name": "Img",
+                  "supplementaryInformation": "Sprite",
+                  "type": "objectList"
+                },
+                {
+                  "description": "Text (BB Text)",
+                  "name": "Text",
+                  "supplementaryInformation": "BBText::BBText",
+                  "type": "objectList"
+                },
+                {
+                  "description": "Arrow (Sprite)",
+                  "name": "Arrow",
+                  "supplementaryInformation": "Sprite",
+                  "type": "objectList"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "fullName": "",
+              "functionType": "Action",
+              "name": "doStepPreEvents",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": [
+                    "let dbbg = eventsFunctionContext.getObjects(\"Object\")[0]._DialogBoxBackGround;\r",
+                    "if (!dbbg) {return}\r",
+                    "const BgIndex = runtimeScene.getObjects(dbbg.Bg.name).findIndex(v => v.id === dbbg.Bg.id);\r",
+                    "const NameIndex = runtimeScene.getObjects(dbbg.Name.name).findIndex(v => v.id === dbbg.Name.id);\r",
+                    "const TextIndex = runtimeScene.getObjects(dbbg.Text.name).findIndex(v => v.id === dbbg.Text.id);\r",
+                    "const ImgIndex = runtimeScene.getObjects(dbbg.Img.name).findIndex(v => v.id === dbbg.Img.id);\r",
+                    "const ArrowIndex = runtimeScene.getObjects(dbbg.Arrow.name).findIndex(v => v.id === dbbg.Arrow.id);\r",
+                    "if (BgIndex === -1) {console.warn(\"Background not found.\");return;}\r",
+                    "if (NameIndex === -1) {console.warn(\"Name not found.\");return;}\r",
+                    "if (TextIndex === -1) {console.warn(\"Text not found.\");return;}\r",
+                    "if (ImgIndex === -1) {console.warn(\"Image not found.\");return;}\r",
+                    "if (ArrowIndex === -1) {console.warn(\"Arrow not found.\");return;}\r",
+                    "const Bg = runtimeScene.getObjects(dbbg.Bg.name)[BgIndex];\r",
+                    "const Name = runtimeScene.getObjects(dbbg.Name.name)[NameIndex];\r",
+                    "const Text = runtimeScene.getObjects(dbbg.Text.name)[TextIndex];\r",
+                    "const Img = runtimeScene.getObjects(dbbg.Img.name)[ImgIndex];\r",
+                    "const Arrow = runtimeScene.getObjects(dbbg.Arrow.name)[ArrowIndex];\r",
+                    "\r",
+                    "if (Bg.getBehavior(\"Tween\").hasFinished(\"_DialogBoxBackGround.OpeningWidth\")) {\r",
+                    "    Name.hide(false);\r",
+                    "    Text.hide(false);\r",
+                    "    Img.hide(false);\r",
+                    "    dbbg.State = \"Typing\";\r",
+                    "    Bg.resetTimer(\"_DialogBoxBackGroundInterval\");\r",
+                    "    Bg.unpauseTimer(\"_DialogBoxBackGroundInterval\");\r",
+                    "    Bg.getBehavior(\"Tween\").removeTween(\"_DialogBoxBackGround.OpeningWidth\");\r",
+                    "    Bg.getBehavior(\"Tween\").removeTween(\"_DialogBoxBackGround.OpeningHeight\");\r",
+                    "    Bg.getBehavior(\"Tween\").removeTween(\"_DialogBoxBackGround.OpeningOpacity\");\r",
+                    "}\r",
+                    "if (Bg.getBehavior(\"Tween\").hasFinished(\"_DialogBoxBackGround.ClosingWidth\")) {\r",
+                    "    Bg.hide(true);\r",
+                    "    dbbg.State = \"Close\";\r",
+                    "    Bg.getBehavior(\"Tween\").removeTween(\"_DialogBoxBackGround.ClosingWidth\");\r",
+                    "    Bg.getBehavior(\"Tween\").removeTween(\"_DialogBoxBackGround.ClosingHeight\");\r",
+                    "    Bg.getBehavior(\"Tween\").removeTween(\"_DialogBoxBackGround.ClosingOpacity\");\r",
+                    "}\r",
+                    "\r",
+                    "if (dbbg.State == \"Typing\") {\r",
+                    "    if (Bg.timerElapsedTime(\"_DialogBoxBackGroundInterval\", dbbg.Interval)){\r",
+                    "        Text.setBBText(dbbg.TextBuffer.substring(0, Text.getBBText().length + 1));\r",
+                    "        Bg.resetTimer(\"_DialogBoxBackGroundInterval\");\r",
+                    "        if (dbbg.Se) {\r",
+                    "            dbbg.Se.play();\r",
+                    "        }\r",
+                    "        if (dbbg.TextBuffer.length <= Text.getBBText().length) {\r",
+                    "            Bg.pauseTimer(\"_DialogBoxBackGroundInterval\");\r",
+                    "            Arrow.hide(false);\r",
+                    "            dbbg.State = \"Open\";\r",
+                    "        }\r",
+                    "    }\r",
+                    "}\r",
+                    "\r",
+                    "if (dbbg.CntFlag) {\r",
+                    "    dbbg.Cnt++;\r",
+                    "    dbbg.CntFlag = false;\r",
+                    "}"
+                  ],
+                  "parameterObjects": "",
+                  "useStrict": true,
+                  "eventsSheetExpanded": true
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "supplementaryInformation": "Sprite",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "DialogBox::DialogBoxBackGround",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Open the Dialog Box.",
+              "fullName": "Open Dialog Box",
+              "functionType": "Action",
+              "name": "Open",
+              "sentence": "Open the Dialog Box _PARAM0_ with _PARAM2_ , _PARAM3_ and _PARAM4_",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": [
+                    "let dbbg = eventsFunctionContext.getObjects(\"Object\")[0]._DialogBoxBackGround;",
+                    "if (!dbbg) {console.warn(\"Must be setup first.\");return;}",
+                    "if (dbbg.State != \"Close\") {return}",
+                    "const BgIndex = runtimeScene.getObjects(dbbg.Bg.name).findIndex(v => v.id === dbbg.Bg.id);",
+                    "const NameIndex = runtimeScene.getObjects(dbbg.Name.name).findIndex(v => v.id === dbbg.Name.id);",
+                    "const TextIndex = runtimeScene.getObjects(dbbg.Text.name).findIndex(v => v.id === dbbg.Text.id);",
+                    "const ImgIndex = runtimeScene.getObjects(dbbg.Img.name).findIndex(v => v.id === dbbg.Img.id);",
+                    "const ArrowIndex = runtimeScene.getObjects(dbbg.Arrow.name).findIndex(v => v.id === dbbg.Arrow.id);",
+                    "if (BgIndex === -1) {console.warn(\"Background not found.\");return;}",
+                    "if (NameIndex === -1) {console.warn(\"Name not found.\");return;}",
+                    "if (TextIndex === -1) {console.warn(\"Text not found.\");return;}",
+                    "if (ImgIndex === -1) {console.warn(\"Image not found.\");return;}",
+                    "if (ArrowIndex === -1) {console.warn(\"Arrow not found.\");return;}",
+                    "const Bg = runtimeScene.getObjects(dbbg.Bg.name)[BgIndex];",
+                    "const Name = runtimeScene.getObjects(dbbg.Name.name)[NameIndex];",
+                    "const Text = runtimeScene.getObjects(dbbg.Text.name)[TextIndex];",
+                    "const Img = runtimeScene.getObjects(dbbg.Img.name)[ImgIndex];",
+                    "const Arrow = runtimeScene.getObjects(dbbg.Arrow.name)[ArrowIndex];",
+                    "",
+                    "Name.setBBText(eventsFunctionContext.getArgument(\"Name\"));",
+                    "Text.setBBText(\"\");",
+                    "Img.setAnimationName(eventsFunctionContext.getArgument(\"Img\"));",
+                    "dbbg.TextBuffer = eventsFunctionContext.getArgument(\"Text\");",
+                    "",
+                    "Bg.hide(false);",
+                    "",
+                    "Bg.setWidth(1);",
+                    "Bg.setHeight(1);",
+                    "Bg.setOpacity(0);",
+                    "Bg.getBehavior(\"Tween\").addObjectWidthTween(\"_DialogBoxBackGround.OpeningWidth\", dbbg.Width, \"easeOutCubic\", dbbg.Duration, false);",
+                    "Bg.getBehavior(\"Tween\").addObjectHeightTween(\"_DialogBoxBackGround.OpeningHeight\", dbbg.Height, \"easeOutCubic\", dbbg.Duration, false);",
+                    "Bg.getBehavior(\"Tween\").addObjectOpacityTween(\"_DialogBoxBackGround.OpeningOpacity\", 255, \"linear\", dbbg.Duration, false);",
+                    "dbbg.State = \"Opening\";",
+                    "dbbg.Cnt = 0;",
+                    "dbbg.CntFlag = false;"
+                  ],
+                  "parameterObjects": "",
+                  "useStrict": true,
+                  "eventsSheetExpanded": true
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "supplementaryInformation": "Sprite",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "DialogBox::DialogBoxBackGround",
+                  "type": "behavior"
+                },
+                {
+                  "description": "Name",
+                  "name": "Name",
+                  "type": "string"
+                },
+                {
+                  "description": "Image animation name",
+                  "name": "Img",
+                  "type": "objectAnimationName"
+                },
+                {
+                  "description": "Text",
+                  "name": "Text",
+                  "type": "string"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Close the Dialog Box.",
+              "fullName": "Close Dialog Box",
+              "functionType": "Action",
+              "name": "Close",
+              "sentence": "Close the Dialog Box _PARAM0_",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": [
+                    "let dbbg = eventsFunctionContext.getObjects(\"Object\")[0]._DialogBoxBackGround;",
+                    "if (!dbbg) {console.warn(\"Must be setup first.\");return;}",
+                    "if (dbbg.State != \"Open\") {return}",
+                    "const BgIndex = runtimeScene.getObjects(dbbg.Bg.name).findIndex(v => v.id === dbbg.Bg.id);",
+                    "const NameIndex = runtimeScene.getObjects(dbbg.Name.name).findIndex(v => v.id === dbbg.Name.id);",
+                    "const TextIndex = runtimeScene.getObjects(dbbg.Text.name).findIndex(v => v.id === dbbg.Text.id);",
+                    "const ImgIndex = runtimeScene.getObjects(dbbg.Img.name).findIndex(v => v.id === dbbg.Img.id);",
+                    "const ArrowIndex = runtimeScene.getObjects(dbbg.Arrow.name).findIndex(v => v.id === dbbg.Arrow.id);",
+                    "if (BgIndex === -1) {console.warn(\"Background not found.\");return;}",
+                    "if (NameIndex === -1) {console.warn(\"Name not found.\");return;}",
+                    "if (TextIndex === -1) {console.warn(\"Text not found.\");return;}",
+                    "if (ImgIndex === -1) {console.warn(\"Image not found.\");return;}",
+                    "if (ArrowIndex === -1) {console.warn(\"Arrow not found.\");return;}",
+                    "const Bg = runtimeScene.getObjects(dbbg.Bg.name)[BgIndex];",
+                    "const Name = runtimeScene.getObjects(dbbg.Name.name)[NameIndex];",
+                    "const Text = runtimeScene.getObjects(dbbg.Text.name)[TextIndex];",
+                    "const Img = runtimeScene.getObjects(dbbg.Img.name)[ImgIndex];",
+                    "const Arrow = runtimeScene.getObjects(dbbg.Arrow.name)[ArrowIndex];",
+                    "",
+                    "Name.hide(true);",
+                    "Text.hide(true);",
+                    "Img.hide(true);",
+                    "Arrow.hide(true);",
+                    "",
+                    "Bg.getBehavior(\"Tween\").addObjectWidthTween(\"_DialogBoxBackGround.ClosingWidth\", 1, \"easeInCubic\", dbbg.Duration, false);",
+                    "Bg.getBehavior(\"Tween\").addObjectHeightTween(\"_DialogBoxBackGround.ClosingHeight\", 1, \"easeInCubic\", dbbg.Duration, false);",
+                    "Bg.getBehavior(\"Tween\").addObjectOpacityTween(\"_DialogBoxBackGround.ClosingOpacity\", 0, \"linear\", dbbg.Duration, false);",
+                    "dbbg.State = \"Closing\";"
+                  ],
+                  "parameterObjects": "",
+                  "useStrict": true,
+                  "eventsSheetExpanded": true
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "supplementaryInformation": "Sprite",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "DialogBox::DialogBoxBackGround",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Change the Dialog Box Text.",
+              "fullName": "Change Dialog Box Text",
+              "functionType": "Action",
+              "name": "ChangeText",
+              "sentence": "Change the Text in the Dialog Box _PARAM0_ to _PARAM2_",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": [
+                    "let dbbg = eventsFunctionContext.getObjects(\"Object\")[0]._DialogBoxBackGround;",
+                    "if (!dbbg) {console.warn(\"Must be setup first.\");return;}",
+                    "if (dbbg.State != \"Open\") {return}",
+                    "const BgIndex = runtimeScene.getObjects(dbbg.Bg.name).findIndex(v => v.id === dbbg.Bg.id);",
+                    "const TextIndex = runtimeScene.getObjects(dbbg.Text.name).findIndex(v => v.id === dbbg.Text.id);",
+                    "if (BgIndex === -1) {console.warn(\"Background not found.\");return;}",
+                    "if (TextIndex === -1) {console.warn(\"Text not found.\");return;}",
+                    "const Bg = runtimeScene.getObjects(dbbg.Bg.name)[BgIndex];",
+                    "const Text = runtimeScene.getObjects(dbbg.Text.name)[TextIndex];",
+                    "",
+                    "const ArrowIndex = runtimeScene.getObjects(dbbg.Arrow.name).findIndex(v => v.id === dbbg.Arrow.id);",
+                    "if (ArrowIndex === -1) {console.warn(\"Arrow not found.\");return;}",
+                    "const Arrow = runtimeScene.getObjects(dbbg.Arrow.name)[ArrowIndex];",
+                    "Arrow.hide(true);",
+                    "",
+                    "Text.setBBText(\"\");",
+                    "dbbg.TextBuffer = eventsFunctionContext.getArgument(\"Text\");",
+                    "dbbg.State = \"Typing\";",
+                    "Bg.resetTimer(\"_DialogBoxBackGroundInterval\");",
+                    "Bg.unpauseTimer(\"_DialogBoxBackGroundInterval\");",
+                    "dbbg.CntFlag = true;"
+                  ],
+                  "parameterObjects": "",
+                  "useStrict": true,
+                  "eventsSheetExpanded": true
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "supplementaryInformation": "Sprite",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "DialogBox::DialogBoxBackGround",
+                  "type": "behavior"
+                },
+                {
+                  "description": "Text",
+                  "name": "Text",
+                  "type": "string"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Change the Name, Image, and Text in the Dialog Box.",
+              "fullName": "Change Dialog Box contents",
+              "functionType": "Action",
+              "name": "ChangeNameImageText",
+              "sentence": "Change the contents in the Dialog Box _PARAM0_ to _PARAM2_ , _PARAM3_ and _PARAM4_",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": [
+                    "let dbbg = eventsFunctionContext.getObjects(\"Object\")[0]._DialogBoxBackGround;",
+                    "if (!dbbg) {console.warn(\"Must be setup first.\");return;}",
+                    "if (dbbg.State != \"Open\") {return}",
+                    "const BgIndex = runtimeScene.getObjects(dbbg.Bg.name).findIndex(v => v.id === dbbg.Bg.id);",
+                    "const NameIndex = runtimeScene.getObjects(dbbg.Name.name).findIndex(v => v.id === dbbg.Name.id);",
+                    "const TextIndex = runtimeScene.getObjects(dbbg.Text.name).findIndex(v => v.id === dbbg.Text.id);",
+                    "const ImgIndex = runtimeScene.getObjects(dbbg.Img.name).findIndex(v => v.id === dbbg.Img.id);",
+                    "if (BgIndex === -1) {console.warn(\"Background not found.\");return;}",
+                    "if (NameIndex === -1) {console.warn(\"Name not found.\");return;}",
+                    "if (TextIndex === -1) {console.warn(\"Text not found.\");return;}",
+                    "if (ImgIndex === -1) {console.warn(\"Image not found.\");return;}",
+                    "const Bg = runtimeScene.getObjects(dbbg.Bg.name)[BgIndex];",
+                    "const Name = runtimeScene.getObjects(dbbg.Name.name)[NameIndex];",
+                    "const Text = runtimeScene.getObjects(dbbg.Text.name)[TextIndex];",
+                    "const Img = runtimeScene.getObjects(dbbg.Img.name)[ImgIndex];",
+                    "",
+                    "const ArrowIndex = runtimeScene.getObjects(dbbg.Arrow.name).findIndex(v => v.id === dbbg.Arrow.id);",
+                    "if (ArrowIndex === -1) {console.warn(\"Arrow not found.\");return;}",
+                    "const Arrow = runtimeScene.getObjects(dbbg.Arrow.name)[ArrowIndex];",
+                    "Arrow.hide(true);",
+                    "",
+                    "Name.setBBText(eventsFunctionContext.getArgument(\"Name\"));",
+                    "Text.setBBText(\"\");",
+                    "Img.setAnimationName(eventsFunctionContext.getArgument(\"Img\"));",
+                    "dbbg.TextBuffer = eventsFunctionContext.getArgument(\"Text\");",
+                    "dbbg.State = \"Typing\";",
+                    "Bg.resetTimer(\"_DialogBoxBackGroundInterval\");",
+                    "Bg.unpauseTimer(\"_DialogBoxBackGroundInterval\");",
+                    "dbbg.CntFlag = true;"
+                  ],
+                  "parameterObjects": "",
+                  "useStrict": true,
+                  "eventsSheetExpanded": true
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "supplementaryInformation": "Sprite",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "DialogBox::DialogBoxBackGround",
+                  "type": "behavior"
+                },
+                {
+                  "description": "Name",
+                  "name": "Name",
+                  "type": "string"
+                },
+                {
+                  "description": "Image animation name",
+                  "name": "Img",
+                  "type": "objectAnimationName"
+                },
+                {
+                  "description": "Text",
+                  "name": "Text",
+                  "type": "string"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Changes the typing sound effect of the Dialog Box (File name) (The audio file must be registered as a resource!).",
+              "fullName": "Change Dialog Box typing sound",
+              "functionType": "Action",
+              "name": "ChangeTypingSound",
+              "sentence": "Change the typing sound effect of the Dialog Box _PARAM0_ to _PARAM2_",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": [
+                    "let dbbg = eventsFunctionContext.getObjects(\"Object\")[0]._DialogBoxBackGround;",
+                    "if (!dbbg) {console.warn(\"Must be setup first.\");return;}",
+                    "//runtimeScene.getSoundManager().unloadAudio()",
+                    "dbbg.Se = undefined;",
+                    "if (eventsFunctionContext.getArgument(\"Se\") != \"\") {",
+                    "    dbbg.Se = runtimeScene.getSoundManager().createHowlerSound(eventsFunctionContext.getArgument(\"Se\"), false, 1, false, 1);",
+                    "}"
+                  ],
+                  "parameterObjects": "",
+                  "useStrict": true,
+                  "eventsSheetExpanded": true
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "supplementaryInformation": "Sprite",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "DialogBox::DialogBoxBackGround",
+                  "type": "behavior"
+                },
+                {
+                  "description": "Audio file name (The audio file must be registered as a resource!)",
+                  "name": "Se",
+                  "type": "string"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Changes the typing interval of the Dialog Box (in seconds).",
+              "fullName": "Change Dialog Box typing interval",
+              "functionType": "Action",
+              "name": "ChangeTypingInterval",
+              "sentence": "Change the typing interval of the Dialog Box _PARAM0_ to _PARAM2_",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": [
+                    "let dbbg = eventsFunctionContext.getObjects(\"Object\")[0]._DialogBoxBackGround;",
+                    "if (!dbbg) {console.warn(\"Must be setup first.\");return;}",
+                    "dbbg.Interval = eventsFunctionContext.getArgument(\"Interval\");"
+                  ],
+                  "parameterObjects": "",
+                  "useStrict": true,
+                  "eventsSheetExpanded": true
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "supplementaryInformation": "Sprite",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "DialogBox::DialogBoxBackGround",
+                  "type": "behavior"
+                },
+                {
+                  "description": "Typing interval (in seconds)",
+                  "name": "Interval",
+                  "type": "expression"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Skip typing in the Dialog Box.",
+              "fullName": "Skip Dialog Box typing",
+              "functionType": "Action",
+              "name": "SkipTyping",
+              "sentence": "Skip typing in the Dialog Box _PARAM0_",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": [
+                    "let dbbg = eventsFunctionContext.getObjects(\"Object\")[0]._DialogBoxBackGround;",
+                    "if (!dbbg) {console.warn(\"Must be setup first.\");return;}",
+                    "if (dbbg.State != \"Typing\") {return}",
+                    "const TextIndex = runtimeScene.getObjects(dbbg.Text.name).findIndex(v => v.id === dbbg.Text.id);",
+                    "const ArrowIndex = runtimeScene.getObjects(dbbg.Arrow.name).findIndex(v => v.id === dbbg.Arrow.id);",
+                    "if (TextIndex === -1) {console.warn(\"Text not found.\");return;}",
+                    "if (ArrowIndex === -1) {console.warn(\"Arrow not found.\");return;}",
+                    "const Text = runtimeScene.getObjects(dbbg.Text.name)[TextIndex];",
+                    "const Arrow = runtimeScene.getObjects(dbbg.Arrow.name)[ArrowIndex];",
+                    "",
+                    "Arrow.hide(true);",
+                    "",
+                    "Text.setBBText(dbbg.TextBuffer);"
+                  ],
+                  "parameterObjects": "",
+                  "useStrict": true,
+                  "eventsSheetExpanded": true
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "supplementaryInformation": "Sprite",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "DialogBox::DialogBoxBackGround",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Dialog Box is open.",
+              "fullName": "Dialog Box is open",
+              "functionType": "Condition",
+              "name": "IsOpen",
+              "sentence": "The Dialog Box _PARAM0_ is open",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": [
+                    "let dbbg = eventsFunctionContext.getObjects(\"Object\")[0]._DialogBoxBackGround;",
+                    "if (!dbbg) {eventsFunctionContext.returnValue = false;return;}",
+                    "eventsFunctionContext.returnValue = dbbg.State == \"Open\";"
+                  ],
+                  "parameterObjects": "",
+                  "useStrict": true,
+                  "eventsSheetExpanded": false
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "supplementaryInformation": "Sprite",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "DialogBox::DialogBoxBackGround",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Text in the Dialog Box is typing.",
+              "fullName": "Dialog Box is typing",
+              "functionType": "Condition",
+              "name": "IsTyping",
+              "sentence": "Text in the Dialog Box _PARAM0_ is typing",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": [
+                    "let dbbg = eventsFunctionContext.getObjects(\"Object\")[0]._DialogBoxBackGround;",
+                    "if (!dbbg) {eventsFunctionContext.returnValue = false;return;}",
+                    "eventsFunctionContext.returnValue = dbbg.State == \"Typing\";"
+                  ],
+                  "parameterObjects": "",
+                  "useStrict": true,
+                  "eventsSheetExpanded": false
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "supplementaryInformation": "Sprite",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "DialogBox::DialogBoxBackGround",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Dialog Box is close.",
+              "fullName": "Dialog Box is close",
+              "functionType": "Condition",
+              "name": "IsClose",
+              "sentence": "The Dialog Box _PARAM0_ is close",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": [
+                    "let dbbg = eventsFunctionContext.getObjects(\"Object\")[0]._DialogBoxBackGround;",
+                    "if (!dbbg) {eventsFunctionContext.returnValue = false;return;}",
+                    "eventsFunctionContext.returnValue = dbbg.State == \"Close\";"
+                  ],
+                  "parameterObjects": "",
+                  "useStrict": true,
+                  "eventsSheetExpanded": false
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "supplementaryInformation": "Sprite",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "DialogBox::DialogBoxBackGround",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Compare the number of times the Text in the Dialog Box has changed.",
+              "fullName": "Number of times the Text in Dialog Box has changed",
+              "functionType": "Condition",
+              "name": "CompareChangeCounter",
+              "sentence": "The Text in the Dialog Box _PARAM0_ has changed _PARAM2_ times",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": [
+                    "let dbbg = eventsFunctionContext.getObjects(\"Object\")[0]._DialogBoxBackGround;",
+                    "if (!dbbg) {eventsFunctionContext.returnValue = false;return;}",
+                    "eventsFunctionContext.returnValue = dbbg.Cnt == eventsFunctionContext.getArgument(\"Num\");"
+                  ],
+                  "parameterObjects": "",
+                  "useStrict": true,
+                  "eventsSheetExpanded": false
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "supplementaryInformation": "Sprite",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "DialogBox::DialogBoxBackGround",
+                  "type": "behavior"
+                },
+                {
+                  "description": "Number (0-based)",
+                  "name": "Num",
+                  "type": "expression"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Return the number of times the Text in the Dialog Box has changed.",
+              "fullName": "Number of times the Text in Dialog Box has changed",
+              "functionType": "Expression",
+              "name": "ChangeCounter",
+              "sentence": "the Change counter of _PARAM0_ is _PARAM2_",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": [
+                    "let dbbg = eventsFunctionContext.getObjects(\"Object\")[0]._DialogBoxBackGround;",
+                    "if (!dbbg) {eventsFunctionContext.returnValue = 0;return;}",
+                    "eventsFunctionContext.returnValue = dbbg.Cnt;"
+                  ],
+                  "parameterObjects": "",
+                  "useStrict": true,
+                  "eventsSheetExpanded": false
+                }
+              ],
+              "expressionType": {
+                "type": "expression"
+              },
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "supplementaryInformation": "Sprite",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "DialogBox::DialogBoxBackGround",
+                  "type": "behavior"
+                },
+                {
+                  "description": "Number (0-based)",
+                  "name": "Num",
+                  "type": "expression"
+                }
+              ],
+              "objectGroups": []
+            }
+          ],
+          "propertyDescriptors": [
+            {
+              "value": "0.05",
+              "type": "Number",
+              "label": "Typing interval. (in seconds)",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "name": "Interval"
+            },
+            {
+              "value": "",
+              "type": "String",
+              "label": "Typing sound effect. (File name) (The audio file must be registered as a resource!)",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "name": "Se"
+            },
+            {
+              "value": "",
+              "type": "Behavior",
+              "label": "Tween Behavior.",
+              "description": "",
+              "group": "",
+              "extraInformation": [
+                "Tween::TweenBehavior"
+              ],
+              "hidden": true,
+              "name": "Tween"
+            },
+            {
+              "value": "250",
+              "type": "Number",
+              "label": "Tween Duration. (in milliseconds)",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "name": "Duration"
+            }
+          ],
+          "sharedPropertyDescriptors": []
+        }
+      ],
+      "eventsBasedObjects": []
+    },
     {
       "author": "",
       "category": "User interface",

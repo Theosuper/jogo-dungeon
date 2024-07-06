@@ -2310,6 +2310,105 @@
         "name": "NewSprite15",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "download-removebg-preview (12).png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"download-removebg-preview (12).png\",\"extension\":\".png\"}",
+        "name": "download-removebg-preview (12).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "download-removebg-preview (12)2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "download-removebg-preview (12)2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "download-removebg-preview (13).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "download-removebg-preview (13).png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/fire-ball.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "fire-ball",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "meta-knight-pixel-art-at-cdawgvas-pixel-canvas-i-leave-the-v0-i3e6a7svg9bb1-removebg-preview.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "meta-knight-pixel-art-at-cdawgvas-pixel-canvas-i-leave-the-v0-i3e6a7svg9bb1-removebg-preview.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/meta-knight-pixel-art-at-cdawgvas-pixel-canvas-i-leave-the-v0-i3e6a7svg9bb1-removebg-preview.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "meta-knight-pixel-art-at-cdawgvas-pixel-canvas-i-leave-the-v0-i3e6a7svg9bb1-removebg-preview",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/meta-knight-pixel-art-at-cdawgvas-pixel-canvas-i-leave-the-v0-i3e6a7svg9bb1-removebg-preview2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "meta-knight-pixel-art-at-cdawgvas-pixel-canvas-i-leave-the-v0-i3e6a7svg9bb1-removebg-preview2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "images-removebg-preview (22).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "images-removebg-preview (22).png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/images-removebg-preview (22).png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "images-removebg-preview (22)",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "stock-vector-texture-for-platform-games-platformers-pixel-art-vector-mud-grass-stone-sand-ground-tile-isolated-394213339.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "stock-vector-texture-for-platform-games-platformers-pixel-art-vector-mud-grass-stone-sand-ground-tile-isolated-394213339.jpg",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/images-removebg-preview (22)2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "images-removebg-preview (22)2",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -6279,30 +6378,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 1,
-          "height": 329,
-          "layer": "",
-          "name": "chaoLuta",
-          "persistentUuid": "95329f2d-e41c-4a7b-aae2-b6e3b05e40b5",
-          "width": 2622,
-          "x": -412,
-          "y": 797,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
           "depth": 0,
           "height": 440,
           "layer": "",
-          "name": "villain_luta",
+          "name": "vilao_luta",
           "persistentUuid": "a622fd35-b529-4013-be1b-cebb91cbd66e",
           "width": 660,
-          "x": 1148,
-          "y": 433,
+          "x": 1261,
+          "y": 425,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -6317,8 +6400,8 @@
           "name": "TiroPlayer",
           "persistentUuid": "1fe4839d-9a0b-483a-a31f-ac30885b0c4a",
           "width": 336,
-          "x": 360,
-          "y": 524,
+          "x": 366,
+          "y": 579,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -6334,9 +6417,26 @@
           "name": "Player",
           "persistentUuid": "ba71f21a-cc98-497d-a0d7-5ba6cfdccd72",
           "width": 274,
-          "x": 188,
-          "y": 631,
+          "x": 171,
+          "y": 714,
           "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 248,
+          "keepRatio": true,
+          "layer": "",
+          "name": "chao_luta",
+          "persistentUuid": "6c0afaa5-d01f-449a-90cd-b04dc9792b3d",
+          "width": 2422,
+          "x": -295,
+          "y": 845,
+          "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -6346,128 +6446,7 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "PlayerDungeons",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Mario-dungeons.webp",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 305,
-                            "y": 0
-                          },
-                          {
-                            "x": 305,
-                            "y": 708
-                          },
-                          {
-                            "x": 0,
-                            "y": 708
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "chaoLuta",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "chao-luta",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "chao-luta.jpg",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 736,
-                            "y": 0
-                          },
-                          {
-                            "x": 736,
-                            "y": 730
-                          },
-                          {
-                            "x": 0,
-                            "y": 730
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "villain_luta",
+          "name": "vilao_luta",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [
@@ -6482,16 +6461,17 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "",
+              "name": "meta-knight-pixel-art-at-cdawgvas-pixel-canvas-i-leave-the-v0-i3e6a7svg9bb1-removebg-preview",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Meta_Knight14.webp",
+                      "image": "meta-knight-pixel-art-at-cdawgvas-pixel-canvas-i-leave-the-v0-i3e6a7svg9bb1-removebg-preview2",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -6507,20 +6487,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 99,
-                            "y": 105
+                            "x": 0,
+                            "y": 1
                           },
                           {
-                            "x": 1307,
-                            "y": 105
+                            "x": 602,
+                            "y": 1
                           },
                           {
-                            "x": 1307,
-                            "y": 851
+                            "x": 602,
+                            "y": 365
                           },
                           {
-                            "x": 99,
-                            "y": 851
+                            "x": 0,
+                            "y": 365
                           }
                         ]
                       ]
@@ -6542,16 +6522,17 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "",
+              "name": "fire-ball",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "fire-ball.png",
+                      "image": "fire-ball",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -6567,20 +6548,81 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 94,
-                            "y": 210
+                            "x": 1,
+                            "y": 3
                           },
                           {
-                            "x": 1830,
-                            "y": 210
+                            "x": 213,
+                            "y": 3
                           },
                           {
-                            "x": 1830,
-                            "y": 739
+                            "x": 213,
+                            "y": 127
                           },
                           {
-                            "x": 94,
-                            "y": 739
+                            "x": 1,
+                            "y": 127
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "chao_luta",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "images-removebg-preview (22)",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "images-removebg-preview (22)2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 145,
+                            "y": 0
+                          },
+                          {
+                            "x": 145,
+                            "y": 144
+                          },
+                          {
+                            "x": 0,
+                            "y": 144
                           }
                         ]
                       ]
@@ -6596,16 +6638,13 @@
         "folderName": "__ROOT",
         "children": [
           {
-            "objectName": "villain_luta"
-          },
-          {
-            "objectName": "PlayerDungeons"
-          },
-          {
-            "objectName": "chaoLuta"
+            "objectName": "vilao_luta"
           },
           {
             "objectName": "TiroPlayer"
+          },
+          {
+            "objectName": "chao_luta"
           }
         ]
       },
@@ -6618,7 +6657,7 @@
                 "value": "VarObjet"
               },
               "parameters": [
-                "villain_luta",
+                "vilao_luta",
                 "vida",
                 "<=",
                 "0"
@@ -6636,7 +6675,7 @@
               },
               "parameters": [
                 "TiroPlayer",
-                "villain_luta",
+                "vilao_luta",
                 "",
                 "",
                 ""
@@ -6649,7 +6688,7 @@
                 "value": "ModVarObjet"
               },
               "parameters": [
-                "villain_luta",
+                "vilao_luta",
                 "vida",
                 "-",
                 "1"
@@ -6662,6 +6701,45 @@
               "parameters": [
                 "TiroPlayer",
                 ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyReleased"
+              },
+              "parameters": [
+                "",
+                "m"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "TiroPlayer",
+                "Player.X()",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "AddForceXY"
+              },
+              "parameters": [
+                "TiroPlayer",
+                "",
+                "",
+                "1"
               ]
             }
           ]
@@ -12984,6 +13062,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "command",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -13053,9 +13132,9 @@
             {
               "type": "BuiltinCommonInstructions::Comment",
               "color": {
-                "b": 109,
-                "g": 230,
-                "r": 255,
+                "b": 17,
+                "g": 122,
+                "r": 243,
                 "textB": 0,
                 "textG": 0,
                 "textR": 0
@@ -13177,9 +13256,9 @@
             {
               "type": "BuiltinCommonInstructions::Comment",
               "color": {
-                "b": 109,
-                "g": 230,
-                "r": 255,
+                "b": 15,
+                "g": 15,
+                "r": 252,
                 "textB": 0,
                 "textG": 0,
                 "textR": 0

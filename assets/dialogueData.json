@@ -2,10 +2,30 @@
 	{
 		"title": "begin",
 		"tags": "",
-		"body": "text1\ntext2\ntext3 bla bla bla bla bla bla bla\n",
+		"body": "<<Player >> \nolá, tudo bem?\n<<Mercador >> \ntudo bem e você?\n<<Player >> \neu estou bem.\n<<Mercador>>\nque bom.\ngostaria de comprar alguma coisa?\n[[ sim |sim]]\n[[ não |nao]]",
 		"position": {
-			"x": 437,
-			"y": 252
+			"x": 433,
+			"y": 251
+		},
+		"colorID": 0
+	},
+	{
+		"title": "sim",
+		"tags": "",
+		"body": "<<Mercador >> \nvocê escolheu sim, vou te levar até a loja\n<<Loja>>\n...",
+		"position": {
+			"x": 435,
+			"y": 1
+		},
+		"colorID": 0
+	},
+	{
+		"title": "nao",
+		"tags": "",
+		"body": "<<Mercador >> \nTenha um bom dia.\n<<Saguao>>\n...",
+		"position": {
+			"x": 751,
+			"y": 244
 		},
 		"colorID": 0
 	}

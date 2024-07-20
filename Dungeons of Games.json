@@ -2409,6 +2409,33 @@
         "name": "images-removebg-preview (22)2",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Screenshot11-1920x1080-1e5343e75ccf37789ea2132f93d7f0b4.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "Screenshot11-1920x1080-1e5343e75ccf37789ea2132f93d7f0b4.jpg",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite16",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/f305fdf036385c51430f108916e26673103cf13a716df6d34e7aabafe2d77b36_Inventory Slot Empty2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "f305fdf036385c51430f108916e26673103cf13a716df6d34e7aabafe2d77b36_Inventory Slot Empty2",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -3461,7 +3488,25 @@
       }
     ]
   },
-  "objectsGroups": [],
+  "objectsGroups": [
+    {
+      "name": "itensStacaveis",
+      "objects": [
+        {
+          "name": "pocao_de_forca"
+        },
+        {
+          "name": "pocao_de_cura"
+        },
+        {
+          "name": "pocao_de_velocidade"
+        },
+        {
+          "name": "pocao_de_mana"
+        }
+      ]
+    }
+  ],
   "variables": [
     {
       "folded": true,
@@ -3582,6 +3627,12 @@
       "name": "jedi",
       "type": "string",
       "value": "jedi"
+    },
+    {
+      "folded": true,
+      "name": "found",
+      "type": "boolean",
+      "value": false
     }
   ],
   "layouts": [
@@ -3962,14 +4013,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 2,
-          "height": 98,
+          "depth": 4,
+          "height": 115,
           "layer": "",
           "name": "Inimigo",
           "persistentUuid": "23ec3d26-d9f7-4de3-b2df-015e8bb19d65",
-          "width": 98,
-          "x": 1566,
-          "y": 453,
+          "width": 185,
+          "x": 1563,
+          "y": 413,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -4220,7 +4271,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "NewSprite8",
+                      "image": "NewSprite16",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4237,19 +4288,19 @@
                         [
                           {
                             "x": 0,
-                            "y": 0
+                            "y": 1
                           },
                           {
-                            "x": 64,
-                            "y": 0
+                            "x": 602,
+                            "y": 1
                           },
                           {
-                            "x": 64,
-                            "y": 64
+                            "x": 602,
+                            "y": 365
                           },
                           {
                             "x": 0,
-                            "y": 64
+                            "y": 365
                           }
                         ]
                       ]
@@ -6369,7 +6420,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.28905162031349174,
+        "zoomFactor": 0.3411856023473453,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -6378,14 +6429,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 0,
-          "height": 440,
+          "depth": 1,
+          "height": 400,
           "layer": "",
           "name": "vilao_luta",
           "persistentUuid": "a622fd35-b529-4013-be1b-cebb91cbd66e",
           "width": 660,
-          "x": 1261,
-          "y": 425,
+          "x": 1269,
+          "y": 526,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -6400,8 +6451,8 @@
           "name": "TiroPlayer",
           "persistentUuid": "1fe4839d-9a0b-483a-a31f-ac30885b0c4a",
           "width": 336,
-          "x": 366,
-          "y": 579,
+          "x": -227,
+          "y": -444,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -6418,7 +6469,7 @@
           "persistentUuid": "ba71f21a-cc98-497d-a0d7-5ba6cfdccd72",
           "width": 274,
           "x": 171,
-          "y": 714,
+          "y": 786,
           "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
@@ -6434,9 +6485,26 @@
           "name": "chao_luta",
           "persistentUuid": "6c0afaa5-d01f-449a-90cd-b04dc9792b3d",
           "width": 2422,
-          "x": -295,
-          "y": 845,
+          "x": -256,
+          "y": 922,
           "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 1373,
+          "keepRatio": true,
+          "layer": "",
+          "name": "fundo_luta",
+          "persistentUuid": "ca85b6da-d3c8-4349-86e3-07a86fb38925",
+          "width": 2497,
+          "x": -254,
+          "y": -165,
+          "zOrder": -1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -6452,7 +6520,7 @@
           "variables": [
             {
               "folded": true,
-              "name": "Vida",
+              "name": "vida",
               "type": "number",
               "value": 3
             }
@@ -6632,6 +6700,66 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "fundo_luta",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Screenshot11-1920x1080-1e5343e75ccf37789ea2132f93d7f0b4.jpg",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1920,
+                            "y": 0
+                          },
+                          {
+                            "x": 1920,
+                            "y": 1080
+                          },
+                          {
+                            "x": 0,
+                            "y": 1080
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -6645,6 +6773,9 @@
           },
           {
             "objectName": "chao_luta"
+          },
+          {
+            "objectName": "fundo_luta"
           }
         ]
       },
@@ -6664,7 +6795,27 @@
               ]
             }
           ],
-          "actions": []
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "vilao_luta",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"saguao\"",
+                ""
+              ]
+            }
+          ]
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -6727,7 +6878,7 @@
                 "",
                 "TiroPlayer",
                 "Player.X()",
-                "",
+                "Player.Y()",
                 ""
               ]
             },
@@ -6737,8 +6888,8 @@
               },
               "parameters": [
                 "TiroPlayer",
-                "",
-                "",
+                "500",
+                "0",
                 "1"
               ]
             }
@@ -6842,7 +6993,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.3526904934771248,
+        "zoomFactor": 0.38958562738273106,
         "windowMask": false
       },
       "objectsGroups": [
@@ -16538,7 +16689,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.2616774116992149,
+        "zoomFactor": 0.37687720367508726,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -16546,15 +16697,16 @@
       "instances": [
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 130,
           "keepRatio": true,
           "layer": "",
           "name": "pocao_de_forca",
           "persistentUuid": "17c1a41d-4812-40b4-b8f6-e29f69c5b718",
-          "width": 0,
-          "x": 924,
-          "y": 632,
+          "width": 89,
+          "x": 654,
+          "y": 56,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -16562,15 +16714,16 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 136,
           "keepRatio": true,
           "layer": "",
           "name": "pocao_de_cura",
           "persistentUuid": "90dfddbf-ca60-4ed0-a7a0-98a0712f6484",
-          "width": 0,
-          "x": 1157,
-          "y": 676,
+          "width": 89,
+          "x": 1004,
+          "y": 35,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -16579,15 +16732,15 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 4,
-          "height": 345,
+          "depth": 2,
+          "height": 139,
           "keepRatio": true,
           "layer": "",
           "name": "pocao_de_velocidade",
           "persistentUuid": "cd003355-f9c9-4858-b864-29993c870c32",
-          "width": 256,
-          "x": 1339,
-          "y": 577,
+          "width": 103,
+          "x": 1255,
+          "y": 33,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -16596,15 +16749,15 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 5,
-          "height": 494,
+          "depth": 2,
+          "height": 142,
           "keepRatio": true,
           "layer": "",
           "name": "pocao_de_mana",
           "persistentUuid": "8ac642dc-bd06-4acc-8574-3cfa84526dda",
-          "width": 347,
-          "x": 482,
-          "y": 538,
+          "width": 100,
+          "x": 353,
+          "y": 32,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -16637,8 +16790,8 @@
           "name": "slot",
           "persistentUuid": "31966234-071d-41d2-a357-ecb792833d75",
           "width": 249,
-          "x": -7,
-          "y": 1158,
+          "x": 121,
+          "y": 1206,
           "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
@@ -16654,8 +16807,8 @@
           "name": "slot",
           "persistentUuid": "80ca3b4d-ecb2-471f-a414-79c61944b233",
           "width": 249,
-          "x": 372,
-          "y": 1161,
+          "x": 514,
+          "y": 1211,
           "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
@@ -16671,8 +16824,8 @@
           "name": "slot",
           "persistentUuid": "2f431fb4-f4e3-4af9-b8b2-d890c2b26441",
           "width": 249,
-          "x": 819,
-          "y": 1163,
+          "x": 900,
+          "y": 1193,
           "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
@@ -16688,8 +16841,8 @@
           "name": "slot",
           "persistentUuid": "3e1a4c7a-b125-4bdd-a6e3-bd330a395d84",
           "width": 249,
-          "x": 1225,
-          "y": 1160,
+          "x": 1280,
+          "y": 1192,
           "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
@@ -16705,8 +16858,93 @@
           "name": "slot",
           "persistentUuid": "c7eb217f-4b1f-472e-98f5-bc47d907beec",
           "width": 249,
-          "x": 1531,
-          "y": 1164,
+          "x": 1696,
+          "y": 1188,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 8,
+          "height": 249,
+          "keepRatio": true,
+          "layer": "",
+          "name": "slot",
+          "persistentUuid": "f383b119-64b7-4725-98e6-725422cf38c2",
+          "width": 249,
+          "x": 111,
+          "y": 1492,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 8,
+          "height": 249,
+          "keepRatio": true,
+          "layer": "",
+          "name": "slot",
+          "persistentUuid": "e7460cdc-cd26-4a95-b209-c614f8165520",
+          "width": 249,
+          "x": 497,
+          "y": 1493,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 8,
+          "height": 249,
+          "keepRatio": true,
+          "layer": "",
+          "name": "slot",
+          "persistentUuid": "c4156c73-1400-4269-9d17-f5196a5efbc7",
+          "width": 249,
+          "x": 888,
+          "y": 1459,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 8,
+          "height": 249,
+          "keepRatio": true,
+          "layer": "",
+          "name": "slot",
+          "persistentUuid": "1c3f3f31-a572-4a00-835b-d3476ab52629",
+          "width": 249,
+          "x": 1274,
+          "y": 1464,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 8,
+          "height": 249,
+          "keepRatio": true,
+          "layer": "",
+          "name": "slot",
+          "persistentUuid": "30f397ce-f905-4bfc-a370-2c2f53b8f1f1",
+          "width": 249,
+          "x": 1687,
+          "y": 1449,
           "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
@@ -16720,9 +16958,23 @@
           "name": "pocao_de_forca",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [],
+          "variables": [
+            {
+              "folded": true,
+              "name": "colected",
+              "type": "boolean",
+              "value": false
+            }
+          ],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "name": "Sticker",
+              "type": "Sticker::Sticker",
+              "OnlyFollowPosition": false,
+              "IsDestroyedWithParent": false
+            }
+          ],
           "animations": [
             {
               "name": "..\\..\\..\\Downloads\\images-removebg-preview (18)",
@@ -16781,9 +17033,23 @@
           "name": "pocao_de_cura",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [],
+          "variables": [
+            {
+              "folded": true,
+              "name": "colected",
+              "type": "boolean",
+              "value": false
+            }
+          ],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "name": "Sticker",
+              "type": "Sticker::Sticker",
+              "OnlyFollowPosition": false,
+              "IsDestroyedWithParent": false
+            }
+          ],
           "animations": [
             {
               "name": "images-removebg-preview (17)",
@@ -16842,9 +17108,23 @@
           "name": "pocao_de_velocidade",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [],
+          "variables": [
+            {
+              "folded": true,
+              "name": "colected",
+              "type": "boolean",
+              "value": false
+            }
+          ],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "name": "Sticker",
+              "type": "Sticker::Sticker",
+              "OnlyFollowPosition": false,
+              "IsDestroyedWithParent": false
+            }
+          ],
           "animations": [
             {
               "name": "download-removebg-preview (11)",
@@ -16903,9 +17183,23 @@
           "name": "pocao_de_mana",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [],
+          "variables": [
+            {
+              "folded": true,
+              "name": "colected",
+              "type": "boolean",
+              "value": false
+            }
+          ],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "name": "Sticker",
+              "type": "Sticker::Sticker",
+              "OnlyFollowPosition": false,
+              "IsDestroyedWithParent": false
+            }
+          ],
           "animations": [
             {
               "name": "images-removebg-preview (21)",
@@ -16964,7 +17258,32 @@
           "name": "slot",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [],
+          "variables": [
+            {
+              "folded": true,
+              "name": "itemHeld",
+              "type": "string",
+              "value": ""
+            },
+            {
+              "folded": true,
+              "name": "full",
+              "type": "boolean",
+              "value": false
+            },
+            {
+              "folded": true,
+              "name": "itemCount",
+              "type": "number",
+              "value": 0
+            },
+            {
+              "folded": true,
+              "name": "holdingStackable",
+              "type": "boolean",
+              "value": false
+            }
+          ],
           "effects": [],
           "behaviors": [
             {
@@ -16976,21 +17295,22 @@
           ],
           "animations": [
             {
-              "name": "",
+              "name": "f305fdf036385c51430f108916e26673103cf13a716df6d34e7aabafe2d77b36_Inventory Slot Empty2",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "f305fdf036385c51430f108916e26673103cf13a716df6d34e7aabafe2d77b36_Inventory Slot Empty2.png",
+                      "image": "f305fdf036385c51430f108916e26673103cf13a716df6d34e7aabafe2d77b36_Inventory Slot Empty2",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 5.5,
+                        "y": 6.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -17001,20 +17321,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 5
+                            "x": 0,
+                            "y": 0
                           },
                           {
-                            "x": 27,
-                            "y": 5
+                            "x": 22,
+                            "y": 0
                           },
                           {
-                            "x": 27,
-                            "y": 27
+                            "x": 22,
+                            "y": 22
                           },
                           {
-                            "x": 5,
-                            "y": 27
+                            "x": 0,
+                            "y": 22
                           }
                         ]
                       ]
@@ -17031,7 +17351,14 @@
           "name": "fundo",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [],
+          "variables": [
+            {
+              "folded": true,
+              "name": "hidden",
+              "type": "boolean",
+              "value": true
+            }
+          ],
           "effects": [],
           "behaviors": [],
           "animations": [
@@ -17085,6 +17412,67 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "itemCount",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [
+            {
+              "effectType": "Outline",
+              "name": "Effect",
+              "doubleParameters": {
+                "padding": 0,
+                "thickness": 1
+              },
+              "stringParameters": {
+                "color": "255;255;255"
+              },
+              "booleanParameters": {}
+            }
+          ],
+          "behaviors": [
+            {
+              "name": "Sticker",
+              "type": "Sticker::Sticker",
+              "OnlyFollowPosition": false,
+              "IsDestroyedWithParent": false
+            }
+          ],
+          "string": "0",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "0",
+            "font": "",
+            "textAlignment": "left",
+            "characterSize": 20,
+            "color": "0;0;0"
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -17107,6 +17495,9 @@
           },
           {
             "objectName": "fundo"
+          },
+          {
+            "objectName": "itemCount"
           }
         ]
       },
@@ -17125,6 +17516,357 @@
                 "Sticker",
                 "fundo",
                 ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyReleased"
+              },
+              "parameters": [
+                "",
+                "i"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanObjectVariable"
+                  },
+                  "parameters": [
+                    "fundo",
+                    "hidden",
+                    "True",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "MettreY"
+                  },
+                  "parameters": [
+                    "fundo",
+                    "=",
+                    "455"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanObjectVariable"
+                  },
+                  "parameters": [
+                    "fundo",
+                    "hidden",
+                    "=",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "MettreY"
+                  },
+                  "parameters": [
+                    "fundo",
+                    "=",
+                    "1100"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetBooleanObjectVariable"
+                  },
+                  "parameters": [
+                    "fundo",
+                    "hidden",
+                    "Toggle",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::ForEach",
+          "object": "itensStacaveis",
+          "conditions": [
+            {
+              "type": {
+                "value": "MouseButtonReleased"
+              },
+              "parameters": [
+                "",
+                "Left"
+              ]
+            },
+            {
+              "type": {
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "itensStacaveis",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanObjectVariable"
+              },
+              "parameters": [
+                "itensStacaveis",
+                "colected",
+                "False",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "found",
+                "False",
+                ""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringObjectVariable"
+                  },
+                  "parameters": [
+                    "slot",
+                    "itemHeld",
+                    "=",
+                    "itensStacaveis.ObjectName()"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PickNearest"
+                  },
+                  "parameters": [
+                    "slot",
+                    "0",
+                    "600",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "itensStacaveis",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberObjectVariable"
+                  },
+                  "parameters": [
+                    "slot",
+                    "itemCount",
+                    "+",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "found",
+                    "True",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "found",
+                    "False",
+                    ""
+                  ]
+                }
+              ],
+              "actions": []
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanObjectVariable"
+                  },
+                  "parameters": [
+                    "slot",
+                    "full",
+                    "=",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PickNearest"
+                  },
+                  "parameters": [
+                    "slot",
+                    "0",
+                    "600",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "MettreXY"
+                  },
+                  "parameters": [
+                    "itensStacaveis",
+                    "=",
+                    "slot.X()",
+                    "=",
+                    "slot.Y()"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Sticker::Sticker::Stick"
+                  },
+                  "parameters": [
+                    "itensStacaveis",
+                    "Sticker",
+                    "slot",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ChangePlan"
+                  },
+                  "parameters": [
+                    "itensStacaveis",
+                    "=",
+                    "slot.ZOrder()+1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetStringObjectVariable"
+                  },
+                  "parameters": [
+                    "slot",
+                    "itemHeld",
+                    "=",
+                    "itensStacaveis.ObjectName()"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanObjectVariable"
+                  },
+                  "parameters": [
+                    "slot",
+                    "full",
+                    "True",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanObjectVariable"
+                  },
+                  "parameters": [
+                    "itensStacaveis",
+                    "colected",
+                    "True",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "itemCount",
+                    "slot.X()",
+                    "slot.Y()",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "itemCount",
+                    "Text",
+                    "=",
+                    "slot.itemCount"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Sticker::Sticker::Stick"
+                  },
+                  "parameters": [
+                    "itemCount",
+                    "Sticker",
+                    "slot",
+                    ""
+                  ]
+                }
               ]
             }
           ]
@@ -17208,6 +17950,10 @@
         {
           "name": "Sticker",
           "type": "Sticker::Sticker"
+        },
+        {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
         }
       ]
     }

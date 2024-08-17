@@ -2796,6 +2796,24 @@
         "name": "unnamed-removebg-preview",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "raio-removebg-preview.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "raio-removebg-preview.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/raio-removebg-preview.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "raio-removebg-preview",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -4168,7 +4186,7 @@
           ]
         },
         {
-          "name": "adventurer",
+          "name": "adventurous",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -4266,7 +4284,7 @@
           ]
         },
         {
-          "name": "monge",
+          "name": "monk",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -4324,7 +4342,24 @@
       "updateIfNotVisible": false,
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "acceleration": 400,
+          "allowDiagonals": true,
+          "angleOffset": 0,
+          "angularMaxSpeed": 180,
+          "cellHeight": 20,
+          "cellWidth": 20,
+          "extraBorder": 0,
+          "gridOffsetX": 0,
+          "gridOffsetY": 0,
+          "maxSpeed": 400,
+          "name": "Pathfinding",
+          "rotateObject": false,
+          "smoothingMaxCellGap": 1,
+          "type": "PathfindingBehavior::PathfindingBehavior"
+        }
+      ],
       "animations": [
         {
           "name": "",
@@ -4338,7 +4373,18 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "png-clipart-pikachu-pixel-art-drawing-pokemon-pikachu-text-pokemon-removebg-preview (1)",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "lifebar",
+                      "x": 174.5,
+                      "y": -80.5
+                    },
+                    {
+                      "name": "attack",
+                      "x": 183,
+                      "y": -620.5
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
@@ -4482,7 +4528,7 @@
       "folded": true,
       "name": "class",
       "type": "string",
-      "value": "human"
+      "value": "monk"
     },
     {
       "folded": true,
@@ -4537,6 +4583,30 @@
       "name": "found",
       "type": "boolean",
       "value": false
+    },
+    {
+      "folded": true,
+      "name": "hp_assistent",
+      "type": "number",
+      "value": 50
+    },
+    {
+      "folded": true,
+      "name": "limitHpAssistent",
+      "type": "number",
+      "value": 50
+    },
+    {
+      "folded": true,
+      "name": "mana_assistent",
+      "type": "number",
+      "value": 30
+    },
+    {
+      "folded": true,
+      "name": "limitManaAssistent",
+      "type": "number",
+      "value": 30
     }
   ],
   "layouts": [
@@ -4877,7 +4947,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.507957511813185,
+        "zoomFactor": 0.5800155239905005,
         "windowMask": false
       },
       "objectsGroups": [
@@ -7453,6 +7523,78 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "StringVariable"
+              },
+              "parameters": [
+                "class",
+                "=",
+                "monk"
+              ]
+            },
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "assistent_monge",
+                "Player.X()+200",
+                "Player.Y()",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ScalableCapability::ScalableBehavior::SetValue"
+              },
+              "parameters": [
+                "assistent_monge",
+                "Scale",
+                "=",
+                "0.25"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "PathfindingBehavior::SetDestination"
+              },
+              "parameters": [
+                "assistent_monge",
+                "Pathfinding",
+                "",
+                "Player.X()",
+                "Player.Y()"
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -7513,7 +7655,7 @@
           "isLocked": false,
           "name": "game-layer",
           "renderingType": "",
-          "visibility": true,
+          "visibility": false,
           "cameras": [],
           "effects": [
             {
@@ -8211,7 +8353,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.5079575118131766,
+        "zoomFactor": 0.5250860067782538,
         "windowMask": false
       },
       "objectsGroups": [
@@ -8265,6 +8407,12 @@
         {
           "folded": true,
           "name": "playerFerido",
+          "type": "boolean",
+          "value": false
+        },
+        {
+          "folded": true,
+          "name": "invoke",
           "type": "boolean",
           "value": false
         }
@@ -8428,15 +8576,15 @@
         },
         {
           "angle": 0,
-          "customSize": true,
-          "depth": 54,
-          "height": 38,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
           "layer": "",
           "name": "BlueFlatBar",
-          "persistentUuid": "a5cd80f4-0436-4215-872d-0d555d9aad3d",
-          "width": 250,
-          "x": 313,
-          "y": 743,
+          "persistentUuid": "486fa18f-6f04-4107-9663-8e7a8875be08",
+          "width": 0,
+          "x": 317,
+          "y": 734,
           "zOrder": 102,
           "numberProperties": [],
           "stringProperties": [],
@@ -11098,11 +11246,280 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "ataque_assitent_monge",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "folded": true,
+              "name": "dano",
+              "type": "number",
+              "value": 10
+            }
+          ],
+          "effects": [],
+          "behaviors": [
+            {
+              "acceleration": 400,
+              "allowDiagonals": true,
+              "angleOffset": 0,
+              "angularMaxSpeed": 180,
+              "cellHeight": 20,
+              "cellWidth": 20,
+              "extraBorder": 0,
+              "gridOffsetX": 0,
+              "gridOffsetY": 0,
+              "maxSpeed": 200,
+              "name": "Pathfinding",
+              "rotateObject": true,
+              "smoothingMaxCellGap": 1,
+              "type": "PathfindingBehavior::PathfindingBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "raio-removebg-preview",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "raio-removebg-preview",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 221,
+                            "y": 0
+                          },
+                          {
+                            "x": 221,
+                            "y": 489
+                          },
+                          {
+                            "x": 1,
+                            "y": 489
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "5c37cb58ddc519829264b5ff95dd80416c82e89b60bfa67c6c3852154ec2b632",
+          "name": "GreenFlatBar_assistent",
+          "type": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "PreviousHighValueDuration": 0,
+            "ShowLabel": true,
+            "BarTopPadding": 4,
+            "BarBottomPadding": 6,
+            "BarLeftPadding": 4,
+            "BarRightPadding": 4,
+            "MaxValue": 16,
+            "InitialValue": 8
+          },
+          "childrenContent": {
+            "Background": {
+              "bottomMargin": 6,
+              "height": 34,
+              "leftMargin": 4,
+              "rightMargin": 4,
+              "texture": "Flat Bar White Border.png",
+              "tiled": true,
+              "topMargin": 6,
+              "width": 200
+            },
+            "Buffer": {
+              "bottomMargin": 0,
+              "height": 24,
+              "leftMargin": 0,
+              "rightMargin": 0,
+              "texture": "Flat Bar Green Fill Bar.png",
+              "tiled": true,
+              "topMargin": 0,
+              "width": 24
+            },
+            "FillBar": {
+              "bottomMargin": 0,
+              "height": 24,
+              "leftMargin": 0,
+              "rightMargin": 0,
+              "texture": "Flat Bar Green Fill Bar.png",
+              "tiled": true,
+              "topMargin": 0,
+              "width": 24
+            },
+            "Label": {
+              "bold": false,
+              "italic": false,
+              "smoothed": true,
+              "underlined": false,
+              "string": "80/100",
+              "font": "",
+              "textAlignment": "center",
+              "characterSize": 30,
+              "color": {
+                "b": 255,
+                "g": 255,
+                "r": 255
+              },
+              "content": {
+                "bold": false,
+                "isOutlineEnabled": false,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "255;255;255",
+                "outlineThickness": 2,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "80/100",
+                "font": "",
+                "textAlignment": "center",
+                "characterSize": 30,
+                "color": "255;255;255"
+              }
+            }
+          }
+        },
+        {
+          "assetStoreId": "0a398f1656e34f64758c909a71ca17cd69fd41bd251d89ff5a640303c4279f50",
+          "name": "BlueFlatBar_assistent",
+          "type": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "PreviousHighValueDuration": 0,
+            "ShowLabel": true,
+            "BarTopPadding": 4,
+            "BarBottomPadding": 6,
+            "BarLeftPadding": 4,
+            "BarRightPadding": 4,
+            "MaxValue": 16,
+            "InitialValue": 8
+          },
+          "childrenContent": {
+            "Background": {
+              "bottomMargin": 6,
+              "height": 34,
+              "leftMargin": 4,
+              "rightMargin": 4,
+              "texture": "Flat Bar White Border.png",
+              "tiled": true,
+              "topMargin": 6,
+              "width": 224
+            },
+            "Buffer": {
+              "bottomMargin": 0,
+              "height": 24,
+              "leftMargin": 0,
+              "rightMargin": 0,
+              "texture": "Flat Bar Blue Fill Bar.png",
+              "tiled": true,
+              "topMargin": 0,
+              "width": 24
+            },
+            "FillBar": {
+              "bottomMargin": 0,
+              "height": 24,
+              "leftMargin": 0,
+              "rightMargin": 0,
+              "texture": "Flat Bar Blue Fill Bar.png",
+              "tiled": true,
+              "topMargin": 0,
+              "width": 24
+            },
+            "Label": {
+              "bold": false,
+              "italic": false,
+              "smoothed": true,
+              "underlined": false,
+              "string": "80 / 100",
+              "font": "",
+              "textAlignment": "center",
+              "characterSize": 30,
+              "color": {
+                "b": 255,
+                "g": 255,
+                "r": 255
+              },
+              "content": {
+                "bold": false,
+                "isOutlineEnabled": false,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "255;255;255",
+                "outlineThickness": 2,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "80 / 100",
+                "font": "",
+                "textAlignment": "center",
+                "characterSize": 30,
+                "color": "255;255;255"
+              }
+            }
+          }
         }
       ],
       "objectsFolderStructure": {
         "folderName": "__ROOT",
         "children": [
+          {
+            "folderName": "MongeObjects",
+            "children": [
+              {
+                "objectName": "BlueFlatBar_assistent"
+              },
+              {
+                "objectName": "GreenFlatBar_assistent"
+              },
+              {
+                "objectName": "ataque_assitent_monge"
+              }
+            ]
+          },
           {
             "folderName": "adventurousObjects",
             "children": [
@@ -11384,6 +11801,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "player",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -11407,7 +11825,21 @@
               "include": {
                 "includeConfig": 0
               },
+              "target": "monk-class-player"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Link",
+              "include": {
+                "includeConfig": 0
+              },
               "target": "Ninja-class-player"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Link",
+              "include": {
+                "includeConfig": 0
+              },
+              "target": "adventurous-class-player"
             },
             {
               "type": "BuiltinCommonInstructions::Link",
@@ -11422,6 +11854,13 @@
                 "includeConfig": 0
               },
               "target": "warrior-class-player"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Link",
+              "include": {
+                "includeConfig": 0
+              },
+              "target": "ui"
             },
             {
               "type": "BuiltinCommonInstructions::Link",
@@ -11704,7 +12143,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "quando Iniciar A Tela",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -12037,6 +12475,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "luta",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -12506,13 +12945,6 @@
             }
           ],
           "parameters": []
-        },
-        {
-          "type": "BuiltinCommonInstructions::Link",
-          "include": {
-            "includeConfig": 0
-          },
-          "target": "ui"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -17210,7 +17642,7 @@
               "parameters": [
                 "class",
                 "=",
-                "GlobalVariableString(monge)"
+                "GlobalVariableString(monk)"
               ]
             },
             {
@@ -17221,7 +17653,7 @@
                 "Player",
                 "race",
                 "=",
-                "GlobalVariableString(monge)"
+                "GlobalVariableString(monk)"
               ]
             },
             {
@@ -20322,6 +20754,74 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "StringVariable"
+              },
+              "parameters": [
+                "class",
+                "=",
+                "adventurous"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ScalableCapability::ScalableBehavior::SetValue"
+              },
+              "parameters": [
+                "Normal_head",
+                "Scale",
+                "=",
+                "10.0"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "StringVariable"
+              },
+              "parameters": [
+                "class",
+                "=",
+                "monk"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ScalableCapability::ScalableBehavior::SetValue"
+              },
+              "parameters": [
+                "Normal_head",
+                "Scale",
+                "=",
+                "13.0"
+              ]
+            }
+          ]
         }
       ]
     },
@@ -21197,6 +21697,636 @@
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [],
           "actions": []
+        }
+      ]
+    },
+    {
+      "associatedLayout": "dungeon",
+      "lastChangeTimeStamp": 0,
+      "name": "monk-class-player",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "VarGlobalTxt"
+              },
+              "parameters": [
+                "class",
+                "=",
+                "GlobalVariableString(monk)"
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": []
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "h"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "invoke",
+                    "True",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PathfindingBehavior::SetDestination"
+                  },
+                  "parameters": [
+                    "assistent_monge",
+                    "Pathfinding",
+                    "",
+                    "MonstersGroup1.X()",
+                    "MonstersGroup1.Y()"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "h"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "invoke",
+                    "True",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PathfindingBehavior::SetDestination"
+                  },
+                  "parameters": [
+                    "assistent_monge",
+                    "Pathfinding",
+                    "",
+                    "Player.X()",
+                    "Player.Y()"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
+                  },
+                  "parameters": [
+                    "GreenFlatBar_assistent",
+                    "=",
+                    "GlobalVariable(hp_assistent)",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetMaxValue"
+                  },
+                  "parameters": [
+                    "GreenFlatBar_assistent",
+                    "=",
+                    "GlobalVariable(limitHpAssistent)",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
+                  },
+                  "parameters": [
+                    "BlueFlatBar_assistent",
+                    "=",
+                    "GlobalVariable(mana_assistent)",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetMaxValue"
+                  },
+                  "parameters": [
+                    "BlueFlatBar_assistent",
+                    "=",
+                    "GlobalVariable(limitManaAssistent)",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
+                  },
+                  "parameters": [
+                    "BlueFlatBar",
+                    "=",
+                    "GlobalVariable(mana)",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetMaxValue"
+                  },
+                  "parameters": [
+                    "BlueFlatBar",
+                    "=",
+                    "GlobalVariable(limitMana)",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "MettreXY"
+                  },
+                  "parameters": [
+                    "BlueFlatBar_assistent",
+                    "=",
+                    "assistent_monge.PointX(\"lifebar\")-125",
+                    "=",
+                    "assistent_monge.PointY(\"lifebar\")-50"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "MettreXY"
+                  },
+                  "parameters": [
+                    "GreenFlatBar_assistent",
+                    "=",
+                    "assistent_monge.PointX(\"lifebar\")-125",
+                    "=",
+                    "assistent_monge.PointY(\"lifebar\")-100"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Montre"
+                  },
+                  "parameters": [
+                    "BlueFlatBar",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "MettreXY"
+                  },
+                  "parameters": [
+                    "BlueFlatBar",
+                    "=",
+                    "Player.PointX(\"lifebar\")-125",
+                    "=",
+                    "Player.PointY(\"lifebar\")-50"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "DepartScene"
+                  },
+                  "parameters": [
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "assistent_monge",
+                    "Player.X()+200",
+                    "Player.Y()",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ScalableCapability::ScalableBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "assistent_monge",
+                    "Scale",
+                    "=",
+                    "0.25"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "GreenFlatBar_assistent",
+                    "assistent_monge.X()",
+                    "assistent_monge.Y()",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "BlueFlatBar_assistent",
+                    "assistent_monge.X()",
+                    "assistent_monge.Y()",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "name": "Feito",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [],
+              "parameters": []
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "assistent_monge",
+                "MonstersGroup1",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "ataque_assitent_monge",
+                "assistent_monge.PointX(\"attack\")",
+                "assistent_monge.PointY(\"attack\")",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ScalableCapability::ScalableBehavior::SetValue"
+              },
+              "parameters": [
+                "ataque_assitent_monge",
+                "Scale",
+                "*",
+                "0.3"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "mana",
+                "-",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "PathfindingBehavior::SetDestination"
+              },
+              "parameters": [
+                "ataque_assitent_monge",
+                "Pathfinding",
+                "",
+                "MonstersGroup1.CenterX()",
+                "MonstersGroup1.CenterY()"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "assistent_monge",
+                "MonstersGroup2",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "ataque_assitent_monge",
+                "assistent_monge.PointX(\"attack\")",
+                "assistent_monge.PointY(\"attack\")",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ScalableCapability::ScalableBehavior::SetValue"
+              },
+              "parameters": [
+                "ataque_assitent_monge",
+                "Scale",
+                "*",
+                "0.3"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "mana",
+                "-",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "PathfindingBehavior::SetDestination"
+              },
+              "parameters": [
+                "ataque_assitent_monge",
+                "Pathfinding",
+                "",
+                "MonstersGroup2.CenterX()",
+                "MonstersGroup2.CenterY()"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "assistent_monge",
+                "Boss_tema_1",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "ataque_assitent_monge",
+                "assistent_monge.PointX(\"attack\")",
+                "assistent_monge.PointY(\"attack\")",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ScalableCapability::ScalableBehavior::SetValue"
+              },
+              "parameters": [
+                "ataque_assitent_monge",
+                "Scale",
+                "*",
+                "0.3"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "mana",
+                "-",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "PathfindingBehavior::SetDestination"
+              },
+              "parameters": [
+                "ataque_assitent_monge",
+                "Pathfinding",
+                "",
+                "Boss_tema_1.CenterX()",
+                "Boss_tema_1.CenterY()"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "ataque_assitent_monge",
+                "MonstersGroup1",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "MonstersGroup1",
+                "Vida",
+                "-",
+                "RandomInRange(0,ataque_assitent_monge.dano)"
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "ataque_assitent_monge",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "ataque_assitent_monge",
+                "MonstersGroup2",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "MonstersGroup2",
+                "Vida",
+                "-",
+                "RandomInRange(0,ataque_assitent_monge.dano)"
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "ataque_assitent_monge",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "ataque_assitent_monge",
+                "Boss_tema_1",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Boss_tema_1",
+                "Vida",
+                "-",
+                "ataque_assitent_monge.dano"
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "ataque_assitent_monge",
+                ""
+              ]
+            }
+          ]
         }
       ]
     },

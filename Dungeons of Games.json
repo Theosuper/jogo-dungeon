@@ -1,9 +1,9 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 99,
-    "major": 4,
-    "minor": 0,
+    "build": 212,
+    "major": 5,
+    "minor": 4,
     "revision": 0
   },
   "properties": {
@@ -2994,13 +2994,329 @@
         "name": "normal",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/level-up.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "level-up",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/level-up2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "level-up2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/level-up3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "level-up3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/level-up4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "level-up4",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/level-up5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "level-up5",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/level-up6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "level-up6",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/level-up7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "level-up7",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/level-up8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "level-up8",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/level-up9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "level-up9",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/level-up10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "level-up10",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/level-up11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "level-up11",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/level-up12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "level-up12",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/level-up13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "level-up13",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/level-up14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "level-up14",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/level-up15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "level-up15",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/level-up16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "level-up16",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/level-up17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "level-up17",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/level-up18.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "level-up18",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "file": "sounds/som-level-up.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "sounds\\som-level-up.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "images/player/classe/aventureiro/attack/animation_whip1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "images\\player\\classe\\aventureiro\\attack\\animation_whip1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "images/player/classe/aventureiro/attack/animation_whip2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "images\\player\\classe\\aventureiro\\attack\\animation_whip2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "images/player/classe/aventureiro/attack/animation_whip3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "images\\player\\classe\\aventureiro\\attack\\animation_whip3.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "images/player/classe/aventureiro/attack/animation_whip4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "images\\player\\classe\\aventureiro\\attack\\animation_whip4.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "images/player/classe/aventureiro/attack/animation_whip5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "images\\player\\classe\\aventureiro\\attack\\animation_whip5.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "images/player/classe/aventureiro/attack/animation_whip6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "images\\player\\classe\\aventureiro\\attack\\animation_whip6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "images/player/classe/aventureiro/attack/animation_whip7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "images\\player\\classe\\aventureiro\\attack\\animation_whip7.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "images/player/classe/aventureiro/attack/animation_whip8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "images\\player\\classe\\aventureiro\\attack\\animation_whip8.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adventurous-attack.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adventurous-attack",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adventurous-attack2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adventurous-attack2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adventurous-attack3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adventurous-attack3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adventurous-attack4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adventurous-attack4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adventurous-attack5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adventurous-attack5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adventurous-attack6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adventurous-attack6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adventurous-attack7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adventurous-attack7",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/adventurous-attack8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adventurous-attack8",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
   },
   "objects": [
     {
-      "adaptCollisionMaskAutomatically": true,
+      "adaptCollisionMaskAutomatically": false,
       "assetStoreId": "",
       "name": "Player",
       "type": "Sprite",
@@ -3104,19 +3420,19 @@
                     [
                       {
                         "x": 0,
-                        "y": 0
-                      },
-                      {
-                        "x": 13,
-                        "y": 0
+                        "y": 16
                       },
                       {
                         "x": 13,
                         "y": 16
+                      },
+                      {
+                        "x": 13,
+                        "y": 0
                       },
                       {
                         "x": 0,
-                        "y": 16
+                        "y": 0
                       }
                     ]
                   ]
@@ -3151,19 +3467,19 @@
                     [
                       {
                         "x": 0,
-                        "y": 0
-                      },
-                      {
-                        "x": 13,
-                        "y": 0
+                        "y": 16
                       },
                       {
                         "x": 13,
                         "y": 16
+                      },
+                      {
+                        "x": 13,
+                        "y": 0
                       },
                       {
                         "x": 0,
-                        "y": 16
+                        "y": 0
                       }
                     ]
                   ]
@@ -3198,19 +3514,19 @@
                     [
                       {
                         "x": 0,
-                        "y": 0
-                      },
-                      {
-                        "x": 13,
-                        "y": 0
+                        "y": 16
                       },
                       {
                         "x": 13,
                         "y": 16
+                      },
+                      {
+                        "x": 13,
+                        "y": 0
                       },
                       {
                         "x": 0,
-                        "y": 16
+                        "y": 0
                       }
                     ]
                   ]
@@ -3245,19 +3561,19 @@
                     [
                       {
                         "x": 0,
-                        "y": 0
-                      },
-                      {
-                        "x": 13,
-                        "y": 0
+                        "y": 16
                       },
                       {
                         "x": 13,
                         "y": 16
+                      },
+                      {
+                        "x": 13,
+                        "y": 0
                       },
                       {
                         "x": 0,
-                        "y": 16
+                        "y": 0
                       }
                     ]
                   ]
@@ -3515,7 +3831,7 @@
           ]
         },
         {
-          "name": "attack",
+          "name": "human-attack",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -3552,16 +3868,16 @@
                   "customCollisionMask": [
                     [
                       {
+                        "x": 23,
+                        "y": 16
+                      },
+                      {
+                        "x": 23,
+                        "y": 0
+                      },
+                      {
                         "x": 0,
                         "y": 0
-                      },
-                      {
-                        "x": 13,
-                        "y": 0
-                      },
-                      {
-                        "x": 13,
-                        "y": 16
                       },
                       {
                         "x": 0,
@@ -3599,16 +3915,16 @@
                   "customCollisionMask": [
                     [
                       {
+                        "x": 23,
+                        "y": 16
+                      },
+                      {
+                        "x": 23,
+                        "y": 0
+                      },
+                      {
                         "x": 0,
                         "y": 0
-                      },
-                      {
-                        "x": 13,
-                        "y": 0
-                      },
-                      {
-                        "x": 13,
-                        "y": 16
                       },
                       {
                         "x": 0,
@@ -3646,16 +3962,16 @@
                   "customCollisionMask": [
                     [
                       {
+                        "x": 23,
+                        "y": 16
+                      },
+                      {
+                        "x": 23,
+                        "y": 0
+                      },
+                      {
                         "x": 0,
                         "y": 0
-                      },
-                      {
-                        "x": 13,
-                        "y": 0
-                      },
-                      {
-                        "x": 13,
-                        "y": 16
                       },
                       {
                         "x": 0,
@@ -3693,16 +4009,16 @@
                   "customCollisionMask": [
                     [
                       {
+                        "x": 23,
+                        "y": 16
+                      },
+                      {
+                        "x": 23,
+                        "y": 0
+                      },
+                      {
                         "x": 0,
                         "y": 0
-                      },
-                      {
-                        "x": 13,
-                        "y": 0
-                      },
-                      {
-                        "x": 13,
-                        "y": 16
                       },
                       {
                         "x": 0,
@@ -3740,16 +4056,16 @@
                   "customCollisionMask": [
                     [
                       {
+                        "x": 23,
+                        "y": 16
+                      },
+                      {
+                        "x": 23,
+                        "y": 0
+                      },
+                      {
                         "x": 0,
                         "y": 0
-                      },
-                      {
-                        "x": 13,
-                        "y": 0
-                      },
-                      {
-                        "x": 13,
-                        "y": 16
                       },
                       {
                         "x": 0,
@@ -3787,16 +4103,16 @@
                   "customCollisionMask": [
                     [
                       {
+                        "x": 23,
+                        "y": 16
+                      },
+                      {
+                        "x": 23,
+                        "y": 0
+                      },
+                      {
                         "x": 0,
                         "y": 0
-                      },
-                      {
-                        "x": 13,
-                        "y": 0
-                      },
-                      {
-                        "x": 13,
-                        "y": 16
                       },
                       {
                         "x": 0,
@@ -3834,16 +4150,16 @@
                   "customCollisionMask": [
                     [
                       {
+                        "x": 23,
+                        "y": 16
+                      },
+                      {
+                        "x": 23,
+                        "y": 0
+                      },
+                      {
                         "x": 0,
                         "y": 0
-                      },
-                      {
-                        "x": 13,
-                        "y": 0
-                      },
-                      {
-                        "x": 13,
-                        "y": 16
                       },
                       {
                         "x": 0,
@@ -3881,16 +4197,16 @@
                   "customCollisionMask": [
                     [
                       {
+                        "x": 23,
+                        "y": 16
+                      },
+                      {
+                        "x": 23,
+                        "y": 0
+                      },
+                      {
                         "x": 0,
                         "y": 0
-                      },
-                      {
-                        "x": 13,
-                        "y": 0
-                      },
-                      {
-                        "x": 13,
-                        "y": 16
                       },
                       {
                         "x": 0,
@@ -3928,16 +4244,16 @@
                   "customCollisionMask": [
                     [
                       {
+                        "x": 23,
+                        "y": 16
+                      },
+                      {
+                        "x": 23,
+                        "y": 0
+                      },
+                      {
                         "x": 0,
                         "y": 0
-                      },
-                      {
-                        "x": 13,
-                        "y": 0
-                      },
-                      {
-                        "x": 13,
-                        "y": 16
                       },
                       {
                         "x": 0,
@@ -3975,16 +4291,16 @@
                   "customCollisionMask": [
                     [
                       {
+                        "x": 23,
+                        "y": 16
+                      },
+                      {
+                        "x": 23,
+                        "y": 0
+                      },
+                      {
                         "x": 0,
                         "y": 0
-                      },
-                      {
-                        "x": 13,
-                        "y": 0
-                      },
-                      {
-                        "x": 13,
-                        "y": 16
                       },
                       {
                         "x": 0,
@@ -4035,19 +4351,460 @@
                     [
                       {
                         "x": 0,
-                        "y": 0
+                        "y": 64
                       },
                       {
-                        "x": 13,
-                        "y": 0
+                        "x": 64,
+                        "y": 64
                       },
                       {
-                        "x": 13,
-                        "y": 16
+                        "x": 64,
+                        "y": 0
                       },
                       {
                         "x": 0,
+                        "y": 0
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "adventurous-attack",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurous-attack",
+                  "points": [
+                    {
+                      "name": "attack",
+                      "x": 12,
+                      "y": 12
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 6.5,
+                      "y": -3.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 6.5,
+                    "y": 9.5
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 6.5,
+                    "y": 9.5
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 56.5,
+                        "y": 50
+                      },
+                      {
+                        "x": 47,
+                        "y": 56
+                      },
+                      {
+                        "x": 0,
+                        "y": 50.5
+                      },
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 17.5,
+                        "y": 0
+                      },
+                      {
+                        "x": 48.5,
+                        "y": 20.5
+                      },
+                      {
+                        "x": 57.5,
+                        "y": 43.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurous-attack2",
+                  "points": [
+                    {
+                      "name": "attack",
+                      "x": 12,
+                      "y": 12
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 6.5,
+                      "y": -3.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 6.5,
+                    "y": 9.5
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 6.5,
+                    "y": 9.5
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 157,
+                        "y": 77.5
+                      },
+                      {
+                        "x": 146.5,
+                        "y": 92.5
+                      },
+                      {
+                        "x": 100.5,
+                        "y": 89.5
+                      },
+                      {
+                        "x": 104.5,
+                        "y": 24.5
+                      },
+                      {
+                        "x": 111.5,
+                        "y": 25
+                      },
+                      {
+                        "x": 156.5,
+                        "y": 58.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurous-attack3",
+                  "points": [
+                    {
+                      "name": "attack",
+                      "x": 12,
+                      "y": 12
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 6.5,
+                      "y": -3.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 6.5,
+                    "y": 9.5
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 6.5,
+                    "y": 9.5
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 127,
+                        "y": 76
+                      },
+                      {
+                        "x": 167,
+                        "y": 62.5
+                      },
+                      {
+                        "x": 167,
+                        "y": 50.5
+                      },
+                      {
+                        "x": 142,
+                        "y": 38.5
+                      },
+                      {
+                        "x": 87.5,
+                        "y": 41.5
+                      },
+                      {
+                        "x": 86.5,
+                        "y": 73.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurous-attack4",
+                  "points": [
+                    {
+                      "name": "attack",
+                      "x": 12,
+                      "y": 12
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 6.5,
+                      "y": -3.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 6.5,
+                    "y": 9.5
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 6.5,
+                    "y": 9.5
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 94.5,
+                        "y": 25
+                      },
+                      {
+                        "x": 125.5,
+                        "y": 25.5
+                      },
+                      {
+                        "x": 132,
+                        "y": 38
+                      },
+                      {
+                        "x": 132.5,
+                        "y": 46.5
+                      },
+                      {
+                        "x": 133.5,
+                        "y": 84
+                      },
+                      {
+                        "x": 114,
+                        "y": 84
+                      },
+                      {
+                        "x": 87,
+                        "y": 37.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurous-attack5",
+                  "points": [
+                    {
+                      "name": "attack",
+                      "x": 12,
+                      "y": 12
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 6.5,
+                      "y": -3.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 6.5,
+                    "y": 9.5
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 6.5,
+                    "y": 9.5
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 101,
+                        "y": 52
+                      },
+                      {
+                        "x": 110,
+                        "y": 60.5
+                      },
+                      {
+                        "x": 112.5,
+                        "y": 68.5
+                      },
+                      {
+                        "x": 104,
+                        "y": 79
+                      },
+                      {
+                        "x": 94,
+                        "y": 68.5
+                      },
+                      {
+                        "x": 93.5,
+                        "y": 49.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurous-attack6",
+                  "points": [
+                    {
+                      "name": "attack",
+                      "x": 12,
+                      "y": 12
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 6.5,
+                      "y": -3.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 6.5,
+                    "y": 9.5
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 6.5,
+                    "y": 9.5
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 39,
+                        "y": 101
+                      },
+                      {
+                        "x": 95,
+                        "y": 101.5
+                      },
+                      {
+                        "x": 104,
+                        "y": 14.5
+                      },
+                      {
+                        "x": 35,
                         "y": 16
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurous-attack7",
+                  "points": [
+                    {
+                      "name": "attack",
+                      "x": 12,
+                      "y": 12
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 6.5,
+                      "y": -3.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 6.5,
+                    "y": 9.5
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 6.5,
+                    "y": 9.5
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 85,
+                        "y": 25
+                      },
+                      {
+                        "x": 89,
+                        "y": 110
+                      },
+                      {
+                        "x": 21,
+                        "y": 110.5
+                      },
+                      {
+                        "x": 22,
+                        "y": 25
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurous-attack8",
+                  "points": [
+                    {
+                      "name": "attack",
+                      "x": 12,
+                      "y": 12
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 6.5,
+                      "y": -3.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 6.5,
+                    "y": 9.5
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 6.5,
+                    "y": 9.5
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 93.5,
+                        "y": 9.5
+                      },
+                      {
+                        "x": 93,
+                        "y": 102
+                      },
+                      {
+                        "x": 36,
+                        "y": 101.5
+                      },
+                      {
+                        "x": 26,
+                        "y": 81
+                      },
+                      {
+                        "x": 27.5,
+                        "y": 11
                       }
                     ]
                   ]
@@ -4786,11 +5543,12 @@
           "directions": [
             {
               "looping": false,
-              "timeBetweenFrames": 0.08,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.2,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "images\\UI\\upgrade1.png",
+                  "image": "level-up",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -4826,7 +5584,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "images\\UI\\upgrade2.png",
+                  "image": "level-up2",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -4862,7 +5620,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "images\\UI\\upgrade3.png",
+                  "image": "level-up3",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -4898,7 +5656,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "images\\UI\\upgrade4.png",
+                  "image": "level-up4",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -4934,7 +5692,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "images\\UI\\upgrade5.png",
+                  "image": "level-up5",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -4970,7 +5728,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "images\\UI\\upgrade6.png",
+                  "image": "level-up6",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5006,7 +5764,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "images\\UI\\upgrade7.png",
+                  "image": "level-up7",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5042,7 +5800,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "images\\UI\\upgrade8.png",
+                  "image": "level-up8",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5078,7 +5836,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "images\\UI\\upgrade9.png",
+                  "image": "level-up9",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5114,7 +5872,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "images\\UI\\upgrade10.png",
+                  "image": "level-up10",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5150,7 +5908,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "images\\UI\\upgrade11.png",
+                  "image": "level-up11",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5186,7 +5944,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "images\\UI\\upgrade12.png",
+                  "image": "level-up12",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5222,7 +5980,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "images\\UI\\upgrade13.png",
+                  "image": "level-up13",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5258,7 +6016,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "images\\UI\\upgrade14.png",
+                  "image": "level-up14",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5294,7 +6052,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "images\\UI\\upgrade15.png",
+                  "image": "level-up15",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5330,7 +6088,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "images\\UI\\upgrade16.png",
+                  "image": "level-up16",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5366,7 +6124,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "images\\UI\\upgrade17.png",
+                  "image": "level-up17",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5402,7 +6160,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "images\\UI\\upgrade18.png",
+                  "image": "level-up18",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5708,7 +6466,7 @@
       "folded": true,
       "name": "class",
       "type": "string",
-      "value": "human"
+      "value": "adventurous"
     },
     {
       "folded": true,
@@ -5793,6 +6551,12 @@
       "name": "xp_to_next_level",
       "type": "number",
       "value": 10
+    },
+    {
+      "folded": true,
+      "name": "level",
+      "type": "number",
+      "value": 2
     }
   ],
   "layouts": [
@@ -6106,6 +6870,10 @@
         {
           "name": "SmoothCamera",
           "type": "SmoothCamera::SmoothCamera"
+        },
+        {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
         },
         {
           "name": "TopDownMovement",
@@ -8141,7 +8909,7 @@
                 "Player",
                 "Animation",
                 "=",
-                "\"attack\""
+                "\"human-attack\""
               ]
             }
           ]
@@ -8763,6 +9531,17 @@
                 "",
                 "",
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "Text_xp",
+                "Text",
+                "=",
+                "level"
               ]
             }
           ]
@@ -9462,6 +10241,10 @@
           "type": "SmoothCamera::SmoothCamera"
         },
         {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
+        },
+        {
           "name": "TopDownMovement",
           "type": "TopDownMovementBehavior::TopDownMovementBehavior"
         }
@@ -9487,7 +10270,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.5079575118131767,
+        "zoomFactor": 0.4753585087126964,
         "windowMask": false
       },
       "objectsGroups": [
@@ -9561,7 +10344,7 @@
           "name": "Player",
           "persistentUuid": "1fd7f223-d834-4381-8d1d-96fe504b361e",
           "width": 150,
-          "x": 396,
+          "x": 398,
           "y": 886,
           "zOrder": 1,
           "numberProperties": [],
@@ -9577,8 +10360,8 @@
           "name": "Fundo_tema_1",
           "persistentUuid": "c282954e-36c0-46e8-9cdc-d6403f27ca4b",
           "width": 2066,
-          "x": -90,
-          "y": -10,
+          "x": -62,
+          "y": -29,
           "zOrder": -1,
           "numberProperties": [],
           "stringProperties": [],
@@ -9772,6 +10555,38 @@
           "x": 164,
           "y": 14,
           "zOrder": 106,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "teste_global",
+          "persistentUuid": "127ef3b6-e424-4bff-9d36-23c5baa1361a",
+          "width": 0,
+          "x": 801,
+          "y": 954,
+          "zOrder": 107,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "teste_variavel",
+          "persistentUuid": "94d504c3-0cda-4971-a837-996083366286",
+          "width": 0,
+          "x": 988,
+          "y": 960,
+          "zOrder": 108,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -13442,7 +14257,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "luta",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -13452,7 +14266,6 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
-              "folded": true,
               "name": "piso 1",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -13837,7 +14650,6 @@
               "colorG": 160,
               "colorR": 243,
               "creationTime": 0,
-              "folded": true,
               "name": "boss",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -13912,6 +14724,16 @@
                   "actions": [
                     {
                       "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "xp",
+                        "+",
+                        "RandomInRange(0,Boss_tema_1.xp)"
+                      ]
+                    },
+                    {
+                      "type": {
                         "value": "Delete"
                       },
                       "parameters": [
@@ -13927,21 +14749,132 @@
                         "",
                         "\"menufinished\""
                       ]
-                    },
-                    {
-                      "type": {
-                        "value": "SetNumberVariable"
-                      },
-                      "parameters": [
-                        "xp",
-                        "+",
-                        "RandomInRange(0,Boss_tema_1.xp)"
-                      ]
                     }
                   ]
                 }
               ],
               "parameters": []
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Xp controle",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "xp",
+                    ">",
+                    "xp_to_next_level"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "level",
+                    "+",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "xp",
+                    "=",
+                    "xp-xp_to_next_level"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "xp_to_next_level",
+                    "=",
+                    "ceil(xp_to_next_level+ (xp_to_next_level* (level * RandomFloatInRange(0,1)))) \n"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "level_xp",
+                    "Animation",
+                    "=",
+                    "\"level-up\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "sounds\\som-level-up.mp3",
+                    "",
+                    "100",
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
+                  },
+                  "parameters": [
+                    "level_xp",
+                    "Animation"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "level_xp",
+                    "Animation",
+                    "=",
+                    "\"normal\""
+                  ]
+                }
+              ]
             }
           ],
           "parameters": []
@@ -13971,6 +14904,17 @@
                 "=",
                 "GlobalVariableString(mage)"
               ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "Text_xp",
+                "Text",
+                "=",
+                "level"
+              ]
             }
           ]
         },
@@ -13980,6 +14924,34 @@
             "includeConfig": 0
           },
           "target": "ui"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "teste_variavel",
+                "Text",
+                "=",
+                "xp"
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "teste_global",
+                "Text",
+                "=",
+                "xp_to_next_level"
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -15054,6 +16026,10 @@
         {
           "name": "SmoothCamera",
           "type": "SmoothCamera::SmoothCamera"
+        },
+        {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
         },
         {
           "name": "TopDownMovement",
@@ -16412,6 +17388,10 @@
           "type": "SmoothCamera::SmoothCamera"
         },
         {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
+        },
+        {
           "name": "TopDownMovement",
           "type": "TopDownMovementBehavior::TopDownMovementBehavior"
         }
@@ -16664,6 +17644,10 @@
           "type": "SmoothCamera::SmoothCamera"
         },
         {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
+        },
+        {
           "name": "TopDownMovement",
           "type": "TopDownMovementBehavior::TopDownMovementBehavior"
         }
@@ -16778,6 +17762,10 @@
         {
           "name": "SmoothCamera",
           "type": "SmoothCamera::SmoothCamera"
+        },
+        {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
         },
         {
           "name": "TopDownMovement",
@@ -18131,6 +19119,16 @@
             },
             {
               "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "level",
+                "+",
+                "1"
+              ]
+            },
+            {
+              "type": {
                 "value": "Scene"
               },
               "parameters": [
@@ -18245,6 +19243,16 @@
                 "arrows",
                 "=",
                 "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "level",
+                "+",
+                "1"
               ]
             },
             {
@@ -18367,6 +19375,16 @@
             },
             {
               "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "level",
+                "+",
+                "1"
+              ]
+            },
+            {
+              "type": {
                 "value": "Scene"
               },
               "parameters": [
@@ -18481,6 +19499,16 @@
                 "arrows",
                 "=",
                 "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "level",
+                "+",
+                "1"
               ]
             },
             {
@@ -18603,6 +19631,16 @@
             },
             {
               "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "level",
+                "+",
+                "1"
+              ]
+            },
+            {
+              "type": {
                 "value": "Scene"
               },
               "parameters": [
@@ -18717,6 +19755,16 @@
                 "arrows",
                 "=",
                 "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "level",
+                "+",
+                "1"
               ]
             },
             {
@@ -18839,6 +19887,16 @@
             },
             {
               "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "level",
+                "+",
+                "1"
+              ]
+            },
+            {
+              "type": {
                 "value": "Scene"
               },
               "parameters": [
@@ -18924,10 +19982,6 @@
         {
           "name": "Scale",
           "type": "ScalableCapability::ScalableBehavior"
-        },
-        {
-          "name": "SmoothCamera",
-          "type": "SmoothCamera::SmoothCamera"
         },
         {
           "name": "Text",
@@ -19458,6 +20512,10 @@
           "type": "SmoothCamera::SmoothCamera"
         },
         {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
+        },
+        {
           "name": "TopDownMovement",
           "type": "TopDownMovementBehavior::TopDownMovementBehavior"
         }
@@ -19893,6 +20951,10 @@
         {
           "name": "SmoothCamera",
           "type": "SmoothCamera::SmoothCamera"
+        },
+        {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
         },
         {
           "name": "TopDownMovement",
@@ -21523,6 +22585,16 @@
                     "IsAttacking",
                     "True"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "level",
+                    "=",
+                    "1"
+                  ]
                 }
               ],
               "actions": [
@@ -21534,7 +22606,45 @@
                     "Player",
                     "Animation",
                     "=",
-                    "\"attack\""
+                    "\"human-attack\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ObjectVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Player",
+                    "IsAttacking",
+                    "True"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "level",
+                    ">=",
+                    "2"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Animation",
+                    "=",
+                    "class+\"-attack\""
                   ]
                 }
               ]
@@ -21571,7 +22681,7 @@
                     "Player",
                     "Animation",
                     "=",
-                    "\"attack\""
+                    "class+\"attack\""
                   ]
                 },
                 {
@@ -23426,268 +24536,510 @@
           "actions": [],
           "events": [
             {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
+              "colorB": 255,
+              "colorG": 255,
+              "colorR": 255,
+              "creationTime": 0,
+              "name": "Level 1",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
                 {
-                  "type": {
-                    "value": "BooleanVariable"
-                  },
-                  "parameters": [
-                    "Girando",
-                    "True",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "MettreXY"
-                  },
-                  "parameters": [
-                    "chicote_aventureiro",
-                    "=",
-                    "Player.PointX(\"attack\")",
-                    "=",
-                    "Player.PointY(\"attack\")"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "BooleanVariable"
-                  },
-                  "parameters": [
-                    "Girando",
-                    "False",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "MettreXY"
-                  },
-                  "parameters": [
-                    "chicote_aventureiro",
-                    "=",
-                    "Player.PointX(\"attack\")",
-                    "=",
-                    "Player.PointY(\"attack\")"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "KeyPressed"
-                  },
-                  "parameters": [
-                    "",
-                    "h"
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Rotate"
-                  },
-                  "parameters": [
-                    "chicote_aventureiro",
-                    "1000",
-                    "MouseY()+200"
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BooleanVariable"
+                      },
+                      "parameters": [
+                        "Girando",
+                        "False",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "MettreXY"
+                      },
+                      "parameters": [
+                        "chicote_aventureiro",
+                        "=",
+                        "Player.PointX(\"attack\")",
+                        "=",
+                        "Player.PointY(\"attack\")"
+                      ]
+                    }
                   ]
                 },
                 {
-                  "type": {
-                    "value": "SetBooleanVariable"
-                  },
-                  "parameters": [
-                    "Girando",
-                    "True",
-                    ""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Create"
-                  },
-                  "parameters": [
-                    "",
-                    "chicote_aventureiro",
-                    "Player.PointX(\"attack\")",
-                    "Player.PointY(\"attack\")",
-                    ""
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BooleanVariable"
+                      },
+                      "parameters": [
+                        "Girando",
+                        "True",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "MettreXY"
+                      },
+                      "parameters": [
+                        "chicote_aventureiro",
+                        "=",
+                        "Player.PointX(\"attack\")",
+                        "=",
+                        "Player.PointY(\"attack\")"
+                      ]
+                    }
                   ]
                 },
                 {
-                  "type": {
-                    "value": "ResizableCapability::ResizableBehavior::SetHeight"
-                  },
-                  "parameters": [
-                    "chicote_aventureiro",
-                    "Resizable",
-                    "*",
-                    "0.6"
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "h"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Rotate"
+                      },
+                      "parameters": [
+                        "chicote_aventureiro",
+                        "1000",
+                        "MouseY()+200"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetBooleanVariable"
+                      },
+                      "parameters": [
+                        "Girando",
+                        "True",
+                        ""
+                      ]
+                    }
                   ]
                 },
                 {
-                  "type": {
-                    "value": "ResizableCapability::ResizableBehavior::SetWidth"
-                  },
-                  "parameters": [
-                    "chicote_aventureiro",
-                    "Resizable",
-                    "*",
-                    "0.6"
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "chicote_aventureiro",
+                        "Player.PointX(\"attack\")",
+                        "Player.PointY(\"attack\")",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ResizableCapability::ResizableBehavior::SetHeight"
+                      },
+                      "parameters": [
+                        "chicote_aventureiro",
+                        "Resizable",
+                        "*",
+                        "0.6"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ResizableCapability::ResizableBehavior::SetWidth"
+                      },
+                      "parameters": [
+                        "chicote_aventureiro",
+                        "Resizable",
+                        "*",
+                        "0.6"
+                      ]
+                    }
                   ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
+                },
                 {
-                  "type": {
-                    "value": "KeyReleased"
-                  },
-                  "parameters": [
-                    "",
-                    "h"
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyReleased"
+                      },
+                      "parameters": [
+                        "",
+                        "h"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetBooleanVariable"
+                      },
+                      "parameters": [
+                        "Girando",
+                        "False",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "chicote_aventureiro",
+                        "MonstersGroup1",
+                        "",
+                        "",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ModVarObjet"
+                      },
+                      "parameters": [
+                        "MonstersGroup1",
+                        "Vida",
+                        "-",
+                        "RandomInRange(0,chicote_aventureiro.dano)"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "chicote_aventureiro",
+                        "Boss_tema_1",
+                        "",
+                        "",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ModVarObjet"
+                      },
+                      "parameters": [
+                        "Boss_tema_1",
+                        "Vida",
+                        "-",
+                        "chicote_aventureiro.dano"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "chicote_aventureiro",
+                        "MonstersGroup2",
+                        "",
+                        "",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ModVarObjet"
+                      },
+                      "parameters": [
+                        "MonstersGroup2",
+                        "Vida",
+                        "-",
+                        "RandomInRange(0,chicote_aventureiro.dano)"
+                      ]
+                    }
                   ]
                 }
               ],
-              "actions": [
+              "parameters": []
+            },
+            {
+              "colorB": 11,
+              "colorG": 11,
+              "colorR": 247,
+              "creationTime": 0,
+              "name": "Level 2",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
                 {
-                  "type": {
-                    "value": "SetBooleanVariable"
-                  },
-                  "parameters": [
-                    "Girando",
-                    "False",
-                    ""
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "NumberVariable"
+                      },
+                      "parameters": [
+                        "level",
+                        ">=",
+                        "2"
+                      ]
+                    }
+                  ],
+                  "actions": [],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::Name"
+                          },
+                          "parameters": [
+                            "Player",
+                            "Animation",
+                            "=",
+                            "class+\"-attack\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "ResizableCapability::ResizableBehavior::SetHeight"
+                          },
+                          "parameters": [
+                            "Player",
+                            "Resizable",
+                            "=",
+                            "185"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ResizableCapability::ResizableBehavior::SetWidth"
+                          },
+                          "parameters": [
+                            "Player",
+                            "Resizable",
+                            "=",
+                            "150"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Delete"
+                          },
+                          "parameters": [
+                            "chicote_aventureiro",
+                            ""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "inverted": true,
+                            "value": "AnimatableCapability::AnimatableBehavior::Name"
+                          },
+                          "parameters": [
+                            "Player",
+                            "Animation",
+                            "=",
+                            "class+\"-attack\""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "ResizableCapability::ResizableBehavior::SetHeight"
+                          },
+                          "parameters": [
+                            "Player",
+                            "Resizable",
+                            "=",
+                            "185"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ResizableCapability::ResizableBehavior::SetWidth"
+                          },
+                          "parameters": [
+                            "Player",
+                            "Resizable",
+                            "=",
+                            "150"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "BooleanObjectVariable"
+                          },
+                          "parameters": [
+                            "Player",
+                            "IsAttacking",
+                            "True",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [],
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "CollisionNP"
+                              },
+                              "parameters": [
+                                "Player",
+                                "MonstersGroup1",
+                                "",
+                                "",
+                                ""
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "ModVarObjet"
+                              },
+                              "parameters": [
+                                "MonstersGroup1",
+                                "Vida",
+                                "-",
+                                "RandomInRange(0,Player.dano)"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "CollisionNP"
+                              },
+                              "parameters": [
+                                "Player",
+                                "MonstersGroup2",
+                                "",
+                                "",
+                                ""
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "ModVarObjet"
+                              },
+                              "parameters": [
+                                "MonstersGroup2",
+                                "Vida",
+                                "-",
+                                "RandomInRange(0,Player.dano)"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "CollisionNP"
+                              },
+                              "parameters": [
+                                "Player",
+                                "Boss_tema_1",
+                                "",
+                                "",
+                                ""
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "ModVarObjet"
+                              },
+                              "parameters": [
+                                "Boss_tema_1",
+                                "Vida",
+                                "-",
+                                "Player.dano"
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
                   ]
                 }
-              ]
+              ],
+              "parameters": []
             }
           ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "chicote_aventureiro",
-                "MonstersGroup2",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "ModVarObjet"
-              },
-              "parameters": [
-                "MonstersGroup2",
-                "Vida",
-                "-",
-                "RandomInRange(0,chicote_aventureiro.dano)"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "chicote_aventureiro",
-                "MonstersGroup1",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "ModVarObjet"
-              },
-              "parameters": [
-                "MonstersGroup1",
-                "Vida",
-                "-",
-                "RandomInRange(0,chicote_aventureiro.dano)"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "chicote_aventureiro",
-                "Boss_tema_1",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "ModVarObjet"
-              },
-              "parameters": [
-                "Boss_tema_1",
-                "Vida",
-                "-",
-                "chicote_aventureiro.dano"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
         }
       ]
     },
@@ -31950,6 +33302,12 @@
       ],
       "eventsBasedObjects": [
         {
+          "areaMaxX": 64,
+          "areaMaxY": 64,
+          "areaMaxZ": 64,
+          "areaMinX": 0,
+          "areaMinY": 0,
+          "areaMinZ": 0,
           "defaultName": "ResourceBar",
           "description": "A bar that represents a resource in the game (health, mana, ammo, etc).",
           "fullName": "Resource bar (continuous)",
@@ -33785,7 +35143,39 @@
                 "objectName": "Background"
               }
             ]
-          }
+          },
+          "objectsGroups": [],
+          "layers": [
+            {
+              "ambientLightColorB": 200,
+              "ambientLightColorG": 200,
+              "ambientLightColorR": 200,
+              "camera3DFarPlaneDistance": 10000,
+              "camera3DFieldOfView": 45,
+              "camera3DNearPlaneDistance": 3,
+              "cameraType": "",
+              "followBaseLayerCamera": false,
+              "isLightingLayer": false,
+              "isLocked": false,
+              "name": "",
+              "renderingType": "",
+              "visibility": true,
+              "cameras": [
+                {
+                  "defaultSize": true,
+                  "defaultViewport": true,
+                  "height": 0,
+                  "viewportBottom": 1,
+                  "viewportLeft": 0,
+                  "viewportRight": 1,
+                  "viewportTop": 0,
+                  "width": 0
+                }
+              ],
+              "effects": []
+            }
+          ],
+          "instances": []
         }
       ]
     },

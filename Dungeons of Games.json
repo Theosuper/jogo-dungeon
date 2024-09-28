@@ -3445,6 +3445,60 @@
         "name": "itens-nivel-2\\item-mago.png",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "itens-nivel-2/item-arquer.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "itens-nivel-2\\item-arquer.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/itens-nivel-2_item-arquer.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "itens-nivel-2\\item-arquer",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/itens-nivel-2_item-arquer2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "itens-nivel-2\\item-arquer2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/itens-nivel-2_item-arquer3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "itens-nivel-2\\item-arquer3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/itens-nivel-2_item-arquer4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "itens-nivel-2\\item-arquer4",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/itens-nivel-2_item-arquer5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "itens-nivel-2\\item-arquer5",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -6456,7 +6510,7 @@
       "folded": true,
       "name": "class",
       "type": "string",
-      "value": "mage"
+      "value": "arquer"
     },
     {
       "folded": true,
@@ -10260,7 +10314,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.4598521426736363,
+        "zoomFactor": 0.5079575118131768,
         "windowMask": false
       },
       "objectsGroups": [
@@ -10306,6 +10360,17 @@
             },
             {
               "name": "bola_de_fogo_2"
+            }
+          ]
+        },
+        {
+          "name": "arquerAttack",
+          "objects": [
+            {
+              "name": "ataque_arqueiro"
+            },
+            {
+              "name": "ataque_arqueiro_2"
             }
           ]
         }
@@ -13382,6 +13447,74 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "ataque_arqueiro_2",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "folded": true,
+              "name": "dano",
+              "type": "number",
+              "value": 30
+            }
+          ],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "itens-nivel-2\\item-arquer",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "itens-nivel-2\\item-arquer5",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 149.5,
+                        "y": 4.5
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 77.5,
+                        "y": 76
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 177,
+                            "y": 1
+                          },
+                          {
+                            "x": 177,
+                            "y": 50
+                          },
+                          {
+                            "x": 1,
+                            "y": 50
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -13444,6 +13577,9 @@
               },
               {
                 "objectName": "ataque_arqueiro"
+              },
+              {
+                "objectName": "ataque_arqueiro_2"
               }
             ]
           },
@@ -23010,10 +23146,11 @@
       "name": "Mage-class-player",
       "events": [
         {
-          "colorB": 228,
-          "colorG": 176,
-          "colorR": 74,
+          "colorB": 0,
+          "colorG": 248,
+          "colorR": 255,
           "creationTime": 0,
+          "folded": true,
           "name": "Colisões",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -23132,6 +23269,7 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
+              "folded": true,
               "name": "Level 1",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -23330,9 +23468,9 @@
               "parameters": []
             },
             {
-              "colorB": 253,
+              "colorB": 0,
               "colorG": 0,
-              "colorR": 144,
+              "colorR": 253,
               "creationTime": 0,
               "name": "Level 2\n",
               "source": "",
@@ -23437,6 +23575,109 @@
       "name": "Arquer-class-player",
       "events": [
         {
+          "colorB": 11,
+          "colorG": 148,
+          "colorR": 31,
+          "creationTime": 0,
+          "folded": true,
+          "name": "Colisões",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "arquerAttack",
+                    "MonstersGroup2",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "MonstersGroup2",
+                    "Vida",
+                    "-",
+                    "RandomInRange(0,arquerAttack.dano)"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "arquerAttack",
+                    "MonstersGroup1",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "MonstersGroup1",
+                    "Vida",
+                    "-",
+                    "RandomInRange(0,arquerAttack.dano)"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "arquerAttack",
+                    "Boss_tema_1",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "Boss_tema_1",
+                    "Vida",
+                    "-",
+                    "arquerAttack.dano"
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -23450,7 +23691,16 @@
               ]
             }
           ],
-          "actions": [],
+          "actions": []
+        },
+        {
+          "colorB": 37,
+          "colorG": 252,
+          "colorR": 5,
+          "creationTime": 0,
+          "name": "Level 1",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
           "events": [
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -23620,97 +23870,111 @@
                 }
               ]
             }
-          ]
+          ],
+          "parameters": []
         },
         {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
+          "colorB": 7,
+          "colorG": 79,
+          "colorR": 167,
+          "creationTime": 0,
+          "name": "Level 2",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
             {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "ataque_arqueiro",
-                "MonstersGroup2",
-                "",
-                "",
-                ""
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyReleased"
+                  },
+                  "parameters": [
+                    "",
+                    "j"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "arrows",
+                    ">=",
+                    "10"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "FireBullet::FireBullet::FireTowardPosition"
+                  },
+                  "parameters": [
+                    "arco_arqueiro",
+                    "FireBullet",
+                    "arco_arqueiro.PointX(\"arrow\")",
+                    "arco_arqueiro.PointY(\"arrow\")",
+                    "ataque_arqueiro_2",
+                    "MouseX()",
+                    "MouseY()",
+                    "500",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResizableCapability::ResizableBehavior::SetHeight"
+                  },
+                  "parameters": [
+                    "ataque_arqueiro_2",
+                    "Resizable",
+                    "*",
+                    "0.9"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResizableCapability::ResizableBehavior::SetWidth"
+                  },
+                  "parameters": [
+                    "ataque_arqueiro_2",
+                    "Resizable",
+                    "*",
+                    "0.9"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "arrows",
+                    "-",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "ataque_arqueiro_2",
+                    ""
+                  ]
+                }
               ]
             }
           ],
-          "actions": [
-            {
-              "type": {
-                "value": "ModVarObjet"
-              },
-              "parameters": [
-                "MonstersGroup2",
-                "Vida",
-                "-",
-                "RandomInRange(0,ataque_arqueiro.dano)"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "ataque_arqueiro",
-                "MonstersGroup1",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "ModVarObjet"
-              },
-              "parameters": [
-                "MonstersGroup1",
-                "Vida",
-                "-",
-                "RandomInRange(0,ataque_arqueiro.dano)"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "ataque_arqueiro",
-                "Boss_tema_1",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "ModVarObjet"
-              },
-              "parameters": [
-                "Boss_tema_1",
-                "Vida",
-                "-",
-                "ataque_arqueiro.dano"
-              ]
-            }
-          ]
+          "parameters": []
         }
       ]
     },

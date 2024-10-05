@@ -3499,6 +3499,15 @@
         "name": "itens-nivel-2\\item-arquer5",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/images_Dungeon_inimigo-nivel-4-removebg-preview.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "images\\Dungeon\\inimigo-nivel-4-removebg-preview",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -6484,21 +6493,9 @@
     },
     {
       "folded": true,
-      "name": "monk",
-      "type": "string",
-      "value": "monk"
-    },
-    {
-      "folded": true,
       "name": "warrior",
       "type": "string",
       "value": "warrior"
-    },
-    {
-      "folded": true,
-      "name": "ninja",
-      "type": "string",
-      "value": "ninja"
     },
     {
       "folded": true,
@@ -6508,9 +6505,27 @@
     },
     {
       "folded": true,
+      "name": "ninja",
+      "type": "string",
+      "value": "ninja"
+    },
+    {
+      "folded": true,
+      "name": "jedi",
+      "type": "string",
+      "value": "jedi"
+    },
+    {
+      "folded": true,
+      "name": "monk",
+      "type": "string",
+      "value": "monk"
+    },
+    {
+      "folded": true,
       "name": "class",
       "type": "string",
-      "value": "arquer"
+      "value": "jedi"
     },
     {
       "folded": true,
@@ -6553,12 +6568,6 @@
       "name": "limitMana",
       "type": "number",
       "value": 10
-    },
-    {
-      "folded": true,
-      "name": "jedi",
-      "type": "string",
-      "value": "jedi"
     },
     {
       "folded": true,
@@ -8838,7 +8847,7 @@
           "include": {
             "includeConfig": 0
           },
-          "target": "ui"
+          "target": "UI"
         },
         {
           "type": "BuiltinCommonInstructions::Link",
@@ -10314,7 +10323,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.5079575118131768,
+        "zoomFactor": 0.47535850871269736,
         "windowMask": false
       },
       "objectsGroups": [
@@ -11189,16 +11198,17 @@
           ],
           "animations": [
             {
-              "name": "",
+              "name": "images\\Dungeon\\inimigo-nivel-4-removebg-preview",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "images\\Dungeon\\inimigo-nivel-4-removebg-preview.png",
+                      "image": "images\\Dungeon\\inimigo-nivel-4-removebg-preview",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -11214,19 +11224,19 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 95,
-                            "y": 22
+                            "x": 96,
+                            "y": 23
                           },
                           {
-                            "x": 186,
-                            "y": 22
+                            "x": 185,
+                            "y": 23
                           },
                           {
-                            "x": 186,
+                            "x": 185,
                             "y": 163
                           },
                           {
-                            "x": 95,
+                            "x": 96,
                             "y": 163
                           }
                         ]
@@ -13480,14 +13490,14 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 149.5,
-                        "y": 4.5
+                        "x": 168,
+                        "y": 23.5
                       },
                       "centerPoint": {
                         "automatic": false,
                         "name": "centre",
-                        "x": 77.5,
-                        "y": 76
+                        "x": 89.5,
+                        "y": 26
                       },
                       "customCollisionMask": [
                         [
@@ -13835,7 +13845,7 @@
               "include": {
                 "includeConfig": 0
               },
-              "target": "monk-class-player"
+              "target": "Monk-class-player"
             },
             {
               "type": "BuiltinCommonInstructions::Link",
@@ -13849,7 +13859,7 @@
               "include": {
                 "includeConfig": 0
               },
-              "target": "adventurous-class-player"
+              "target": "Adventurous-class-player"
             },
             {
               "type": "BuiltinCommonInstructions::Link",
@@ -13863,14 +13873,14 @@
               "include": {
                 "includeConfig": 0
               },
-              "target": "warrior-class-player"
+              "target": "Warrior-class-player"
             },
             {
               "type": "BuiltinCommonInstructions::Link",
               "include": {
                 "includeConfig": 0
               },
-              "target": "ui"
+              "target": "UI"
             },
             {
               "type": "BuiltinCommonInstructions::Link",
@@ -15069,6 +15079,16 @@
                     "100",
                     "1"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "arrows",
+                    "=",
+                    "9"
+                  ]
                 }
               ]
             },
@@ -15152,7 +15172,7 @@
           "include": {
             "includeConfig": 0
           },
-          "target": "ui"
+          "target": "UI"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -22927,7 +22947,7 @@
     {
       "associatedLayout": "dungeon",
       "lastChangeTimeStamp": 0,
-      "name": "ui",
+      "name": "UI",
       "events": [
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -23579,7 +23599,6 @@
           "colorG": 148,
           "colorR": 31,
           "creationTime": 0,
-          "folded": true,
           "name": "Colisões",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -23611,6 +23630,15 @@
                     "-",
                     "RandomInRange(0,arquerAttack.dano)"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "arquerAttack",
+                    ""
+                  ]
                 }
               ]
             },
@@ -23640,6 +23668,15 @@
                     "Vida",
                     "-",
                     "RandomInRange(0,arquerAttack.dano)"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "arquerAttack",
+                    ""
                   ]
                 }
               ]
@@ -23671,6 +23708,15 @@
                     "-",
                     "arquerAttack.dano"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "arquerAttack",
+                    ""
+                  ]
                 }
               ]
             }
@@ -23691,290 +23737,293 @@
               ]
             }
           ],
-          "actions": []
-        },
-        {
-          "colorB": 37,
-          "colorG": 252,
-          "colorR": 5,
-          "creationTime": 0,
-          "name": "Level 1",
-          "source": "",
-          "type": "BuiltinCommonInstructions::Group",
+          "actions": [],
           "events": [
             {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
+              "colorB": 37,
+              "colorG": 252,
+              "colorR": 5,
+              "creationTime": 0,
+              "name": "Level 1",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
                 {
-                  "type": {
-                    "value": "KeyReleased"
-                  },
-                  "parameters": [
-                    "",
-                    "h"
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyReleased"
+                      },
+                      "parameters": [
+                        "",
+                        "h"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "VarGlobal"
+                      },
+                      "parameters": [
+                        "arrows",
+                        ">=",
+                        "1"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "FireBullet::FireBullet::FireTowardPosition"
+                      },
+                      "parameters": [
+                        "arco_arqueiro",
+                        "FireBullet",
+                        "arco_arqueiro.PointX(\"arrow\")",
+                        "arco_arqueiro.PointY(\"arrow\")",
+                        "ataque_arqueiro",
+                        "MouseX()",
+                        "MouseY()",
+                        "500",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ResizableCapability::ResizableBehavior::SetHeight"
+                      },
+                      "parameters": [
+                        "ataque_arqueiro",
+                        "Resizable",
+                        "*",
+                        "0.4"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ResizableCapability::ResizableBehavior::SetWidth"
+                      },
+                      "parameters": [
+                        "ataque_arqueiro",
+                        "Resizable",
+                        "*",
+                        "0.4"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "arrows",
+                        "-",
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Wait"
+                      },
+                      "parameters": [
+                        "5"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Delete"
+                      },
+                      "parameters": [
+                        "ataque_arqueiro",
+                        ""
+                      ]
+                    }
                   ]
                 },
                 {
-                  "type": {
-                    "value": "VarGlobal"
-                  },
-                  "parameters": [
-                    "arrows",
-                    ">=",
-                    "1"
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "arco_arqueiro",
+                        "Player.PointX(\"attack\")",
+                        "Player.PointY(\"attack\")",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ResizableCapability::ResizableBehavior::SetHeight"
+                      },
+                      "parameters": [
+                        "arco_arqueiro",
+                        "Resizable",
+                        "*",
+                        "0.6"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ResizableCapability::ResizableBehavior::SetWidth"
+                      },
+                      "parameters": [
+                        "arco_arqueiro",
+                        "Resizable",
+                        "*",
+                        "0.6"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "MettreXY"
+                      },
+                      "parameters": [
+                        "arco_arqueiro",
+                        "=",
+                        "Player.PointX(\"attack\")",
+                        "=",
+                        "Player.PointY(\"attack\")"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "RotateTowardPosition"
+                      },
+                      "parameters": [
+                        "arco_arqueiro",
+                        "MouseX()",
+                        "MouseY()",
+                        "0",
+                        ""
+                      ]
+                    }
                   ]
                 }
               ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "FireBullet::FireBullet::FireTowardPosition"
-                  },
-                  "parameters": [
-                    "arco_arqueiro",
-                    "FireBullet",
-                    "arco_arqueiro.PointX(\"arrow\")",
-                    "arco_arqueiro.PointY(\"arrow\")",
-                    "ataque_arqueiro",
-                    "MouseX()",
-                    "MouseY()",
-                    "500",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ResizableCapability::ResizableBehavior::SetHeight"
-                  },
-                  "parameters": [
-                    "ataque_arqueiro",
-                    "Resizable",
-                    "*",
-                    "0.4"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ResizableCapability::ResizableBehavior::SetWidth"
-                  },
-                  "parameters": [
-                    "ataque_arqueiro",
-                    "Resizable",
-                    "*",
-                    "0.4"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ModVarGlobal"
-                  },
-                  "parameters": [
-                    "arrows",
-                    "-",
-                    "1"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Wait"
-                  },
-                  "parameters": [
-                    "5"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Delete"
-                  },
-                  "parameters": [
-                    "ataque_arqueiro",
-                    ""
-                  ]
-                }
-              ]
+              "parameters": []
             },
             {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
+              "colorB": 7,
+              "colorG": 79,
+              "colorR": 167,
+              "creationTime": 0,
+              "name": "Level 2",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
                 {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Create"
-                  },
-                  "parameters": [
-                    "",
-                    "arco_arqueiro",
-                    "Player.PointX(\"attack\")",
-                    "Player.PointY(\"attack\")",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ResizableCapability::ResizableBehavior::SetHeight"
-                  },
-                  "parameters": [
-                    "arco_arqueiro",
-                    "Resizable",
-                    "*",
-                    "0.6"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ResizableCapability::ResizableBehavior::SetWidth"
-                  },
-                  "parameters": [
-                    "arco_arqueiro",
-                    "Resizable",
-                    "*",
-                    "0.6"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": [
-                {
-                  "type": {
-                    "value": "MettreXY"
-                  },
-                  "parameters": [
-                    "arco_arqueiro",
-                    "=",
-                    "Player.PointX(\"attack\")",
-                    "=",
-                    "Player.PointY(\"attack\")"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "RotateTowardPosition"
-                  },
-                  "parameters": [
-                    "arco_arqueiro",
-                    "MouseX()",
-                    "MouseY()",
-                    "0",
-                    ""
-                  ]
-                }
-              ]
-            }
-          ],
-          "parameters": []
-        },
-        {
-          "colorB": 7,
-          "colorG": 79,
-          "colorR": 167,
-          "creationTime": 0,
-          "name": "Level 2",
-          "source": "",
-          "type": "BuiltinCommonInstructions::Group",
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "KeyReleased"
-                  },
-                  "parameters": [
-                    "",
-                    "j"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "VarGlobal"
-                  },
-                  "parameters": [
-                    "arrows",
-                    ">=",
-                    "10"
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyReleased"
+                      },
+                      "parameters": [
+                        "",
+                        "j"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "VarGlobal"
+                      },
+                      "parameters": [
+                        "arrows",
+                        ">=",
+                        "3"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "NumberVariable"
+                      },
+                      "parameters": [
+                        "level",
+                        ">=",
+                        "2"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "FireBullet::FireBullet::FireTowardPosition"
+                      },
+                      "parameters": [
+                        "arco_arqueiro",
+                        "FireBullet",
+                        "arco_arqueiro.PointX(\"arrow\")",
+                        "arco_arqueiro.PointY(\"arrow\")",
+                        "ataque_arqueiro_2",
+                        "MouseX()",
+                        "MouseY()",
+                        "500",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ResizableCapability::ResizableBehavior::SetHeight"
+                      },
+                      "parameters": [
+                        "ataque_arqueiro_2",
+                        "Resizable",
+                        "*",
+                        "0.9"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ResizableCapability::ResizableBehavior::SetWidth"
+                      },
+                      "parameters": [
+                        "ataque_arqueiro_2",
+                        "Resizable",
+                        "*",
+                        "0.9"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "arrows",
+                        "-",
+                        "3"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Wait"
+                      },
+                      "parameters": [
+                        "5"
+                      ]
+                    }
                   ]
                 }
               ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "FireBullet::FireBullet::FireTowardPosition"
-                  },
-                  "parameters": [
-                    "arco_arqueiro",
-                    "FireBullet",
-                    "arco_arqueiro.PointX(\"arrow\")",
-                    "arco_arqueiro.PointY(\"arrow\")",
-                    "ataque_arqueiro_2",
-                    "MouseX()",
-                    "MouseY()",
-                    "500",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ResizableCapability::ResizableBehavior::SetHeight"
-                  },
-                  "parameters": [
-                    "ataque_arqueiro_2",
-                    "Resizable",
-                    "*",
-                    "0.9"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ResizableCapability::ResizableBehavior::SetWidth"
-                  },
-                  "parameters": [
-                    "ataque_arqueiro_2",
-                    "Resizable",
-                    "*",
-                    "0.9"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ModVarGlobal"
-                  },
-                  "parameters": [
-                    "arrows",
-                    "-",
-                    "1"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Wait"
-                  },
-                  "parameters": [
-                    "5"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Delete"
-                  },
-                  "parameters": [
-                    "ataque_arqueiro_2",
-                    ""
-                  ]
-                }
-              ]
+              "parameters": []
             }
-          ],
-          "parameters": []
+          ]
         }
       ]
     },
@@ -23983,6 +24032,109 @@
       "lastChangeTimeStamp": 0,
       "name": "Jedi-class-player",
       "events": [
+        {
+          "colorB": 0,
+          "colorG": 0,
+          "colorR": 255,
+          "creationTime": 0,
+          "folded": true,
+          "name": "Colision",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "sabre_de_luz_jedi",
+                    "Boss_tema_1",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "Boss_tema_1",
+                    "Vida",
+                    "-",
+                    "sabre_de_luz_jedi.dano"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "sabre_de_luz_jedi",
+                    "MonstersGroup1",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "MonstersGroup1",
+                    "Vida",
+                    "-",
+                    "RandomInRange(0,sabre_de_luz_jedi.dano)"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "sabre_de_luz_jedi",
+                    "MonstersGroup2",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "MonstersGroup2",
+                    "Vida",
+                    "-",
+                    "RandomInRange(0,sabre_de_luz_jedi.dano)"
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
@@ -24000,275 +24152,667 @@
           "actions": [],
           "events": [
             {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "folded": true,
+              "name": "Level 1",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
                 {
-                  "type": {
-                    "value": "BooleanVariable"
-                  },
-                  "parameters": [
-                    "Girando",
-                    "True",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "MettreXY"
-                  },
-                  "parameters": [
-                    "sabre_de_luz_jedi",
-                    "=",
-                    "Player.PointX(\"attack\")",
-                    "=",
-                    "Player.PointY(\"attack\")"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "BooleanVariable"
-                  },
-                  "parameters": [
-                    "Girando",
-                    "False",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "MettreXY"
-                  },
-                  "parameters": [
-                    "sabre_de_luz_jedi",
-                    "=",
-                    "Player.PointX(\"attack\")",
-                    "=",
-                    "Player.PointY(\"attack\")"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "KeyPressed"
-                  },
-                  "parameters": [
-                    "",
-                    "h"
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Rotate"
-                  },
-                  "parameters": [
-                    "sabre_de_luz_jedi",
-                    "1000",
-                    "MouseY()+200"
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyReleased"
+                      },
+                      "parameters": [
+                        "",
+                        "h"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetBooleanVariable"
+                      },
+                      "parameters": [
+                        "Girando",
+                        "False",
+                        ""
+                      ]
+                    }
                   ]
                 },
                 {
-                  "type": {
-                    "value": "SetBooleanVariable"
-                  },
-                  "parameters": [
-                    "Girando",
-                    "True",
-                    ""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Create"
-                  },
-                  "parameters": [
-                    "",
-                    "sabre_de_luz_jedi",
-                    "Player.PointX(\"attack\")",
-                    "Player.PointY(\"attack\")",
-                    ""
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "sabre_de_luz_jedi",
+                        "Player.PointX(\"attack\")",
+                        "Player.PointY(\"attack\")",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ResizableCapability::ResizableBehavior::SetHeight"
+                      },
+                      "parameters": [
+                        "sabre_de_luz_jedi",
+                        "Resizable",
+                        "*",
+                        "0.6"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ResizableCapability::ResizableBehavior::SetWidth"
+                      },
+                      "parameters": [
+                        "sabre_de_luz_jedi",
+                        "Resizable",
+                        "*",
+                        "0.6"
+                      ]
+                    }
                   ]
                 },
                 {
-                  "type": {
-                    "value": "ResizableCapability::ResizableBehavior::SetHeight"
-                  },
-                  "parameters": [
-                    "sabre_de_luz_jedi",
-                    "Resizable",
-                    "*",
-                    "0.6"
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "h"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Rotate"
+                      },
+                      "parameters": [
+                        "sabre_de_luz_jedi",
+                        "1000",
+                        "MouseY()+200"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetBooleanVariable"
+                      },
+                      "parameters": [
+                        "Girando",
+                        "True",
+                        ""
+                      ]
+                    }
                   ]
                 },
                 {
-                  "type": {
-                    "value": "ResizableCapability::ResizableBehavior::SetWidth"
-                  },
-                  "parameters": [
-                    "sabre_de_luz_jedi",
-                    "Resizable",
-                    "*",
-                    "0.6"
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BooleanVariable"
+                      },
+                      "parameters": [
+                        "Girando",
+                        "False",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "MettreXY"
+                      },
+                      "parameters": [
+                        "sabre_de_luz_jedi",
+                        "=",
+                        "Player.PointX(\"attack\")",
+                        "=",
+                        "Player.PointY(\"attack\")"
+                      ]
+                    }
                   ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
+                },
                 {
-                  "type": {
-                    "value": "KeyReleased"
-                  },
-                  "parameters": [
-                    "",
-                    "h"
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BooleanVariable"
+                      },
+                      "parameters": [
+                        "Girando",
+                        "True",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "MettreXY"
+                      },
+                      "parameters": [
+                        "sabre_de_luz_jedi",
+                        "=",
+                        "Player.PointX(\"attack\")",
+                        "=",
+                        "Player.PointY(\"attack\")"
+                      ]
+                    }
                   ]
                 }
               ],
-              "actions": [
+              "parameters": []
+            },
+            {
+              "colorB": 11,
+              "colorG": 206,
+              "colorR": 14,
+              "creationTime": 0,
+              "name": "Level 2",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
                 {
-                  "type": {
-                    "value": "SetBooleanVariable"
-                  },
-                  "parameters": [
-                    "Girando",
-                    "False",
-                    ""
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "NumberVariable"
+                      },
+                      "parameters": [
+                        "level",
+                        ">=",
+                        "2"
+                      ]
+                    }
+                  ],
+                  "actions": [],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Comment",
+                      "color": {
+                        "b": 109,
+                        "g": 230,
+                        "r": 255,
+                        "textB": 0,
+                        "textG": 0,
+                        "textR": 0
+                      },
+                      "comment": "Paralisando\n"
+                    },
+                    {
+                      "disabled": true,
+                      "folded": true,
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "KeyPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "j"
+                          ]
+                        }
+                      ],
+                      "actions": [],
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "CenterX"
+                              },
+                              "parameters": [
+                                "Player",
+                                ">=",
+                                "MonstersGroup1.CenterX()"
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "PathfindingBehavior::SetDestination"
+                              },
+                              "parameters": [
+                                "MonstersGroup1",
+                                "Pathfinding",
+                                "",
+                                "MonstersGroup1.CenterX()-200",
+                                "MonstersGroup1.CenterY()-0"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "Arreter"
+                              },
+                              "parameters": [
+                                "MonstersGroup1"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "CenterX"
+                              },
+                              "parameters": [
+                                "Player",
+                                "<=",
+                                "MonstersGroup1.CenterX()"
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "PathfindingBehavior::SetDestination"
+                              },
+                              "parameters": [
+                                "MonstersGroup1",
+                                "Pathfinding",
+                                "",
+                                "MonstersGroup1.CenterX()+200",
+                                "MonstersGroup1.CenterY()-0"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "Arreter"
+                              },
+                              "parameters": [
+                                "MonstersGroup1"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "CenterY"
+                              },
+                              "parameters": [
+                                "Player",
+                                ">=",
+                                "MonstersGroup1.CenterY()"
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "PathfindingBehavior::SetDestination"
+                              },
+                              "parameters": [
+                                "MonstersGroup1",
+                                "Pathfinding",
+                                "",
+                                "MonstersGroup1.CenterX()-0",
+                                "MonstersGroup1.CenterY()+200"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "Arreter"
+                              },
+                              "parameters": [
+                                "MonstersGroup1"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "CenterY"
+                              },
+                              "parameters": [
+                                "Player",
+                                "<=",
+                                "MonstersGroup1.CenterY()"
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "PathfindingBehavior::SetDestination"
+                              },
+                              "parameters": [
+                                "MonstersGroup1",
+                                "Pathfinding",
+                                "",
+                                "MonstersGroup1.CenterX()-0",
+                                "MonstersGroup1.CenterY()-200"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "Arreter"
+                              },
+                              "parameters": [
+                                "MonstersGroup1"
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Comment",
+                      "color": {
+                        "b": 0,
+                        "g": 160,
+                        "r": 255,
+                        "textB": 0,
+                        "textG": 0,
+                        "textR": 0
+                      },
+                      "comment": "Empurrando"
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "KeyPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "j"
+                          ]
+                        }
+                      ],
+                      "actions": [],
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Comment",
+                          "color": {
+                            "b": 212,
+                            "g": 243,
+                            "r": 15,
+                            "textB": 0,
+                            "textG": 0,
+                            "textR": 0
+                          },
+                          "comment": "Esquerda em cima"
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "CenterX"
+                              },
+                              "parameters": [
+                                "Player",
+                                ">=",
+                                "MonstersGroup1.CenterX()"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "CenterY"
+                              },
+                              "parameters": [
+                                "Player",
+                                ">=",
+                                "MonstersGroup1.CenterY()"
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "PathfindingBehavior::SetDestination"
+                              },
+                              "parameters": [
+                                "MonstersGroup1",
+                                "Pathfinding",
+                                "",
+                                "MonstersGroup1.CenterX()-200",
+                                "MonstersGroup1.CenterY()-200"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "Arreter"
+                              },
+                              "parameters": [
+                                "MonstersGroup1"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Comment",
+                          "color": {
+                            "b": 245,
+                            "g": 195,
+                            "r": 10,
+                            "textB": 0,
+                            "textG": 0,
+                            "textR": 0
+                          },
+                          "comment": "Esquerda em baixo"
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "CenterX"
+                              },
+                              "parameters": [
+                                "Player",
+                                ">=",
+                                "MonstersGroup1.CenterX()"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "CenterY"
+                              },
+                              "parameters": [
+                                "Player",
+                                "<=",
+                                "MonstersGroup1.CenterY()"
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "PathfindingBehavior::SetDestination"
+                              },
+                              "parameters": [
+                                "MonstersGroup1",
+                                "Pathfinding",
+                                "",
+                                "MonstersGroup1.CenterX()-200",
+                                "MonstersGroup1.CenterY()+200"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "Arreter"
+                              },
+                              "parameters": [
+                                "MonstersGroup1"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Comment",
+                          "color": {
+                            "b": 238,
+                            "g": 4,
+                            "r": 252,
+                            "textB": 0,
+                            "textG": 0,
+                            "textR": 0
+                          },
+                          "comment": "Direita em cima"
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "CenterX"
+                              },
+                              "parameters": [
+                                "Player",
+                                "<=",
+                                "MonstersGroup1.CenterX()"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "CenterY"
+                              },
+                              "parameters": [
+                                "Player",
+                                ">=",
+                                "MonstersGroup1.CenterY()"
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "PathfindingBehavior::SetDestination"
+                              },
+                              "parameters": [
+                                "MonstersGroup1",
+                                "Pathfinding",
+                                "",
+                                "MonstersGroup1.CenterX()+200",
+                                "MonstersGroup1.CenterY()-200"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "Arreter"
+                              },
+                              "parameters": [
+                                "MonstersGroup1"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Comment",
+                          "color": {
+                            "b": 247,
+                            "g": 15,
+                            "r": 188,
+                            "textB": 0,
+                            "textG": 0,
+                            "textR": 0
+                          },
+                          "comment": "Direita em baixo"
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "CenterX"
+                              },
+                              "parameters": [
+                                "Player",
+                                "<=",
+                                "MonstersGroup1.CenterX()"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "CenterY"
+                              },
+                              "parameters": [
+                                "Player",
+                                "<=",
+                                "MonstersGroup1.CenterY()"
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "PathfindingBehavior::SetDestination"
+                              },
+                              "parameters": [
+                                "MonstersGroup1",
+                                "Pathfinding",
+                                "",
+                                "MonstersGroup1.CenterX()+200",
+                                "MonstersGroup1.CenterY()+200"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "Arreter"
+                              },
+                              "parameters": [
+                                "MonstersGroup1"
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
                   ]
                 }
-              ]
+              ],
+              "parameters": []
             }
           ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "sabre_de_luz_jedi",
-                "MonstersGroup2",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "ModVarObjet"
-              },
-              "parameters": [
-                "MonstersGroup2",
-                "Vida",
-                "-",
-                "RandomInRange(0,sabre_de_luz_jedi.dano)"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "sabre_de_luz_jedi",
-                "MonstersGroup1",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "ModVarObjet"
-              },
-              "parameters": [
-                "MonstersGroup1",
-                "Vida",
-                "-",
-                "RandomInRange(0,sabre_de_luz_jedi.dano)"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "sabre_de_luz_jedi",
-                "Boss_tema_1",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "ModVarObjet"
-              },
-              "parameters": [
-                "Boss_tema_1",
-                "Vida",
-                "-",
-                "sabre_de_luz_jedi.dano"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
         }
       ]
     },
     {
       "associatedLayout": "dungeon",
       "lastChangeTimeStamp": 0,
-      "name": "monk-class-player",
+      "name": "Monk-class-player",
       "events": [
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -24958,7 +25502,7 @@
     {
       "associatedLayout": "dungeon",
       "lastChangeTimeStamp": 0,
-      "name": "adventurous-class-player",
+      "name": "Adventurous-class-player",
       "events": [
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -25608,7 +26152,7 @@
     {
       "associatedLayout": "dungeon",
       "lastChangeTimeStamp": 0,
-      "name": "warrior-class-player",
+      "name": "Warrior-class-player",
       "events": [
         {
           "type": "BuiltinCommonInstructions::Standard",

@@ -677,7 +677,7 @@
         "alwaysLoaded": false,
         "file": "images/Dungeon/inimigo-nivel-1-removebg-preview.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"images/Dungeon/inimigo-nivel-1-removebg-preview.png\",\"extension\":\".png\"}",
         "name": "images\\Dungeon\\inimigo-nivel-1-removebg-preview.png",
         "smoothed": false,
         "userAdded": true
@@ -3504,8 +3504,39 @@
         "alwaysLoaded": false,
         "file": "assets/images_Dungeon_inimigo-nivel-4-removebg-preview.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/images_Dungeon_inimigo-nivel-4-removebg-preview.png\"}",
         "name": "images\\Dungeon\\inimigo-nivel-4-removebg-preview",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Explosion3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Explosion3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Particles/PixiJS/c693a024a868728da3e9e91c9d23513306582bda6ba10191afc24d6c5667dd5e_Explosion3.png",
+          "name": "Explosion3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "itens-nivel-2/item-monge.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "itens-nivel-2\\item-monge.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/itens-nivel-2_item-monge.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "itens-nivel-2\\item-monge",
         "smoothed": false,
         "userAdded": false
       }
@@ -3542,6 +3573,12 @@
           "name": "dano",
           "type": "number",
           "value": 20
+        },
+        {
+          "folded": true,
+          "name": "Invisivel",
+          "type": "boolean",
+          "value": false
         }
       ],
       "effects": [],
@@ -6525,7 +6562,7 @@
       "folded": true,
       "name": "class",
       "type": "string",
-      "value": "jedi"
+      "value": "monk"
     },
     {
       "folded": true,
@@ -10323,7 +10360,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.47535850871269736,
+        "zoomFactor": 0.4753585087126974,
         "windowMask": false
       },
       "objectsGroups": [
@@ -10380,6 +10417,41 @@
             },
             {
               "name": "ataque_arqueiro_2"
+            }
+          ]
+        },
+        {
+          "name": "GlobalMonsters",
+          "objects": [
+            {
+              "name": "Enemy_nivel_1"
+            },
+            {
+              "name": "Enemy_nivel_2"
+            },
+            {
+              "name": "Enemy_nivel_3"
+            },
+            {
+              "name": "Enemy_nivel_4"
+            },
+            {
+              "name": "Boss_tema_1"
+            },
+            {
+              "name": "Enemy_nivel_9"
+            },
+            {
+              "name": "Enemy_nivel_8"
+            },
+            {
+              "name": "Boss_tema_2"
+            },
+            {
+              "name": "Enemy_nivel_7"
+            },
+            {
+              "name": "Enemy_nivel_6"
             }
           ]
         }
@@ -10453,7 +10525,7 @@
           "persistentUuid": "c282954e-36c0-46e8-9cdc-d6403f27ca4b",
           "width": 2066,
           "x": -62,
-          "y": -29,
+          "y": -55,
           "zOrder": -1,
           "numberProperties": [],
           "stringProperties": [],
@@ -10858,11 +10930,12 @@
           ],
           "animations": [
             {
-              "name": "",
+              "name": "images\\Dungeon\\inimigo-nivel-1-removebg-preview",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
@@ -11259,7 +11332,7 @@
               "folded": true,
               "name": "Vida",
               "type": "number",
-              "value": 10
+              "value": 100
             },
             {
               "folded": true,
@@ -11686,6 +11759,12 @@
               "name": "xp",
               "type": "number",
               "value": 35
+            },
+            {
+              "folded": true,
+              "name": "limitAttack",
+              "type": "number",
+              "value": 40
             }
           ],
           "effects": [],
@@ -13133,7 +13212,7 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "ataque_assitent_monge",
+          "name": "ataque1_assitent_monge",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [
@@ -13525,6 +13604,129 @@
               ]
             }
           ]
+        },
+        {
+          "additive": false,
+          "assetStoreId": "ceade84d2cc0571dc97ba3ad034dc7b7766670668e8a16c247d32a8a4c0f55ed",
+          "destroyWhenNoParticles": true,
+          "emitterAngleA": 0,
+          "emitterAngleB": 400,
+          "emitterForceMax": 200,
+          "emitterForceMin": 300,
+          "flow": 800,
+          "jumpForwardInTimeOnCreation": 0,
+          "maxParticleNb": 250,
+          "name": "fumaca_ninja",
+          "particleAlpha1": 255,
+          "particleAlpha2": 0,
+          "particleAlphaRandomness1": 0,
+          "particleAlphaRandomness2": 0,
+          "particleAngle1": 0,
+          "particleAngle2": 0,
+          "particleAngleRandomness1": 0,
+          "particleAngleRandomness2": 0,
+          "particleBlue1": 160,
+          "particleBlue2": 12,
+          "particleGravityX": 0,
+          "particleGravityY": 0,
+          "particleGreen1": 223,
+          "particleGreen2": 15,
+          "particleLifeTimeMax": 1,
+          "particleLifeTimeMin": 1,
+          "particleRed1": 255,
+          "particleRed2": 16,
+          "particleSize1": 500,
+          "particleSize2": 120,
+          "particleSizeRandomness1": 0,
+          "particleSizeRandomness2": 0,
+          "rendererParam1": 1,
+          "rendererParam2": 1,
+          "rendererType": "Quad",
+          "tank": 50,
+          "textureParticleName": "Explosion3.png",
+          "type": "ParticleSystem::ParticleEmitter",
+          "zoneRadius": 10,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "ataque2_assitent_monge",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "acceleration": 400,
+              "allowDiagonals": true,
+              "angleOffset": 0,
+              "angularMaxSpeed": 180,
+              "cellHeight": 20,
+              "cellWidth": 20,
+              "extraBorder": 0,
+              "gridOffsetX": 0,
+              "gridOffsetY": 0,
+              "maxSpeed": 200,
+              "name": "Pathfinding",
+              "rotateObject": false,
+              "smoothingMaxCellGap": 1,
+              "type": "PathfindingBehavior::PathfindingBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "itens-nivel-2\\item-monge",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "itens-nivel-2\\item-monge",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 28,
+                            "y": 0
+                          },
+                          {
+                            "x": 28,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -13534,13 +13736,16 @@
             "folderName": "MongeObjects",
             "children": [
               {
+                "objectName": "ataque2_assitent_monge"
+              },
+              {
                 "objectName": "BlueFlatBar_assistent"
               },
               {
                 "objectName": "GreenFlatBar_assistent"
               },
               {
-                "objectName": "ataque_assitent_monge"
+                "objectName": "ataque1_assitent_monge"
               }
             ]
           },
@@ -13571,6 +13776,9 @@
           {
             "folderName": "NinjaObjects",
             "children": [
+              {
+                "objectName": "fumaca_ninja"
+              },
               {
                 "objectName": "adaga_ninja"
               },
@@ -13694,7 +13902,19 @@
           "events": [
             {
               "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanObjectVariable"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Invisivel",
+                    "False",
+                    ""
+                  ]
+                }
+              ],
               "actions": [
                 {
                   "type": {
@@ -13706,6 +13926,46 @@
                     "=",
                     "Player.X()",
                     "Player.Y()"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanObjectVariable"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Invisivel",
+                    "True",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "StringVariable"
+                  },
+                  "parameters": [
+                    "class",
+                    "=",
+                    "\"monk\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PathfindingBehavior::SetDestination"
+                  },
+                  "parameters": [
+                    "MonstersGroup1",
+                    "Pathfinding",
+                    "=",
+                    "assistent_monge.X()",
+                    "assistent_monge.Y()"
                   ]
                 }
               ]
@@ -24815,6 +25075,485 @@
       "name": "Monk-class-player",
       "events": [
         {
+          "colorB": 255,
+          "colorG": 255,
+          "colorR": 255,
+          "creationTime": 0,
+          "name": "Colisões",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "assistent_monge",
+                    "MonstersGroup1",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "ataque1_assitent_monge",
+                    "assistent_monge.PointX(\"attack\")",
+                    "assistent_monge.PointY(\"attack\")",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ScalableCapability::ScalableBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "ataque1_assitent_monge",
+                    "Scale",
+                    "*",
+                    "0.3"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "mana_assistent",
+                    "-",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PathfindingBehavior::SetDestination"
+                  },
+                  "parameters": [
+                    "ataque1_assitent_monge",
+                    "Pathfinding",
+                    "",
+                    "MonstersGroup1.CenterX()",
+                    "MonstersGroup1.CenterY()"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "assistent_monge",
+                    "MonstersGroup2",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "ataque1_assitent_monge",
+                    "assistent_monge.PointX(\"attack\")",
+                    "assistent_monge.PointY(\"attack\")",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ScalableCapability::ScalableBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "ataque1_assitent_monge",
+                    "Scale",
+                    "*",
+                    "0.3"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "mana_assistent",
+                    "-",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PathfindingBehavior::SetDestination"
+                  },
+                  "parameters": [
+                    "ataque1_assitent_monge",
+                    "Pathfinding",
+                    "",
+                    "MonstersGroup2.CenterX()",
+                    "MonstersGroup2.CenterY()"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "assistent_monge",
+                    "Boss_tema_1",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "ataque1_assitent_monge",
+                    "assistent_monge.PointX(\"attack\")",
+                    "assistent_monge.PointY(\"attack\")",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ScalableCapability::ScalableBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "ataque1_assitent_monge",
+                    "Scale",
+                    "*",
+                    "0.3"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "mana_assistent",
+                    "-",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PathfindingBehavior::SetDestination"
+                  },
+                  "parameters": [
+                    "ataque1_assitent_monge",
+                    "Pathfinding",
+                    "",
+                    "Boss_tema_1.CenterX()",
+                    "Boss_tema_1.CenterY()"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "ataque1_assitent_monge",
+                    "MonstersGroup1",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PathfindingBehavior::SetDestination"
+                  },
+                  "parameters": [
+                    "ataque1_assitent_monge",
+                    "Pathfinding",
+                    "",
+                    "MonstersGroup1.CenterX()",
+                    "MonstersGroup1.CenterY()"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "0.4"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "MonstersGroup1",
+                    "Vida",
+                    "-",
+                    "RandomInRange(0, ataque1_assitent_monge.dano)"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "ataque1_assitent_monge",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "ataque1_assitent_monge",
+                    "MonstersGroup2",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PathfindingBehavior::SetDestination"
+                  },
+                  "parameters": [
+                    "ataque1_assitent_monge",
+                    "Pathfinding",
+                    "",
+                    "MonstersGroup2.CenterX()",
+                    "MonstersGroup2.CenterY()"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "0.4"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "MonstersGroup2",
+                    "Vida",
+                    "-",
+                    "RandomInRange(0, ataque1_assitent_monge.dano)"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "ataque1_assitent_monge",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "ataque1_assitent_monge",
+                    "Boss_tema_1",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PathfindingBehavior::SetDestination"
+                  },
+                  "parameters": [
+                    "ataque1_assitent_monge",
+                    "Pathfinding",
+                    "",
+                    "Boss_tema_1.CenterX()",
+                    "Boss_tema_1.CenterY()"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "0.4"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "Boss_tema_1",
+                    "Vida",
+                    "-",
+                    "ataque1_assitent_monge.dano"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "ataque1_assitent_monge",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "assistent_monge",
+                    "GlobalMonsters",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "ataque2_assitent_monge",
+                    "assistent_monge.CenterX()",
+                    "assistent_monge.CenterY()",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ScalableCapability::ScalableBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "ataque2_assitent_monge",
+                    "Scale",
+                    "*",
+                    "5.0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "mana_assistent",
+                    "-",
+                    "5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PathfindingBehavior::SetDestination"
+                  },
+                  "parameters": [
+                    "ataque2_assitent_monge",
+                    "Pathfinding",
+                    "",
+                    "GlobalMonsters.CenterX()",
+                    "GlobalMonsters.CenterY()"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "hp_assistent",
+                    "-",
+                    "RandomInRange(0, GlobalMonsters.limitAttack)"
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -24831,669 +25570,391 @@
           "actions": [],
           "events": [
             {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": []
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "KeyPressed"
-                  },
-                  "parameters": [
-                    "",
-                    "h"
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "SetBooleanVariable"
-                  },
-                  "parameters": [
-                    "invoke",
-                    "True",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PathfindingBehavior::SetDestination"
-                  },
-                  "parameters": [
-                    "assistent_monge",
-                    "Pathfinding",
-                    "",
-                    "MonstersGroup1.X()",
-                    "MonstersGroup1.Y()"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": true,
-                    "value": "KeyPressed"
-                  },
-                  "parameters": [
-                    "",
-                    "h"
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "SetBooleanVariable"
-                  },
-                  "parameters": [
-                    "invoke",
-                    "True",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PathfindingBehavior::SetDestination"
-                  },
-                  "parameters": [
-                    "assistent_monge",
-                    "Pathfinding",
-                    "",
-                    "Player.X()",
-                    "Player.Y()"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": [
-                {
-                  "type": {
-                    "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
-                  },
-                  "parameters": [
-                    "GreenFlatBar_assistent",
-                    "=",
-                    "GlobalVariable(hp_assistent)",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetMaxValue"
-                  },
-                  "parameters": [
-                    "GreenFlatBar_assistent",
-                    "=",
-                    "GlobalVariable(limitHpAssistent)",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
-                  },
-                  "parameters": [
-                    "BlueFlatBar_assistent",
-                    "=",
-                    "GlobalVariable(mana_assistent)",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetMaxValue"
-                  },
-                  "parameters": [
-                    "BlueFlatBar_assistent",
-                    "=",
-                    "GlobalVariable(limitManaAssistent)",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
-                  },
-                  "parameters": [
-                    "BlueFlatBar",
-                    "=",
-                    "GlobalVariable(mana)",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetMaxValue"
-                  },
-                  "parameters": [
-                    "BlueFlatBar",
-                    "=",
-                    "GlobalVariable(limitMana)",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "MettreXY"
-                  },
-                  "parameters": [
-                    "BlueFlatBar_assistent",
-                    "=",
-                    "assistent_monge.PointX(\"lifebar\")-125",
-                    "=",
-                    "assistent_monge.PointY(\"lifebar\")-50"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": [
-                {
-                  "type": {
-                    "value": "MettreXY"
-                  },
-                  "parameters": [
-                    "GreenFlatBar_assistent",
-                    "=",
-                    "assistent_monge.PointX(\"lifebar\")-125",
-                    "=",
-                    "assistent_monge.PointY(\"lifebar\")-100"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Montre"
-                  },
-                  "parameters": [
-                    "BlueFlatBar",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "MettreXY"
-                  },
-                  "parameters": [
-                    "BlueFlatBar",
-                    "=",
-                    "Player.PointX(\"lifebar\")-125",
-                    "=",
-                    "Player.PointY(\"lifebar\")-50"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "DepartScene"
-                  },
-                  "parameters": [
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Create"
-                  },
-                  "parameters": [
-                    "",
-                    "assistent_monge",
-                    "Player.X()+200",
-                    "Player.Y()",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ScalableCapability::ScalableBehavior::SetValue"
-                  },
-                  "parameters": [
-                    "assistent_monge",
-                    "Scale",
-                    "=",
-                    "0.25"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Create"
-                  },
-                  "parameters": [
-                    "",
-                    "GreenFlatBar_assistent",
-                    "assistent_monge.X()",
-                    "assistent_monge.Y()",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Create"
-                  },
-                  "parameters": [
-                    "",
-                    "BlueFlatBar_assistent",
-                    "assistent_monge.X()",
-                    "assistent_monge.Y()",
-                    ""
-                  ]
-                }
-              ]
-            },
-            {
-              "colorB": 228,
-              "colorG": 176,
-              "colorR": 74,
+              "colorB": 177,
+              "colorG": 223,
+              "colorR": 245,
               "creationTime": 0,
-              "name": "Feito",
+              "folded": true,
+              "name": "Level 1",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
-              "events": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "h"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetBooleanVariable"
+                      },
+                      "parameters": [
+                        "invoke",
+                        "True",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetBooleanObjectVariable"
+                      },
+                      "parameters": [
+                        "Player",
+                        "Invisivel",
+                        "True",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PathfindingBehavior::SetDestination"
+                      },
+                      "parameters": [
+                        "assistent_monge",
+                        "Pathfinding",
+                        "",
+                        "GlobalMonsters.X()",
+                        "GlobalMonsters.Y()"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "h"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "j"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetBooleanVariable"
+                      },
+                      "parameters": [
+                        "invoke",
+                        "True",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetBooleanObjectVariable"
+                      },
+                      "parameters": [
+                        "Player",
+                        "Invisivel",
+                        "False",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PathfindingBehavior::SetDestination"
+                      },
+                      "parameters": [
+                        "assistent_monge",
+                        "Pathfinding",
+                        "",
+                        "Player.X()",
+                        "Player.Y()"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
+                      },
+                      "parameters": [
+                        "GreenFlatBar_assistent",
+                        "=",
+                        "GlobalVariable(hp_assistent)",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetMaxValue"
+                      },
+                      "parameters": [
+                        "GreenFlatBar_assistent",
+                        "=",
+                        "GlobalVariable(limitHpAssistent)",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
+                      },
+                      "parameters": [
+                        "BlueFlatBar_assistent",
+                        "=",
+                        "GlobalVariable(mana_assistent)",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetMaxValue"
+                      },
+                      "parameters": [
+                        "BlueFlatBar_assistent",
+                        "=",
+                        "GlobalVariable(limitManaAssistent)",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
+                      },
+                      "parameters": [
+                        "BlueFlatBar",
+                        "=",
+                        "GlobalVariable(mana)",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetMaxValue"
+                      },
+                      "parameters": [
+                        "BlueFlatBar",
+                        "=",
+                        "GlobalVariable(limitMana)",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "MettreXY"
+                      },
+                      "parameters": [
+                        "BlueFlatBar_assistent",
+                        "=",
+                        "assistent_monge.PointX(\"lifebar\")-125",
+                        "=",
+                        "assistent_monge.PointY(\"lifebar\")-50"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "MettreXY"
+                      },
+                      "parameters": [
+                        "GreenFlatBar_assistent",
+                        "=",
+                        "assistent_monge.PointX(\"lifebar\")-125",
+                        "=",
+                        "assistent_monge.PointY(\"lifebar\")-100"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Montre"
+                      },
+                      "parameters": [
+                        "BlueFlatBar",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "MettreXY"
+                      },
+                      "parameters": [
+                        "BlueFlatBar",
+                        "=",
+                        "Player.PointX(\"lifebar\")-125",
+                        "=",
+                        "Player.PointY(\"lifebar\")-50"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "DepartScene"
+                      },
+                      "parameters": [
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "assistent_monge",
+                        "Player.X()+200",
+                        "Player.Y()",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ScalableCapability::ScalableBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "assistent_monge",
+                        "Scale",
+                        "=",
+                        "0.25"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "GreenFlatBar_assistent",
+                        "assistent_monge.X()",
+                        "assistent_monge.Y()",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "BlueFlatBar_assistent",
+                        "assistent_monge.X()",
+                        "assistent_monge.Y()",
+                        ""
+                      ]
+                    }
+                  ]
+                }
+              ],
               "parameters": []
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "assistent_monge",
-                "MonstersGroup1",
-                "",
-                "",
-                ""
-              ]
             },
             {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
+              "colorB": 4,
+              "colorG": 161,
+              "colorR": 241,
+              "creationTime": 0,
+              "folded": true,
+              "name": "Level 2",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "NumberVariable"
+                      },
+                      "parameters": [
+                        "level",
+                        ">=",
+                        "2"
+                      ]
+                    }
+                  ],
+                  "actions": [],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "KeyPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "j"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetBooleanVariable"
+                          },
+                          "parameters": [
+                            "invoke",
+                            "True",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetBooleanObjectVariable"
+                          },
+                          "parameters": [
+                            "Player",
+                            "Invisivel",
+                            "True",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "PathfindingBehavior::SetDestination"
+                          },
+                          "parameters": [
+                            "assistent_monge",
+                            "Pathfinding",
+                            "",
+                            "GlobalMonsters.X()",
+                            "GlobalMonsters.Y()"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
               "parameters": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Create"
-              },
-              "parameters": [
-                "",
-                "ataque_assitent_monge",
-                "assistent_monge.PointX(\"attack\")",
-                "assistent_monge.PointY(\"attack\")",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "ScalableCapability::ScalableBehavior::SetValue"
-              },
-              "parameters": [
-                "ataque_assitent_monge",
-                "Scale",
-                "*",
-                "0.3"
-              ]
-            },
-            {
-              "type": {
-                "value": "SetNumberVariable"
-              },
-              "parameters": [
-                "mana_assistent",
-                "-",
-                "1"
-              ]
-            },
-            {
-              "type": {
-                "value": "PathfindingBehavior::SetDestination"
-              },
-              "parameters": [
-                "ataque_assitent_monge",
-                "Pathfinding",
-                "",
-                "MonstersGroup1.CenterX()",
-                "MonstersGroup1.CenterY()"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "assistent_monge",
-                "MonstersGroup2",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Create"
-              },
-              "parameters": [
-                "",
-                "ataque_assitent_monge",
-                "assistent_monge.PointX(\"attack\")",
-                "assistent_monge.PointY(\"attack\")",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "ScalableCapability::ScalableBehavior::SetValue"
-              },
-              "parameters": [
-                "ataque_assitent_monge",
-                "Scale",
-                "*",
-                "0.3"
-              ]
-            },
-            {
-              "type": {
-                "value": "SetNumberVariable"
-              },
-              "parameters": [
-                "mana_assistent",
-                "-",
-                "1"
-              ]
-            },
-            {
-              "type": {
-                "value": "PathfindingBehavior::SetDestination"
-              },
-              "parameters": [
-                "ataque_assitent_monge",
-                "Pathfinding",
-                "",
-                "MonstersGroup2.CenterX()",
-                "MonstersGroup2.CenterY()"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "assistent_monge",
-                "Boss_tema_1",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Create"
-              },
-              "parameters": [
-                "",
-                "ataque_assitent_monge",
-                "assistent_monge.PointX(\"attack\")",
-                "assistent_monge.PointY(\"attack\")",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "ScalableCapability::ScalableBehavior::SetValue"
-              },
-              "parameters": [
-                "ataque_assitent_monge",
-                "Scale",
-                "*",
-                "0.3"
-              ]
-            },
-            {
-              "type": {
-                "value": "SetNumberVariable"
-              },
-              "parameters": [
-                "mana_assistent",
-                "-",
-                "1"
-              ]
-            },
-            {
-              "type": {
-                "value": "PathfindingBehavior::SetDestination"
-              },
-              "parameters": [
-                "ataque_assitent_monge",
-                "Pathfinding",
-                "",
-                "Boss_tema_1.CenterX()",
-                "Boss_tema_1.CenterY()"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "ataque_assitent_monge",
-                "MonstersGroup1",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "PathfindingBehavior::SetDestination"
-              },
-              "parameters": [
-                "ataque_assitent_monge",
-                "Pathfinding",
-                "",
-                "MonstersGroup1.CenterX()",
-                "MonstersGroup1.CenterY()"
-              ]
-            },
-            {
-              "type": {
-                "value": "Wait"
-              },
-              "parameters": [
-                "0.4"
-              ]
-            },
-            {
-              "type": {
-                "value": "ModVarObjet"
-              },
-              "parameters": [
-                "MonstersGroup1",
-                "Vida",
-                "-",
-                "RandomInRange(0,ataque_assitent_monge.dano)"
-              ]
-            },
-            {
-              "type": {
-                "value": "Delete"
-              },
-              "parameters": [
-                "ataque_assitent_monge",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "ataque_assitent_monge",
-                "MonstersGroup2",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "PathfindingBehavior::SetDestination"
-              },
-              "parameters": [
-                "ataque_assitent_monge",
-                "Pathfinding",
-                "",
-                "MonstersGroup2.CenterX()",
-                "MonstersGroup2.CenterY()"
-              ]
-            },
-            {
-              "type": {
-                "value": "Wait"
-              },
-              "parameters": [
-                "0.4"
-              ]
-            },
-            {
-              "type": {
-                "value": "ModVarObjet"
-              },
-              "parameters": [
-                "MonstersGroup2",
-                "Vida",
-                "-",
-                "RandomInRange(0,ataque_assitent_monge.dano)"
-              ]
-            },
-            {
-              "type": {
-                "value": "Delete"
-              },
-              "parameters": [
-                "ataque_assitent_monge",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "ataque_assitent_monge",
-                "Boss_tema_1",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "PathfindingBehavior::SetDestination"
-              },
-              "parameters": [
-                "ataque_assitent_monge",
-                "Pathfinding",
-                "",
-                "Boss_tema_1.CenterX()",
-                "Boss_tema_1.CenterY()"
-              ]
-            },
-            {
-              "type": {
-                "value": "Wait"
-              },
-              "parameters": [
-                "0.4"
-              ]
-            },
-            {
-              "type": {
-                "value": "ModVarObjet"
-              },
-              "parameters": [
-                "Boss_tema_1",
-                "Vida",
-                "-",
-                "ataque_assitent_monge.dano"
-              ]
-            },
-            {
-              "type": {
-                "value": "Delete"
-              },
-              "parameters": [
-                "ataque_assitent_monge",
-                ""
-              ]
             }
           ]
         }
@@ -26437,115 +26898,41 @@
       "name": "Ninja-class-player",
       "events": [
         {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "VarGlobalTxt"
-              },
-              "parameters": [
-                "class",
-                "=",
-                "GlobalVariableString(ninja)"
-              ]
-            }
-          ],
-          "actions": [],
+          "colorB": 241,
+          "colorG": 11,
+          "colorR": 214,
+          "creationTime": 0,
+          "folded": true,
+          "name": "Colisões",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
           "events": [
             {
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
                   "type": {
-                    "value": "KeyReleased"
+                    "value": "CollisionNP"
                   },
                   "parameters": [
+                    "ataque_ninja",
+                    "MonstersGroup2",
                     "",
-                    "h"
+                    "",
+                    ""
                   ]
-                },
-                {
-                  "type": {
-                    "value": "VarGlobal"
-                  },
-                  "parameters": [
-                    "shuriken",
-                    ">=",
-                    "1"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
                 }
               ],
               "actions": [
                 {
                   "type": {
-                    "value": "FireBullet::FireBullet::FireTowardPosition"
+                    "value": "ModVarObjet"
                   },
                   "parameters": [
-                    "adaga_ninja",
-                    "FireBullet",
-                    "adaga_ninja.PointX(\"shuriken\")",
-                    "adaga_ninja.PointY(\"shuriken\")",
-                    "ataque_ninja",
-                    "MouseX()",
-                    "MouseY()",
-                    "500",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ResizableCapability::ResizableBehavior::SetHeight"
-                  },
-                  "parameters": [
-                    "ataque_ninja",
-                    "Resizable",
-                    "*",
-                    "0.4"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ResizableCapability::ResizableBehavior::SetWidth"
-                  },
-                  "parameters": [
-                    "ataque_ninja",
-                    "Resizable",
-                    "*",
-                    "0.4"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetAngle"
-                  },
-                  "parameters": [
-                    "ataque_ninja",
-                    "+",
-                    "45"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ModVarGlobal"
-                  },
-                  "parameters": [
-                    "shuriken",
+                    "MonstersGroup2",
+                    "Vida",
                     "-",
-                    "1"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Wait"
-                  },
-                  "parameters": [
-                    "5"
+                    "RandomInRange(0,ataque_ninja.dano)"
                   ]
                 },
                 {
@@ -26564,44 +26951,75 @@
               "conditions": [
                 {
                   "type": {
-                    "value": "BuiltinCommonInstructions::Once"
+                    "value": "CollisionNP"
                   },
-                  "parameters": []
+                  "parameters": [
+                    "ataque_ninja",
+                    "MonstersGroup1",
+                    "",
+                    "",
+                    ""
+                  ]
                 }
               ],
               "actions": [
                 {
                   "type": {
-                    "value": "Create"
+                    "value": "ModVarObjet"
                   },
                   "parameters": [
-                    "",
-                    "adaga_ninja",
-                    "Player.PointX(\"attack\")",
-                    "Player.PointY(\"attack\")",
+                    "MonstersGroup1",
+                    "Vida",
+                    "-",
+                    "RandomInRange(0,ataque_ninja.dano)"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "ataque_ninja",
                     ""
                   ]
-                },
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
                 {
                   "type": {
-                    "value": "ResizableCapability::ResizableBehavior::SetHeight"
+                    "value": "CollisionNP"
                   },
                   "parameters": [
-                    "adaga_ninja",
-                    "Resizable",
-                    "*",
-                    "0.5"
+                    "ataque_ninja",
+                    "Boss_tema_1",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "Boss_tema_1",
+                    "Vida",
+                    "-",
+                    "ataque_ninja.dano"
                   ]
                 },
                 {
                   "type": {
-                    "value": "ResizableCapability::ResizableBehavior::SetWidth"
+                    "value": "Delete"
                   },
                   "parameters": [
-                    "adaga_ninja",
-                    "Resizable",
-                    "*",
-                    "0.5"
+                    "ataque_ninja",
+                    ""
                   ]
                 }
               ]
@@ -26612,179 +27030,393 @@
               "actions": [
                 {
                   "type": {
-                    "value": "MettreXY"
+                    "value": "Rotate"
                   },
                   "parameters": [
-                    "adaga_ninja",
-                    "=",
-                    "Player.PointX(\"attack\")",
-                    "=",
-                    "Player.PointY(\"attack\")"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "RotateTowardPosition"
-                  },
-                  "parameters": [
-                    "adaga_ninja",
-                    "MouseX()",
-                    "MouseY()",
-                    "0",
+                    "ataque_ninja",
+                    "ataque_ninja.Variable(angle)",
                     ""
                   ]
                 }
               ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "ataque_ninja",
+                    "angle",
+                    "=",
+                    "ataque_ninja.angle+10"
+                  ]
+                }
+              ]
             }
-          ]
+          ],
+          "parameters": []
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
               "type": {
-                "value": "CollisionNP"
+                "value": "VarGlobalTxt"
               },
               "parameters": [
-                "ataque_ninja",
-                "MonstersGroup2",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "ModVarObjet"
-              },
-              "parameters": [
-                "MonstersGroup2",
-                "Vida",
-                "-",
-                "RandomInRange(0,ataque_ninja.dano)"
-              ]
-            },
-            {
-              "type": {
-                "value": "Delete"
-              },
-              "parameters": [
-                "ataque_ninja",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "ataque_ninja",
-                "MonstersGroup1",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "ModVarObjet"
-              },
-              "parameters": [
-                "MonstersGroup1",
-                "Vida",
-                "-",
-                "RandomInRange(0,ataque_ninja.dano)"
-              ]
-            },
-            {
-              "type": {
-                "value": "Delete"
-              },
-              "parameters": [
-                "ataque_ninja",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "ataque_ninja",
-                "Boss_tema_1",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "ModVarObjet"
-              },
-              "parameters": [
-                "Boss_tema_1",
-                "Vida",
-                "-",
-                "ataque_ninja.dano"
-              ]
-            },
-            {
-              "type": {
-                "value": "Delete"
-              },
-              "parameters": [
-                "ataque_ninja",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [
-            {
-              "type": {
-                "value": "Rotate"
-              },
-              "parameters": [
-                "ataque_ninja",
-                "ataque_ninja.Variable(angle)",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [
-            {
-              "type": {
-                "value": "ModVarObjet"
-              },
-              "parameters": [
-                "ataque_ninja",
-                "angle",
+                "class",
                 "=",
-                "ataque_ninja.angle+10"
+                "GlobalVariableString(ninja)"
               ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "colorB": 0,
+              "colorG": 0,
+              "colorR": 0,
+              "creationTime": 0,
+              "name": "Level 1",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyReleased"
+                      },
+                      "parameters": [
+                        "",
+                        "h"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "VarGlobal"
+                      },
+                      "parameters": [
+                        "shuriken",
+                        ">=",
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "FireBullet::FireBullet::FireTowardPosition"
+                      },
+                      "parameters": [
+                        "adaga_ninja",
+                        "FireBullet",
+                        "adaga_ninja.PointX(\"shuriken\")",
+                        "adaga_ninja.PointY(\"shuriken\")",
+                        "ataque_ninja",
+                        "MouseX()",
+                        "MouseY()",
+                        "500",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ResizableCapability::ResizableBehavior::SetHeight"
+                      },
+                      "parameters": [
+                        "ataque_ninja",
+                        "Resizable",
+                        "*",
+                        "0.4"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ResizableCapability::ResizableBehavior::SetWidth"
+                      },
+                      "parameters": [
+                        "ataque_ninja",
+                        "Resizable",
+                        "*",
+                        "0.4"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetAngle"
+                      },
+                      "parameters": [
+                        "ataque_ninja",
+                        "+",
+                        "45"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "shuriken",
+                        "-",
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Wait"
+                      },
+                      "parameters": [
+                        "5"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Delete"
+                      },
+                      "parameters": [
+                        "ataque_ninja",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "adaga_ninja",
+                        "Player.PointX(\"attack\")",
+                        "Player.PointY(\"attack\")",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ResizableCapability::ResizableBehavior::SetHeight"
+                      },
+                      "parameters": [
+                        "adaga_ninja",
+                        "Resizable",
+                        "*",
+                        "0.5"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ResizableCapability::ResizableBehavior::SetWidth"
+                      },
+                      "parameters": [
+                        "adaga_ninja",
+                        "Resizable",
+                        "*",
+                        "0.5"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "MettreXY"
+                      },
+                      "parameters": [
+                        "adaga_ninja",
+                        "=",
+                        "Player.PointX(\"attack\")",
+                        "=",
+                        "Player.PointY(\"attack\")"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "RotateTowardPosition"
+                      },
+                      "parameters": [
+                        "adaga_ninja",
+                        "MouseX()",
+                        "MouseY()",
+                        "0",
+                        ""
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": []
+            },
+            {
+              "colorB": 63,
+              "colorG": 54,
+              "colorR": 38,
+              "creationTime": 0,
+              "name": "Level 2",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "NumberVariable"
+                      },
+                      "parameters": [
+                        "level",
+                        ">=",
+                        "2"
+                      ]
+                    }
+                  ],
+                  "actions": [],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "KeyReleased"
+                          },
+                          "parameters": [
+                            "",
+                            "j"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BooleanObjectVariable"
+                          },
+                          "parameters": [
+                            "Player",
+                            "Invisivel",
+                            "False",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "Create"
+                          },
+                          "parameters": [
+                            "",
+                            "fumaca_ninja",
+                            "Player.CenterX()",
+                            "Player.CenterY()",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetBooleanObjectVariable"
+                          },
+                          "parameters": [
+                            "Player",
+                            "Invisivel",
+                            "True",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "OpacityCapability::OpacityBehavior::SetValue"
+                          },
+                          "parameters": [
+                            "Player",
+                            "Opacity",
+                            "=",
+                            "50"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ResetTimer"
+                          },
+                          "parameters": [
+                            "3",
+                            "\"InvisivelTimer\""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "CompareTimer"
+                          },
+                          "parameters": [
+                            "",
+                            "\"InvisivelTimer\"",
+                            ">=",
+                            "4"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetBooleanObjectVariable"
+                          },
+                          "parameters": [
+                            "Player",
+                            "Invisivel",
+                            "False",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "OpacityCapability::OpacityBehavior::SetValue"
+                          },
+                          "parameters": [
+                            "Player",
+                            "Opacity",
+                            "=",
+                            "255"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": []
             }
           ]
         }

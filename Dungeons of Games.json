@@ -6459,6 +6459,128 @@
         "characterSize": 60,
         "color": "0;0;0"
       }
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "ItemBoss1",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "images\\Dungeon\\boss-nivel-5-removebg-preview",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\Dungeon\\boss-nivel-5-removebg-preview3",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 1,
+                        "y": 0
+                      },
+                      {
+                        "x": 22,
+                        "y": 0
+                      },
+                      {
+                        "x": 22,
+                        "y": 19
+                      },
+                      {
+                        "x": 1,
+                        "y": 19
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "ItemBoss2",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "images\\Dungeon\\boss-nivel-5-removebg-preview",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images\\Dungeon\\boss-nivel-5-removebg-preview4",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 1,
+                        "y": 0
+                      },
+                      {
+                        "x": 26,
+                        "y": 0
+                      },
+                      {
+                        "x": 26,
+                        "y": 11
+                      },
+                      {
+                        "x": 1,
+                        "y": 11
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -6490,6 +6612,12 @@
       },
       {
         "objectName": "Text_xp"
+      },
+      {
+        "objectName": "ItemBoss1"
+      },
+      {
+        "objectName": "ItemBoss2"
       }
     ]
   },
@@ -6508,6 +6636,14 @@
         },
         {
           "name": "pocao_de_mana"
+        }
+      ]
+    },
+    {
+      "name": "Bag_itens",
+      "objects": [
+        {
+          "name": "ItemBoss1"
         }
       ]
     }
@@ -6674,6 +6810,29 @@
       "name": "level",
       "type": "number",
       "value": 2
+    },
+    {
+      "name": "Bag",
+      "type": "array",
+      "children": [
+        {
+          "type": "structure",
+          "children": [
+            {
+              "folded": true,
+              "name": "Nome",
+              "type": "string",
+              "value": "ItemBoss1"
+            },
+            {
+              "folded": true,
+              "name": "Quantidade",
+              "type": "number",
+              "value": 0
+            }
+          ]
+        }
+      ]
     }
   ],
   "layouts": [
@@ -10443,7 +10602,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.4598521426736373,
+        "zoomFactor": 0.5079575118131778,
         "windowMask": false
       },
       "objectsGroups": [
@@ -11929,128 +12088,6 @@
                           {
                             "x": 0,
                             "y": 70
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "ItemBoss1",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "images\\Dungeon\\boss-nivel-5-removebg-preview",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "images\\Dungeon\\boss-nivel-5-removebg-preview3",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 1,
-                            "y": 0
-                          },
-                          {
-                            "x": 22,
-                            "y": 0
-                          },
-                          {
-                            "x": 22,
-                            "y": 19
-                          },
-                          {
-                            "x": 1,
-                            "y": 19
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "ItemBoss2",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "images\\Dungeon\\boss-nivel-5-removebg-preview",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "images\\Dungeon\\boss-nivel-5-removebg-preview4",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 1,
-                            "y": 0
-                          },
-                          {
-                            "x": 26,
-                            "y": 0
-                          },
-                          {
-                            "x": 26,
-                            "y": 11
-                          },
-                          {
-                            "x": 1,
-                            "y": 11
                           }
                         ]
                       ]
@@ -14060,9 +14097,6 @@
             "folderName": "piso1",
             "children": [
               {
-                "objectName": "ItemBoss1"
-              },
-              {
                 "objectName": "Boss_tema_1"
               },
               {
@@ -14082,9 +14116,6 @@
           {
             "folderName": "piso2",
             "children": [
-              {
-                "objectName": "ItemBoss2"
-              },
               {
                 "objectName": "Boss_tema_2"
               },
@@ -14305,6 +14336,13 @@
             }
           ],
           "parameters": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "Bag"
         },
         {
           "colorB": 228,
@@ -21280,7 +21318,34 @@
         "zoomFactor": 0.3645833333333333,
         "windowMask": false
       },
-      "objectsGroups": [],
+      "objectsGroups": [
+        {
+          "name": "itens-vendiveis",
+          "objects": [
+            {
+              "name": "item_casco"
+            },
+            {
+              "name": "item_planta"
+            },
+            {
+              "name": "item_ferro"
+            },
+            {
+              "name": "item_madeira"
+            },
+            {
+              "name": "item_cristal"
+            },
+            {
+              "name": "ItemBoss2"
+            },
+            {
+              "name": "ItemBoss1"
+            }
+          ]
+        }
+      ],
       "variables": [],
       "instances": [],
       "objects": [
@@ -21290,7 +21355,14 @@
           "name": "item_casco",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [],
+          "variables": [
+            {
+              "folded": true,
+              "name": "price",
+              "type": "number",
+              "value": 20
+            }
+          ],
           "effects": [],
           "behaviors": [],
           "animations": [
@@ -21350,7 +21422,14 @@
           "name": "item_planta",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [],
+          "variables": [
+            {
+              "folded": true,
+              "name": "price",
+              "type": "number",
+              "value": 30
+            }
+          ],
           "effects": [],
           "behaviors": [],
           "animations": [
@@ -21410,7 +21489,14 @@
           "name": "item_ferro",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [],
+          "variables": [
+            {
+              "folded": true,
+              "name": "price",
+              "type": "number",
+              "value": 50
+            }
+          ],
           "effects": [],
           "behaviors": [],
           "animations": [
@@ -21471,7 +21557,14 @@
           "name": "item_madeira",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [],
+          "variables": [
+            {
+              "folded": true,
+              "name": "price",
+              "type": "number",
+              "value": 40
+            }
+          ],
           "effects": [],
           "behaviors": [],
           "animations": [
@@ -21532,7 +21625,14 @@
           "name": "item_cristal",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [],
+          "variables": [
+            {
+              "folded": true,
+              "name": "price",
+              "type": "number",
+              "value": 100
+            }
+          ],
           "effects": [],
           "behaviors": [],
           "animations": [
@@ -21598,17 +21698,29 @@
             "objectName": "item_planta"
           },
           {
-            "objectName": "item_ferro"
+            "objectName": "item_madeira"
           },
           {
-            "objectName": "item_madeira"
+            "objectName": "item_ferro"
           },
           {
             "objectName": "item_cristal"
           }
         ]
       },
-      "events": [],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::ForEach",
+          "object": "itens-vendiveis",
+          "conditions": [],
+          "actions": []
+        }
+      ],
       "layers": [
         {
           "ambientLightColorB": 200,
@@ -21683,10 +21795,6 @@
         {
           "name": "Scale",
           "type": "ScalableCapability::ScalableBehavior"
-        },
-        {
-          "name": "SmoothCamera",
-          "type": "SmoothCamera::SmoothCamera"
         },
         {
           "name": "Text",
@@ -23738,6 +23846,83 @@
               ]
             }
           ]
+        }
+      ]
+    },
+    {
+      "associatedLayout": "dungeon",
+      "lastChangeTimeStamp": 0,
+      "name": "Bag",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": []
+            },
+            {
+              "type": "BuiltinCommonInstructions::Repeat",
+              "repeatExpression": "VariableChildCount(Bag_itens)",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "CreateByName"
+                  },
+                  "parameters": [
+                    "",
+                    "Bag_itens",
+                    "Bag[contador].Nome",
+                    "100",
+                    "100+contador*100",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResizableCapability::ResizableBehavior::SetWidth"
+                  },
+                  "parameters": [
+                    "Bag[0].Nome",
+                    "",
+                    "=",
+                    "300"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::ForEach",
+              "object": "Bag_itens",
+              "conditions": [],
+              "actions": []
+            },
+            {
+              "type": "BuiltinCommonInstructions::ForEachChildVariable",
+              "iterableVariableName": "Bag",
+              "valueIteratorVariableName": "child",
+              "keyIteratorVariableName": "",
+              "conditions": [],
+              "actions": []
+            }
+          ],
+          "variables": [
+            {
+              "folded": true,
+              "name": "contador",
+              "type": "number",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
         }
       ]
     },

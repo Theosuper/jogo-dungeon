@@ -25,7 +25,7 @@
     "author": "",
     "windowWidth": 1920,
     "windowHeight": 1080,
-    "latestCompilationDirectory": "",
+    "latestCompilationDirectory": "C:\\Users\\Theo\\OneDrive\\Documentos\\online\\V2-161124",
     "maxFPS": 60,
     "minFPS": 20,
     "verticalSync": false,
@@ -3566,6 +3566,42 @@
         "name": "iniciar\\imagem-fundo-inicial.jpg",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "207-2075856_shelf-pixel-art-removebg-preview.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "207-2075856_shelf-pixel-art-removebg-preview.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/207-2075856_shelf-pixel-art-removebg-preview.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/207-2075856_shelf-pixel-art-removebg-preview.png\"}",
+        "name": "207-2075856_shelf-pixel-art-removebg-preview",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "chao-itens.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "chao-itens.jpg",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/chao-itens.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "chao-itens",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -6644,6 +6680,9 @@
       "objects": [
         {
           "name": "ItemBoss1"
+        },
+        {
+          "name": "ItemBoss2"
         }
       ]
     }
@@ -6725,7 +6764,7 @@
       "folded": true,
       "name": "class",
       "type": "string",
-      "value": "ninja"
+      "value": "human"
     },
     {
       "folded": true,
@@ -6809,7 +6848,7 @@
       "folded": true,
       "name": "level",
       "type": "number",
-      "value": 2
+      "value": 0
     },
     {
       "name": "Bag",
@@ -6826,6 +6865,22 @@
             },
             {
               "folded": true,
+              "name": "Quantidade",
+              "type": "number",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "type": "structure",
+          "children": [
+            {
+              "folded": true,
+              "name": "Nome",
+              "type": "string",
+              "value": "ItemBoss2"
+            },
+            {
               "name": "Quantidade",
               "type": "number",
               "value": 0
@@ -6906,6 +6961,23 @@
           "x": 529,
           "y": 116,
           "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 54,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Nome",
+          "persistentUuid": "6cb7c25f-dc8e-4be8-86de-11014fb239dc",
+          "width": 179,
+          "x": 1298,
+          "y": 886,
+          "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -7073,6 +7145,29 @@
             "characterSize": 70,
             "color": "255;255;255"
           }
+        },
+        {
+          "assetStoreId": "",
+          "name": "Nome",
+          "type": "TextInput::TextInputObject",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "initialValue": "",
+            "placeholder": "Digite o seu nome",
+            "fontResourceName": "",
+            "fontSize": 20,
+            "inputType": "text",
+            "textColor": "0;0;0",
+            "fillColor": "255;255;255",
+            "fillOpacity": 255,
+            "borderColor": "0;0;0",
+            "borderOpacity": 255,
+            "borderWidth": 1,
+            "readOnly": false,
+            "disabled": false
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -7086,6 +7181,9 @@
           },
           {
             "objectName": "Inicial_text"
+          },
+          {
+            "objectName": "Nome"
           }
         ]
       },
@@ -7123,6 +7221,16 @@
                 "",
                 "\"saguao\"",
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "EcrireFichierTxt"
+              },
+              "parameters": [
+                "\"storage\"",
+                "\"NomePlayer\"",
+                "Nome.Text::Value()"
               ]
             }
           ]
@@ -7260,7 +7368,14 @@
           ]
         }
       ],
-      "variables": [],
+      "variables": [
+        {
+          "folded": true,
+          "name": "NomePlayer",
+          "type": "string",
+          "value": "0"
+        }
+      ],
       "instances": [
         {
           "angle": 0,
@@ -9607,7 +9722,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "inicio de tela",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -9640,11 +9754,54 @@
                   "parameters": [
                     "Fala_cat"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "ReadStringFromStorage"
+                  },
+                  "parameters": [
+                    "\"storage\"",
+                    "\"NomePlayer\"",
+                    "",
+                    "NomePlayer"
+                  ]
                 }
               ]
             }
           ],
           "parameters": []
+        },
+        {
+          "disabled": true,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "TestesDeVariavel",
+                "Text",
+                "=",
+                "GlobalVariableString(class)"
+              ]
+            },
+            {
+              "type": {
+                "value": "ClampCamera"
+              },
+              "parameters": [
+                "",
+                "-5600",
+                "-3650",
+                "11600",
+                "6500",
+                "",
+                ""
+              ]
+            }
+          ]
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -9658,7 +9815,7 @@
                 "TestesDeVariavel",
                 "Text",
                 "=",
-                "GlobalVariableString(class)"
+                "NomePlayer"
               ]
             },
             {
@@ -10602,7 +10759,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.5079575118131778,
+        "zoomFactor": 0.4753585087126974,
         "windowMask": false
       },
       "objectsGroups": [
@@ -10750,6 +10907,22 @@
           "name": "recuo",
           "type": "boolean",
           "value": false
+        },
+        {
+          "name": "coletando",
+          "type": "structure",
+          "children": [
+            {
+              "name": "Nome",
+              "type": "string",
+              "value": ""
+            },
+            {
+              "name": "Quantidade",
+              "type": "number",
+              "value": 0
+            }
+          ]
         }
       ],
       "instances": [
@@ -14147,6 +14320,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "movimentacao monstros",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -15024,6 +15198,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "luta",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -15530,6 +15705,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Xp controle",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -15652,6 +15828,36 @@
                   ]
                 }
               ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Coleta de itens",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Bag_itens",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": []
             }
           ],
           "parameters": []
@@ -21315,7 +21521,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.3645833333333333,
+        "zoomFactor": 0.3895856273827285,
         "windowMask": false
       },
       "objectsGroups": [
@@ -21347,7 +21553,223 @@
         }
       ],
       "variables": [],
-      "instances": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 726,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Prateleira_de_itens",
+          "persistentUuid": "0661fb6f-c6cb-40b6-8787-65490ed0db3b",
+          "width": 2134,
+          "x": -142,
+          "y": -9,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 379,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Chao_itens",
+          "persistentUuid": "c9d2c3d5-2250-47e0-b218-f810c25e60fb",
+          "width": 1992,
+          "x": -24,
+          "y": 706,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 359,
+          "keepRatio": true,
+          "layer": "",
+          "name": "item_casco",
+          "persistentUuid": "383aec4a-02b7-4e31-b12c-cac10492aa27",
+          "width": 403,
+          "x": 75,
+          "y": -31,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 271,
+          "keepRatio": true,
+          "layer": "",
+          "name": "item_planta",
+          "persistentUuid": "1118df97-a6b7-4a11-99a0-330ab0fa6626",
+          "width": 306,
+          "x": 778,
+          "y": 1,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 187,
+          "keepRatio": true,
+          "layer": "",
+          "name": "item_madeira",
+          "persistentUuid": "301ff678-70da-46f3-aeaa-85344bf8ebec",
+          "width": 344,
+          "x": 1350,
+          "y": 64,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 319,
+          "keepRatio": true,
+          "layer": "",
+          "name": "item_ferro",
+          "persistentUuid": "5483c0a6-ea71-42fd-8cc9-b92387a837be",
+          "width": 330,
+          "x": 1314,
+          "y": 225,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Quantidade_de_dinheiro",
+          "persistentUuid": "48080d14-431f-4a30-9bda-251a352943f2",
+          "width": 0,
+          "x": 1697,
+          "y": 745,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 206,
+          "keepRatio": true,
+          "layer": "",
+          "name": "item_cristal",
+          "persistentUuid": "6a053843-6eda-4e51-bad4-b7a047ecc77a",
+          "width": 151,
+          "x": 379,
+          "y": 268,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Valor_Casco",
+          "persistentUuid": "39ba5d93-fd52-45f0-b480-d7cf104282af",
+          "width": 0,
+          "x": 328,
+          "y": 67,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Valor_Planta",
+          "persistentUuid": "954e0ddc-f9ea-47a2-9a08-a53502732d05",
+          "width": 0,
+          "x": 1012,
+          "y": 31,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Valor_Madeira",
+          "persistentUuid": "8122a48a-ad30-4472-9d84-48734f3ad1da",
+          "width": 0,
+          "x": 1673,
+          "y": 28,
+          "zOrder": 13,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Valor_Ferro",
+          "persistentUuid": "a6ea15a1-3cc0-40c1-a0a4-14f75ebaeae2",
+          "width": 0,
+          "x": 1577,
+          "y": 284,
+          "zOrder": 14,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Valor_Cristal",
+          "persistentUuid": "1717010d-b922-462e-a7fd-5562eacf17aa",
+          "width": 0,
+          "x": 524,
+          "y": 275,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
       "objects": [
         {
           "adaptCollisionMaskAutomatically": true,
@@ -21686,25 +22108,442 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Prateleira_de_itens",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "207-2075856_shelf-pixel-art-removebg-preview",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "207-2075856_shelf-pixel-art-removebg-preview",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 22,
+                            "y": 4
+                          },
+                          {
+                            "x": 353,
+                            "y": 4
+                          },
+                          {
+                            "x": 353,
+                            "y": 293
+                          },
+                          {
+                            "x": 22,
+                            "y": 293
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Chao_itens",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "chao-itens",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "chao-itens",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1000,
+                            "y": 0
+                          },
+                          {
+                            "x": 1000,
+                            "y": 756
+                          },
+                          {
+                            "x": 0,
+                            "y": 756
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "Quantidade_de_dinheiro",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Valor X",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 60,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Valor X",
+            "font": "",
+            "textAlignment": "left",
+            "characterSize": 60,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "Valor_Casco",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "20",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 30,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "20",
+            "font": "",
+            "textAlignment": "left",
+            "characterSize": 30,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "Valor_Planta",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "30",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 30,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "30",
+            "font": "",
+            "textAlignment": "left",
+            "characterSize": 30,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "Valor_Madeira",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "40",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 30,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "40",
+            "font": "",
+            "textAlignment": "left",
+            "characterSize": 30,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "Valor_Ferro",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "50",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 30,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "50",
+            "font": "",
+            "textAlignment": "left",
+            "characterSize": 30,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "Valor_Cristal",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "100",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 30,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "100",
+            "font": "",
+            "textAlignment": "left",
+            "characterSize": 30,
+            "color": "0;0;0"
+          }
         }
       ],
       "objectsFolderStructure": {
         "folderName": "__ROOT",
         "children": [
           {
-            "objectName": "item_casco"
+            "folderName": "Casco",
+            "children": [
+              {
+                "objectName": "item_casco"
+              },
+              {
+                "objectName": "Valor_Casco"
+              }
+            ]
           },
           {
-            "objectName": "item_planta"
+            "folderName": "Planta",
+            "children": [
+              {
+                "objectName": "item_planta"
+              },
+              {
+                "objectName": "Valor_Planta"
+              }
+            ]
           },
           {
-            "objectName": "item_madeira"
+            "folderName": "Madeira",
+            "children": [
+              {
+                "objectName": "item_madeira"
+              },
+              {
+                "objectName": "Valor_Madeira"
+              }
+            ]
           },
           {
-            "objectName": "item_ferro"
+            "folderName": "Ferro",
+            "children": [
+              {
+                "objectName": "item_ferro"
+              },
+              {
+                "objectName": "Valor_Ferro"
+              }
+            ]
           },
           {
-            "objectName": "item_cristal"
+            "folderName": "Cristal",
+            "children": [
+              {
+                "objectName": "item_cristal"
+              },
+              {
+                "objectName": "Valor_Cristal"
+              }
+            ]
+          },
+          {
+            "objectName": "Prateleira_de_itens"
+          },
+          {
+            "objectName": "Chao_itens"
+          },
+          {
+            "objectName": "Quantidade_de_dinheiro"
           }
         ]
       },
@@ -21712,13 +22551,74 @@
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [],
-          "actions": []
-        },
-        {
-          "type": "BuiltinCommonInstructions::ForEach",
-          "object": "itens-vendiveis",
-          "conditions": [],
-          "actions": []
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": []
+            },
+            {
+              "type": "BuiltinCommonInstructions::Repeat",
+              "repeatExpression": "VariableChildCount(Bag)",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "CreateByName"
+                  },
+                  "parameters": [
+                    "",
+                    "ItemBoss1",
+                    "Bag[index].Nome",
+                    "0",
+                    "index*100",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "index",
+                    "+",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResizableCapability::ResizableBehavior::SetWidth"
+                  },
+                  "parameters": [
+                    "Bag_itens",
+                    "Resizable",
+                    "=",
+                    "70"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResizableCapability::ResizableBehavior::SetHeight"
+                  },
+                  "parameters": [
+                    "Bag_itens",
+                    "Resizable",
+                    "=",
+                    "70"
+                  ]
+                }
+              ]
+            }
+          ],
+          "variables": [
+            {
+              "folded": true,
+              "name": "index",
+              "type": "number",
+              "value": 0
+            }
+          ]
         }
       ],
       "layers": [

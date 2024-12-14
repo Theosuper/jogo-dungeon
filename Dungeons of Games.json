@@ -1,5 +1,5 @@
 {
-  "firstLayout": "",
+  "firstLayout": "itens",
   "gdVersion": {
     "build": 219,
     "major": 5,
@@ -3465,6 +3465,70 @@
         "name": "Apoio_madeira_mapa",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "images_Dungeon_Menu_MenuBox2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "images_Dungeon_Menu_MenuBox2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "abstract-block-texture-black-pixel-vector-9182797.jpg",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"abstract-block-texture-black-pixel-vector-9182797.jpg\",\"extension\":\".png\"}",
+        "name": "abstract-block-texture-black-pixel-vector-9182797.jpg",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/chao-itens2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "chao-itens2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/images-removebg-preview (13).png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "images-removebg-preview (13)",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/download-removebg-preview (8)2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "download-removebg-preview (8)2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/images-removebg-preview (12).png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "images-removebg-preview (12)",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/download-removebg-preview (6).png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "download-removebg-preview (6)",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/images-removebg-preview (16)2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "images-removebg-preview (16)2",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -6374,6 +6438,16 @@
           "name": "price",
           "type": "number",
           "value": 50
+        },
+        {
+          "name": "IsVariable",
+          "type": "boolean",
+          "value": false
+        },
+        {
+          "name": "Indice",
+          "type": "number",
+          "value": 0
         }
       ],
       "effects": [],
@@ -6441,6 +6515,16 @@
           "name": "price",
           "type": "number",
           "value": 70
+        },
+        {
+          "name": "IsVariable",
+          "type": "boolean",
+          "value": false
+        },
+        {
+          "name": "Indice",
+          "type": "number",
+          "value": 0
         }
       ],
       "effects": [],
@@ -22089,6 +22173,11 @@
               "value": 0
             }
           ]
+        },
+        {
+          "name": "LimiteDeItensPermitidos",
+          "type": "number",
+          "value": 35
         }
       ],
       "instances": [
@@ -22102,8 +22191,8 @@
           "name": "Prateleira_de_itens",
           "persistentUuid": "0661fb6f-c6cb-40b6-8787-65490ed0db3b",
           "width": 2134,
-          "x": -142,
-          "y": -9,
+          "x": -136,
+          "y": -22,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -22130,14 +22219,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 359,
+          "height": 147,
           "keepRatio": true,
           "layer": "",
           "name": "item_casco",
           "persistentUuid": "383aec4a-02b7-4e31-b12c-cac10492aa27",
-          "width": 403,
-          "x": 75,
-          "y": -31,
+          "width": 211,
+          "x": 154,
+          "y": 75,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -22147,14 +22236,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 271,
+          "height": 226,
           "keepRatio": true,
           "layer": "",
           "name": "item_planta",
           "persistentUuid": "1118df97-a6b7-4a11-99a0-330ab0fa6626",
-          "width": 306,
-          "x": 778,
-          "y": 1,
+          "width": 151,
+          "x": 874,
+          "y": 21,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -22164,14 +22253,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 187,
+          "height": 148,
           "keepRatio": true,
           "layer": "",
           "name": "item_madeira",
           "persistentUuid": "301ff678-70da-46f3-aeaa-85344bf8ebec",
-          "width": 344,
-          "x": 1350,
-          "y": 64,
+          "width": 327,
+          "x": 1354,
+          "y": 63,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -22181,14 +22270,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 319,
+          "height": 175,
           "keepRatio": true,
           "layer": "",
           "name": "item_ferro",
           "persistentUuid": "5483c0a6-ea71-42fd-8cc9-b92387a837be",
-          "width": 330,
-          "x": 1314,
-          "y": 225,
+          "width": 238,
+          "x": 1348,
+          "y": 311,
           "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
@@ -22203,8 +22292,8 @@
           "name": "Quantidade_de_dinheiro",
           "persistentUuid": "48080d14-431f-4a30-9bda-251a352943f2",
           "width": 0,
-          "x": 1316,
-          "y": 968,
+          "x": 1383,
+          "y": 976,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -22214,14 +22303,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 2,
-          "height": 206,
+          "height": 216,
           "keepRatio": true,
           "layer": "",
           "name": "item_cristal",
           "persistentUuid": "6a053843-6eda-4e51-bad4-b7a047ecc77a",
           "width": 151,
           "x": 379,
-          "y": 268,
+          "y": 258,
           "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
@@ -22306,6 +22395,22 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Valor_da_compra",
+          "persistentUuid": "517e6163-7e9a-441b-ab9f-1f4ed42f8618",
+          "width": 0,
+          "x": 1315,
+          "y": 879,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -22321,22 +22426,33 @@
               "name": "price",
               "type": "number",
               "value": 20
+            },
+            {
+              "name": "IsVariable",
+              "type": "boolean",
+              "value": false
+            },
+            {
+              "name": "Indice",
+              "type": "number",
+              "value": 0
             }
           ],
           "effects": [],
           "behaviors": [],
           "animations": [
             {
-              "name": "",
+              "name": "download-removebg-preview (6)",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "download-removebg-preview (6).png",
+                      "image": "download-removebg-preview (6)",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -22352,20 +22468,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 61,
-                            "y": 93
+                            "x": 1,
+                            "y": 1
                           },
                           {
-                            "x": 174,
-                            "y": 93
+                            "x": 113,
+                            "y": 1
                           },
                           {
-                            "x": 174,
-                            "y": 168
+                            "x": 113,
+                            "y": 76
                           },
                           {
-                            "x": 61,
-                            "y": 168
+                            "x": 1,
+                            "y": 76
                           }
                         ]
                       ]
@@ -22388,22 +22504,33 @@
               "name": "price",
               "type": "number",
               "value": 30
+            },
+            {
+              "name": "IsVariable",
+              "type": "boolean",
+              "value": false
+            },
+            {
+              "name": "Indice",
+              "type": "number",
+              "value": 0
             }
           ],
           "effects": [],
           "behaviors": [],
           "animations": [
             {
-              "name": "",
+              "name": "images-removebg-preview (12)",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "images-removebg-preview (12).png",
+                      "image": "images-removebg-preview (12)",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -22419,20 +22546,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 60,
-                            "y": 25
+                            "x": 1,
+                            "y": 0
                           },
                           {
-                            "x": 166,
-                            "y": 25
+                            "x": 106,
+                            "y": 0
                           },
                           {
-                            "x": 166,
-                            "y": 200
+                            "x": 106,
+                            "y": 175
                           },
                           {
-                            "x": 60,
-                            "y": 200
+                            "x": 1,
+                            "y": 175
                           }
                         ]
                       ]
@@ -22455,6 +22582,16 @@
               "name": "price",
               "type": "number",
               "value": 50
+            },
+            {
+              "name": "IsVariable",
+              "type": "boolean",
+              "value": false
+            },
+            {
+              "name": "Indice",
+              "type": "number",
+              "value": 0
             }
           ],
           "effects": [],
@@ -22471,7 +22608,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "images-removebg-preview (14).png",
+                      "image": "images-removebg-preview (13)",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -22487,20 +22624,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 35,
-                            "y": 77
+                            "x": 0,
+                            "y": 0
                           },
                           {
-                            "x": 190,
-                            "y": 77
+                            "x": 155,
+                            "y": 0
                           },
                           {
-                            "x": 190,
-                            "y": 176
+                            "x": 155,
+                            "y": 99
                           },
                           {
-                            "x": 35,
-                            "y": 176
+                            "x": 0,
+                            "y": 99
                           }
                         ]
                       ]
@@ -22523,6 +22660,16 @@
               "name": "price",
               "type": "number",
               "value": 40
+            },
+            {
+              "name": "IsVariable",
+              "type": "boolean",
+              "value": false
+            },
+            {
+              "name": "Indice",
+              "type": "number",
+              "value": 0
             }
           ],
           "effects": [],
@@ -22539,7 +22686,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "download-removebg-preview (8)",
+                      "image": "download-removebg-preview (8)2",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -22556,19 +22703,19 @@
                         [
                           {
                             "x": 0,
-                            "y": 1
+                            "y": 0
                           },
                           {
                             "x": 102,
-                            "y": 1
+                            "y": 0
                           },
                           {
                             "x": 102,
-                            "y": 31
+                            "y": 30
                           },
                           {
                             "x": 0,
-                            "y": 31
+                            "y": 30
                           }
                         ]
                       ]
@@ -22591,6 +22738,16 @@
               "name": "price",
               "type": "number",
               "value": 100
+            },
+            {
+              "name": "IsVariable",
+              "type": "boolean",
+              "value": false
+            },
+            {
+              "name": "Indice",
+              "type": "number",
+              "value": 0
             }
           ],
           "effects": [],
@@ -22607,7 +22764,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "images-removebg-preview (16)",
+                      "image": "images-removebg-preview (16)2",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -22623,19 +22780,19 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 1,
+                            "x": 0,
                             "y": 0
                           },
                           {
-                            "x": 33,
+                            "x": 32,
                             "y": 0
                           },
                           {
-                            "x": 33,
+                            "x": 32,
                             "y": 65
                           },
                           {
-                            "x": 1,
+                            "x": 0,
                             "y": 65
                           }
                         ]
@@ -22729,7 +22886,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "chao-itens",
+                      "image": "chao-itens2",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -22754,11 +22911,11 @@
                           },
                           {
                             "x": 1000,
-                            "y": 756
+                            "y": 1000
                           },
                           {
                             "x": 0,
-                            "y": 756
+                            "y": 1000
                           }
                         ]
                       ]
@@ -22785,9 +22942,9 @@
           "textAlignment": "left",
           "characterSize": 60,
           "color": {
-            "b": 0,
-            "g": 0,
-            "r": 0
+            "b": 255,
+            "g": 255,
+            "r": 255
           },
           "content": {
             "bold": false,
@@ -22798,7 +22955,7 @@
             "outlineThickness": 2,
             "shadowAngle": 90,
             "shadowBlurRadius": 2,
-            "shadowColor": "0;0;0",
+            "shadowColor": "255;255;255",
             "shadowDistance": 4,
             "shadowOpacity": 127,
             "smoothed": true,
@@ -22808,7 +22965,7 @@
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 60,
-            "color": "0;0;0"
+            "color": "255;255;255"
           }
         },
         {
@@ -23020,6 +23177,24 @@
             "characterSize": 30,
             "color": "255;255;255"
           }
+        },
+        {
+          "assetStoreId": "",
+          "name": "Valor_da_compra",
+          "type": "BBText::BBText",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "text": "Quantidade",
+            "opacity": 255,
+            "fontSize": 60,
+            "visible": true,
+            "color": "255;255;255",
+            "fontFamily": "Arial",
+            "align": "left",
+            "wordWrap": true
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -23088,6 +23263,9 @@
           },
           {
             "objectName": "Quantidade_de_dinheiro"
+          },
+          {
+            "objectName": "Valor_da_compra"
           }
         ]
       },
@@ -23138,77 +23316,357 @@
                 "",
                 "Left"
               ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "LimiteDeItensPermitidos",
+                ">=",
+                "VariableChildCount(ItensEscolhidos)"
+              ]
             }
           ],
-          "actions": [
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanObjectVariable"
+                  },
+                  "parameters": [
+                    "itensVendiveis",
+                    "IsVariable",
+                    "=",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetStringVariable"
+                  },
+                  "parameters": [
+                    "itemDinamico.Nome",
+                    "=",
+                    "itensVendiveis.ObjectName()"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "itemDinamico.Quantidade",
+                    "+",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "itemDinamico.Valor",
+                    "=",
+                    "itensVendiveis.price"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PushVariable"
+                  },
+                  "parameters": [
+                    "ItensEscolhidos",
+                    "itemDinamico"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetStringVariable"
+                  },
+                  "parameters": [
+                    "itemDinamico.Nome",
+                    "=",
+                    "\"\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "itemDinamico.Quantidade",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "itemDinamico.Valor",
+                    "=",
+                    "0"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
             {
               "type": {
-                "value": "SetStringVariable"
+                "value": "SourisSurObjet"
               },
               "parameters": [
-                "itemDinamico.Nome",
-                "=",
-                "itensVendiveis.ObjectName()"
+                "itensVendiveis",
+                "",
+                "",
+                ""
               ]
             },
             {
               "type": {
-                "value": "SetNumberVariable"
+                "value": "MouseButtonReleased"
               },
               "parameters": [
-                "itemDinamico.Quantidade",
-                "+",
-                "1"
+                "",
+                "Left"
               ]
             },
             {
               "type": {
-                "value": "SetNumberVariable"
+                "value": "BooleanObjectVariable"
               },
               "parameters": [
-                "itemDinamico.Valor",
-                "=",
-                "itensVendiveis.price"
+                "itensVendiveis",
+                "IsVariable",
+                "True",
+                ""
+              ]
+            }
+          ],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Repeat",
+              "repeatExpression": "VariableChildCount(ItensEscolhidos)",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "ValorTotal",
+                    "+",
+                    "ItensEscolhidos[Index].Valor"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CreateByName"
+                  },
+                  "parameters": [
+                    "",
+                    "itensVendiveis",
+                    "ItensEscolhidos[Index].Nome",
+                    "X",
+                    "Y",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanObjectVariable"
+                  },
+                  "parameters": [
+                    "itensVendiveis",
+                    "IsVariable",
+                    "True",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResizableCapability::ResizableBehavior::SetHeight"
+                  },
+                  "parameters": [
+                    "itensVendiveis",
+                    "Resizable",
+                    "=",
+                    "50"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResizableCapability::ResizableBehavior::SetWidth"
+                  },
+                  "parameters": [
+                    "itensVendiveis",
+                    "Resizable",
+                    "=",
+                    "50"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Index",
+                    "+",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Contador",
+                    "+",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberObjectVariable"
+                  },
+                  "parameters": [
+                    "itensVendiveis",
+                    "Indice",
+                    "=",
+                    "Index"
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "X",
+                        "+",
+                        "100"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "NumberVariable"
+                      },
+                      "parameters": [
+                        "Contador",
+                        ">=",
+                        "Limite"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "X",
+                        "=",
+                        "68"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "Y",
+                        "+",
+                        "100"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "Contador",
+                        "=",
+                        "1"
+                      ]
+                    }
+                  ]
+                }
               ]
             },
             {
-              "type": {
-                "value": "PushVariable"
-              },
-              "parameters": [
-                "ItensEscolhidos",
-                "itemDinamico"
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "BBText::SetBBText"
+                  },
+                  "parameters": [
+                    "Valor_da_compra",
+                    "=",
+                    "ValorTotal"
+                  ]
+                }
               ]
+            }
+          ],
+          "variables": [
+            {
+              "name": "ValorTotal",
+              "type": "number",
+              "value": 0
             },
             {
-              "type": {
-                "value": "SetStringVariable"
-              },
-              "parameters": [
-                "itemDinamico.Nome",
-                "=",
-                "\"\""
-              ]
+              "name": "Index",
+              "type": "number",
+              "value": 0
             },
             {
-              "type": {
-                "value": "SetNumberVariable"
-              },
-              "parameters": [
-                "itemDinamico.Quantidade",
-                "=",
-                "0"
-              ]
+              "name": "X",
+              "type": "number",
+              "value": 68
             },
             {
-              "type": {
-                "value": "SetNumberVariable"
-              },
-              "parameters": [
-                "itemDinamico.Valor",
-                "=",
-                "0"
-              ]
+              "name": "Y",
+              "type": "number",
+              "value": 743
+            },
+            {
+              "name": "Limite",
+              "type": "number",
+              "value": 13
+            },
+            {
+              "name": "Contador",
+              "type": "number",
+              "value": 1
             }
           ]
         }

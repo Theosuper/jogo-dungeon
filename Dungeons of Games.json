@@ -3612,6 +3612,150 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/ecb33703984d3107196efce7335025d7ec104351fe8cdeb581c73fe0b8038c34_Green Button_Pressed.png",
           "name": "Green Button_Pressed.png"
         }
+      },
+      {
+        "file": "pij5li00h6g21.webp",
+        "kind": "image",
+        "metadata": "",
+        "name": "pij5li00h6g21.webp",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "grass-seamless-vector-pattern-260nw-315719432.webp",
+        "kind": "image",
+        "metadata": "",
+        "name": "grass-seamless-vector-pattern-260nw-315719432.webp",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/grass-seamless-vector-pattern-260nw-315719432.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "grass-seamless-vector-pattern-260nw-315719432",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/grass-seamless-vector-pattern-260nw-315719431.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "grass-seamless-vector-pattern-260nw-315719431",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite23.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite23",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite24.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite24.png\"}",
+        "name": "NewSprite24",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite25.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite25.png\"}",
+        "name": "NewSprite25",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "fonte-guilda.webp",
+        "kind": "image",
+        "metadata": "",
+        "name": "fonte-guilda.webp",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "fonte-guilda.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"fonte-guilda.png\",\"extension\":\".png\"}",
+        "name": "fonte-guilda.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/fonte-guilda.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/fonte-guilda.png\"}",
+        "name": "fonte-guilda",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/fonte-guilda2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "fonte-guilda2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Toad--removebg-preview.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"Toad--removebg-preview.png\",\"extension\":\".png\"}",
+        "name": "Toad--removebg-preview.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pngtree-pixel-art-green-tree-png-image_4408622-removebg-preview.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pngtree-pixel-art-green-tree-png-image_4408622-removebg-preview.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/pngtree-pixel-art-green-tree-png-image_4408622-removebg-preview.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "pngtree-pixel-art-green-tree-png-image_4408622-removebg-preview",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "3ba7f5e5bfdbcd2c2e6259a97ad48978-removebg-preview.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "3ba7f5e5bfdbcd2c2e6259a97ad48978-removebg-preview.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/pngtree-pixel-art-green-tree-png-image_4408622-removebg-preview2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "pngtree-pixel-art-green-tree-png-image_4408622-removebg-preview2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pngtree-plant-in-pot-pixel-art-png-image_9066899-removebg-preview.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"pngtree-plant-in-pot-pixel-art-png-image_9066899-removebg-preview.png\",\"extension\":\".png\"}",
+        "name": "pngtree-plant-in-pot-pixel-art-png-image_9066899-removebg-preview.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/pngtree-plant-in-pot-pixel-art-png-image_9066899-removebg-preview.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "pngtree-plant-in-pot-pixel-art-png-image_9066899-removebg-preview",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -7117,6 +7261,67 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "guilda",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "NewSprite",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite11",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 147.5,
+                        "y": 196
+                      },
+                      {
+                        "x": 242,
+                        "y": 196.5
+                      },
+                      {
+                        "x": 248.5,
+                        "y": 267
+                      },
+                      {
+                        "x": 147,
+                        "y": 264.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -7172,6 +7377,9 @@
       },
       {
         "objectName": "MenuBox"
+      },
+      {
+        "objectName": "guilda"
       }
     ]
   },
@@ -7864,7 +8072,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.4598521426736447,
+        "zoomFactor": 0.5610952083582217,
         "windowMask": false
       },
       "objectsGroups": [
@@ -8114,8 +8322,8 @@
           "name": "guilda",
           "persistentUuid": "d84766db-9db1-4d0f-a0a1-418157cec3d9",
           "width": 375,
-          "x": 398,
-          "y": 272,
+          "x": 394,
+          "y": 267,
           "zOrder": 13,
           "numberProperties": [],
           "stringProperties": [],
@@ -9487,67 +9695,6 @@
         {
           "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "",
-          "name": "guilda",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "NewSprite",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "NewSprite11",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 147.5,
-                            "y": 196
-                          },
-                          {
-                            "x": 242,
-                            "y": 196.5
-                          },
-                          {
-                            "x": 248.5,
-                            "y": 267
-                          },
-                          {
-                            "x": 147,
-                            "y": 264.5
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": false,
-          "assetStoreId": "",
           "name": "Portal_dungeon",
           "type": "Sprite",
           "updateIfNotVisible": false,
@@ -9742,9 +9889,6 @@
           },
           {
             "objectName": "TestesDeVariavel"
-          },
-          {
-            "objectName": "guilda"
           },
           {
             "objectName": "Portal_dungeon"
@@ -19039,7 +19183,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.3645833333333333,
+        "zoomFactor": 0.2796226521839378,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -19047,14 +19191,15 @@
       "instances": [
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 314,
           "layer": "",
           "name": "tutorial",
           "persistentUuid": "802ecfad-6dea-4503-9e4d-d91b8c5e5603",
-          "width": 0,
-          "x": 62,
-          "y": 294,
+          "width": 237,
+          "x": 42,
+          "y": 735,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -19069,9 +19214,143 @@
           "name": "Player",
           "persistentUuid": "c14f4889-c2da-48c0-b3cd-1d6082990675",
           "width": 217,
-          "x": 1152,
-          "y": 124,
+          "x": 1692,
+          "y": 904,
           "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 668,
+          "keepRatio": true,
+          "layer": "",
+          "name": "guilda",
+          "persistentUuid": "9184a5dc-350a-4edf-bd15-9436309b7cc7",
+          "width": 1189,
+          "x": 303,
+          "y": 11,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewSprite2",
+          "persistentUuid": "b8a5218b-f124-4488-959a-8b0054710e17",
+          "width": 0,
+          "x": 370,
+          "y": 270,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 9,
+          "height": 2372,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Chao_guilda",
+          "persistentUuid": "dc4c4e09-95a3-438e-bc12-3f77caa06e59",
+          "width": 2437,
+          "x": -317,
+          "y": -645,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 451,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Fonte",
+          "persistentUuid": "90766ad9-dacd-4834-9571-c6e5c0c8e145",
+          "width": 385,
+          "x": 1501,
+          "y": 111,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Welcome_guilda",
+          "persistentUuid": "6debf3c8-93be-4e4c-8cf2-d209b1371b10",
+          "width": 0,
+          "x": 613,
+          "y": 51,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 314,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Toad_planta",
+          "persistentUuid": "b8306885-ea18-4e25-8320-7a8f1d5b998f",
+          "width": 234.68512110726644,
+          "x": 5,
+          "y": 201,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 186,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Planta",
+          "persistentUuid": "26e201e7-45f7-4c51-b1af-ef4c665976db",
+          "width": 125,
+          "x": 229,
+          "y": 302,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 81,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Vaso_planta",
+          "persistentUuid": "3bc9d1d6-f9c7-4282-b94c-ab2d1cd3437e",
+          "width": 126,
+          "x": 231,
+          "y": 465,
+          "zOrder": 8,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -19099,7 +19378,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "cb9a737d564c7859e0b4bcab97c31b656a27de2er1-750-992v2_uhq-removebg-preview.png",
+                      "image": "NewSprite25",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -19138,6 +19417,353 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Chao_guilda",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "grass-seamless-vector-pattern-260nw-315719432",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "grass-seamless-vector-pattern-260nw-315719431",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 260,
+                            "y": 0
+                          },
+                          {
+                            "x": 260,
+                            "y": 253
+                          },
+                          {
+                            "x": 0,
+                            "y": 253
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Fonte",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "fonte-guilda",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "fonte-guilda2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1246,
+                            "y": 0
+                          },
+                          {
+                            "x": 1246,
+                            "y": 1460
+                          },
+                          {
+                            "x": 0,
+                            "y": 1460
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": true,
+          "italic": false,
+          "name": "Welcome_guilda",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Bem-vindo ao jardim da Guilda",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 40,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          },
+          "content": {
+            "bold": true,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Bem-vindo ao jardim da Guilda",
+            "font": "",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 40,
+            "color": "255;255;255"
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Toad_planta",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Toad--removebg-preview",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Toad--removebg-preview.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 1
+                          },
+                          {
+                            "x": 432,
+                            "y": 1
+                          },
+                          {
+                            "x": 432,
+                            "y": 578
+                          },
+                          {
+                            "x": 0,
+                            "y": 578
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Planta",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "pngtree-pixel-art-green-tree-png-image_4408622-removebg-preview",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "pngtree-pixel-art-green-tree-png-image_4408622-removebg-preview2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 346,
+                            "y": 0
+                          },
+                          {
+                            "x": 346,
+                            "y": 631
+                          },
+                          {
+                            "x": 1,
+                            "y": 631
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Vaso_planta",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "pngtree-plant-in-pot-pixel-art-png-image_9066899-removebg-preview",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "pngtree-plant-in-pot-pixel-art-png-image_9066899-removebg-preview",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 286,
+                            "y": 0
+                          },
+                          {
+                            "x": 286,
+                            "y": 184
+                          },
+                          {
+                            "x": 0,
+                            "y": 184
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -19145,6 +19771,24 @@
         "children": [
           {
             "objectName": "tutorial"
+          },
+          {
+            "objectName": "Fonte"
+          },
+          {
+            "objectName": "Chao_guilda"
+          },
+          {
+            "objectName": "Welcome_guilda"
+          },
+          {
+            "objectName": "Toad_planta"
+          },
+          {
+            "objectName": "Planta"
+          },
+          {
+            "objectName": "Vaso_planta"
           }
         ]
       },
@@ -19267,10 +19911,6 @@
         {
           "name": "Scale",
           "type": "ScalableCapability::ScalableBehavior"
-        },
-        {
-          "name": "SmoothCamera",
-          "type": "SmoothCamera::SmoothCamera"
         },
         {
           "name": "Sticker",

@@ -19183,7 +19183,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.2796226521839378,
+        "zoomFactor": 0.29879853636069087,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -23214,14 +23214,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 162,
+          "height": 249,
           "keepRatio": true,
           "layer": "",
           "name": "Information_text",
           "persistentUuid": "ced56813-6e59-4aee-9118-ef74a17d1a99",
-          "width": 1105,
-          "x": 345,
-          "y": 250,
+          "width": 1078,
+          "x": 364,
+          "y": 222,
           "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
@@ -25084,15 +25084,6 @@
               "actions": [
                 {
                   "type": {
-                    "value": "Montre"
-                  },
-                  "parameters": [
-                    "AcoesDeCompra",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
                     "value": "Cache"
                   },
                   "parameters": [
@@ -25122,6 +25113,17 @@
                   "parameters": [
                     "AcoesDeCompra",
                     ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "Information_text",
+                    "Text",
+                    "=",
+                    "\"Serão removidos \"+Pagamento+\" moedas da sua conta, se cofirmar, sobrará \"+(coins-Pagamento)+\" moedas, esta ação será irreversível.\n\nTem certeza que deseja continuar?\""
                   ]
                 }
               ]

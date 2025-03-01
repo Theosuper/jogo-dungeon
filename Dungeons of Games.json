@@ -1,7 +1,7 @@
 {
   "firstLayout": "itens",
   "gdVersion": {
-    "build": 221,
+    "build": 224,
     "major": 5,
     "minor": 5,
     "revision": 0
@@ -18,7 +18,6 @@
     "scaleMode": "nearest",
     "sizeOnStartupMode": "",
     "templateSlug": "",
-    "useExternalSourceFiles": false,
     "version": "1.0.0",
     "name": "Dungeons of Games",
     "description": "",
@@ -3756,6 +3755,38 @@
         "name": "pngtree-plant-in-pot-pixel-art-png-image_9066899-removebg-preview",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "diamonds-crystals-pixel-art-game-600w-2118953813-removebg-preview.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "diamonds-crystals-pixel-art-game-600w-2118953813-removebg-preview.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/images-removebg-preview (16)3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "images-removebg-preview (16)3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/images-removebg-preview (16)4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "images-removebg-preview (16)4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/images-removebg-preview (16)5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "images-removebg-preview (16)5",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -7322,6 +7353,396 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "item_casco",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [
+        {
+          "folded": true,
+          "name": "price",
+          "type": "number",
+          "value": 20
+        },
+        {
+          "name": "IsVariable",
+          "type": "boolean",
+          "value": false
+        },
+        {
+          "name": "Indice",
+          "type": "number",
+          "value": 0
+        }
+      ],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "download-removebg-preview (6)",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "download-removebg-preview (6)",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 1,
+                        "y": 1
+                      },
+                      {
+                        "x": 113,
+                        "y": 1
+                      },
+                      {
+                        "x": 113,
+                        "y": 76
+                      },
+                      {
+                        "x": 1,
+                        "y": 76
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "item_planta",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [
+        {
+          "folded": true,
+          "name": "price",
+          "type": "number",
+          "value": 30
+        },
+        {
+          "name": "IsVariable",
+          "type": "boolean",
+          "value": false
+        },
+        {
+          "name": "Indice",
+          "type": "number",
+          "value": 0
+        }
+      ],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "images-removebg-preview (12)",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images-removebg-preview (12)",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 1,
+                        "y": 0
+                      },
+                      {
+                        "x": 106,
+                        "y": 0
+                      },
+                      {
+                        "x": 106,
+                        "y": 175
+                      },
+                      {
+                        "x": 1,
+                        "y": 175
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "item_madeira",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [
+        {
+          "folded": true,
+          "name": "price",
+          "type": "number",
+          "value": 40
+        },
+        {
+          "name": "IsVariable",
+          "type": "boolean",
+          "value": false
+        },
+        {
+          "name": "Indice",
+          "type": "number",
+          "value": 0
+        }
+      ],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "download-removebg-preview (8)",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "download-removebg-preview (8)2",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 102,
+                        "y": 0
+                      },
+                      {
+                        "x": 102,
+                        "y": 30
+                      },
+                      {
+                        "x": 0,
+                        "y": 30
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "item_ferro",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [
+        {
+          "folded": true,
+          "name": "price",
+          "type": "number",
+          "value": 50
+        },
+        {
+          "name": "IsVariable",
+          "type": "boolean",
+          "value": false
+        },
+        {
+          "name": "Indice",
+          "type": "number",
+          "value": 0
+        }
+      ],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "images-removebg-preview (13)",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images-removebg-preview (13)",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 155,
+                        "y": 0
+                      },
+                      {
+                        "x": 155,
+                        "y": 99
+                      },
+                      {
+                        "x": 0,
+                        "y": 99
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "item_cristal",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [
+        {
+          "folded": true,
+          "name": "price",
+          "type": "number",
+          "value": 100
+        },
+        {
+          "name": "IsVariable",
+          "type": "boolean",
+          "value": false
+        },
+        {
+          "name": "Indice",
+          "type": "number",
+          "value": 0
+        }
+      ],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "images-removebg-preview (16)",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images-removebg-preview (16)5",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 129,
+                        "y": 0
+                      },
+                      {
+                        "x": 129,
+                        "y": 98
+                      },
+                      {
+                        "x": 0,
+                        "y": 98
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -7380,6 +7801,21 @@
       },
       {
         "objectName": "guilda"
+      },
+      {
+        "objectName": "item_casco"
+      },
+      {
+        "objectName": "item_planta"
+      },
+      {
+        "objectName": "item_madeira"
+      },
+      {
+        "objectName": "item_ferro"
+      },
+      {
+        "objectName": "item_cristal"
       }
     ]
   },
@@ -7409,6 +7845,21 @@
         },
         {
           "name": "ItemBoss2"
+        },
+        {
+          "name": "item_casco"
+        },
+        {
+          "name": "item_planta"
+        },
+        {
+          "name": "item_ferro"
+        },
+        {
+          "name": "item_madeira"
+        },
+        {
+          "name": "item_cristal"
         }
       ]
     }
@@ -22839,7 +23290,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.29879853636069076,
+        "zoomFactor": 0.34118560234734546,
         "windowMask": false
       },
       "objectsGroups": [
@@ -23051,14 +23502,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 2,
-          "height": 216,
+          "height": 214,
           "keepRatio": true,
           "layer": "",
           "name": "item_cristal",
           "persistentUuid": "6a053843-6eda-4e51-bad4-b7a047ecc77a",
-          "width": 151,
-          "x": 379,
-          "y": 258,
+          "width": 247,
+          "x": 283,
+          "y": 260,
           "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
@@ -23187,8 +23638,8 @@
           "name": "MenuBox",
           "persistentUuid": "a830a665-148e-4c1c-a4fd-461c165f4d4a",
           "width": 1195,
-          "x": 311,
-          "y": 113,
+          "x": 387,
+          "y": 146,
           "zOrder": 18,
           "numberProperties": [],
           "stringProperties": [],
@@ -23203,8 +23654,8 @@
           "name": "Confirmar_comp",
           "persistentUuid": "0ad6f9fb-163d-412f-ba7a-4c22341f01d5",
           "width": 0,
-          "x": 669,
-          "y": 174,
+          "x": 765,
+          "y": 209,
           "zOrder": 19,
           "numberProperties": [],
           "stringProperties": [],
@@ -23220,8 +23671,8 @@
           "name": "Information_text",
           "persistentUuid": "ced56813-6e59-4aee-9118-ef74a17d1a99",
           "width": 1078,
-          "x": 364,
-          "y": 222,
+          "x": 444,
+          "y": 270,
           "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
@@ -23237,8 +23688,8 @@
           "name": "Sim",
           "persistentUuid": "70203f99-85f7-4d8a-bc19-a82ab5e46cb3",
           "width": 161,
-          "x": 540,
-          "y": 495,
+          "x": 750,
+          "y": 522,
           "zOrder": 22,
           "numberProperties": [],
           "stringProperties": [],
@@ -23247,15 +23698,15 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 51,
-          "height": 73,
+          "depth": 46.80821917808219,
+          "height": 67,
           "keepRatio": true,
           "layer": "",
           "name": "Nao",
           "persistentUuid": "8feae82c-bada-4f59-a78c-27bb6f7f0c4f",
-          "width": 146,
-          "x": 862,
-          "y": 487,
+          "width": 134,
+          "x": 1102,
+          "y": 522,
           "zOrder": 23,
           "numberProperties": [],
           "stringProperties": [],
@@ -23263,396 +23714,6 @@
         }
       ],
       "objects": [
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "item_casco",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [
-            {
-              "folded": true,
-              "name": "price",
-              "type": "number",
-              "value": 20
-            },
-            {
-              "name": "IsVariable",
-              "type": "boolean",
-              "value": false
-            },
-            {
-              "name": "Indice",
-              "type": "number",
-              "value": 0
-            }
-          ],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "download-removebg-preview (6)",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "download-removebg-preview (6)",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 1,
-                            "y": 1
-                          },
-                          {
-                            "x": 113,
-                            "y": 1
-                          },
-                          {
-                            "x": 113,
-                            "y": 76
-                          },
-                          {
-                            "x": 1,
-                            "y": 76
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "item_planta",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [
-            {
-              "folded": true,
-              "name": "price",
-              "type": "number",
-              "value": 30
-            },
-            {
-              "name": "IsVariable",
-              "type": "boolean",
-              "value": false
-            },
-            {
-              "name": "Indice",
-              "type": "number",
-              "value": 0
-            }
-          ],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "images-removebg-preview (12)",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "images-removebg-preview (12)",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 1,
-                            "y": 0
-                          },
-                          {
-                            "x": 106,
-                            "y": 0
-                          },
-                          {
-                            "x": 106,
-                            "y": 175
-                          },
-                          {
-                            "x": 1,
-                            "y": 175
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "item_ferro",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [
-            {
-              "folded": true,
-              "name": "price",
-              "type": "number",
-              "value": 50
-            },
-            {
-              "name": "IsVariable",
-              "type": "boolean",
-              "value": false
-            },
-            {
-              "name": "Indice",
-              "type": "number",
-              "value": 0
-            }
-          ],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "images-removebg-preview (13)",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "images-removebg-preview (13)",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 155,
-                            "y": 0
-                          },
-                          {
-                            "x": 155,
-                            "y": 99
-                          },
-                          {
-                            "x": 0,
-                            "y": 99
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "item_madeira",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [
-            {
-              "folded": true,
-              "name": "price",
-              "type": "number",
-              "value": 40
-            },
-            {
-              "name": "IsVariable",
-              "type": "boolean",
-              "value": false
-            },
-            {
-              "name": "Indice",
-              "type": "number",
-              "value": 0
-            }
-          ],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "download-removebg-preview (8)",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "download-removebg-preview (8)2",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 102,
-                            "y": 0
-                          },
-                          {
-                            "x": 102,
-                            "y": 30
-                          },
-                          {
-                            "x": 0,
-                            "y": 30
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "item_cristal",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [
-            {
-              "folded": true,
-              "name": "price",
-              "type": "number",
-              "value": 100
-            },
-            {
-              "name": "IsVariable",
-              "type": "boolean",
-              "value": false
-            },
-            {
-              "name": "Indice",
-              "type": "number",
-              "value": 0
-            }
-          ],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "images-removebg-preview (16)",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "images-removebg-preview (16)2",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 32,
-                            "y": 0
-                          },
-                          {
-                            "x": 32,
-                            "y": 65
-                          },
-                          {
-                            "x": 0,
-                            "y": 65
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
@@ -24407,9 +24468,6 @@
             "folderName": "Casco",
             "children": [
               {
-                "objectName": "item_casco"
-              },
-              {
                 "objectName": "Valor_Casco"
               }
             ]
@@ -24417,9 +24475,6 @@
           {
             "folderName": "Planta",
             "children": [
-              {
-                "objectName": "item_planta"
-              },
               {
                 "objectName": "Valor_Planta"
               }
@@ -24429,9 +24484,6 @@
             "folderName": "Madeira",
             "children": [
               {
-                "objectName": "item_madeira"
-              },
-              {
                 "objectName": "Valor_Madeira"
               }
             ]
@@ -24440,9 +24492,6 @@
             "folderName": "Ferro",
             "children": [
               {
-                "objectName": "item_ferro"
-              },
-              {
                 "objectName": "Valor_Ferro"
               }
             ]
@@ -24450,9 +24499,6 @@
           {
             "folderName": "Cristal",
             "children": [
-              {
-                "objectName": "item_cristal"
-              },
               {
                 "objectName": "Valor_Cristal"
               }
@@ -25148,6 +25194,99 @@
                   },
                   "parameters": [
                     "AcoesDeCompra"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+                  },
+                  "parameters": [
+                    "Sim",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "coins",
+                        "-",
+                        "Pagamento"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Repeat",
+                      "repeatExpression": "VariableChildCount(ItensEscolhidos)",
+                      "conditions": [],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetStringVariable"
+                          },
+                          "parameters": [
+                            "itemDinamico.Nome",
+                            "=",
+                            "ItensEscolhidos[Indice].Nome"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetNumberVariable"
+                          },
+                          "parameters": [
+                            "itemDinamico.Quantidade",
+                            "=",
+                            "1"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetNumberVariable"
+                          },
+                          "parameters": [
+                            "itemDinamico.Valor",
+                            "=",
+                            "ItensEscolhidos[Indice].Valor"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "PushVariable"
+                          },
+                          "parameters": [
+                            "Bag",
+                            "itemDinamico"
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "variables": [
+                    {
+                      "name": "Indice",
+                      "type": "number",
+                      "value": 0
+                    }
                   ]
                 }
               ]
@@ -26656,26 +26795,33 @@
       "events": [
         {
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
           "actions": [],
           "events": [
             {
-              "type": "BuiltinCommonInstructions::Comment",
-              "color": {
-                "b": 109,
-                "g": 230,
-                "r": 255,
-                "textB": 0,
-                "textG": 0,
-                "textR": 0
-              },
-              "comment": "Coluna Y"
-            },
-            {
-              "type": "BuiltinCommonInstructions::Repeat",
-              "repeatExpression": "7",
+              "type": "BuiltinCommonInstructions::Standard",
               "conditions": [],
-              "actions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Total",
+                    "=",
+                    "VariableChildCount(Bag)"
+                  ]
+                }
+              ],
               "events": [
                 {
                   "type": "BuiltinCommonInstructions::Comment",
@@ -26687,96 +26833,41 @@
                     "textG": 0,
                     "textR": 0
                   },
-                  "comment": "Coluna X"
+                  "comment": "Coluna Y"
                 },
                 {
                   "type": "BuiltinCommonInstructions::Repeat",
-                  "repeatExpression": "12",
+                  "repeatExpression": "7",
                   "conditions": [],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Create"
-                      },
-                      "parameters": [
-                        "",
-                        "slot",
-                        "CoordenadaX",
-                        "CoordenadaY",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "ResizableCapability::ResizableBehavior::SetWidth"
-                      },
-                      "parameters": [
-                        "slot",
-                        "Resizable",
-                        "=",
-                        "130"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "ResizableCapability::ResizableBehavior::SetHeight"
-                      },
-                      "parameters": [
-                        "slot",
-                        "Resizable",
-                        "=",
-                        "130"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "SetNumberVariable"
-                      },
-                      "parameters": [
-                        "CoordenadaX",
-                        "+",
-                        "150"
-                      ]
-                    }
-                  ],
+                  "actions": [],
                   "events": [
                     {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "NumberVariable"
-                          },
-                          "parameters": [
-                            "Index",
-                            "<=",
-                            "VariableChildCount(Bag)"
-                          ]
-                        }
-                      ],
+                      "type": "BuiltinCommonInstructions::Comment",
+                      "color": {
+                        "b": 109,
+                        "g": 230,
+                        "r": 255,
+                        "textB": 0,
+                        "textG": 0,
+                        "textR": 0
+                      },
+                      "comment": "Coluna X"
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Repeat",
+                      "repeatExpression": "12",
+                      "conditions": [],
                       "actions": [
                         {
                           "type": {
-                            "value": "CreateByName"
+                            "value": "Create"
                           },
                           "parameters": [
                             "",
-                            "ItemBoss1",
-                            "Bag[Index].Nome",
-                            "slot.X()",
-                            "slot.Y()",
+                            "slot",
+                            "CoordenadaX",
+                            "CoordenadaY",
                             ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "ResizableCapability::ResizableBehavior::SetHeight"
-                          },
-                          "parameters": [
-                            "Bag_itens",
-                            "Resizable",
-                            "=",
-                            "70"
                           ]
                         },
                         {
@@ -26784,20 +26875,21 @@
                             "value": "ResizableCapability::ResizableBehavior::SetWidth"
                           },
                           "parameters": [
-                            "Bag_itens",
+                            "slot",
                             "Resizable",
                             "=",
-                            "70"
+                            "130"
                           ]
                         },
                         {
                           "type": {
-                            "value": "ChangePlan"
+                            "value": "ResizableCapability::ResizableBehavior::SetHeight"
                           },
                           "parameters": [
-                            "Bag_itens",
+                            "slot",
+                            "Resizable",
                             "=",
-                            "slot.ZOrder()+1"
+                            "130"
                           ]
                         },
                         {
@@ -26805,62 +26897,141 @@
                             "value": "SetNumberVariable"
                           },
                           "parameters": [
-                            "Index",
+                            "CoordenadaX",
                             "+",
-                            "1"
+                            "150"
+                          ]
+                        }
+                      ],
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "NumberVariable"
+                              },
+                              "parameters": [
+                                "Index",
+                                "<",
+                                "Total"
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "CreateByName"
+                              },
+                              "parameters": [
+                                "",
+                                "ItemBoss1",
+                                "Bag[Index].Nome",
+                                "slot.X()",
+                                "slot.Y()",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "ResizableCapability::ResizableBehavior::SetHeight"
+                              },
+                              "parameters": [
+                                "Bag_itens",
+                                "Resizable",
+                                "=",
+                                "70"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "ResizableCapability::ResizableBehavior::SetWidth"
+                              },
+                              "parameters": [
+                                "Bag_itens",
+                                "Resizable",
+                                "=",
+                                "70"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "ChangePlan"
+                              },
+                              "parameters": [
+                                "Bag_itens",
+                                "=",
+                                "slot.ZOrder()+1"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "SetNumberVariable"
+                              },
+                              "parameters": [
+                                "Index",
+                                "+",
+                                "1"
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetNumberVariable"
+                          },
+                          "parameters": [
+                            "CoordenadaY",
+                            "+",
+                            "150"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetNumberVariable"
+                          },
+                          "parameters": [
+                            "CoordenadaX",
+                            "=",
+                            "100"
                           ]
                         }
                       ]
                     }
                   ]
+                }
+              ],
+              "variables": [
+                {
+                  "folded": true,
+                  "name": "CoordenadaX",
+                  "type": "number",
+                  "value": 100
                 },
                 {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetNumberVariable"
-                      },
-                      "parameters": [
-                        "CoordenadaY",
-                        "+",
-                        "150"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "SetNumberVariable"
-                      },
-                      "parameters": [
-                        "CoordenadaX",
-                        "=",
-                        "100"
-                      ]
-                    }
-                  ]
+                  "folded": true,
+                  "name": "CoordenadaY",
+                  "type": "number",
+                  "value": 50
+                },
+                {
+                  "folded": true,
+                  "name": "Index",
+                  "type": "number",
+                  "value": 0
+                },
+                {
+                  "name": "Total",
+                  "type": "number",
+                  "value": 0
                 }
               ]
-            }
-          ],
-          "variables": [
-            {
-              "folded": true,
-              "name": "CoordenadaX",
-              "type": "number",
-              "value": 100
-            },
-            {
-              "folded": true,
-              "name": "CoordenadaY",
-              "type": "number",
-              "value": 50
-            },
-            {
-              "folded": true,
-              "name": "Index",
-              "type": "number",
-              "value": 0
             }
           ]
         },
@@ -53326,6 +53497,5 @@
       ]
     }
   ],
-  "externalLayouts": [],
-  "externalSourceFiles": []
+  "externalLayouts": []
 }

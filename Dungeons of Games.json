@@ -8199,6 +8199,623 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "flecha_persuasao",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [
+        {
+          "name": "Build",
+          "type": "array",
+          "children": [
+            {
+              "type": "structure",
+              "children": [
+                {
+                  "name": "Nome",
+                  "type": "string",
+                  "value": "item_cristal"
+                },
+                {
+                  "name": "Quantidade",
+                  "type": "number",
+                  "value": 2
+                }
+              ]
+            },
+            {
+              "type": "structure",
+              "children": [
+                {
+                  "name": "Nome",
+                  "type": "string",
+                  "value": "item_ferro"
+                },
+                {
+                  "name": "Quantidade",
+                  "type": "number",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "type": "structure",
+              "children": [
+                {
+                  "name": "Nome",
+                  "type": "string",
+                  "value": "item_madeira"
+                },
+                {
+                  "name": "Quantidade",
+                  "type": "number",
+                  "value": 3
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "169445902-píxeles-de-arco-y-flecha-para-equipos-de-juego-ilustración-de-vector-de-arte-de-píxeles-removebg-preview",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "169445902-píxeles-de-arco-y-flecha-para-equipos-de-juego-ilustración-de-vector-de-arte-de-píxeles-removebg-preview",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 14,
+                        "y": 15
+                      },
+                      {
+                        "x": 224,
+                        "y": 15
+                      },
+                      {
+                        "x": 224,
+                        "y": 220
+                      },
+                      {
+                        "x": 14,
+                        "y": 220
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "bomba_de_fumaca",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [
+        {
+          "name": "Build",
+          "type": "array",
+          "children": [
+            {
+              "type": "structure",
+              "children": [
+                {
+                  "name": "Nome",
+                  "type": "string",
+                  "value": "item_ferro"
+                },
+                {
+                  "name": "Quantidade",
+                  "type": "number",
+                  "value": 2
+                }
+              ]
+            },
+            {
+              "type": "structure",
+              "children": [
+                {
+                  "name": "Nome",
+                  "type": "string",
+                  "value": "item_planta"
+                },
+                {
+                  "name": "Quantidade",
+                  "type": "number",
+                  "value": 2
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "images__1_-removebg-preview",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "images__1_-removebg-preview",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 113,
+                        "y": 0
+                      },
+                      {
+                        "x": 113,
+                        "y": 129
+                      },
+                      {
+                        "x": 0,
+                        "y": 129
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "machado",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [
+        {
+          "name": "Build",
+          "type": "array",
+          "children": [
+            {
+              "type": "structure",
+              "children": [
+                {
+                  "name": "Nome",
+                  "type": "string",
+                  "value": "item_ferro"
+                },
+                {
+                  "name": "Quantidade",
+                  "type": "number",
+                  "value": 3
+                }
+              ]
+            },
+            {
+              "type": "structure",
+              "children": [
+                {
+                  "name": "Nome",
+                  "type": "string",
+                  "value": "item_madeira"
+                },
+                {
+                  "name": "Quantidade",
+                  "type": "number",
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Captura_de_tela_2025-03-08_141900-removebg-preview",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Captura_de_tela_2025-03-08_141900-removebg-preview",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 1,
+                        "y": 3
+                      },
+                      {
+                        "x": 195,
+                        "y": 3
+                      },
+                      {
+                        "x": 195,
+                        "y": 314
+                      },
+                      {
+                        "x": 1,
+                        "y": 314
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "revolver",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [
+        {
+          "name": "Build",
+          "type": "array",
+          "children": [
+            {
+              "type": "structure",
+              "children": [
+                {
+                  "name": "Nome",
+                  "type": "string",
+                  "value": "item_ferro"
+                },
+                {
+                  "name": "Quantidade",
+                  "type": "number",
+                  "value": 2
+                }
+              ]
+            },
+            {
+              "type": "structure",
+              "children": [
+                {
+                  "name": "Nome",
+                  "type": "string",
+                  "value": "item_cristal"
+                },
+                {
+                  "name": "Quantidade",
+                  "type": "number",
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "itens-nivel-2\\item-advenurer",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "itens-nivel-2\\item-advenurer",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 4,
+                        "y": 3
+                      },
+                      {
+                        "x": 202,
+                        "y": 3
+                      },
+                      {
+                        "x": 202,
+                        "y": 127
+                      },
+                      {
+                        "x": 4,
+                        "y": 127
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "bold": true,
+      "italic": false,
+      "name": "Information_text",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "Serão removidos os itens X, Y e Z da sua conta para fazer o produto solicitado, se cofirmar, esta ação será irreversível.\n\nTem certeza que deseja continuar?",
+      "font": "",
+      "textAlignment": "left",
+      "characterSize": 50,
+      "color": {
+        "b": 252,
+        "g": 252,
+        "r": 252
+      },
+      "content": {
+        "bold": true,
+        "isOutlineEnabled": false,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "255;255;255",
+        "outlineThickness": 2,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "255;255;255",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "Serão removidos os itens X, Y e Z da sua conta para fazer o produto solicitado, se cofirmar, esta ação será irreversível.\n\nTem certeza que deseja continuar?",
+        "font": "",
+        "textAlignment": "left",
+        "verticalTextAlignment": "top",
+        "characterSize": 50,
+        "color": "252;252;252"
+      }
+    },
+    {
+      "assetStoreId": "b44dba91245ff1ac84a7b450e078194f19321d135fd8a67cd19bc9cb3403fba5",
+      "name": "Sim",
+      "type": "PanelSpriteButton::PanelSpriteButton",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "LeftPadding": 16,
+        "RightPadding": 16,
+        "PressedLabelOffsetY": 10,
+        "BottomPadding": 32,
+        "TopPadding": 16,
+        "HoveredFadeOutDuration": 0.25
+      },
+      "childrenContent": {
+        "Hovered": {
+          "bottomMargin": 32,
+          "height": 106,
+          "leftMargin": 16,
+          "rightMargin": 16,
+          "texture": "Green Button_Hovered.png",
+          "tiled": false,
+          "topMargin": 16,
+          "width": 256
+        },
+        "Idle": {
+          "bottomMargin": 32,
+          "height": 106,
+          "leftMargin": 16,
+          "rightMargin": 16,
+          "texture": "Green Button_Idle.png",
+          "tiled": false,
+          "topMargin": 16,
+          "width": 256
+        },
+        "Label": {
+          "bold": false,
+          "italic": false,
+          "smoothed": true,
+          "underlined": false,
+          "string": "Sim",
+          "font": "",
+          "textAlignment": "center",
+          "characterSize": 60,
+          "color": {
+            "b": 29,
+            "g": 99,
+            "r": 62
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Sim",
+            "font": "",
+            "textAlignment": "center",
+            "verticalTextAlignment": "top",
+            "characterSize": 60,
+            "color": "62;99;29"
+          }
+        },
+        "Pressed": {
+          "bottomMargin": 16,
+          "height": 106,
+          "leftMargin": 16,
+          "rightMargin": 16,
+          "texture": "Green Button_Pressed.png",
+          "tiled": false,
+          "topMargin": 32,
+          "width": 256
+        }
+      }
+    },
+    {
+      "assetStoreId": "5faf2b0415c271fa6e747283ed36297a95f04d2b6c477a7b011775fa6fb444ee",
+      "name": "Nao",
+      "type": "PanelSpriteButton::PanelSpriteButton",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "LeftPadding": 16,
+        "RightPadding": 16,
+        "PressedLabelOffsetY": 3,
+        "BottomPadding": 32,
+        "TopPadding": 32,
+        "HoveredFadeOutDuration": 0.25
+      },
+      "childrenContent": {
+        "Hovered": {
+          "bottomMargin": 16,
+          "height": 69,
+          "leftMargin": 16,
+          "rightMargin": 16,
+          "texture": "Red Button With Shadow_Hovered.png",
+          "tiled": false,
+          "topMargin": 16,
+          "width": 192
+        },
+        "Idle": {
+          "bottomMargin": 16,
+          "height": 69,
+          "leftMargin": 16,
+          "rightMargin": 16,
+          "texture": "Red Button With Shadow_Idle.png",
+          "tiled": false,
+          "topMargin": 16,
+          "width": 192
+        },
+        "Label": {
+          "bold": false,
+          "italic": false,
+          "smoothed": true,
+          "underlined": false,
+          "string": "Não",
+          "font": "CantoraOne-Regular.ttf",
+          "textAlignment": "center",
+          "characterSize": 40,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Não",
+            "font": "CantoraOne-Regular.ttf",
+            "textAlignment": "center",
+            "verticalTextAlignment": "top",
+            "characterSize": 40,
+            "color": "255;255;255"
+          }
+        },
+        "Pressed": {
+          "bottomMargin": 16,
+          "height": 69,
+          "leftMargin": 16,
+          "rightMargin": 16,
+          "texture": "Red Button With Shadow_Pressed.png",
+          "tiled": false,
+          "topMargin": 16,
+          "width": 192
+        }
+      }
     }
   ],
   "objectsFolderStructure": {
@@ -8272,10 +8889,54 @@
       },
       {
         "objectName": "item_cristal"
+      },
+      {
+        "objectName": "flecha_persuasao"
+      },
+      {
+        "objectName": "bomba_de_fumaca"
+      },
+      {
+        "objectName": "machado"
+      },
+      {
+        "objectName": "revolver"
+      },
+      {
+        "objectName": "Sim"
+      },
+      {
+        "objectName": "Nao"
+      },
+      {
+        "objectName": "Information_text"
       }
     ]
   },
   "objectsGroups": [
+    {
+      "name": "AcoesDeCompra",
+      "objects": [
+        {
+          "name": "MenuBox"
+        },
+        {
+          "name": "Sim"
+        },
+        {
+          "name": "Nao"
+        },
+        {
+          "name": "Information_text"
+        },
+        {
+          "name": "Confirmar_comp"
+        },
+        {
+          "name": "Confirmar_fazer_produto"
+        }
+      ]
+    },
     {
       "name": "itensStacaveis",
       "objects": [
@@ -8325,7 +8986,7 @@
       "folded": true,
       "name": "coins",
       "type": "number",
-      "value": 300
+      "value": 0
     },
     {
       "folded": true,
@@ -8343,7 +9004,7 @@
       "folded": true,
       "name": "DungeonPiso",
       "type": "number",
-      "value": 2
+      "value": 1
     },
     {
       "folded": true,
@@ -8979,7 +9640,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.4163025217733438,
+        "zoomFactor": 0.45985214267364544,
         "windowMask": false
       },
       "objectsGroups": [
@@ -9040,8 +9701,8 @@
           "name": "Inimigo",
           "persistentUuid": "23ec3d26-d9f7-4de3-b2df-015e8bb19d65",
           "width": 172,
-          "x": 1726,
-          "y": 954,
+          "x": 1688,
+          "y": 922,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -9122,7 +9783,7 @@
           "width": 112,
           "x": 384,
           "y": 914,
-          "zOrder": 6,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -9170,7 +9831,7 @@
           "width": 134,
           "x": 1218,
           "y": 966,
-          "zOrder": 9,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -18053,10 +18714,55 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.3768772036750871,
+        "zoomFactor": 0.3645833333333334,
         "windowMask": false
       },
-      "objectsGroups": [],
+      "objectsGroups": [
+        {
+          "name": "Itens-ferreiro",
+          "objects": [
+            {
+              "name": "espada"
+            },
+            {
+              "name": "aljava"
+            },
+            {
+              "name": "adaga_1"
+            },
+            {
+              "name": "adaga_2"
+            },
+            {
+              "name": "shuriken2"
+            },
+            {
+              "name": "escudo"
+            },
+            {
+              "name": "armadura"
+            },
+            {
+              "name": "arco"
+            },
+            {
+              "name": "flecha_normal"
+            },
+            {
+              "name": "flecha_persuasao"
+            },
+            {
+              "name": "machado"
+            },
+            {
+              "name": "revolver"
+            },
+            {
+              "name": "bomba_de_fumaca"
+            }
+          ]
+        }
+      ],
       "variables": [],
       "instances": [
         {
@@ -18100,8 +18806,8 @@
           "layer": "",
           "name": "Estante_itens",
           "persistentUuid": "13c5a620-fc78-4e9a-851b-61234ffd102b",
-          "width": 1645,
-          "x": 76,
+          "width": 1774,
+          "x": -4,
           "y": 308,
           "zOrder": 3,
           "numberProperties": [],
@@ -18134,8 +18840,8 @@
           "name": "Segurador_estante",
           "persistentUuid": "2eed70f1-d916-45ac-b02e-a21e530857fe",
           "width": 142,
-          "x": 1714,
-          "y": 166,
+          "x": 1764,
+          "y": 184,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -18151,8 +18857,8 @@
           "name": "Segurador_estante",
           "persistentUuid": "3dd3d9fb-fae0-45c8-af4c-365f3a6f6b4f",
           "width": 142,
-          "x": 68,
-          "y": 183,
+          "x": -4,
+          "y": 177,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -18165,11 +18871,11 @@
           "height": 288,
           "keepRatio": true,
           "layer": "",
-          "name": "ferreiro_item1",
+          "name": "espada",
           "persistentUuid": "653b9613-5b39-4798-8cc0-d1e12f1a7226",
           "width": 89,
-          "x": 233,
-          "y": 18,
+          "x": 138,
+          "y": 28,
           "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
@@ -18182,11 +18888,11 @@
           "height": 206,
           "keepRatio": true,
           "layer": "",
-          "name": "ferreiro_item2",
+          "name": "aljava",
           "persistentUuid": "0175b661-a451-4fd8-abc7-52ae7e4f90fd",
           "width": 206,
-          "x": 385,
-          "y": 108,
+          "x": 229,
+          "y": 102,
           "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
@@ -18199,10 +18905,10 @@
           "height": 152,
           "keepRatio": true,
           "layer": "",
-          "name": "ferreiro_item3",
+          "name": "adaga_1",
           "persistentUuid": "736fb820-9c93-41b6-95c3-02000ae1d18d",
           "width": 120,
-          "x": 630,
+          "x": 470,
           "y": 147,
           "zOrder": 8,
           "numberProperties": [],
@@ -18216,11 +18922,11 @@
           "height": 219,
           "keepRatio": true,
           "layer": "",
-          "name": "ferreiro_item6",
+          "name": "adaga_2",
           "persistentUuid": "b3b0a278-06e9-49dc-9ef9-d7bf7d6e3895",
           "width": 102,
-          "x": 804,
-          "y": 84,
+          "x": 619,
+          "y": 100,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -18233,11 +18939,11 @@
           "height": 150,
           "keepRatio": true,
           "layer": "",
-          "name": "ferreiro_item4",
+          "name": "shuriken2",
           "persistentUuid": "f3eed836-208c-4d74-a68e-1ef302a4804e",
           "width": 150,
-          "x": 971,
-          "y": 162,
+          "x": 749,
+          "y": 146,
           "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
@@ -18250,11 +18956,11 @@
           "height": 162,
           "keepRatio": true,
           "layer": "",
-          "name": "ferreiro_item5",
+          "name": "escudo",
           "persistentUuid": "753ef056-0b7b-48f4-b4ec-fe081c04a617",
           "width": 132,
-          "x": 1194,
-          "y": 160,
+          "x": 915,
+          "y": 148,
           "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
@@ -18267,11 +18973,11 @@
           "height": 193,
           "keepRatio": true,
           "layer": "",
-          "name": "ferreiro_item8",
+          "name": "flecha_normal",
           "persistentUuid": "fce202c2-6b88-4936-8bba-18a8aa355a7a",
           "width": 193,
-          "x": 1355,
-          "y": 127,
+          "x": 1073,
+          "y": 117,
           "zOrder": 12,
           "numberProperties": [],
           "stringProperties": [],
@@ -18284,11 +18990,11 @@
           "height": 241,
           "keepRatio": true,
           "layer": "",
-          "name": "ferreiro_item9",
+          "name": "arco",
           "persistentUuid": "9105a093-5e6f-482a-b09b-e71988a3cc2d",
           "width": 99,
-          "x": 1598,
-          "y": 79,
+          "x": 1293,
+          "y": 93,
           "zOrder": 13,
           "numberProperties": [],
           "stringProperties": [],
@@ -18298,14 +19004,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 387,
+          "height": 344,
           "keepRatio": true,
           "layer": "",
-          "name": "ferreiro_item7",
+          "name": "armadura",
           "persistentUuid": "3c4d9421-ba46-4f68-9f36-1ccced0d6031",
-          "width": 284,
+          "width": 253,
           "x": 19,
-          "y": 488,
+          "y": 525,
           "zOrder": 14,
           "numberProperties": [],
           "stringProperties": [],
@@ -18324,6 +19030,208 @@
           "x": 711,
           "y": 335,
           "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "revolver",
+          "persistentUuid": "3a85e93f-b185-41ec-ae63-91982a55ea6e",
+          "width": 0,
+          "x": 1420,
+          "y": 177,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 208,
+          "keepRatio": true,
+          "layer": "",
+          "name": "machado",
+          "persistentUuid": "5b6c7236-63c6-4fe4-b65b-df5f306b5ecb",
+          "width": 130,
+          "x": 1634,
+          "y": 117,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 96,
+          "keepRatio": true,
+          "layer": "",
+          "name": "bomba_de_fumaca",
+          "persistentUuid": "7c8b9b85-e576-4320-9eaf-e95d0165af5b",
+          "width": 84,
+          "x": 119,
+          "y": 375,
+          "zOrder": 17,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 149,
+          "keepRatio": true,
+          "layer": "",
+          "name": "flecha_persuasao",
+          "persistentUuid": "b9a42c96-f972-43a6-90ce-6221a9a9e5c6",
+          "width": 153,
+          "x": 291,
+          "y": 325,
+          "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 30,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Estante_itens",
+          "persistentUuid": "2d86a086-c8c8-45ed-a504-cd211cda446e",
+          "width": 495,
+          "x": 3,
+          "y": 468,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 142,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Segurador_estante",
+          "persistentUuid": "6897423b-e37c-4568-a793-f2075506d097",
+          "width": 142,
+          "x": 8,
+          "y": 327,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 142,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Segurador_estante",
+          "persistentUuid": "620a4199-5998-4805-b3fa-64918f20f56a",
+          "width": 142,
+          "x": 480,
+          "y": 339,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 3,
+          "height": 650,
+          "keepRatio": true,
+          "layer": "",
+          "name": "MenuBox",
+          "persistentUuid": "eeacc6d2-a4b8-422e-99d8-34dc7563f4ea",
+          "width": 1365,
+          "x": 330,
+          "y": 97,
+          "zOrder": 19,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 165,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Information_text",
+          "persistentUuid": "15fc6ed1-30ae-4a1a-bf37-f336dad7136b",
+          "width": 1263,
+          "x": 378,
+          "y": 266,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 36,
+          "height": 80,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Sim",
+          "persistentUuid": "8dfdf737-64ec-495d-9198-d220d4889646",
+          "width": 194,
+          "x": 671,
+          "y": 592,
+          "zOrder": 21,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 49,
+          "height": 71,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Nao",
+          "persistentUuid": "df2294fb-cbe5-4ed1-92a1-8b51c6bbe77d",
+          "width": 198,
+          "x": 978,
+          "y": 589,
+          "zOrder": 22,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Confirmar_fazer_produto",
+          "persistentUuid": "774a339e-10cb-4c43-8b1e-a0a48c5d83f3",
+          "width": 0,
+          "x": 607,
+          "y": 176,
+          "zOrder": 23,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -18394,10 +19302,47 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "ferreiro_item1",
+          "name": "espada",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [],
+          "variables": [
+            {
+              "name": "Build",
+              "type": "array",
+              "children": [
+                {
+                  "type": "structure",
+                  "children": [
+                    {
+                      "name": "Nome",
+                      "type": "string",
+                      "value": "item_madeira"
+                    },
+                    {
+                      "name": "Quantidade",
+                      "type": "number",
+                      "value": 2
+                    }
+                  ]
+                },
+                {
+                  "type": "structure",
+                  "children": [
+                    {
+                      "name": "Nome",
+                      "type": "string",
+                      "value": "item_ferro"
+                    },
+                    {
+                      "name": "Quantidade",
+                      "type": "number",
+                      "value": 3
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
           "effects": [],
           "behaviors": [],
           "animations": [
@@ -18516,10 +19461,47 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "ferreiro_item2",
+          "name": "aljava",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [],
+          "variables": [
+            {
+              "name": "Build",
+              "type": "array",
+              "children": [
+                {
+                  "type": "structure",
+                  "children": [
+                    {
+                      "name": "Nome",
+                      "type": "string",
+                      "value": "item_casco"
+                    },
+                    {
+                      "name": "Quantidade",
+                      "type": "number",
+                      "value": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "structure",
+                  "children": [
+                    {
+                      "name": "Nome",
+                      "type": "string",
+                      "value": "item_planta"
+                    },
+                    {
+                      "name": "Quantidade",
+                      "type": "number",
+                      "value": 2
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
           "effects": [],
           "behaviors": [],
           "animations": [
@@ -18577,10 +19559,47 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "ferreiro_item3",
+          "name": "adaga_1",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [],
+          "variables": [
+            {
+              "name": "Build",
+              "type": "array",
+              "children": [
+                {
+                  "type": "structure",
+                  "children": [
+                    {
+                      "name": "Nome",
+                      "type": "string",
+                      "value": "item_madeira"
+                    },
+                    {
+                      "name": "Quantidade",
+                      "type": "number",
+                      "value": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "structure",
+                  "children": [
+                    {
+                      "name": "Nome",
+                      "type": "string",
+                      "value": "item_ferro"
+                    },
+                    {
+                      "name": "Quantidade",
+                      "type": "number",
+                      "value": 2
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
           "effects": [],
           "behaviors": [],
           "animations": [
@@ -18638,10 +19657,32 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "ferreiro_item4",
+          "name": "shuriken2",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [],
+          "variables": [
+            {
+              "name": "Build",
+              "type": "array",
+              "children": [
+                {
+                  "type": "structure",
+                  "children": [
+                    {
+                      "name": "Nome",
+                      "type": "string",
+                      "value": "item_ferro"
+                    },
+                    {
+                      "name": "Quantidade",
+                      "type": "number",
+                      "value": 3
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
           "effects": [],
           "behaviors": [],
           "animations": [
@@ -18698,10 +19739,47 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "ferreiro_item6",
+          "name": "adaga_2",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [],
+          "variables": [
+            {
+              "name": "Build",
+              "type": "array",
+              "children": [
+                {
+                  "type": "structure",
+                  "children": [
+                    {
+                      "name": "Nome",
+                      "type": "string",
+                      "value": "item_ferro"
+                    },
+                    {
+                      "name": "Quantidade",
+                      "type": "number",
+                      "value": 2
+                    }
+                  ]
+                },
+                {
+                  "type": "structure",
+                  "children": [
+                    {
+                      "name": "Nome",
+                      "type": "string",
+                      "value": "item_madeira"
+                    },
+                    {
+                      "name": "Quantidade",
+                      "type": "number",
+                      "value": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
           "effects": [],
           "behaviors": [],
           "animations": [
@@ -18759,10 +19837,47 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "ferreiro_item5",
+          "name": "escudo",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [],
+          "variables": [
+            {
+              "name": "Build",
+              "type": "array",
+              "children": [
+                {
+                  "type": "structure",
+                  "children": [
+                    {
+                      "name": "Nome",
+                      "type": "string",
+                      "value": "item_ferro"
+                    },
+                    {
+                      "name": "Quantidade",
+                      "type": "number",
+                      "value": 2
+                    }
+                  ]
+                },
+                {
+                  "type": "structure",
+                  "children": [
+                    {
+                      "name": "Nome",
+                      "type": "string",
+                      "value": "item_madeira"
+                    },
+                    {
+                      "name": "Quantidade",
+                      "type": "number",
+                      "value": 3
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
           "effects": [],
           "behaviors": [],
           "animations": [
@@ -18819,7 +19934,7 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "ferreiro_item7",
+          "name": "armadura",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -18880,10 +19995,47 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "ferreiro_item8",
+          "name": "flecha_normal",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [],
+          "variables": [
+            {
+              "name": "Build",
+              "type": "array",
+              "children": [
+                {
+                  "type": "structure",
+                  "children": [
+                    {
+                      "name": "Nome",
+                      "type": "string",
+                      "value": "item_madeira"
+                    },
+                    {
+                      "name": "Quantidade",
+                      "type": "number",
+                      "value": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "structure",
+                  "children": [
+                    {
+                      "name": "Nome",
+                      "type": "string",
+                      "value": "item_ferro"
+                    },
+                    {
+                      "name": "Quantidade",
+                      "type": "number",
+                      "value": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
           "effects": [],
           "behaviors": [],
           "animations": [
@@ -18941,10 +20093,47 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "ferreiro_item9",
+          "name": "arco",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [],
+          "variables": [
+            {
+              "name": "Build",
+              "type": "array",
+              "children": [
+                {
+                  "type": "structure",
+                  "children": [
+                    {
+                      "name": "Nome",
+                      "type": "string",
+                      "value": "item_madeira"
+                    },
+                    {
+                      "name": "Quantidade",
+                      "type": "number",
+                      "value": 2
+                    }
+                  ]
+                },
+                {
+                  "type": "structure",
+                  "children": [
+                    {
+                      "name": "Nome",
+                      "type": "string",
+                      "value": "item_planta"
+                    },
+                    {
+                      "name": "Quantidade",
+                      "type": "number",
+                      "value": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
           "effects": [],
           "behaviors": [],
           "animations": [
@@ -19223,6 +20412,48 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": true,
+          "italic": false,
+          "name": "Confirmar_fazer_produto",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Confirmar realização de produto",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 50,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          },
+          "content": {
+            "bold": true,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Confirmar realização de produto",
+            "font": "",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 50,
+            "color": "255;255;255"
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -19235,31 +20466,31 @@
             "objectName": "Fundo_ferreiro"
           },
           {
-            "objectName": "ferreiro_item1"
+            "objectName": "espada"
           },
           {
-            "objectName": "ferreiro_item2"
+            "objectName": "aljava"
           },
           {
-            "objectName": "ferreiro_item3"
+            "objectName": "adaga_1"
           },
           {
-            "objectName": "ferreiro_item4"
+            "objectName": "shuriken2"
           },
           {
-            "objectName": "ferreiro_item5"
+            "objectName": "escudo"
           },
           {
-            "objectName": "ferreiro_item6"
+            "objectName": "adaga_2"
           },
           {
-            "objectName": "ferreiro_item7"
+            "objectName": "armadura"
           },
           {
-            "objectName": "ferreiro_item8"
+            "objectName": "flecha_normal"
           },
           {
-            "objectName": "ferreiro_item9"
+            "objectName": "arco"
           },
           {
             "objectName": "Estante_itens"
@@ -19272,6 +20503,9 @@
           },
           {
             "objectName": "Itens_do_ferreiro"
+          },
+          {
+            "objectName": "Confirmar_fazer_produto"
           }
         ]
       },
@@ -19282,6 +20516,100 @@
             "includeConfig": 0
           },
           "target": "Bag"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "AcoesDeCompra"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "Itens-ferreiro",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonFromTextReleased"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Montre"
+              },
+              "parameters": [
+                "AcoesDeCompra",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "Information_text",
+                "Text",
+                "=",
+                "\"Serão removidos Itens-ferreiro. da sua conta, se cofirmar, esta ação será irreversível.\n\nTem certeza que deseja continuar?\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+              },
+              "parameters": [
+                "Nao",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "AcoesDeCompra"
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -19453,7 +20781,7 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "Item_4",
+          "name": "bomba_de_fumaca",
           "persistentUuid": "c24d7aa8-656e-42d7-a98d-c228d0bb01e5",
           "width": 0,
           "x": 1147,
@@ -19470,7 +20798,7 @@
           "height": 149,
           "keepRatio": true,
           "layer": "",
-          "name": "Item_5",
+          "name": "revolver",
           "persistentUuid": "7f494e10-fef7-49f8-b417-82cd161bc66f",
           "width": 234,
           "x": 1435,
@@ -19486,7 +20814,7 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "Item_6",
+          "name": "machado",
           "persistentUuid": "8cd2bf94-0982-4a1e-a0ec-23d9f97b65a2",
           "width": 0,
           "x": 195,
@@ -19503,7 +20831,7 @@
           "height": 368,
           "keepRatio": true,
           "layer": "",
-          "name": "Item_7",
+          "name": "flecha_persuasao",
           "persistentUuid": "a850b1d9-4d99-46b1-9760-6755ac86d8b4",
           "width": 397,
           "x": 453,
@@ -19697,250 +21025,6 @@
               ]
             }
           ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "Item_4",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "images__1_-removebg-preview",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "images__1_-removebg-preview",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 113,
-                            "y": 0
-                          },
-                          {
-                            "x": 113,
-                            "y": 129
-                          },
-                          {
-                            "x": 0,
-                            "y": 129
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "Item_5",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "itens-nivel-2\\item-advenurer",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "itens-nivel-2\\item-advenurer",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 4,
-                            "y": 3
-                          },
-                          {
-                            "x": 202,
-                            "y": 3
-                          },
-                          {
-                            "x": 202,
-                            "y": 127
-                          },
-                          {
-                            "x": 4,
-                            "y": 127
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "Item_6",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "Captura_de_tela_2025-03-08_141900-removebg-preview",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Captura_de_tela_2025-03-08_141900-removebg-preview",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 1,
-                            "y": 3
-                          },
-                          {
-                            "x": 195,
-                            "y": 3
-                          },
-                          {
-                            "x": 195,
-                            "y": 314
-                          },
-                          {
-                            "x": 1,
-                            "y": 314
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "Item_7",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "169445902-píxeles-de-arco-y-flecha-para-equipos-de-juego-ilustración-de-vector-de-arte-de-píxeles-removebg-preview",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "169445902-píxeles-de-arco-y-flecha-para-equipos-de-juego-ilustración-de-vector-de-arte-de-píxeles-removebg-preview",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 14,
-                            "y": 15
-                          },
-                          {
-                            "x": 224,
-                            "y": 15
-                          },
-                          {
-                            "x": 224,
-                            "y": 220
-                          },
-                          {
-                            "x": 14,
-                            "y": 220
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
         }
       ],
       "objectsFolderStructure": {
@@ -19954,18 +21038,6 @@
           },
           {
             "objectName": "Item_3"
-          },
-          {
-            "objectName": "Item_4"
-          },
-          {
-            "objectName": "Item_5"
-          },
-          {
-            "objectName": "Item_6"
-          },
-          {
-            "objectName": "Item_7"
           }
         ]
       },
@@ -25103,7 +26175,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.31928945896901684,
+        "zoomFactor": 0.30887412163426553,
         "windowMask": false
       },
       "objectsGroups": [
@@ -25130,26 +26202,6 @@
             },
             {
               "name": "ItemBoss1"
-            }
-          ]
-        },
-        {
-          "name": "AcoesDeCompra",
-          "objects": [
-            {
-              "name": "MenuBox"
-            },
-            {
-              "name": "Sim"
-            },
-            {
-              "name": "Nao"
-            },
-            {
-              "name": "Information_text"
-            },
-            {
-              "name": "Confirmar_comp"
             }
           ]
         }
@@ -25502,7 +26554,7 @@
           "persistentUuid": "70203f99-85f7-4d8a-bc19-a82ab5e46cb3",
           "width": 161,
           "x": 750,
-          "y": 522,
+          "y": 530,
           "zOrder": 22,
           "numberProperties": [],
           "stringProperties": [],
@@ -25518,8 +26570,8 @@
           "name": "Nao",
           "persistentUuid": "8feae82c-bada-4f59-a78c-27bb6f7f0c4f",
           "width": 134,
-          "x": 1102,
-          "y": 522,
+          "x": 1097,
+          "y": 530,
           "zOrder": 23,
           "numberProperties": [],
           "stringProperties": [],
@@ -26062,216 +27114,6 @@
             "characterSize": 50,
             "color": "255;255;255"
           }
-        },
-        {
-          "assetStoreId": "",
-          "bold": true,
-          "italic": false,
-          "name": "Information_text",
-          "smoothed": true,
-          "type": "TextObject::Text",
-          "underlined": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "string": "Serão removidos 10 moedas da sua conta, se cofirmar, esta ação será irreversível.\n\nTem certeza que deseja continuar?",
-          "font": "",
-          "textAlignment": "left",
-          "characterSize": 48,
-          "color": {
-            "b": 252,
-            "g": 252,
-            "r": 252
-          },
-          "content": {
-            "bold": true,
-            "isOutlineEnabled": false,
-            "isShadowEnabled": false,
-            "italic": false,
-            "outlineColor": "255;255;255",
-            "outlineThickness": 2,
-            "shadowAngle": 90,
-            "shadowBlurRadius": 2,
-            "shadowColor": "255;255;255",
-            "shadowDistance": 4,
-            "shadowOpacity": 127,
-            "smoothed": true,
-            "underlined": false,
-            "text": "Serão removidos 10 moedas da sua conta, se cofirmar, esta ação será irreversível.\n\nTem certeza que deseja continuar?",
-            "font": "",
-            "textAlignment": "left",
-            "verticalTextAlignment": "top",
-            "characterSize": 48,
-            "color": "252;252;252"
-          }
-        },
-        {
-          "assetStoreId": "b44dba91245ff1ac84a7b450e078194f19321d135fd8a67cd19bc9cb3403fba5",
-          "name": "Sim",
-          "type": "PanelSpriteButton::PanelSpriteButton",
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "content": {
-            "LeftPadding": 16,
-            "RightPadding": 16,
-            "PressedLabelOffsetY": 10,
-            "BottomPadding": 32,
-            "TopPadding": 16,
-            "HoveredFadeOutDuration": 0.25
-          },
-          "childrenContent": {
-            "Hovered": {
-              "bottomMargin": 32,
-              "height": 106,
-              "leftMargin": 16,
-              "rightMargin": 16,
-              "texture": "Green Button_Hovered.png",
-              "tiled": false,
-              "topMargin": 16,
-              "width": 256
-            },
-            "Idle": {
-              "bottomMargin": 32,
-              "height": 106,
-              "leftMargin": 16,
-              "rightMargin": 16,
-              "texture": "Green Button_Idle.png",
-              "tiled": false,
-              "topMargin": 16,
-              "width": 256
-            },
-            "Label": {
-              "bold": false,
-              "italic": false,
-              "smoothed": true,
-              "underlined": false,
-              "string": "Sim",
-              "font": "",
-              "textAlignment": "center",
-              "characterSize": 60,
-              "color": {
-                "b": 29,
-                "g": 99,
-                "r": 62
-              },
-              "content": {
-                "bold": false,
-                "isOutlineEnabled": false,
-                "isShadowEnabled": false,
-                "italic": false,
-                "outlineColor": "255;255;255",
-                "outlineThickness": 2,
-                "shadowAngle": 90,
-                "shadowBlurRadius": 2,
-                "shadowColor": "0;0;0",
-                "shadowDistance": 4,
-                "shadowOpacity": 127,
-                "smoothed": true,
-                "underlined": false,
-                "text": "Sim",
-                "font": "",
-                "textAlignment": "center",
-                "verticalTextAlignment": "top",
-                "characterSize": 60,
-                "color": "62;99;29"
-              }
-            },
-            "Pressed": {
-              "bottomMargin": 16,
-              "height": 106,
-              "leftMargin": 16,
-              "rightMargin": 16,
-              "texture": "Green Button_Pressed.png",
-              "tiled": false,
-              "topMargin": 32,
-              "width": 256
-            }
-          }
-        },
-        {
-          "assetStoreId": "5faf2b0415c271fa6e747283ed36297a95f04d2b6c477a7b011775fa6fb444ee",
-          "name": "Nao",
-          "type": "PanelSpriteButton::PanelSpriteButton",
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "content": {
-            "LeftPadding": 16,
-            "RightPadding": 16,
-            "PressedLabelOffsetY": 3,
-            "BottomPadding": 32,
-            "TopPadding": 32,
-            "HoveredFadeOutDuration": 0.25
-          },
-          "childrenContent": {
-            "Hovered": {
-              "bottomMargin": 16,
-              "height": 69,
-              "leftMargin": 16,
-              "rightMargin": 16,
-              "texture": "Red Button With Shadow_Hovered.png",
-              "tiled": false,
-              "topMargin": 16,
-              "width": 192
-            },
-            "Idle": {
-              "bottomMargin": 16,
-              "height": 69,
-              "leftMargin": 16,
-              "rightMargin": 16,
-              "texture": "Red Button With Shadow_Idle.png",
-              "tiled": false,
-              "topMargin": 16,
-              "width": 192
-            },
-            "Label": {
-              "bold": false,
-              "italic": false,
-              "smoothed": true,
-              "underlined": false,
-              "string": "Não",
-              "font": "CantoraOne-Regular.ttf",
-              "textAlignment": "center",
-              "characterSize": 40,
-              "color": {
-                "b": 255,
-                "g": 255,
-                "r": 255
-              },
-              "content": {
-                "bold": false,
-                "isOutlineEnabled": false,
-                "isShadowEnabled": false,
-                "italic": false,
-                "outlineColor": "255;255;255",
-                "outlineThickness": 2,
-                "shadowAngle": 90,
-                "shadowBlurRadius": 2,
-                "shadowColor": "0;0;0",
-                "shadowDistance": 4,
-                "shadowOpacity": 127,
-                "smoothed": true,
-                "underlined": false,
-                "text": "Não",
-                "font": "CantoraOne-Regular.ttf",
-                "textAlignment": "center",
-                "verticalTextAlignment": "top",
-                "characterSize": 40,
-                "color": "255;255;255"
-              }
-            },
-            "Pressed": {
-              "bottomMargin": 16,
-              "height": 69,
-              "leftMargin": 16,
-              "rightMargin": 16,
-              "texture": "Red Button With Shadow_Pressed.png",
-              "tiled": false,
-              "topMargin": 16,
-              "width": 192
-            }
-          }
         }
       ],
       "objectsFolderStructure": {
@@ -26333,19 +27175,10 @@
             "objectName": "Button_Buy"
           },
           {
-            "objectName": "Nao"
-          },
-          {
             "objectName": "Error_Mensage"
           },
           {
             "objectName": "Confirmar_comp"
-          },
-          {
-            "objectName": "Information_text"
-          },
-          {
-            "objectName": "Sim"
           }
         ]
       },

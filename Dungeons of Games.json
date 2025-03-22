@@ -1,7 +1,7 @@
 {
   "firstLayout": "Itens",
   "gdVersion": {
-    "build": 224,
+    "build": 226,
     "major": 5,
     "minor": 5,
     "revision": 0
@@ -106,7 +106,7 @@
       {
         "file": "ChaoDungeons.jpg",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"ChaoDungeons.jpg\",\"extension\":\".png\"}",
         "name": "ChaoDungeons.jpg",
         "smoothed": false,
         "userAdded": false
@@ -2102,7 +2102,7 @@
       {
         "file": "assets/fire-ball.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/fire-ball.png\"}",
         "name": "fire-ball",
         "smoothed": false,
         "userAdded": false
@@ -2126,7 +2126,7 @@
       {
         "file": "assets/meta-knight-pixel-art-at-cdawgvas-pixel-canvas-i-leave-the-v0-i3e6a7svg9bb1-removebg-preview2.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/meta-knight-pixel-art-at-cdawgvas-pixel-canvas-i-leave-the-v0-i3e6a7svg9bb1-removebg-preview2.png\"}",
         "name": "meta-knight-pixel-art-at-cdawgvas-pixel-canvas-i-leave-the-v0-i3e6a7svg9bb1-removebg-preview2",
         "smoothed": false,
         "userAdded": true
@@ -4243,6 +4243,258 @@
         "name": "169445902-píxeles-de-arco-y-flecha-para-equipos-de-juego-ilustración-de-vector-de-arte-de-píxeles-removebg-preview",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "Porta-removebg-preview.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Porta-removebg-preview.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Porta-removebg-preview.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Porta-removebg-preview",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Porta-removebg-preview2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Porta-removebg-preview2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Grey Button_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Grey Button_Hovered.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/b43e0035dca80ea2fad5c5d65de926dae0185038e5f9cb21d5f20234f30d1c76_Grey Button_Hovered.png",
+          "name": "Grey Button_Hovered.png"
+        }
+      },
+      {
+        "file": "assets/Grey Button_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Grey Button_Idle.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/da7fc2efa0882eb5dfa0266315f2483c2f68d86a6751dc309ea9e9d0dd4759ba_Grey Button_Idle.png",
+          "name": "Grey Button_Idle.png"
+        }
+      },
+      {
+        "file": "assets/Grey Button_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Grey Button_Pressed.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/49c35e14af0e1f7aae407455cb944de96328955870e5f1500f63723ad879a42e_Grey Button_Pressed.png",
+          "name": "Grey Button_Pressed.png"
+        }
+      },
+      {
+        "file": "assets/normal2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/normal2.png\"}",
+        "name": "normal2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "images/Dungeon/Mapa/2.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"images/Dungeon/Mapa/2.png\",\"extension\":\".png\"}",
+        "name": "images\\Dungeon\\Mapa\\2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "images/Dungeon/Mapa/3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "images\\Dungeon\\Mapa\\3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "images/Dungeon/Mapa/4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "images\\Dungeon\\Mapa\\4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "images/Dungeon/Mapa/5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "images\\Dungeon\\Mapa\\5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "images/Dungeon/Mapa/6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "images\\Dungeon\\Mapa\\6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "images/Dungeon/Mapa/7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "images\\Dungeon\\Mapa\\7.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "images/Dungeon/Mapa/8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "images\\Dungeon\\Mapa\\8.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "images/Dungeon/Mapa/9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "images\\Dungeon\\Mapa\\9.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "images/Dungeon/Mapa/10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "images\\Dungeon\\Mapa\\10.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "images/Dungeon/Mapa/11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "images\\Dungeon\\Mapa\\11.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "images/Dungeon/Mapa/12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "images\\Dungeon\\Mapa\\12.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "images/Dungeon/Mapa/13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "images\\Dungeon\\Mapa\\13.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "images/Dungeon/Mapa/14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "images\\Dungeon\\Mapa\\14.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "images/Dungeon/Mapa/15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "images\\Dungeon\\Mapa\\15.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "images/Dungeon/Mapa/16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "images\\Dungeon\\Mapa\\16.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "images/Dungeon/Mapa/17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "images\\Dungeon\\Mapa\\17.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "images/Dungeon/Mapa/18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "images\\Dungeon\\Mapa\\18.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "images/Dungeon/Mapa/19.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "images\\Dungeon\\Mapa\\19.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "images/Dungeon/Mapa/20.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "images\\Dungeon\\Mapa\\20.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/chao_luta.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "chao_luta",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "ícones-do-jogo-pixel-espaço-celestial-bodies-dos-planetas-vetor-planeta-isolado-com-pontos-e-meteoro-flamejante-que-cai-para-152841208-removebg-preview (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ícones-do-jogo-pixel-espaço-celestial-bodies-dos-planetas-vetor-planeta-isolado-com-pontos-e-meteoro-flamejante-que-cai-para-152841208-removebg-preview (1).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "ícones-do-jogo-pixel-espaço-celestial-bodies-dos-planetas-vetor-planeta-isolado-com-pontos-e-meteoro-flamejante-que-cai-para-152841208-removebg-preview (1)2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ícones-do-jogo-pixel-espaço-celestial-bodies-dos-planetas-vetor-planeta-isolado-com-pontos-e-meteoro-flamejante-que-cai-para-152841208-removebg-preview (1)2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/fire-ball2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "fire-ball2",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -4283,6 +4535,11 @@
           "name": "Invisivel",
           "type": "boolean",
           "value": false
+        },
+        {
+          "name": "Vida",
+          "type": "number",
+          "value": 5
         }
       ],
       "effects": [],
@@ -4290,6 +4547,7 @@
         {
           "name": "Pathfinding",
           "type": "PathfindingBehavior::PathfindingBehavior",
+          "maxSpeed": 600,
           "acceleration": 500,
           "allowDiagonals": true,
           "angleOffset": 0,
@@ -4299,7 +4557,6 @@
           "extraBorder": 0,
           "gridOffsetX": 0,
           "gridOffsetY": 0,
-          "maxSpeed": 400,
           "rotateObject": false,
           "smoothingMaxCellGap": 1
         },
@@ -8816,6 +9073,728 @@
           "width": 192
         }
       }
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "level_dungeon",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "normal",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "normal2",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 8.5,
+                    "y": 8.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 17,
+                        "y": 0
+                      },
+                      {
+                        "x": 17,
+                        "y": 17
+                      },
+                      {
+                        "x": 0,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "level-up",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.2,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "level-up",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 8.5,
+                    "y": 8.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 17,
+                        "y": 0
+                      },
+                      {
+                        "x": 17,
+                        "y": 17
+                      },
+                      {
+                        "x": 0,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "level-up2",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 8.5,
+                    "y": 8.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 17,
+                        "y": 0
+                      },
+                      {
+                        "x": 17,
+                        "y": 17
+                      },
+                      {
+                        "x": 0,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "level-up3",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 8.5,
+                    "y": 8.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 17,
+                        "y": 0
+                      },
+                      {
+                        "x": 17,
+                        "y": 17
+                      },
+                      {
+                        "x": 0,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "level-up4",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 8.5,
+                    "y": 8.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 17,
+                        "y": 0
+                      },
+                      {
+                        "x": 17,
+                        "y": 17
+                      },
+                      {
+                        "x": 0,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "level-up5",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 8.5,
+                    "y": 8.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 17,
+                        "y": 0
+                      },
+                      {
+                        "x": 17,
+                        "y": 17
+                      },
+                      {
+                        "x": 0,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "level-up6",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 8.5,
+                    "y": 8.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 17,
+                        "y": 0
+                      },
+                      {
+                        "x": 17,
+                        "y": 17
+                      },
+                      {
+                        "x": 0,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "level-up7",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 8.5,
+                    "y": 8.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 17,
+                        "y": 0
+                      },
+                      {
+                        "x": 17,
+                        "y": 17
+                      },
+                      {
+                        "x": 0,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "level-up8",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 8.5,
+                    "y": 8.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 17,
+                        "y": 0
+                      },
+                      {
+                        "x": 17,
+                        "y": 17
+                      },
+                      {
+                        "x": 0,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "level-up9",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 8.5,
+                    "y": 8.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 17,
+                        "y": 0
+                      },
+                      {
+                        "x": 17,
+                        "y": 17
+                      },
+                      {
+                        "x": 0,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "level-up10",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 8.5,
+                    "y": 8.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 17,
+                        "y": 0
+                      },
+                      {
+                        "x": 17,
+                        "y": 17
+                      },
+                      {
+                        "x": 0,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "level-up11",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 8.5,
+                    "y": 8.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 17,
+                        "y": 0
+                      },
+                      {
+                        "x": 17,
+                        "y": 17
+                      },
+                      {
+                        "x": 0,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "level-up12",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 8.5,
+                    "y": 8.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 17,
+                        "y": 0
+                      },
+                      {
+                        "x": 17,
+                        "y": 17
+                      },
+                      {
+                        "x": 0,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "level-up13",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 8.5,
+                    "y": 8.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 17,
+                        "y": 0
+                      },
+                      {
+                        "x": 17,
+                        "y": 17
+                      },
+                      {
+                        "x": 0,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "level-up14",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 8.5,
+                    "y": 8.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 17,
+                        "y": 0
+                      },
+                      {
+                        "x": 17,
+                        "y": 17
+                      },
+                      {
+                        "x": 0,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "level-up15",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 8.5,
+                    "y": 8.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 17,
+                        "y": 0
+                      },
+                      {
+                        "x": 17,
+                        "y": 17
+                      },
+                      {
+                        "x": 0,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "level-up16",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 8.5,
+                    "y": 8.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 17,
+                        "y": 0
+                      },
+                      {
+                        "x": 17,
+                        "y": 17
+                      },
+                      {
+                        "x": 0,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "level-up17",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 8.5,
+                    "y": 8.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 17,
+                        "y": 0
+                      },
+                      {
+                        "x": 17,
+                        "y": 17
+                      },
+                      {
+                        "x": 0,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "level-up18",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 8.5,
+                    "y": 8.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 17,
+                        "y": 0
+                      },
+                      {
+                        "x": 17,
+                        "y": 17
+                      },
+                      {
+                        "x": 0,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -8838,6 +9817,9 @@
       },
       {
         "objectName": "level_xp"
+      },
+      {
+        "objectName": "level_dungeon"
       },
       {
         "objectName": "Coin"
@@ -9003,6 +9985,11 @@
     {
       "folded": true,
       "name": "DungeonPiso",
+      "type": "number",
+      "value": 1
+    },
+    {
+      "name": "MaxPiso",
       "type": "number",
       "value": 1
     },
@@ -12710,8 +13697,8 @@
           "name": "vilao_luta",
           "persistentUuid": "a622fd35-b529-4013-be1b-cebb91cbd66e",
           "width": 660,
-          "x": 1269,
-          "y": 526,
+          "x": 1133,
+          "y": 589,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -12743,26 +13730,9 @@
           "name": "Player",
           "persistentUuid": "ba71f21a-cc98-497d-a0d7-5ba6cfdccd72",
           "width": 274,
-          "x": 171,
-          "y": 786,
+          "x": 259,
+          "y": 884,
           "zOrder": 6,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 2,
-          "height": 248,
-          "keepRatio": true,
-          "layer": "",
-          "name": "chao_luta",
-          "persistentUuid": "6c0afaa5-d01f-449a-90cd-b04dc9792b3d",
-          "width": 2422,
-          "x": -256,
-          "y": 922,
-          "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -12777,9 +13747,111 @@
           "name": "fundo_luta",
           "persistentUuid": "ca85b6da-d3c8-4349-86e3-07a86fb38925",
           "width": 2497,
-          "x": -254,
-          "y": -165,
+          "x": -176,
+          "y": -141,
           "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 77,
+          "keepRatio": true,
+          "layer": "",
+          "name": "chao_luta",
+          "persistentUuid": "f815c198-246e-4f9a-9d64-a5f5ec5ad1ad",
+          "width": 1926,
+          "x": -2,
+          "y": 3,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 1024,
+          "keepRatio": true,
+          "layer": "",
+          "name": "chao_luta",
+          "persistentUuid": "90bebbf7-e72e-44fc-aa69-8c6216b406d1",
+          "width": 108,
+          "x": 1814,
+          "y": 58,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 78,
+          "keepRatio": true,
+          "layer": "",
+          "name": "chao_luta",
+          "persistentUuid": "0fc61f7f-0749-48e2-97aa-8b59410a0193",
+          "width": 1826,
+          "x": -4,
+          "y": 1005,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 326,
+          "keepRatio": true,
+          "layer": "",
+          "name": "chao_luta",
+          "persistentUuid": "5227c84f-982a-46f1-bd1f-81cd5ab47410",
+          "width": 117,
+          "x": -1,
+          "y": 67,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 326,
+          "keepRatio": true,
+          "layer": "",
+          "name": "chao_luta",
+          "persistentUuid": "f9daa67d-1199-4cab-afda-eb855d94b857",
+          "width": 117,
+          "x": 1,
+          "y": 686,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 135,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Aviso_chegar",
+          "persistentUuid": "e3126960-93c9-4b54-800e-90d4964609d5",
+          "width": 579,
+          "x": 632,
+          "y": 108,
+          "zOrder": 8,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -12926,7 +13998,7 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "images-removebg-preview (22)",
+              "name": "chao_luta",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -12936,7 +14008,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "images-removebg-preview (22)2",
+                      "image": "chao_luta",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -12956,16 +14028,16 @@
                             "y": 0
                           },
                           {
-                            "x": 145,
+                            "x": 64,
                             "y": 0
                           },
                           {
-                            "x": 145,
-                            "y": 144
+                            "x": 64,
+                            "y": 64
                           },
                           {
                             "x": 0,
-                            "y": 144
+                            "y": 64
                           }
                         ]
                       ]
@@ -12987,16 +14059,17 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "",
+              "name": "ChaoDungeons",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Screenshot11-1920x1080-1e5343e75ccf37789ea2132f93d7f0b4.jpg",
+                      "image": "ChaoDungeons.jpg",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -13016,16 +14089,119 @@
                             "y": 0
                           },
                           {
-                            "x": 1920,
+                            "x": 735,
                             "y": 0
                           },
                           {
-                            "x": 1920,
-                            "y": 1080
+                            "x": 735,
+                            "y": 474
                           },
                           {
                             "x": 0,
-                            "y": 1080
+                            "y": 474
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": true,
+          "italic": false,
+          "name": "Aviso_chegar",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": " Bem-vindo a Luta!\n Hora de treinar, enfrente o Meta Knight.",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 50,
+          "color": {
+            "b": 254,
+            "g": 19,
+            "r": 144
+          },
+          "content": {
+            "bold": true,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": " Bem-vindo a Luta!\n Hora de treinar, enfrente o Meta Knight.",
+            "font": "",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 50,
+            "color": "144;19;254"
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "TiroVilao",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "fire-ball",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "fire-ball2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 2
+                          },
+                          {
+                            "x": 163,
+                            "y": 2
+                          },
+                          {
+                            "x": 163,
+                            "y": 110
+                          },
+                          {
+                            "x": 1,
+                            "y": 110
                           }
                         ]
                       ]
@@ -13047,10 +14223,16 @@
             "objectName": "TiroPlayer"
           },
           {
+            "objectName": "TiroVilao"
+          },
+          {
             "objectName": "chao_luta"
           },
           {
             "objectName": "fundo_luta"
+          },
+          {
+            "objectName": "Aviso_chegar"
           }
         ]
       },
@@ -13176,6 +14358,82 @@
             "includeConfig": 0
           },
           "target": "Bag"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "Player",
+                "vida",
+                "<=",
+                "0"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "Player",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Saguao\"",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "TiroVilao",
+                "Player",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Player",
+                "vida",
+                "-",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "TiroVilao",
+                ""
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -13252,10 +14510,6 @@
         {
           "name": "Scale",
           "type": "ScalableCapability::ScalableBehavior"
-        },
-        {
-          "name": "SmoothCamera",
-          "type": "SmoothCamera::SmoothCamera"
         },
         {
           "name": "Sticker",
@@ -19010,8 +20264,8 @@
           "name": "armadura",
           "persistentUuid": "3c4d9421-ba46-4f68-9f36-1ccced0d6031",
           "width": 253,
-          "x": 19,
-          "y": 525,
+          "x": 368,
+          "y": 529,
           "zOrder": 14,
           "numberProperties": [],
           "stringProperties": [],
@@ -19162,8 +20416,8 @@
           "name": "MenuBox",
           "persistentUuid": "eeacc6d2-a4b8-422e-99d8-34dc7563f4ea",
           "width": 1365,
-          "x": 330,
-          "y": 97,
+          "x": 336,
+          "y": 117,
           "zOrder": 19,
           "numberProperties": [],
           "stringProperties": [],
@@ -19179,8 +20433,8 @@
           "name": "Information_text",
           "persistentUuid": "15fc6ed1-30ae-4a1a-bf37-f336dad7136b",
           "width": 1263,
-          "x": 378,
-          "y": 266,
+          "x": 396,
+          "y": 264,
           "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
@@ -19196,8 +20450,8 @@
           "name": "Sim",
           "persistentUuid": "8dfdf737-64ec-495d-9198-d220d4889646",
           "width": 194,
-          "x": 671,
-          "y": 592,
+          "x": 697,
+          "y": 590,
           "zOrder": 21,
           "numberProperties": [],
           "stringProperties": [],
@@ -19213,8 +20467,8 @@
           "name": "Nao",
           "persistentUuid": "df2294fb-cbe5-4ed1-92a1-8b51c6bbe77d",
           "width": 198,
-          "x": 978,
-          "y": 589,
+          "x": 1024,
+          "y": 594,
           "zOrder": 22,
           "numberProperties": [],
           "stringProperties": [],
@@ -19229,9 +20483,26 @@
           "name": "Confirmar_fazer_produto",
           "persistentUuid": "774a339e-10cb-4c43-8b1e-a0a48c5d83f3",
           "width": 0,
-          "x": 607,
-          "y": 176,
+          "x": 618,
+          "y": 189,
           "zOrder": 23,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 297,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Porta_ferreiro",
+          "persistentUuid": "bf64643c-165c-444f-9fa1-fe734322be08",
+          "width": 222,
+          "x": 10,
+          "y": 569,
+          "zOrder": 24,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -20454,6 +21725,67 @@
             "characterSize": 50,
             "color": "255;255;255"
           }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Porta_ferreiro",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Porta-removebg-preview",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Porta-removebg-preview2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 236,
+                            "y": 0
+                          },
+                          {
+                            "x": 236,
+                            "y": 312
+                          },
+                          {
+                            "x": 0,
+                            "y": 312
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -20506,6 +21838,9 @@
           },
           {
             "objectName": "Confirmar_fazer_produto"
+          },
+          {
+            "objectName": "Porta_ferreiro"
           }
         ]
       },
@@ -20607,6 +21942,43 @@
               },
               "parameters": [
                 "AcoesDeCompra"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "Porta_ferreiro",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonFromTextReleased"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Saguao\"",
+                ""
               ]
             }
           ]
@@ -30272,7 +31644,7 @@
                           "parameters": [
                             "Index",
                             "<=",
-                            "DungeonPiso"
+                            "MaxPiso"
                           ]
                         }
                       ],
@@ -30310,7 +31682,7 @@
                           "parameters": [
                             "Index",
                             "<=",
-                            "DungeonPiso"
+                            "MaxPiso"
                           ]
                         }
                       ],
@@ -30467,7 +31839,7 @@
               },
               "parameters": [
                 "",
-                "\"Dungeon\"",
+                "\"Entrada-Dungeon\"",
                 ""
               ]
             }
@@ -30607,7 +31979,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.5427920802473274,
+        "zoomFactor": 0.44485159988866535,
         "windowMask": false
       },
       "objectsGroups": [
@@ -30658,8 +32030,8 @@
           "name": "Porta",
           "persistentUuid": "0e5dd625-b59d-493e-ac1d-606b6bd2de3c",
           "width": 779,
-          "x": 519,
-          "y": 4,
+          "x": 528,
+          "y": 112,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -30675,8 +32047,8 @@
           "name": "Direito",
           "persistentUuid": "3a6e064a-743e-4294-b8a7-153c3e536966",
           "width": 141,
-          "x": 1037,
-          "y": 411,
+          "x": 1057,
+          "y": 525,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -30692,8 +32064,8 @@
           "name": "Esquerdo",
           "persistentUuid": "11826d7d-1159-47de-b74e-52ee8e838ed0",
           "width": 136,
-          "x": 776,
-          "y": 410,
+          "x": 799,
+          "y": 524,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -30760,8 +32132,8 @@
           "name": "Invisivel",
           "persistentUuid": "3781c28f-fcaf-4ba5-aca3-ae488383eecb",
           "width": 297,
-          "x": 759,
-          "y": 228,
+          "x": 774,
+          "y": 346,
           "zOrder": 8,
           "numberProperties": [],
           "stringProperties": [],
@@ -30846,6 +32218,39 @@
           "x": 551,
           "y": 872,
           "zOrder": 13,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 6,
+          "height": 111,
+          "keepRatio": true,
+          "layer": "",
+          "name": "level_dungeon",
+          "persistentUuid": "b82e3864-7401-48c8-827f-caecd603f43b",
+          "width": 111,
+          "x": 933,
+          "y": 57,
+          "zOrder": 14,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Numero_level_dungeon",
+          "persistentUuid": "a6f08679-d891-4d60-ab8e-3230655e6d84",
+          "width": 0,
+          "x": 918,
+          "y": 29,
+          "zOrder": 15,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -31260,7 +32665,7 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "Captura_de_tela_2024-11-30_111357-removebg-preview",
+              "name": "1",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -31271,6 +32676,919 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "assets\\Mapa.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1773,
+                            "y": 0
+                          },
+                          {
+                            "x": 1773,
+                            "y": 975
+                          },
+                          {
+                            "x": 0,
+                            "y": 975
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "2",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "images\\Dungeon\\Mapa\\2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1773,
+                            "y": 0
+                          },
+                          {
+                            "x": 1773,
+                            "y": 975
+                          },
+                          {
+                            "x": 0,
+                            "y": 975
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "3",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "images\\Dungeon\\Mapa\\3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1773,
+                            "y": 0
+                          },
+                          {
+                            "x": 1773,
+                            "y": 975
+                          },
+                          {
+                            "x": 0,
+                            "y": 975
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "4",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "images\\Dungeon\\Mapa\\4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1773,
+                            "y": 0
+                          },
+                          {
+                            "x": 1773,
+                            "y": 975
+                          },
+                          {
+                            "x": 0,
+                            "y": 975
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "5",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "images\\Dungeon\\Mapa\\5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1773,
+                            "y": 0
+                          },
+                          {
+                            "x": 1773,
+                            "y": 975
+                          },
+                          {
+                            "x": 0,
+                            "y": 975
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "6",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "images\\Dungeon\\Mapa\\6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1773,
+                            "y": 0
+                          },
+                          {
+                            "x": 1773,
+                            "y": 975
+                          },
+                          {
+                            "x": 0,
+                            "y": 975
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "7",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "images\\Dungeon\\Mapa\\7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1773,
+                            "y": 0
+                          },
+                          {
+                            "x": 1773,
+                            "y": 975
+                          },
+                          {
+                            "x": 0,
+                            "y": 975
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "8",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "images\\Dungeon\\Mapa\\8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1773,
+                            "y": 0
+                          },
+                          {
+                            "x": 1773,
+                            "y": 975
+                          },
+                          {
+                            "x": 0,
+                            "y": 975
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "9",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "images\\Dungeon\\Mapa\\9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1773,
+                            "y": 0
+                          },
+                          {
+                            "x": 1773,
+                            "y": 975
+                          },
+                          {
+                            "x": 0,
+                            "y": 975
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "10",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "images\\Dungeon\\Mapa\\10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1773,
+                            "y": 0
+                          },
+                          {
+                            "x": 1773,
+                            "y": 975
+                          },
+                          {
+                            "x": 0,
+                            "y": 975
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "11",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "images\\Dungeon\\Mapa\\11.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1773,
+                            "y": 0
+                          },
+                          {
+                            "x": 1773,
+                            "y": 975
+                          },
+                          {
+                            "x": 0,
+                            "y": 975
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "12",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "images\\Dungeon\\Mapa\\12.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1773,
+                            "y": 0
+                          },
+                          {
+                            "x": 1773,
+                            "y": 975
+                          },
+                          {
+                            "x": 0,
+                            "y": 975
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "13",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "images\\Dungeon\\Mapa\\13.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1773,
+                            "y": 0
+                          },
+                          {
+                            "x": 1773,
+                            "y": 975
+                          },
+                          {
+                            "x": 0,
+                            "y": 975
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "14",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "images\\Dungeon\\Mapa\\14.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1773,
+                            "y": 0
+                          },
+                          {
+                            "x": 1773,
+                            "y": 975
+                          },
+                          {
+                            "x": 0,
+                            "y": 975
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "15",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "images\\Dungeon\\Mapa\\15.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1773,
+                            "y": 0
+                          },
+                          {
+                            "x": 1773,
+                            "y": 975
+                          },
+                          {
+                            "x": 0,
+                            "y": 975
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "16",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "images\\Dungeon\\Mapa\\16.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1773,
+                            "y": 0
+                          },
+                          {
+                            "x": 1773,
+                            "y": 975
+                          },
+                          {
+                            "x": 0,
+                            "y": 975
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "17",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "images\\Dungeon\\Mapa\\17.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1773,
+                            "y": 0
+                          },
+                          {
+                            "x": 1773,
+                            "y": 975
+                          },
+                          {
+                            "x": 0,
+                            "y": 975
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "18",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "images\\Dungeon\\Mapa\\18.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1773,
+                            "y": 0
+                          },
+                          {
+                            "x": 1773,
+                            "y": 975
+                          },
+                          {
+                            "x": 0,
+                            "y": 975
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "19",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "images\\Dungeon\\Mapa\\19.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1773,
+                            "y": 0
+                          },
+                          {
+                            "x": 1773,
+                            "y": 975
+                          },
+                          {
+                            "x": 0,
+                            "y": 975
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "20",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "images\\Dungeon\\Mapa\\20.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -31466,6 +33784,48 @@
             "align": "left",
             "wordWrap": true
           }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "Numero_level_dungeon",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "1",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 50,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "1",
+            "font": "",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 50,
+            "color": "0;0;0"
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -31506,6 +33866,9 @@
           },
           {
             "objectName": "Nao"
+          },
+          {
+            "objectName": "Numero_level_dungeon"
           }
         ]
       },
@@ -31827,6 +34190,23 @@
           "events": [
             {
               "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+                  },
+                  "parameters": [
+                    "Mapa",
+                    "Animation",
+                    "=",
+                    "MaxPiso-1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
                   "type": {
@@ -31871,6 +34251,23 @@
             }
           ],
           "parameters": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "Numero_level_dungeon",
+                "Text",
+                "=",
+                "DungeonPiso"
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -37254,6 +39651,7 @@
       "category": "Visual effect",
       "extensionNamespace": "",
       "fullName": "3D Flip",
+      "gdevelopVersion": "",
       "helpPath": "",
       "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiBpZD0ibWRpLWZsaXAtaG9yaXpvbnRhbCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik0xNSAyMUgxN1YxOUgxNU0xOSA5SDIxVjdIMTlNMyA1VjE5QzMgMjAuMSAzLjkgMjEgNSAyMUg5VjE5SDVWNUg5VjNINUMzLjkgMyAzIDMuOSAzIDVNMTkgM1Y1SDIxQzIxIDMuOSAyMC4xIDMgMTkgM00xMSAyM0gxM1YxSDExTTE5IDE3SDIxVjE1SDE5TTE1IDVIMTdWM0gxNU0xOSAxM0gyMVYxMUgxOU0xOSAyMUMyMC4xIDIxIDIxIDIwLjEgMjEgMTlIMTlaIiAvPjwvc3ZnPg==",
       "name": "ThreeDFlip",
@@ -38679,6 +41077,7 @@
       "category": "Camera",
       "extensionNamespace": "",
       "fullName": "Smooth Camera",
+      "gdevelopVersion": "",
       "helpPath": "/tutorials/follow-player-with-camera/",
       "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyMy4wLjMsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iSWNvbnMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4Ig0KCSB2aWV3Qm94PSIwIDAgMzIgMzIiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDMyIDMyOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPg0KCS5zdDB7ZmlsbDpub25lO3N0cm9rZTojMDAwMDAwO3N0cm9rZS13aWR0aDoyO3N0cm9rZS1saW5lY2FwOnJvdW5kO3N0cm9rZS1saW5lam9pbjpyb3VuZDtzdHJva2UtbWl0ZXJsaW1pdDoxMDt9DQoJLnN0MXtmaWxsOm5vbmU7c3Ryb2tlOiMwMDAwMDA7c3Ryb2tlLXdpZHRoOjI7c3Ryb2tlLWxpbmVqb2luOnJvdW5kO3N0cm9rZS1taXRlcmxpbWl0OjEwO30NCjwvc3R5bGU+DQo8cGF0aCBjbGFzcz0ic3QwIiBkPSJNMjQsMTNoLTZjLTEuMSwwLTItMC45LTItMlY1YzAtMS4xLDAuOS0yLDItMmg2YzEuMSwwLDIsMC45LDIsMnY2QzI2LDEyLjEsMjUuMSwxMywyNCwxM3oiLz4NCjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0yNiw4djEwYzAsMS4xLTAuOSwyLTIsMkg4Yy0xLjEsMC0yLTAuOS0yLTJWOGMwLTEuMSwwLjktMiwyLTJoOCIvPg0KPGNpcmNsZSBjbGFzcz0ic3QwIiBjeD0iMjEiIGN5PSI4IiByPSIyIi8+DQo8Y2lyY2xlIGNsYXNzPSJzdDAiIGN4PSIxMSIgY3k9IjE2IiByPSIxIi8+DQo8cmVjdCB4PSI5IiB5PSI5IiBjbGFzcz0ic3QwIiB3aWR0aD0iNCIgaGVpZ2h0PSIzIi8+DQo8cG9seWxpbmUgY2xhc3M9InN0MCIgcG9pbnRzPSIyMSwyOSAyMSwyOSAxMSwyOSAxMSwyOSAiLz4NCjxwb2x5bGluZSBjbGFzcz0ic3QwIiBwb2ludHM9IjE4LDIwIDE4LDI5IDE0LDI5IDE0LDIwICIvPg0KPHJlY3QgeD0iNyIgeT0iMyIgY2xhc3M9InN0MCIgd2lkdGg9IjQiIGhlaWdodD0iMyIvPg0KPC9zdmc+DQo=",
       "name": "SmoothCamera",
@@ -44067,6 +46466,7 @@
       "category": "Movement",
       "extensionNamespace": "",
       "fullName": "Stick objects to others",
+      "gdevelopVersion": "",
       "helpPath": "",
       "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiBpZD0ibWRpLXN0aWNrZXItb3V0bGluZSIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik01LjUgMkMzLjYgMiAyIDMuNiAyIDUuNVYxOC41QzIgMjAuNCAzLjYgMjIgNS41IDIySDE2TDIyIDE2VjUuNUMyMiAzLjYgMjAuNCAyIDE4LjUgMkg1LjVNNS44IDRIMTguM0MxOS4zIDQgMjAuMSA0LjggMjAuMSA1LjhWMTVIMTguNkMxNi43IDE1IDE1LjEgMTYuNiAxNS4xIDE4LjVWMjBINS44QzQuOCAyMCA0IDE5LjIgNCAxOC4yVjUuOEM0IDQuOCA0LjggNCA1LjggNCIgLz48L3N2Zz4=",
       "name": "Sticker",
@@ -44685,6 +47085,7 @@
       "category": "User interface",
       "extensionNamespace": "",
       "fullName": "Dialog Box",
+      "gdevelopVersion": "",
       "helpPath": "https://github.com/PANDAKO-GitHub/DialogBoxExtension",
       "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyMy4wLjMsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iSWNvbnMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4Ig0KCSB2aWV3Qm94PSIwIDAgMzIgMzIiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDMyIDMyOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPg0KCS5zdDB7ZmlsbDpub25lO3N0cm9rZTojMDAwMDAwO3N0cm9rZS13aWR0aDoyO3N0cm9rZS1saW5lY2FwOnJvdW5kO3N0cm9rZS1saW5lam9pbjpyb3VuZDtzdHJva2UtbWl0ZXJsaW1pdDoxMDt9DQo8L3N0eWxlPg0KPGxpbmUgY2xhc3M9InN0MCIgeDE9IjEyIiB5MT0iMTQiIHgyPSIxMiIgeTI9IjE0Ii8+DQo8bGluZSBjbGFzcz0ic3QwIiB4MT0iMTYiIHkxPSIxNCIgeDI9IjE2IiB5Mj0iMTQiLz4NCjxsaW5lIGNsYXNzPSJzdDAiIHgxPSIyMCIgeTE9IjE0IiB4Mj0iMjAiIHkyPSIxNCIvPg0KPHBhdGggY2xhc3M9InN0MCIgZD0iTTExLDRjLTQuNCwwLTgsMy42LTgsOHYxMnY1bDAsMGMzLjctMy4yLDguNC01LDEzLjMtNUgyMWM0LjQsMCw4LTMuNiw4LTh2LTRjMC00LjQtMy42LTgtOC04SDExeiIvPg0KPC9zdmc+DQo=",
       "name": "DialogBox",
@@ -45604,6 +48005,7 @@
       "category": "User interface",
       "extensionNamespace": "",
       "fullName": "Resource bar (continuous)",
+      "gdevelopVersion": "",
       "helpPath": "/objects/resource-bar",
       "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyMy4wLjMsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iSWNvbnMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4Ig0KCSB2aWV3Qm94PSIwIDAgMzIgMzIiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDMyIDMyOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8cGF0aCBkPSJNMjgsMTJIMTRINGMtMi4yLDAtNCwxLjgtNCw0czEuOCw0LDQsNGgxMGgxNGMyLjIsMCw0LTEuOCw0LTRTMzAuMiwxMiwyOCwxMnogTTQsMThjLTEuMSwwLTItMC45LTItMnMwLjktMiwyLTJoMTANCgljMS4xLDAsMiwwLjksMiwycy0wLjksMi0yLDJINHoiLz4NCjwvc3ZnPg0K",
       "name": "PanelSpriteContinuousBar",
@@ -48174,6 +50576,7 @@
       "category": "Game mechanic",
       "extensionNamespace": "",
       "fullName": "Fire bullets",
+      "gdevelopVersion": "",
       "helpPath": "/extensions/fire-bullet/details",
       "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiBpZD0ibWRpLWJ1bGxldCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik0xNCwyMkgxMFYyMUgxNFYyMk0xMywxMFY3SDExVjEwTDEwLDExLjVWMjBIMTRWMTEuNUwxMywxME0xMiwyQzEyLDIgMTEsMyAxMSw1VjZIMTNWNUMxMyw1IDEzLDMgMTIsMloiIC8+PC9zdmc+",
       "name": "FireBullet",
@@ -53444,6 +55847,7 @@
       "category": "User interface",
       "extensionNamespace": "",
       "fullName": "Panel sprite button",
+      "gdevelopVersion": "",
       "helpPath": "/objects/button",
       "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyMy4wLjMsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iSWNvbnMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4Ig0KCSB2aWV3Qm94PSIwIDAgMzIgMzIiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDMyIDMyOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPg0KCS5zdDB7ZmlsbDpub25lO3N0cm9rZTojMDAwMDAwO3N0cm9rZS13aWR0aDoyO3N0cm9rZS1saW5lY2FwOnJvdW5kO3N0cm9rZS1saW5lam9pbjpyb3VuZDtzdHJva2UtbWl0ZXJsaW1pdDoxMDt9DQo8L3N0eWxlPg0KPHBhdGggY2xhc3M9InN0MCIgZD0iTTI5LDIzSDNjLTEuMSwwLTItMC45LTItMlYxMWMwLTEuMSwwLjktMiwyLTJoMjZjMS4xLDAsMiwwLjksMiwydjEwQzMxLDIyLjEsMzAuMSwyMywyOSwyM3oiLz4NCjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0xMywxOUwxMywxOWMtMS4xLDAtMi0wLjktMi0ydi0yYzAtMS4xLDAuOS0yLDItMmgwYzEuMSwwLDIsMC45LDIsMnYyQzE1LDE4LjEsMTQuMSwxOSwxMywxOXoiLz4NCjxsaW5lIGNsYXNzPSJzdDAiIHgxPSIxOCIgeTE9IjEzIiB4Mj0iMTgiIHkyPSIxOSIvPg0KPGxpbmUgY2xhc3M9InN0MCIgeDE9IjIxIiB5MT0iMTMiIHgyPSIxOCIgeTI9IjE3Ii8+DQo8bGluZSBjbGFzcz0ic3QwIiB4MT0iMjEiIHkxPSIxOSIgeDI9IjE5IiB5Mj0iMTYiLz4NCjwvc3ZnPg0K",
       "name": "PanelSpriteButton",

@@ -11111,7 +11111,7 @@
       "folded": true,
       "name": "DungeonPiso",
       "type": "number",
-      "value": 2
+      "value": 1
     },
     {
       "name": "MaxPiso",
@@ -11170,7 +11170,7 @@
       "folded": true,
       "name": "class",
       "type": "string",
-      "value": "jedi"
+      "value": "human"
     },
     {
       "folded": true,
@@ -14705,7 +14705,6 @@
               "colorG": 255,
               "colorR": 0,
               "creationTime": 0,
-              "folded": true,
               "name": "Jedi-personalizar",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -14741,31 +14740,6 @@
                   "conditions": [
                     {
                       "type": {
-                        "value": "StringVariable"
-                      },
-                      "parameters": [
-                        "class",
-                        "!=",
-                        "jedi"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Cache"
-                      },
-                      "parameters": [
-                        "jedi-personalizar"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
                         "value": "CollisionNP"
                       },
                       "parameters": [
@@ -14786,6 +14760,31 @@
                         "",
                         "\"Personalizador-lightsaber\"",
                         ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "StringVariable"
+                      },
+                      "parameters": [
+                        "class",
+                        "!=",
+                        "jedi"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Cache"
+                      },
+                      "parameters": [
+                        "jedi-personalizar"
                       ]
                     }
                   ]
@@ -16384,7 +16383,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.4753585087126975,
+        "zoomFactor": 0.47535850871269786,
         "windowMask": false
       },
       "objectsGroups": [
@@ -16604,7 +16603,7 @@
           "persistentUuid": "81442c48-31ad-4f86-9afe-a7a18e29d3a0",
           "width": 98,
           "x": 312,
-          "y": -3,
+          "y": 21,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -16729,8 +16728,8 @@
           "name": "Normal_head",
           "persistentUuid": "f51d97dc-0d4f-4dc7-a002-3fffa8eb9249",
           "width": 145,
-          "x": 16,
-          "y": 1,
+          "x": 18,
+          "y": 30,
           "zOrder": 103,
           "numberProperties": [],
           "stringProperties": [],
@@ -16746,8 +16745,8 @@
           "name": "TextCoin",
           "persistentUuid": "56e0aa04-f1cd-42ef-afe4-f45f6dd2fa3c",
           "width": 369,
-          "x": 427,
-          "y": 18,
+          "x": 419,
+          "y": 38,
           "zOrder": 104,
           "numberProperties": [],
           "stringProperties": [],
@@ -16763,8 +16762,8 @@
           "name": "level_xp",
           "persistentUuid": "77a42a9d-ff43-4e8c-9deb-1649981e2242",
           "width": 73,
-          "x": 264,
-          "y": 47,
+          "x": 260,
+          "y": 69,
           "zOrder": 105,
           "numberProperties": [],
           "stringProperties": [],
@@ -16779,8 +16778,8 @@
           "name": "Text_xp",
           "persistentUuid": "442f6291-b959-4b10-aed9-cd6da8c0a19d",
           "width": 0,
-          "x": 246,
-          "y": 10,
+          "x": 241,
+          "y": 35,
           "zOrder": 106,
           "numberProperties": [],
           "stringProperties": [],
@@ -16828,8 +16827,8 @@
           "name": "aljava",
           "persistentUuid": "3aa4a72b-6782-4164-bd00-45f4989d867c",
           "width": 96,
-          "x": 504,
-          "y": 4,
+          "x": 472,
+          "y": 31,
           "zOrder": 109,
           "numberProperties": [],
           "stringProperties": [],
@@ -16844,8 +16843,8 @@
           "name": "CounterItem",
           "persistentUuid": "5e67cad9-e5e7-44cc-ab2e-dc89ab99c208",
           "width": 0,
-          "x": 589,
-          "y": 49,
+          "x": 572,
+          "y": 73,
           "zOrder": 110,
           "numberProperties": [],
           "stringProperties": [],
@@ -27240,7 +27239,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.5079575118131731,
+        "zoomFactor": 0.4753585087126931,
         "windowMask": false
       },
       "objectsGroups": [

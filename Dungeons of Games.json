@@ -5043,7 +5043,7 @@
       {
         "file": "Light-azul.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"Light-azul.png\",\"extension\":\".png\"}",
         "name": "Light-azul.png",
         "smoothed": false,
         "userAdded": false
@@ -5111,6 +5111,86 @@
         "name": "Captura_de_tela_2025-04-05_160510-removebg-preview5",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "Fundo-2-dungeon.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fundo-2-dungeon.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Monstro-nivel-2-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Monstro-nivel-2-2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Monstro-nivel-2-2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Monstro-nivel-2-2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/depositphotos_483115582-stock-illustration-sqiud-pixel-squid-image-vector-removebg-preview.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "depositphotos_483115582-stock-illustration-sqiud-pixel-squid-image-vector-removebg-preview",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Button-play.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Button-play.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Estante.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Estante.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/pixel-art-illustration-book-shelf-pixelated-book-case-book-shelf-case-pixelated-for-the-pixel-art-game-and-icon-for-website-and-game-old-school-retro-vector-removebg-preview2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "pixel-art-illustration-book-shelf-pixelated-book-case-book-shelf-case-pixelated-for-the-pixel-art-game-and-icon-for-website-and-game-old-school-retro-vector-removebg-preview2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Porta-dungeon-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Porta-dungeon-1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Porta-dungeon-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Porta-dungeon-4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Porta-dungeon-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Porta-dungeon-2.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -5176,6 +5256,21 @@
           "gridOffsetY": 0,
           "rotateObject": false,
           "smoothingMaxCellGap": 1
+        },
+        {
+          "name": "TopDownMovement",
+          "type": "TopDownMovementBehavior::TopDownMovementBehavior",
+          "acceleration": 400,
+          "allowDiagonals": true,
+          "angleOffset": 0,
+          "angularMaxSpeed": 180,
+          "customIsometryAngle": 30,
+          "deceleration": 800,
+          "ignoreDefaultControls": false,
+          "maxSpeed": 200,
+          "movementAngleOffset": 0,
+          "rotateObject": true,
+          "viewpoint": "TopDown"
         }
       ],
       "animations": [
@@ -5201,6 +5296,11 @@
                       "name": "lifebar",
                       "x": 6.5,
                       "y": -3.5
+                    },
+                    {
+                      "name": "Name",
+                      "x": 6.5,
+                      "y": -4.5
                     }
                   ],
                   "originPoint": {
@@ -5248,6 +5348,11 @@
                       "name": "lifebar",
                       "x": 6.5,
                       "y": -3.5
+                    },
+                    {
+                      "name": "Name",
+                      "x": 6.5,
+                      "y": -4.5
                     }
                   ],
                   "originPoint": {
@@ -5295,6 +5400,11 @@
                       "name": "lifebar",
                       "x": 6.5,
                       "y": -3.5
+                    },
+                    {
+                      "name": "Name",
+                      "x": 6.5,
+                      "y": -4.5
                     }
                   ],
                   "originPoint": {
@@ -5342,6 +5452,11 @@
                       "name": "lifebar",
                       "x": 6.5,
                       "y": -3.5
+                    },
+                    {
+                      "name": "Name",
+                      "x": 6.5,
+                      "y": -4.5
                     }
                   ],
                   "originPoint": {
@@ -11108,10 +11223,15 @@
       "value": 0
     },
     {
+      "name": "NamePlayer",
+      "type": "string",
+      "value": ""
+    },
+    {
       "folded": true,
       "name": "DungeonPiso",
       "type": "number",
-      "value": 1
+      "value": 2
     },
     {
       "name": "MaxPiso",
@@ -11170,7 +11290,7 @@
       "folded": true,
       "name": "class",
       "type": "string",
-      "value": "human"
+      "value": "jedi"
     },
     {
       "folded": true,
@@ -11442,7 +11562,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "stock-vector-key-buttons-pixel-art-set-interface-bar-collection-computer-panel-bit-sprite-game-development-2219922949-removebg-preview",
+                      "image": "assets\\Button-play.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -11723,7 +11843,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.4303403802207781,
+        "zoomFactor": 0.40272258333260413,
         "windowMask": false
       },
       "objectsGroups": [
@@ -11761,26 +11881,19 @@
           ]
         }
       ],
-      "variables": [
-        {
-          "folded": true,
-          "name": "NomePlayer",
-          "type": "string",
-          "value": "0"
-        }
-      ],
+      "variables": [],
       "instances": [
         {
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 116,
+          "height": 106,
           "layer": "",
           "name": "Player",
           "persistentUuid": "d554c136-5223-4743-b9c0-bddafea32ea5",
           "width": 86,
           "x": 1017,
-          "y": 133,
+          "y": 137,
           "zOrder": 1000000000,
           "numberProperties": [],
           "stringProperties": [],
@@ -11957,21 +12070,6 @@
           "x": 1294,
           "y": 916,
           "zOrder": 11,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "TestesDeVariavel",
-          "persistentUuid": "af0eb177-6b03-44af-acd6-74b174ea970a",
-          "width": 0,
-          "x": 971,
-          "y": 7,
-          "zOrder": 12,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -12478,6 +12576,22 @@
           "x": 1840,
           "y": 882,
           "zOrder": 24,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NomePlayer",
+          "persistentUuid": "9826ff5d-3608-4ff8-956f-51ccd2509142",
+          "width": 0,
+          "x": 995,
+          "y": 31,
+          "zOrder": 1000000005,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -14084,6 +14198,48 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "NomePlayer",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Text",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Text",
+            "font": "",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 20,
+            "color": "0;0;0"
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -14155,13 +14311,16 @@
             "objectName": "Portal_dungeon"
           },
           {
+            "objectName": "Santuario"
+          },
+          {
             "objectName": "Mercado_Itens"
           },
           {
             "objectName": "Loja_de_pocoes"
           },
           {
-            "objectName": "Santuario"
+            "objectName": "NomePlayer"
           }
         ]
       },
@@ -14228,61 +14387,6 @@
           "conditions": [
             {
               "type": {
-                "value": "TopDownMovementBehavior::IsMoving"
-              },
-              "parameters": [
-                "Player",
-                "TopDownMovement"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::SetName"
-              },
-              "parameters": [
-                "Player",
-                "Animation",
-                "=",
-                "\"walk\""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": true,
-                "value": "TopDownMovementBehavior::IsMoving"
-              },
-              "parameters": [
-                "Player",
-                "TopDownMovement"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::SetName"
-              },
-              "parameters": [
-                "Player",
-                "Animation",
-                "=",
-                "\"idle\""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
                 "value": "KeyPressed"
               },
               "parameters": [
@@ -14310,7 +14414,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Bau",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -14530,7 +14633,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "sounds",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -14974,7 +15076,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "inicio de tela",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -15016,7 +15117,7 @@
                     "\"storage\"",
                     "\"NomePlayer\"",
                     "",
-                    "NomePlayer"
+                    "NamePlayer"
                   ]
                 }
               ]
@@ -15068,7 +15169,7 @@
                 "TestesDeVariavel",
                 "Text",
                 "=",
-                "NomePlayer"
+                "NamePlayer"
               ]
             },
             {
@@ -15083,6 +15184,18 @@
                 "6500",
                 "",
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "NomePlayer",
+                "=",
+                "Player.PointX(\"Name\")",
+                "=",
+                "Player.PointY(\"Name\")"
               ]
             }
           ]
@@ -15304,6 +15417,10 @@
         {
           "name": "Text",
           "type": "TextContainerCapability::TextContainerBehavior"
+        },
+        {
+          "name": "TopDownMovement",
+          "type": "TopDownMovementBehavior::TopDownMovementBehavior"
         }
       ]
     },
@@ -16383,7 +16500,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.47535850871269786,
+        "zoomFactor": 0.491387754532942,
         "windowMask": false
       },
       "objectsGroups": [
@@ -16581,13 +16698,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 9,
-          "height": 1329,
+          "height": 1274,
           "layer": "",
-          "name": "Fundo_tema_1",
+          "name": "Fundo_tema_dungeon",
           "persistentUuid": "c282954e-36c0-46e8-9cdc-d6403f27ca4b",
-          "width": 2066,
-          "x": -62,
-          "y": -55,
+          "width": 2004,
+          "x": 0,
+          "y": 0,
           "zOrder": -1,
           "numberProperties": [],
           "stringProperties": [],
@@ -16855,7 +16972,7 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "Fundo_tema_1",
+          "name": "Fundo_tema_dungeon",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -16921,43 +17038,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "pixel-art-hell-seamless-background-detailed-vector-23730667 (1).jpg",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 256,
-                            "y": 0
-                          },
-                          {
-                            "x": 256,
-                            "y": 223
-                          },
-                          {
-                            "x": 0,
-                            "y": 223
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "ec27472d-1f73-40f5-a796-08bbc4417904.png",
+                      "image": "Fundo-2-dungeon.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -18124,16 +18205,17 @@
           ],
           "animations": [
             {
-              "name": "",
+              "name": "Monstro-nivel-2-2",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "19974823-pixel-arte-voo-dragao-dragao-pixel-ilustracao-desenho-animado-monstro-pixel-projeto-gratis-vetor-removebg-preview.png",
+                      "image": "Monstro-nivel-2-2",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -18149,20 +18231,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 47,
-                            "y": 83
+                            "x": 1,
+                            "y": 0
                           },
                           {
-                            "x": 453,
-                            "y": 83
+                            "x": 407,
+                            "y": 0
                           },
                           {
-                            "x": 453,
-                            "y": 416
+                            "x": 407,
+                            "y": 333
                           },
                           {
-                            "x": 47,
-                            "y": 416
+                            "x": 1,
+                            "y": 333
                           }
                         ]
                       ]
@@ -18352,16 +18434,17 @@
           ],
           "animations": [
             {
-              "name": "",
+              "name": "depositphotos_483115582-stock-illustration-sqiud-pixel-squid-image-vector-removebg-preview",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "depositphotos_483115582-stock-illustration-sqiud-pixel-squid-image-vector-removebg-preview.png",
+                      "image": "depositphotos_483115582-stock-illustration-sqiud-pixel-squid-image-vector-removebg-preview",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -18377,20 +18460,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 67,
-                            "y": 69
+                            "x": 0,
+                            "y": 0
                           },
                           {
-                            "x": 418,
-                            "y": 69
+                            "x": 350,
+                            "y": 0
                           },
                           {
-                            "x": 418,
-                            "y": 443
+                            "x": 350,
+                            "y": 374
                           },
                           {
-                            "x": 67,
-                            "y": 443
+                            "x": 0,
+                            "y": 374
                           }
                         ]
                       ]
@@ -19811,9 +19894,6 @@
             ]
           },
           {
-            "folderName": "JediObjects"
-          },
-          {
             "folderName": "NinjaObjects",
             "children": [
               {
@@ -19856,7 +19936,7 @@
             ]
           },
           {
-            "objectName": "Fundo_tema_1"
+            "objectName": "Fundo_tema_dungeon"
           },
           {
             "objectName": "portalAvancar"
@@ -20471,7 +20551,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "quando Iniciar A Tela",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -20573,10 +20652,32 @@
                     "value": "AnimatableCapability::AnimatableBehavior::SetName"
                   },
                   "parameters": [
-                    "Fundo_tema_1",
+                    "Fundo_tema_dungeon",
                     "Animation",
                     "=",
                     "DungeonPiso"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResizableCapability::ResizableBehavior::SetWidth"
+                  },
+                  "parameters": [
+                    "Fundo_tema_dungeon",
+                    "Resizable",
+                    "=",
+                    "1920"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResizableCapability::ResizableBehavior::SetHeight"
+                  },
+                  "parameters": [
+                    "Fundo_tema_dungeon",
+                    "Resizable",
+                    "=",
+                    "1080"
                   ]
                 }
               ]
@@ -21871,6 +21972,10 @@
         {
           "name": "Text",
           "type": "TextContainerCapability::TextContainerBehavior"
+        },
+        {
+          "name": "TopDownMovement",
+          "type": "TopDownMovementBehavior::TopDownMovementBehavior"
         }
       ]
     },
@@ -25085,6 +25190,10 @@
         {
           "name": "Text",
           "type": "TextContainerCapability::TextContainerBehavior"
+        },
+        {
+          "name": "TopDownMovement",
+          "type": "TopDownMovementBehavior::TopDownMovementBehavior"
         }
       ]
     },
@@ -26476,7 +26585,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.29879853636069087,
+        "zoomFactor": 0.26167741169921527,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -27463,7 +27572,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "pixel-art-illustration-book-shelf-pixelated-book-case-book-shelf-case-pixelated-for-the-pixel-art-game-and-icon-for-website-and-game-old-school-retro-vector-removebg-preview",
+                      "image": "pixel-art-illustration-book-shelf-pixelated-book-case-book-shelf-case-pixelated-for-the-pixel-art-game-and-icon-for-website-and-game-old-school-retro-vector-removebg-preview2",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -27926,6 +28035,10 @@
         {
           "name": "Text",
           "type": "TextContainerCapability::TextContainerBehavior"
+        },
+        {
+          "name": "TopDownMovement",
+          "type": "TopDownMovementBehavior::TopDownMovementBehavior"
         }
       ]
     },
@@ -29073,7 +29186,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "light_sword_1_24_27-removebg-preview",
+                      "image": "Light-azul.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -30618,6 +30731,10 @@
         {
           "name": "Text",
           "type": "TextContainerCapability::TextContainerBehavior"
+        },
+        {
+          "name": "TopDownMovement",
+          "type": "TopDownMovementBehavior::TopDownMovementBehavior"
         }
       ]
     },
@@ -31123,6 +31240,10 @@
         {
           "name": "Text",
           "type": "TextContainerCapability::TextContainerBehavior"
+        },
+        {
+          "name": "TopDownMovement",
+          "type": "TopDownMovementBehavior::TopDownMovementBehavior"
         }
       ]
     },
@@ -33480,17 +33601,6 @@
             "characterSize": 20,
             "color": "0;0;0"
           }
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "NewSprite",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": []
         }
       ],
       "objectsFolderStructure": {
@@ -33501,9 +33611,6 @@
           },
           {
             "objectName": "itemCount"
-          },
-          {
-            "objectName": "NewSprite"
           }
         ]
       },
@@ -35555,7 +35662,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "porta-de-masmorra-de-rpg-com-tochas-e-macaneta-da-porta-dourada-conceito-de-jogo-de-fantasia-com-porta-medieval-fechada-barras-nas-janelas-e-degraus-de-pedra-com-lampada-de-oleo-pergaminho-magico-400-3",
+                      "image": "assets\\Porta-dungeon-2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -35692,7 +35799,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "porta-de-masmorra-de-rpg-com-tochas-e-macaneta-da-porta-dourada-conceito-de-jogo-de-fantasia-com-porta-medieval-fechada-barras-nas-janelas-e-degraus-de-pedra-com-lampada-de-oleo-pergaminho-magico-400-1",
+                      "image": "assets\\Porta-dungeon-4.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -37671,6 +37778,10 @@
         {
           "name": "ThreeDFlip",
           "type": "ThreeDFlip::ThreeDFlip"
+        },
+        {
+          "name": "TopDownMovement",
+          "type": "TopDownMovementBehavior::TopDownMovementBehavior"
         }
       ]
     },
@@ -38058,16 +38169,6 @@
               "parameters": [
                 "",
                 "Left"
-              ]
-            },
-            {
-              "type": {
-                "value": "BooleanVariable"
-              },
-              "parameters": [
-                "clicavel",
-                "True",
-                ""
               ]
             }
           ],
@@ -38698,7 +38799,6 @@
           "colorG": 248,
           "colorR": 255,
           "creationTime": 0,
-          "folded": true,
           "name": "Colisões",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -38817,7 +38917,6 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
-              "folded": true,
               "name": "Level 1",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -39020,7 +39119,6 @@
               "colorG": 0,
               "colorR": 253,
               "creationTime": 0,
-              "folded": true,
               "name": "Level 2\n",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -39564,7 +39662,6 @@
           "colorG": 0,
           "colorR": 255,
           "creationTime": 0,
-          "folded": true,
           "name": "Colision",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -39608,7 +39705,7 @@
                   },
                   "parameters": [
                     "sabre_de_luz_jedi",
-                    "MonstersGroup1",
+                    "GlobalMonsters",
                     "",
                     "",
                     ""
@@ -39621,37 +39718,7 @@
                     "value": "ModVarObjet"
                   },
                   "parameters": [
-                    "MonstersGroup1",
-                    "Vida",
-                    "-",
-                    "RandomInRange(0,sabre_de_luz_jedi.dano)"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "CollisionNP"
-                  },
-                  "parameters": [
-                    "sabre_de_luz_jedi",
-                    "MonstersGroup2",
-                    "",
-                    "",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "ModVarObjet"
-                  },
-                  "parameters": [
-                    "MonstersGroup2",
+                    "GlobalMonsters",
                     "Vida",
                     "-",
                     "RandomInRange(0,sabre_de_luz_jedi.dano)"
@@ -41917,7 +41984,6 @@
           "colorG": 243,
           "colorR": 232,
           "creationTime": 0,
-          "folded": true,
           "name": "Colisões",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -42339,7 +42405,6 @@
               "colorG": 10,
               "colorR": 248,
               "creationTime": 0,
-              "folded": true,
               "name": "Level 1",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -42527,7 +42592,6 @@
               "colorG": 74,
               "colorR": 56,
               "creationTime": 0,
-              "folded": true,
               "name": "Level 2",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -42754,7 +42818,6 @@
           "colorG": 11,
           "colorR": 214,
           "creationTime": 0,
-          "folded": true,
           "name": "Colisões",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -42894,7 +42957,6 @@
               "colorG": 0,
               "colorR": 0,
               "creationTime": 0,
-              "folded": true,
               "name": "Level 1",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -43091,7 +43153,6 @@
               "colorG": 54,
               "colorR": 38,
               "creationTime": 0,
-              "folded": true,
               "name": "Level 2",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",

@@ -1,7 +1,7 @@
 {
-  "firstLayout": "Itens",
+  "firstLayout": "Inicial",
   "gdVersion": {
-    "build": 228,
+    "build": 230,
     "major": 5,
     "minor": 5,
     "revision": 0
@@ -24,7 +24,7 @@
     "author": "",
     "windowWidth": 1920,
     "windowHeight": 1080,
-    "latestCompilationDirectory": "C:\\Users\\Theo\\OneDrive\\Documentos\\online\\V2-161124",
+    "latestCompilationDirectory": "C:\\Users\\Theo\\OneDrive\\Documentos\\online\\V5-100525",
     "maxFPS": 60,
     "minFPS": 20,
     "verticalSync": false,
@@ -5191,6 +5191,302 @@
         "name": "assets\\Porta-dungeon-2.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "cajado-monk-removebg-preview.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "cajado-monk-removebg-preview.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite43.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite43",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Light-roxo2.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"Light-roxo2.png\",\"extension\":\".png\"}",
+        "name": "Light-roxo2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pocoes-vendedor.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pocoes-vendedor.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/pocoes-vendedor.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "pocoes-vendedor",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/pocoes-vendedor2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "pocoes-vendedor2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pocoes-vendedor-perfeito.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pocoes-vendedor-perfeito.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/pocoes-vendedor3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "pocoes-vendedor3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite44.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite44",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/pocoes-vendedor4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "pocoes-vendedor4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "9005d81f-8a98-49d7-9878-4048a3beb99e.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "9005d81f-8a98-49d7-9878-4048a3beb99e.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/9005d81f-8a98-49d7-9878-4048a3beb99e.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "9005d81f-8a98-49d7-9878-4048a3beb99e",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/9005d81f-8a98-49d7-9878-4048a3beb99e2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "9005d81f-8a98-49d7-9878-4048a3beb99e2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/9005d81f-8a98-49d7-9878-4048a3beb99e3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "9005d81f-8a98-49d7-9878-4048a3beb99e3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite45.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite45",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite46.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite46",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite47.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite47",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Monge/Monge-oficial.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Monge\\Monge-oficial.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/monge4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "monge4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Ninja/Ninja-oficial.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Ninja\\Ninja-oficial.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ninja4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "ninja4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Jedi/jedi-oficial.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Jedi\\jedi-oficial.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/luke-skywalker-mace-windu-boba-fett-yoda-pixel-art-star-wars-removebg-preview.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "luke-skywalker-mace-windu-boba-fett-yoda-pixel-art-star-wars-removebg-preview",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Guerreiro/Guerreiro-oficial.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Guerreiro\\Guerreiro-oficial.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/guerreiro3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "guerreiro3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Arqueiro/Arqueiro-oficial.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Arqueiro\\Arqueiro-oficial.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Mago/Mago-oficial.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Mago\\Mago-oficial.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/mago3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "mago3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arqueiro3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "arqueiro3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Aventureiro/aventureiro-original.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Aventureiro\\aventureiro-original.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/aventureiro4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "aventureiro4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Aventureiro/aventureiro-oficial.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Aventureiro\\aventureiro-oficial.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/aventureiro5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "aventureiro5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/luke-skywalker-mace-windu-boba-fett-yoda-pixel-art-star-wars-removebg-preview2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "luke-skywalker-mace-windu-boba-fett-yoda-pixel-art-star-wars-removebg-preview2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/luke-skywalker-mace-windu-boba-fett-yoda-pixel-art-star-wars-removebg-preview3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "luke-skywalker-mace-windu-boba-fett-yoda-pixel-art-star-wars-removebg-preview3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Amarelo.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Amarelo.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Azul.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Azul.png\",\"extension\":\".png\"}",
+        "name": "assets\\Azul.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -5256,21 +5552,6 @@
           "gridOffsetY": 0,
           "rotateObject": false,
           "smoothingMaxCellGap": 1
-        },
-        {
-          "name": "TopDownMovement",
-          "type": "TopDownMovementBehavior::TopDownMovementBehavior",
-          "acceleration": 400,
-          "allowDiagonals": true,
-          "angleOffset": 0,
-          "angularMaxSpeed": 180,
-          "customIsometryAngle": 30,
-          "deceleration": 800,
-          "ignoreDefaultControls": false,
-          "maxSpeed": 200,
-          "movementAngleOffset": 0,
-          "rotateObject": true,
-          "viewpoint": "TopDown"
         }
       ],
       "animations": [
@@ -5517,6 +5798,11 @@
                       "name": "lifebar",
                       "x": 6.5,
                       "y": -3.5
+                    },
+                    {
+                      "name": "Name",
+                      "x": 6.5,
+                      "y": -4.5
                     }
                   ],
                   "originPoint": {
@@ -5564,6 +5850,11 @@
                       "name": "lifebar",
                       "x": 6.5,
                       "y": -3.5
+                    },
+                    {
+                      "name": "Name",
+                      "x": 6.5,
+                      "y": -4.5
                     }
                   ],
                   "originPoint": {
@@ -5611,6 +5902,11 @@
                       "name": "lifebar",
                       "x": 6.5,
                       "y": -3.5
+                    },
+                    {
+                      "name": "Name",
+                      "x": 6.5,
+                      "y": -4.5
                     }
                   ],
                   "originPoint": {
@@ -5658,6 +5954,11 @@
                       "name": "lifebar",
                       "x": 6.5,
                       "y": -3.5
+                    },
+                    {
+                      "name": "Name",
+                      "x": 6.5,
+                      "y": -4.5
                     }
                   ],
                   "originPoint": {
@@ -5705,6 +6006,11 @@
                       "name": "lifebar",
                       "x": 6.5,
                       "y": -3.5
+                    },
+                    {
+                      "name": "Name",
+                      "x": 6.5,
+                      "y": -4.5
                     }
                   ],
                   "originPoint": {
@@ -5765,6 +6071,11 @@
                       "name": "lifebar",
                       "x": 6.5,
                       "y": -3.5
+                    },
+                    {
+                      "name": "Name",
+                      "x": 6.5,
+                      "y": -4.5
                     }
                   ],
                   "originPoint": {
@@ -5812,6 +6123,11 @@
                       "name": "lifebar",
                       "x": 6.5,
                       "y": -3.5
+                    },
+                    {
+                      "name": "Name",
+                      "x": 6.5,
+                      "y": -4.5
                     }
                   ],
                   "originPoint": {
@@ -5859,6 +6175,11 @@
                       "name": "lifebar",
                       "x": 6.5,
                       "y": -3.5
+                    },
+                    {
+                      "name": "Name",
+                      "x": 6.5,
+                      "y": -4.5
                     }
                   ],
                   "originPoint": {
@@ -5906,6 +6227,11 @@
                       "name": "lifebar",
                       "x": 6.5,
                       "y": -3.5
+                    },
+                    {
+                      "name": "Name",
+                      "x": 6.5,
+                      "y": -4.5
                     }
                   ],
                   "originPoint": {
@@ -5953,6 +6279,11 @@
                       "name": "lifebar",
                       "x": 6.5,
                       "y": -3.5
+                    },
+                    {
+                      "name": "Name",
+                      "x": 6.5,
+                      "y": -4.5
                     }
                   ],
                   "originPoint": {
@@ -6000,6 +6331,11 @@
                       "name": "lifebar",
                       "x": 6.5,
                       "y": -3.5
+                    },
+                    {
+                      "name": "Name",
+                      "x": 6.5,
+                      "y": -4.5
                     }
                   ],
                   "originPoint": {
@@ -6047,6 +6383,11 @@
                       "name": "lifebar",
                       "x": 6.5,
                       "y": -3.5
+                    },
+                    {
+                      "name": "Name",
+                      "x": 6.5,
+                      "y": -4.5
                     }
                   ],
                   "originPoint": {
@@ -6094,6 +6435,11 @@
                       "name": "lifebar",
                       "x": 6.5,
                       "y": -3.5
+                    },
+                    {
+                      "name": "Name",
+                      "x": 6.5,
+                      "y": -4.5
                     }
                   ],
                   "originPoint": {
@@ -6141,6 +6487,11 @@
                       "name": "lifebar",
                       "x": 6.5,
                       "y": -3.5
+                    },
+                    {
+                      "name": "Name",
+                      "x": 6.5,
+                      "y": -4.5
                     }
                   ],
                   "originPoint": {
@@ -6188,6 +6539,11 @@
                       "name": "lifebar",
                       "x": 6.5,
                       "y": -3.5
+                    },
+                    {
+                      "name": "Name",
+                      "x": 6.5,
+                      "y": -4.5
                     }
                   ],
                   "originPoint": {
@@ -6248,6 +6604,11 @@
                       "name": "lifebar",
                       "x": 6.5,
                       "y": -3.5
+                    },
+                    {
+                      "name": "Name",
+                      "x": 6.5,
+                      "y": -4.5
                     }
                   ],
                   "originPoint": {
@@ -6308,6 +6669,11 @@
                       "name": "lifebar",
                       "x": 28.5,
                       "y": -2.5
+                    },
+                    {
+                      "name": "Name",
+                      "x": 28.5,
+                      "y": -6.5
                     }
                   ],
                   "originPoint": {
@@ -6355,6 +6721,11 @@
                       "name": "lifebar",
                       "x": 28.5,
                       "y": -2.5
+                    },
+                    {
+                      "name": "Name",
+                      "x": 28.5,
+                      "y": -6.5
                     }
                   ],
                   "originPoint": {
@@ -6402,6 +6773,11 @@
                       "name": "lifebar",
                       "x": 28.5,
                       "y": -2.5
+                    },
+                    {
+                      "name": "Name",
+                      "x": 28.5,
+                      "y": -6.5
                     }
                   ],
                   "originPoint": {
@@ -6449,6 +6825,11 @@
                       "name": "lifebar",
                       "x": 28.5,
                       "y": -2.5
+                    },
+                    {
+                      "name": "Name",
+                      "x": 28.5,
+                      "y": -6.5
                     }
                   ],
                   "originPoint": {
@@ -6496,6 +6877,11 @@
                       "name": "lifebar",
                       "x": 28.5,
                       "y": -2.5
+                    },
+                    {
+                      "name": "Name",
+                      "x": 28.5,
+                      "y": -6.5
                     }
                   ],
                   "originPoint": {
@@ -6543,6 +6929,11 @@
                       "name": "lifebar",
                       "x": 28.5,
                       "y": -2.5
+                    },
+                    {
+                      "name": "Name",
+                      "x": 28.5,
+                      "y": -6.5
                     }
                   ],
                   "originPoint": {
@@ -7080,6 +7471,7 @@
       "assetStoreId": "5c37cb58ddc519829264b5ff95dd80416c82e89b60bfa67c6c3852154ec2b632",
       "name": "GreenFlatBar",
       "type": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
+      "variant": "",
       "variables": [],
       "effects": [],
       "behaviors": [],
@@ -7166,6 +7558,7 @@
       "assetStoreId": "0a398f1656e34f64758c909a71ca17cd69fd41bd251d89ff5a640303c4279f50",
       "name": "BlueFlatBar",
       "type": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
+      "variant": "",
       "variables": [],
       "effects": [],
       "behaviors": [],
@@ -9627,6 +10020,7 @@
       "assetStoreId": "b44dba91245ff1ac84a7b450e078194f19321d135fd8a67cd19bc9cb3403fba5",
       "name": "Sim",
       "type": "PanelSpriteButton::PanelSpriteButton",
+      "variant": "",
       "variables": [],
       "effects": [],
       "behaviors": [],
@@ -9711,6 +10105,7 @@
       "assetStoreId": "5faf2b0415c271fa6e747283ed36297a95f04d2b6c477a7b011775fa6fb444ee",
       "name": "Nao",
       "type": "PanelSpriteButton::PanelSpriteButton",
+      "variant": "",
       "variables": [],
       "effects": [],
       "behaviors": [],
@@ -10963,6 +11358,116 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Vermelho",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Light-roxo2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 43,
+                    "y": 429
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 43.5,
+                    "y": 426.5
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 80,
+                        "y": 0
+                      },
+                      {
+                        "x": 80,
+                        "y": 434
+                      },
+                      {
+                        "x": 0,
+                        "y": 434
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "Porta_saida",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Porta-removebg-preview",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Porta-removebg-preview2",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 236,
+                        "y": 0
+                      },
+                      {
+                        "x": 236,
+                        "y": 312
+                      },
+                      {
+                        "x": 0,
+                        "y": 312
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     }
@@ -10992,6 +11497,9 @@
           },
           {
             "objectName": "CounterItem"
+          },
+          {
+            "objectName": "Porta_saida"
           },
           {
             "objectName": "slot"
@@ -11231,7 +11739,7 @@
       "folded": true,
       "name": "DungeonPiso",
       "type": "number",
-      "value": 2
+      "value": 1
     },
     {
       "name": "MaxPiso",
@@ -11290,7 +11798,7 @@
       "folded": true,
       "name": "class",
       "type": "string",
-      "value": "jedi"
+      "value": "human"
     },
     {
       "folded": true,
@@ -11379,12 +11887,33 @@
       "folded": true,
       "name": "level",
       "type": "number",
-      "value": 2
+      "value": 0
     },
     {
       "name": "Bag",
       "type": "array",
       "children": []
+    },
+    {
+      "name": "Coins",
+      "type": "structure",
+      "children": [
+        {
+          "name": "ValorK",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "ValorM",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "ValorNormal",
+          "type": "number",
+          "value": 0
+        }
+      ]
     }
   ],
   "layouts": [
@@ -11843,7 +12372,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.40272258333260413,
+        "zoomFactor": 0.5250860067782672,
         "windowMask": false
       },
       "objectsGroups": [
@@ -11870,13 +12399,13 @@
           ]
         },
         {
-          "name": "jedi-personalizar",
+          "name": "Aviso-entrada-jedi",
           "objects": [
             {
-              "name": "chao_jedi_especial"
+              "name": "Entrada_jedi"
             },
             {
-              "name": "Jedi_sabre"
+              "name": "MenuBox"
             }
           ]
         }
@@ -12592,6 +13121,40 @@
           "x": 995,
           "y": 31,
           "zOrder": 1000000005,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 144,
+          "keepRatio": true,
+          "layer": "",
+          "name": "MenuBox",
+          "persistentUuid": "4a475d88-4ccd-4524-a802-fd3ec37df2fc",
+          "width": 491,
+          "x": 1698,
+          "y": 98,
+          "zOrder": 1000000006,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 57,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Entrada_jedi",
+          "persistentUuid": "9c2cfa38-84d2-44c0-a2b2-37a26f214bb3",
+          "width": 468,
+          "x": 1716,
+          "y": 134,
+          "zOrder": 1000000007,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -14240,6 +14803,48 @@
             "characterSize": 20,
             "color": "0;0;0"
           }
+        },
+        {
+          "assetStoreId": "",
+          "bold": true,
+          "italic": false,
+          "name": "Entrada_jedi",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Só é permitido entrar no Templo Jedi, se sua classe for Jedi.",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 30,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          },
+          "content": {
+            "bold": true,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Só é permitido entrar no Templo Jedi, se sua classe for Jedi.",
+            "font": "",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 30,
+            "color": "255;255;255"
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -14321,6 +14926,9 @@
           },
           {
             "objectName": "NomePlayer"
+          },
+          {
+            "objectName": "Entrada_jedi"
           }
         ]
       },
@@ -14803,98 +15411,6 @@
               ]
             },
             {
-              "colorB": 15,
-              "colorG": 255,
-              "colorR": 0,
-              "creationTime": 0,
-              "name": "Jedi-personalizar",
-              "source": "",
-              "type": "BuiltinCommonInstructions::Group",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "StringVariable"
-                      },
-                      "parameters": [
-                        "class",
-                        "=",
-                        "jedi"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Montre"
-                      },
-                      "parameters": [
-                        "jedi-personalizar",
-                        ""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "CollisionNP"
-                      },
-                      "parameters": [
-                        "Player",
-                        "Jedi_sabre",
-                        "",
-                        "",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Scene"
-                      },
-                      "parameters": [
-                        "",
-                        "\"Personalizador-lightsaber\"",
-                        ""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "StringVariable"
-                      },
-                      "parameters": [
-                        "class",
-                        "!=",
-                        "jedi"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Cache"
-                      },
-                      "parameters": [
-                        "jedi-personalizar"
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "parameters": []
-            },
-            {
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -15067,6 +15583,100 @@
                   ]
                 }
               ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Jedi_sabre",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "StringVariable"
+                  },
+                  "parameters": [
+                    "class",
+                    "=",
+                    "jedi"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Personalizador-lightsaber\"",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Jedi_sabre",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "StringVariable"
+                  },
+                  "parameters": [
+                    "class",
+                    "=",
+                    "jedi"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Montre"
+                  },
+                  "parameters": [
+                    "Aviso-entrada-jedi",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "Aviso-entrada-jedi"
+                  ]
+                }
+              ]
             }
           ],
           "parameters": []
@@ -15118,6 +15728,14 @@
                     "\"NomePlayer\"",
                     "",
                     "NamePlayer"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "Aviso-entrada-jedi"
                   ]
                 }
               ]
@@ -15417,10 +16035,6 @@
         {
           "name": "Text",
           "type": "TextContainerCapability::TextContainerBehavior"
-        },
-        {
-          "name": "TopDownMovement",
-          "type": "TopDownMovementBehavior::TopDownMovementBehavior"
         }
       ]
     },
@@ -16675,6 +17289,11 @@
               "value": 0
             }
           ]
+        },
+        {
+          "name": "Unnamed",
+          "type": "number",
+          "value": 0
         }
       ],
       "instances": [
@@ -16687,8 +17306,8 @@
           "name": "Player",
           "persistentUuid": "1fd7f223-d834-4381-8d1d-96fe504b361e",
           "width": 150,
-          "x": 426,
-          "y": 921,
+          "x": 400,
+          "y": 934,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -16944,8 +17563,8 @@
           "name": "aljava",
           "persistentUuid": "3aa4a72b-6782-4164-bd00-45f4989d867c",
           "width": 96,
-          "x": 472,
-          "y": 31,
+          "x": 702,
+          "y": 21,
           "zOrder": 109,
           "numberProperties": [],
           "stringProperties": [],
@@ -16960,8 +17579,8 @@
           "name": "CounterItem",
           "persistentUuid": "5e67cad9-e5e7-44cc-ab2e-dc89ab99c208",
           "width": 0,
-          "x": 572,
-          "y": 73,
+          "x": 810,
+          "y": 65,
           "zOrder": 110,
           "numberProperties": [],
           "stringProperties": [],
@@ -19301,6 +19920,7 @@
           "assetStoreId": "5c37cb58ddc519829264b5ff95dd80416c82e89b60bfa67c6c3852154ec2b632",
           "name": "GreenFlatBar_assistent",
           "type": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
+          "variant": "",
           "variables": [],
           "effects": [],
           "behaviors": [],
@@ -19387,6 +20007,7 @@
           "assetStoreId": "0a398f1656e34f64758c909a71ca17cd69fd41bd251d89ff5a640303c4279f50",
           "name": "BlueFlatBar_assistent",
           "type": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
+          "variant": "",
           "variables": [],
           "effects": [],
           "behaviors": [],
@@ -21999,7 +22620,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.3300560049165925,
+        "zoomFactor": 0.3411856023473449,
         "windowMask": false
       },
       "objectsGroups": [
@@ -22528,7 +23149,7 @@
           "height": 297,
           "keepRatio": true,
           "layer": "",
-          "name": "Porta_ferreiro",
+          "name": "Porta_saida",
           "persistentUuid": "bf64643c-165c-444f-9fa1-fe734322be08",
           "width": 222,
           "x": 10,
@@ -23658,67 +24279,6 @@
             "characterSize": 50,
             "color": "255;255;255"
           }
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "Porta_ferreiro",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "Porta-removebg-preview",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Porta-removebg-preview2",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 236,
-                            "y": 0
-                          },
-                          {
-                            "x": 236,
-                            "y": 312
-                          },
-                          {
-                            "x": 0,
-                            "y": 312
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
         }
       ],
       "objectsFolderStructure": {
@@ -23768,9 +24328,6 @@
           },
           {
             "objectName": "Confirmar_fazer_produto"
-          },
-          {
-            "objectName": "Porta_ferreiro"
           }
         ]
       },
@@ -23884,7 +24441,7 @@
                 "value": "SourisSurObjet"
               },
               "parameters": [
-                "Porta_ferreiro",
+                "Porta_saida",
                 "",
                 "",
                 ""
@@ -24023,7 +24580,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.38958562738272856,
+        "zoomFactor": 0.444851599888665,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -24192,8 +24749,8 @@
           "name": "Item_1",
           "persistentUuid": "38d7fd67-6f16-4c8b-bcfc-e5670ebeca12",
           "width": 143,
-          "x": 10,
-          "y": 520,
+          "x": 1544,
+          "y": 517,
           "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
@@ -24202,15 +24759,15 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 7,
-          "height": 388,
+          "depth": 5,
+          "height": 341,
           "keepRatio": true,
           "layer": "",
           "name": "Item_2",
           "persistentUuid": "12654951-9f6b-46a3-9367-bcb868ce5a21",
-          "width": 136,
-          "x": 185,
-          "y": 453,
+          "width": 123,
+          "x": 1754,
+          "y": 494,
           "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
@@ -24237,14 +24794,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 319,
+          "height": 381,
           "keepRatio": true,
           "layer": "",
           "name": "Atendente_santuario",
           "persistentUuid": "f86a2474-6a32-40a5-864f-5110c8413a6f",
-          "width": 174,
-          "x": 1677,
-          "y": 527,
+          "width": 208,
+          "x": 1176,
+          "y": 469,
           "zOrder": 13,
           "numberProperties": [],
           "stringProperties": [],
@@ -24260,9 +24817,25 @@
           "name": "Player",
           "persistentUuid": "089ce779-f6ab-407f-8979-cacb8e50ef4b",
           "width": 193,
-          "x": 931,
-          "y": 740,
+          "x": 603,
+          "y": 736,
           "zOrder": 14,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Porta_saida",
+          "persistentUuid": "606c9b03-507a-404e-84e8-4c4a1a49a6e4",
+          "width": 0,
+          "x": 37,
+          "y": 525,
+          "zOrder": 15,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -24351,7 +24924,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "NewSprite34",
+                      "image": "NewSprite43",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -24367,20 +24940,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
-                            "y": 0
+                            "x": 1,
+                            "y": 1
                           },
                           {
-                            "x": 19,
-                            "y": 0
+                            "x": 157,
+                            "y": 1
                           },
                           {
-                            "x": 19,
-                            "y": 43
+                            "x": 157,
+                            "y": 469
                           },
                           {
-                            "x": 0,
-                            "y": 43
+                            "x": 1,
+                            "y": 469
                           }
                         ]
                       ]
@@ -25107,7 +25680,52 @@
           }
         ]
       },
-      "events": [],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "PlayerMoviments"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "Porta_saida",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonFromTextReleased"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Saguao\"",
+                ""
+              ]
+            }
+          ]
+        }
+      ],
       "layers": [
         {
           "ambientLightColorB": 200,
@@ -25190,10 +25808,6 @@
         {
           "name": "Text",
           "type": "TextContainerCapability::TextContainerBehavior"
-        },
-        {
-          "name": "TopDownMovement",
-          "type": "TopDownMovementBehavior::TopDownMovementBehavior"
         }
       ]
     },
@@ -25782,7 +26396,8 @@
             "color": "253;253;253",
             "fontFamily": "561d75b195f4dfcbdf0c38511984c83680574032d6b8c3c6a436a4fd32094320_DotGothic16-Regular.ttf",
             "align": "left",
-            "wordWrap": true
+            "wordWrap": true,
+            "verticalTextAlignment": "top"
           }
         },
         {
@@ -25800,7 +26415,8 @@
             "color": "255;255;255",
             "fontFamily": "6f90be937f63a6c9500df06e4da70fbe27147c38a70222c4d4102d12cee13ac6_Graduate-Regular.ttf",
             "align": "left",
-            "wordWrap": true
+            "wordWrap": true,
+            "verticalTextAlignment": "top"
           }
         },
         {
@@ -25818,7 +26434,8 @@
             "color": "255;255;255",
             "fontFamily": "6f90be937f63a6c9500df06e4da70fbe27147c38a70222c4d4102d12cee13ac6_Graduate-Regular.ttf",
             "align": "left",
-            "wordWrap": true
+            "wordWrap": true,
+            "verticalTextAlignment": "top"
           }
         }
       ],
@@ -27379,8 +27996,8 @@
           "name": "Chao_biblioteca",
           "persistentUuid": "f25e2b40-d394-4687-bd7e-fb3100f77654",
           "width": 2746,
-          "x": -389,
-          "y": -266,
+          "x": -405,
+          "y": -264,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -27396,8 +28013,8 @@
           "name": "Mesa_livros",
           "persistentUuid": "b0b9eab2-2057-446f-a808-f3c3d6e0d8d1",
           "width": 429,
-          "x": -1,
-          "y": 666,
+          "x": 403,
+          "y": 681,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -27413,7 +28030,7 @@
           "name": "Atendente_biblioteca",
           "persistentUuid": "21865b3b-0bc7-45c5-aaf5-336e99187064",
           "width": 362,
-          "x": 1529,
+          "x": 1548,
           "y": 647,
           "zOrder": 3,
           "numberProperties": [],
@@ -27430,8 +28047,8 @@
           "name": "Estante_2",
           "persistentUuid": "c8636e12-0081-4fa8-ae9a-9417f60c72fd",
           "width": 489,
-          "x": 1429,
-          "y": 6,
+          "x": 1434,
+          "y": 8,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -27484,6 +28101,39 @@
           "x": -10,
           "y": -2,
           "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 18,
+          "height": 282,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Player",
+          "persistentUuid": "8efd3c08-65cb-404d-ad4d-f08af102509a",
+          "width": 230,
+          "x": 1209,
+          "y": 965,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Porta_saida",
+          "persistentUuid": "eef099d6-85fe-4f02-ada2-f4e3da51ca48",
+          "width": 0,
+          "x": 20,
+          "y": 770,
+          "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -27951,6 +28601,50 @@
             "includeConfig": 0
           },
           "target": "Bag"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "PlayerMoviments"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "Porta_saida",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonFromTextReleased"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Saguao\"",
+                ""
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -28111,13 +28805,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 272,
+          "height": 399,
           "layer": "",
           "name": "ninja",
           "persistentUuid": "3664bafa-d818-4656-a74e-aa3f7a920da2",
-          "width": 324,
-          "x": 93,
-          "y": 721,
+          "width": 329,
+          "x": 71,
+          "y": 589,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -28127,13 +28821,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 328,
+          "height": 455,
           "layer": "",
           "name": "guerreiro",
           "persistentUuid": "da6e8d91-7a06-4122-9d9f-88bb7793b4bb",
-          "width": 246,
-          "x": 948,
-          "y": 247,
+          "width": 271,
+          "x": 923,
+          "y": 104,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -28142,14 +28836,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 3,
-          "height": 290,
+          "depth": 4,
+          "height": 379,
           "layer": "",
           "name": "monge",
           "persistentUuid": "84ff6f09-97ba-4ab5-a2c3-52d73109a80c",
-          "width": 225,
-          "x": 133,
-          "y": 298,
+          "width": 253,
+          "x": 129,
+          "y": 99,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -28157,14 +28851,15 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 409,
           "layer": "",
           "name": "arqueiro",
           "persistentUuid": "00560ba9-3177-4c62-ab4a-f690cc11cc8f",
-          "width": 0,
-          "x": 934,
-          "y": 693,
+          "width": 297,
+          "x": 915,
+          "y": 602,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -28174,13 +28869,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 319,
+          "height": 428,
           "layer": "",
           "name": "mago",
           "persistentUuid": "2c98b397-a736-4e90-9a10-bc7b4199314f",
-          "width": 193,
-          "x": 1435,
-          "y": 244,
+          "width": 259,
+          "x": 1416,
+          "y": 121,
           "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
@@ -28190,13 +28885,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 305,
+          "height": 404,
           "layer": "",
           "name": "aventureiro",
           "persistentUuid": "48380201-2f0e-4439-b621-857a35f658bb",
-          "width": 335,
-          "x": 1385,
-          "y": 658,
+          "width": 295,
+          "x": 1427,
+          "y": 608,
           "zOrder": 8,
           "numberProperties": [],
           "stringProperties": [],
@@ -28222,13 +28917,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 410,
+          "height": 422,
           "layer": "",
           "name": "jedi",
           "persistentUuid": "fa1cfa60-e804-4818-8b6f-6547436ba799",
-          "width": 410,
-          "x": 488,
-          "y": 439,
+          "width": 290,
+          "x": 543,
+          "y": 419,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -28306,7 +29001,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "aventureiro3",
+                      "image": "aventureiro5",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -28322,20 +29017,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
-                            "y": 0
+                            "x": 1,
+                            "y": 2
                           },
                           {
-                            "x": 341,
-                            "y": 0
+                            "x": 337,
+                            "y": 2
                           },
                           {
-                            "x": 341,
-                            "y": 311
+                            "x": 337,
+                            "y": 444
                           },
                           {
-                            "x": 0,
-                            "y": 311
+                            "x": 1,
+                            "y": 444
                           }
                         ]
                       ]
@@ -28374,7 +29069,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "mago2",
+                      "image": "mago3",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -28390,20 +29085,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 1,
-                            "y": 1
+                            "x": 2,
+                            "y": 2
                           },
                           {
-                            "x": 156,
-                            "y": 1
+                            "x": 578,
+                            "y": 2
                           },
                           {
-                            "x": 156,
-                            "y": 260
+                            "x": 578,
+                            "y": 953
                           },
                           {
-                            "x": 1,
-                            "y": 260
+                            "x": 2,
+                            "y": 953
                           }
                         ]
                       ]
@@ -28442,7 +29137,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "ninja2",
+                      "image": "ninja4",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -28459,19 +29154,19 @@
                         [
                           {
                             "x": 0,
-                            "y": 0
+                            "y": 1
                           },
                           {
-                            "x": 500,
-                            "y": 0
+                            "x": 662,
+                            "y": 1
                           },
                           {
-                            "x": 500,
-                            "y": 358
+                            "x": 662,
+                            "y": 795
                           },
                           {
                             "x": 0,
-                            "y": 358
+                            "y": 795
                           }
                         ]
                       ]
@@ -28510,7 +29205,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "monge2",
+                      "image": "monge4",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -28526,20 +29221,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 1,
-                            "y": 1
+                            "x": 0,
+                            "y": 0
                           },
                           {
-                            "x": 72,
-                            "y": 1
+                            "x": 238,
+                            "y": 0
                           },
                           {
-                            "x": 72,
-                            "y": 92
+                            "x": 238,
+                            "y": 363
                           },
                           {
-                            "x": 1,
-                            "y": 92
+                            "x": 0,
+                            "y": 363
                           }
                         ]
                       ]
@@ -28577,7 +29272,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "guerreiro2",
+                      "image": "guerreiro3",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -28593,20 +29288,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
-                            "y": 0
+                            "x": 2,
+                            "y": 2
                           },
                           {
-                            "x": 341,
-                            "y": 0
+                            "x": 252,
+                            "y": 2
                           },
                           {
-                            "x": 341,
-                            "y": 455
+                            "x": 252,
+                            "y": 436
                           },
                           {
-                            "x": 0,
-                            "y": 455
+                            "x": 2,
+                            "y": 436
                           }
                         ]
                       ]
@@ -28645,7 +29340,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "arqueiro2",
+                      "image": "arqueiro3",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -28661,20 +29356,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 1,
-                            "y": 1
+                            "x": 22,
+                            "y": 2
                           },
                           {
-                            "x": 342,
-                            "y": 1
+                            "x": 635,
+                            "y": 2
                           },
                           {
-                            "x": 342,
-                            "y": 317
+                            "x": 635,
+                            "y": 839
                           },
                           {
-                            "x": 1,
-                            "y": 317
+                            "x": 22,
+                            "y": 839
                           }
                         ]
                       ]
@@ -29116,16 +29811,17 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "",
+              "name": "luke-skywalker-mace-windu-boba-fett-yoda-pixel-art-star-wars-removebg-preview",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "luke-skywalker-mace-windu-boba-fett-yoda-pixel-art-star-wars-removebg-preview.png",
+                      "image": "luke-skywalker-mace-windu-boba-fett-yoda-pixel-art-star-wars-removebg-preview3",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -29141,20 +29837,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 12,
-                            "y": 138
+                            "x": 2,
+                            "y": 2
                           },
                           {
-                            "x": 462,
-                            "y": 138
+                            "x": 629,
+                            "y": 2
                           },
                           {
-                            "x": 462,
-                            "y": 437
+                            "x": 629,
+                            "y": 883
                           },
                           {
-                            "x": 12,
-                            "y": 437
+                            "x": 2,
+                            "y": 883
                           }
                         ]
                       ]
@@ -30267,10 +30963,6 @@
         {
           "name": "Text",
           "type": "TextContainerCapability::TextContainerBehavior"
-        },
-        {
-          "name": "TopDownMovement",
-          "type": "TopDownMovementBehavior::TopDownMovementBehavior"
         }
       ]
     },
@@ -30294,11 +30986,73 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.3645833333333333,
+        "zoomFactor": 0.38958562738272895,
         "windowMask": false
       },
-      "objectsGroups": [],
-      "variables": [],
+      "objectsGroups": [
+        {
+          "name": "sabre-de-luz",
+          "objects": [
+            {
+              "name": "Sabre_vermelho"
+            },
+            {
+              "name": "Sabre_roxo"
+            },
+            {
+              "name": "Sabre_azul"
+            },
+            {
+              "name": "Sabre_amarelo"
+            },
+            {
+              "name": "Sabre_verde"
+            },
+            {
+              "name": "Sabre_laranja"
+            },
+            {
+              "name": "Sabre_branco"
+            }
+          ]
+        }
+      ],
+      "variables": [
+        {
+          "name": "sabre_de_luz",
+          "type": "array",
+          "children": [
+            {
+              "type": "string",
+              "value": "Sabre_azul"
+            },
+            {
+              "type": "string",
+              "value": "Sabre_verde"
+            },
+            {
+              "type": "string",
+              "value": "Sabre_roxo"
+            },
+            {
+              "type": "string",
+              "value": "Sabre_amarelo"
+            },
+            {
+              "type": "string",
+              "value": "Sabre_laranja"
+            },
+            {
+              "type": "string",
+              "value": "Sabre_branco"
+            },
+            {
+              "type": "string",
+              "value": "Sabre_vermelho"
+            }
+          ]
+        }
+      ],
       "instances": [
         {
           "angle": 0,
@@ -30364,22 +31118,6 @@
           "x": 344,
           "y": 5,
           "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "sabre_de_luz_jedi",
-          "persistentUuid": "57c4add0-29fd-4634-9970-44a8988952bc",
-          "width": 0,
-          "x": 941,
-          "y": 1019,
-          "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -30629,6 +31367,427 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Sabre_vermelho",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Light-roxo2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 80,
+                            "y": 0
+                          },
+                          {
+                            "x": 80,
+                            "y": 434
+                          },
+                          {
+                            "x": 0,
+                            "y": 434
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Sabre_branco",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Light-branco.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 80,
+                            "y": 0
+                          },
+                          {
+                            "x": 80,
+                            "y": 434
+                          },
+                          {
+                            "x": 0,
+                            "y": 434
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Sabre_laranja",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Light-laranja.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 80,
+                            "y": 0
+                          },
+                          {
+                            "x": 80,
+                            "y": 434
+                          },
+                          {
+                            "x": 0,
+                            "y": 434
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Sabre_verde",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Light-verde.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 80,
+                            "y": 0
+                          },
+                          {
+                            "x": 80,
+                            "y": 434
+                          },
+                          {
+                            "x": 0,
+                            "y": 434
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Sabre_roxo",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Light-roxo.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 80,
+                            "y": 0
+                          },
+                          {
+                            "x": 80,
+                            "y": 434
+                          },
+                          {
+                            "x": 0,
+                            "y": 434
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Sabre_amarelo",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Amarelo.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 80,
+                            "y": 0
+                          },
+                          {
+                            "x": 80,
+                            "y": 434
+                          },
+                          {
+                            "x": 0,
+                            "y": 434
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Sabre_azul",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Light-azul",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Azul.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 80,
+                            "y": 0
+                          },
+                          {
+                            "x": 80,
+                            "y": 434
+                          },
+                          {
+                            "x": 0,
+                            "y": 434
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -30645,10 +31804,76 @@
           },
           {
             "objectName": "Imagem_janela"
+          },
+          {
+            "objectName": "Sabre_vermelho"
+          },
+          {
+            "objectName": "Sabre_branco"
+          },
+          {
+            "objectName": "Sabre_laranja"
+          },
+          {
+            "objectName": "Sabre_verde"
+          },
+          {
+            "objectName": "Sabre_roxo"
+          },
+          {
+            "objectName": "Sabre_amarelo"
+          },
+          {
+            "objectName": "Sabre_azul"
           }
         ]
       },
-      "events": [],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Repeat",
+              "repeatExpression": "VariableChildCount(sabre_de_luz)",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "CreateByName"
+                  },
+                  "parameters": [
+                    "",
+                    "sabre-de-luz",
+                    "sabre_de_luz[index]",
+                    "100+265*index",
+                    "552",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "index",
+                    "+",
+                    "1"
+                  ]
+                }
+              ]
+            }
+          ],
+          "variables": [
+            {
+              "name": "index",
+              "type": "number",
+              "value": 0
+            }
+          ]
+        }
+      ],
       "layers": [
         {
           "ambientLightColorB": 200,
@@ -30731,10 +31956,6 @@
         {
           "name": "Text",
           "type": "TextContainerCapability::TextContainerBehavior"
-        },
-        {
-          "name": "TopDownMovement",
-          "type": "TopDownMovementBehavior::TopDownMovementBehavior"
         }
       ]
     },
@@ -32060,13 +33281,15 @@
             "color": "255;255;255",
             "fontFamily": "Arial",
             "align": "left",
-            "wordWrap": true
+            "wordWrap": true,
+            "verticalTextAlignment": "top"
           }
         },
         {
           "assetStoreId": "5faf2b0415c271fa6e747283ed36297a95f04d2b6c477a7b011775fa6fb444ee",
           "name": "Button_Buy",
           "type": "PanelSpriteButton::PanelSpriteButton",
+          "variant": "",
           "variables": [],
           "effects": [],
           "behaviors": [],
@@ -32162,7 +33385,8 @@
             "color": "0;0;0",
             "fontFamily": "Arial",
             "align": "left",
-            "wordWrap": true
+            "wordWrap": true,
+            "verticalTextAlignment": "top"
           }
         },
         {
@@ -33192,7 +34416,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.3768772036750873,
+        "zoomFactor": 0.40272258333259203,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -33201,16 +34425,16 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 1,
-          "height": 130,
+          "depth": 1.1573033707865168,
+          "height": 150.44943820224722,
           "keepRatio": true,
           "layer": "",
           "name": "pocao_de_forca",
           "persistentUuid": "17c1a41d-4812-40b4-b8f6-e29f69c5b718",
-          "width": 89,
-          "x": 654,
-          "y": 56,
-          "zOrder": 1,
+          "width": 103,
+          "x": 732,
+          "y": 118,
+          "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -33218,15 +34442,15 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 1,
-          "height": 136,
+          "depth": 1.1573033707865168,
+          "height": 157.3932584269663,
           "keepRatio": true,
           "layer": "",
           "name": "pocao_de_cura",
           "persistentUuid": "90dfddbf-ca60-4ed0-a7a0-98a0712f6484",
-          "width": 89,
-          "x": 1004,
-          "y": 35,
+          "width": 103,
+          "x": 449,
+          "y": 112,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -33236,14 +34460,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 2,
-          "height": 139,
+          "height": 170,
           "keepRatio": true,
           "layer": "",
           "name": "pocao_de_velocidade",
           "persistentUuid": "cd003355-f9c9-4858-b864-29993c870c32",
           "width": 103,
-          "x": 1255,
-          "y": 33,
+          "x": 1080,
+          "y": 112,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -33252,15 +34476,15 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 2,
-          "height": 142,
+          "depth": 2.06,
+          "height": 146.26000000000002,
           "keepRatio": true,
           "layer": "",
           "name": "pocao_de_mana",
           "persistentUuid": "8ac642dc-bd06-4acc-8574-3cfa84526dda",
-          "width": 100,
-          "x": 353,
-          "y": 32,
+          "width": 103,
+          "x": 1413,
+          "y": 125,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -33276,8 +34500,8 @@
           "name": "fundo",
           "persistentUuid": "8f50d87b-afa5-4231-8db6-4d8919c4d1e5",
           "width": 1943,
-          "x": -8,
-          "y": 1077,
+          "x": -36,
+          "y": 1083,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -33456,16 +34680,134 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 2,
-          "height": 142,
+          "depth": 1,
+          "height": 1242,
           "keepRatio": true,
           "layer": "",
-          "name": "pocao_de_mana",
-          "persistentUuid": "1dd4436e-f7fb-4452-bddc-5c526c150d7e",
-          "width": 100,
-          "x": 70,
-          "y": 17,
-          "zOrder": 4,
+          "name": "fundo_pocoes",
+          "persistentUuid": "345559ab-61e8-4ba1-9854-6c25b53dfd57",
+          "width": 2122,
+          "x": -68,
+          "y": -62,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 518,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Vendedor_pocoes",
+          "persistentUuid": "9b47275b-62e9-4480-853c-49bc1988ac56",
+          "width": 173,
+          "x": 1711,
+          "y": 560,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 423,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Mesa_pocoes",
+          "persistentUuid": "6697064d-7212-4cda-8a84-dfedddb8050e",
+          "width": 522,
+          "x": 0,
+          "y": 658,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 43,
+          "keepRatio": true,
+          "layer": "",
+          "name": "prateleira",
+          "persistentUuid": "7d01dfb5-0f1a-48cf-a8ed-75d4a98596a1",
+          "width": 1198,
+          "x": 369,
+          "y": 268,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 4,
+          "height": 292,
+          "keepRatio": true,
+          "layer": "",
+          "name": "segurador_estante",
+          "persistentUuid": "5c5feae6-0d03-4aaf-91ea-ab2f77ba84ad",
+          "width": 292,
+          "x": 98,
+          "y": -23,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 6,
+          "height": 359,
+          "keepRatio": true,
+          "layer": "",
+          "name": "segurador_estante_2",
+          "persistentUuid": "5d2f9658-13a7-42cc-bf9b-c6c279423eb3",
+          "width": 359,
+          "x": 1567,
+          "y": -10,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 18,
+          "height": 298,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Player",
+          "persistentUuid": "347cb9b5-f4a7-4695-9596-9cbf5a805c42",
+          "width": 242,
+          "x": 979,
+          "y": 948,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "welcome_pocoes",
+          "persistentUuid": "2cf177ee-5f0d-4429-86d8-fae62aebbd41",
+          "width": 0,
+          "x": 731,
+          "y": 37,
+          "zOrder": 13,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -33601,6 +34943,414 @@
             "characterSize": 20,
             "color": "0;0;0"
           }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Vendedor_pocoes",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "pocoes-vendedor",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "pocoes-vendedor4",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 473,
+                            "y": 0
+                          },
+                          {
+                            "x": 473,
+                            "y": 1420
+                          },
+                          {
+                            "x": 0,
+                            "y": 1420
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "fundo_pocoes",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite44",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 0,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Mesa_pocoes",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "9005d81f-8a98-49d7-9878-4048a3beb99e",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "9005d81f-8a98-49d7-9878-4048a3beb99e3",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 727,
+                            "y": 0
+                          },
+                          {
+                            "x": 727,
+                            "y": 589
+                          },
+                          {
+                            "x": 0,
+                            "y": 589
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "prateleira",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite45",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 0,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "segurador_estante",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite46",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 61,
+                            "y": 0
+                          },
+                          {
+                            "x": 61,
+                            "y": 64
+                          },
+                          {
+                            "x": 0,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "segurador_estante_2",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite2",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite47",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 51
+                          },
+                          {
+                            "x": 0,
+                            "y": 51
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": true,
+          "italic": false,
+          "name": "welcome_pocoes",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Bem-vindo à Loja de Poções",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 40,
+          "color": {
+            "b": 254,
+            "g": 19,
+            "r": 144
+          },
+          "content": {
+            "bold": true,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Bem-vindo à Loja de Poções",
+            "font": "",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 40,
+            "color": "144;19;254"
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -33611,6 +35361,27 @@
           },
           {
             "objectName": "itemCount"
+          },
+          {
+            "objectName": "Vendedor_pocoes"
+          },
+          {
+            "objectName": "fundo_pocoes"
+          },
+          {
+            "objectName": "Mesa_pocoes"
+          },
+          {
+            "objectName": "prateleira"
+          },
+          {
+            "objectName": "segurador_estante"
+          },
+          {
+            "objectName": "segurador_estante_2"
+          },
+          {
+            "objectName": "welcome_pocoes"
           }
         ]
       },
@@ -33621,6 +35392,13 @@
             "includeConfig": 0
           },
           "target": "Bag"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "PlayerMoviments"
         },
         {
           "type": "BuiltinCommonInstructions::ForEach",
@@ -34112,20 +35890,12 @@
           "type": "ScalableCapability::ScalableBehavior"
         },
         {
-          "name": "SmoothCamera",
-          "type": "SmoothCamera::SmoothCamera"
-        },
-        {
           "name": "Sticker",
           "type": "Sticker::Sticker"
         },
         {
           "name": "Text",
           "type": "TextContainerCapability::TextContainerBehavior"
-        },
-        {
-          "name": "TopDownMovement",
-          "type": "TopDownMovementBehavior::TopDownMovementBehavior"
         }
       ]
     },
@@ -37149,7 +38919,8 @@
             "color": "255;255;255",
             "fontFamily": "Arial",
             "align": "left",
-            "wordWrap": true
+            "wordWrap": true,
+            "verticalTextAlignment": "top"
           }
         },
         {
@@ -37167,7 +38938,8 @@
             "color": "255;255;255",
             "fontFamily": "Arial",
             "align": "left",
-            "wordWrap": true
+            "wordWrap": true,
+            "verticalTextAlignment": "top"
           }
         },
         {
@@ -37185,7 +38957,8 @@
             "color": "255;255;255",
             "fontFamily": "Arial",
             "align": "left",
-            "wordWrap": true
+            "wordWrap": true,
+            "verticalTextAlignment": "top"
           }
         },
         {
@@ -38551,6 +40324,130 @@
                 "Text",
                 "=",
                 "GlobalVariableString(level)"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Coins.ValorNormal",
+                "=",
+                "coins"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Coins.ValorK",
+                "=",
+                "floorTo(coins/1000,2)"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Coins.ValorM",
+                "=",
+                "floorTo(coins/1000000,2)"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "coins",
+                "<",
+                "1000"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "TextCoin",
+                "Text",
+                "=",
+                "GlobalVariableString(Coins.ValorNormal)"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "coins",
+                ">=",
+                "1000"
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "coins",
+                "<=",
+                "1000000"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "TextCoin",
+                "Text",
+                "=",
+                "GlobalVariableString(Coins.ValorK)+\"K\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "coins",
+                ">=",
+                "1000000"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "TextCoin",
+                "Text",
+                "=",
+                "GlobalVariableString(Coins.ValorM)+\"M\""
               ]
             }
           ]
@@ -52357,6 +54254,164 @@
           "fullName": "Resource bar (continuous)",
           "isUsingLegacyInstancesRenderer": true,
           "name": "PanelSpriteContinuousBar",
+          "objects": [
+            {
+              "assetStoreId": "",
+              "bold": false,
+              "italic": false,
+              "name": "Label",
+              "smoothed": true,
+              "type": "TextObject::Text",
+              "underlined": false,
+              "variables": [],
+              "effects": [],
+              "behaviors": [],
+              "string": "2 / 3",
+              "font": "",
+              "textAlignment": "center",
+              "characterSize": 20,
+              "color": {
+                "b": 0,
+                "g": 0,
+                "r": 0
+              },
+              "content": {
+                "bold": false,
+                "isOutlineEnabled": false,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "255;255;255",
+                "outlineThickness": 2,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "2 / 3",
+                "font": "",
+                "textAlignment": "center",
+                "verticalTextAlignment": "top",
+                "characterSize": 20,
+                "color": "0;0;0"
+              }
+            },
+            {
+              "assetStoreId": "",
+              "bottomMargin": 0,
+              "height": 32,
+              "leftMargin": 0,
+              "name": "FillBar",
+              "rightMargin": 0,
+              "texture": "",
+              "tiled": true,
+              "topMargin": 0,
+              "type": "PanelSpriteObject::PanelSprite",
+              "width": 32,
+              "variables": [],
+              "effects": [],
+              "behaviors": [
+                {
+                  "name": "ResourceBar",
+                  "type": "PanelSpriteContinuousBar::ResourceBar",
+                  "Value": 1,
+                  "MaxValue": 3,
+                  "PreviousValue": 0
+                },
+                {
+                  "name": "Tween",
+                  "type": "Tween::TweenBehavior"
+                }
+              ]
+            },
+            {
+              "assetStoreId": "",
+              "bottomMargin": 0,
+              "height": 32,
+              "leftMargin": 0,
+              "name": "Buffer",
+              "rightMargin": 0,
+              "texture": "",
+              "tiled": true,
+              "topMargin": 0,
+              "type": "PanelSpriteObject::PanelSprite",
+              "width": 32,
+              "variables": [],
+              "effects": [],
+              "behaviors": [
+                {
+                  "name": "Tween",
+                  "type": "Tween::TweenBehavior"
+                }
+              ]
+            },
+            {
+              "assetStoreId": "",
+              "bottomMargin": 0,
+              "height": 32,
+              "leftMargin": 0,
+              "name": "Background",
+              "rightMargin": 0,
+              "texture": "",
+              "tiled": true,
+              "topMargin": 0,
+              "type": "PanelSpriteObject::PanelSprite",
+              "width": 32,
+              "variables": [],
+              "effects": [],
+              "behaviors": []
+            }
+          ],
+          "objectsFolderStructure": {
+            "folderName": "__ROOT",
+            "children": [
+              {
+                "objectName": "Label"
+              },
+              {
+                "objectName": "FillBar"
+              },
+              {
+                "objectName": "Buffer"
+              },
+              {
+                "objectName": "Background"
+              }
+            ]
+          },
+          "objectsGroups": [],
+          "layers": [
+            {
+              "ambientLightColorB": 200,
+              "ambientLightColorG": 200,
+              "ambientLightColorR": 200,
+              "camera3DFarPlaneDistance": 10000,
+              "camera3DFieldOfView": 45,
+              "camera3DNearPlaneDistance": 3,
+              "cameraType": "",
+              "followBaseLayerCamera": false,
+              "isLightingLayer": false,
+              "isLocked": false,
+              "name": "",
+              "renderingType": "",
+              "visibility": true,
+              "cameras": [
+                {
+                  "defaultSize": true,
+                  "defaultViewport": true,
+                  "height": 0,
+                  "viewportBottom": 1,
+                  "viewportLeft": 0,
+                  "viewportRight": 1,
+                  "viewportTop": 0,
+                  "width": 0
+                }
+              ],
+              "effects": []
+            }
+          ],
+          "instances": [],
           "eventsFunctions": [
             {
               "fullName": "",
@@ -54064,164 +56119,7 @@
               "name": "LabelVerticalAnchorTarget"
             }
           ],
-          "objects": [
-            {
-              "assetStoreId": "",
-              "bold": false,
-              "italic": false,
-              "name": "Label",
-              "smoothed": true,
-              "type": "TextObject::Text",
-              "underlined": false,
-              "variables": [],
-              "effects": [],
-              "behaviors": [],
-              "string": "2 / 3",
-              "font": "",
-              "textAlignment": "center",
-              "characterSize": 20,
-              "color": {
-                "b": 0,
-                "g": 0,
-                "r": 0
-              },
-              "content": {
-                "bold": false,
-                "isOutlineEnabled": false,
-                "isShadowEnabled": false,
-                "italic": false,
-                "outlineColor": "255;255;255",
-                "outlineThickness": 2,
-                "shadowAngle": 90,
-                "shadowBlurRadius": 2,
-                "shadowColor": "0;0;0",
-                "shadowDistance": 4,
-                "shadowOpacity": 127,
-                "smoothed": true,
-                "underlined": false,
-                "text": "2 / 3",
-                "font": "",
-                "textAlignment": "center",
-                "verticalTextAlignment": "top",
-                "characterSize": 20,
-                "color": "0;0;0"
-              }
-            },
-            {
-              "assetStoreId": "",
-              "bottomMargin": 0,
-              "height": 32,
-              "leftMargin": 0,
-              "name": "FillBar",
-              "rightMargin": 0,
-              "texture": "",
-              "tiled": true,
-              "topMargin": 0,
-              "type": "PanelSpriteObject::PanelSprite",
-              "width": 32,
-              "variables": [],
-              "effects": [],
-              "behaviors": [
-                {
-                  "name": "ResourceBar",
-                  "type": "PanelSpriteContinuousBar::ResourceBar",
-                  "Value": 1,
-                  "MaxValue": 3,
-                  "PreviousValue": 0
-                },
-                {
-                  "name": "Tween",
-                  "type": "Tween::TweenBehavior"
-                }
-              ]
-            },
-            {
-              "assetStoreId": "",
-              "bottomMargin": 0,
-              "height": 32,
-              "leftMargin": 0,
-              "name": "Buffer",
-              "rightMargin": 0,
-              "texture": "",
-              "tiled": true,
-              "topMargin": 0,
-              "type": "PanelSpriteObject::PanelSprite",
-              "width": 32,
-              "variables": [],
-              "effects": [],
-              "behaviors": [
-                {
-                  "name": "Tween",
-                  "type": "Tween::TweenBehavior"
-                }
-              ]
-            },
-            {
-              "assetStoreId": "",
-              "bottomMargin": 0,
-              "height": 32,
-              "leftMargin": 0,
-              "name": "Background",
-              "rightMargin": 0,
-              "texture": "",
-              "tiled": true,
-              "topMargin": 0,
-              "type": "PanelSpriteObject::PanelSprite",
-              "width": 32,
-              "variables": [],
-              "effects": [],
-              "behaviors": []
-            }
-          ],
-          "objectsFolderStructure": {
-            "folderName": "__ROOT",
-            "children": [
-              {
-                "objectName": "Label"
-              },
-              {
-                "objectName": "FillBar"
-              },
-              {
-                "objectName": "Buffer"
-              },
-              {
-                "objectName": "Background"
-              }
-            ]
-          },
-          "objectsGroups": [],
-          "layers": [
-            {
-              "ambientLightColorB": 200,
-              "ambientLightColorG": 200,
-              "ambientLightColorR": 200,
-              "camera3DFarPlaneDistance": 10000,
-              "camera3DFieldOfView": 45,
-              "camera3DNearPlaneDistance": 3,
-              "cameraType": "",
-              "followBaseLayerCamera": false,
-              "isLightingLayer": false,
-              "isLocked": false,
-              "name": "",
-              "renderingType": "",
-              "visibility": true,
-              "cameras": [
-                {
-                  "defaultSize": true,
-                  "defaultViewport": true,
-                  "height": 0,
-                  "viewportBottom": 1,
-                  "viewportLeft": 0,
-                  "viewportRight": 1,
-                  "viewportTop": 0,
-                  "width": 0
-                }
-              ],
-              "effects": []
-            }
-          ],
-          "instances": []
+          "variants": []
         }
       ]
     },
@@ -60719,6 +62617,165 @@
           "fullName": "Button (panel sprite)",
           "isUsingLegacyInstancesRenderer": true,
           "name": "PanelSpriteButton",
+          "objects": [
+            {
+              "assetStoreId": "",
+              "bold": false,
+              "italic": false,
+              "name": "Label",
+              "smoothed": true,
+              "type": "TextObject::Text",
+              "underlined": false,
+              "variables": [],
+              "effects": [],
+              "behaviors": [],
+              "string": "Text",
+              "font": "",
+              "textAlignment": "",
+              "characterSize": 20,
+              "color": {
+                "b": 0,
+                "g": 0,
+                "r": 0
+              },
+              "content": {
+                "bold": false,
+                "isOutlineEnabled": false,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "255;255;255",
+                "outlineThickness": 2,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "Text",
+                "font": "",
+                "textAlignment": "",
+                "verticalTextAlignment": "top",
+                "characterSize": 20,
+                "color": "0;0;0"
+              }
+            },
+            {
+              "assetStoreId": "",
+              "bottomMargin": 0,
+              "height": 32,
+              "leftMargin": 0,
+              "name": "Idle",
+              "rightMargin": 0,
+              "texture": "",
+              "tiled": false,
+              "topMargin": 0,
+              "type": "PanelSpriteObject::PanelSprite",
+              "width": 32,
+              "variables": [
+                {
+                  "folded": true,
+                  "name": "State",
+                  "type": "string",
+                  "value": "Idle"
+                }
+              ],
+              "effects": [],
+              "behaviors": [
+                {
+                  "name": "ButtonFSM",
+                  "type": "PanelSpriteButton::ButtonFSM",
+                  "ShouldCheckHovering": true
+                }
+              ]
+            },
+            {
+              "assetStoreId": "",
+              "bottomMargin": 0,
+              "height": 32,
+              "leftMargin": 0,
+              "name": "Hovered",
+              "rightMargin": 0,
+              "texture": "",
+              "tiled": false,
+              "topMargin": 0,
+              "type": "PanelSpriteObject::PanelSprite",
+              "width": 32,
+              "variables": [],
+              "effects": [],
+              "behaviors": [
+                {
+                  "name": "Tween",
+                  "type": "Tween::TweenBehavior"
+                }
+              ]
+            },
+            {
+              "assetStoreId": "",
+              "bottomMargin": 0,
+              "height": 32,
+              "leftMargin": 0,
+              "name": "Pressed",
+              "rightMargin": 0,
+              "texture": "",
+              "tiled": false,
+              "topMargin": 0,
+              "type": "PanelSpriteObject::PanelSprite",
+              "width": 32,
+              "variables": [],
+              "effects": [],
+              "behaviors": []
+            }
+          ],
+          "objectsFolderStructure": {
+            "folderName": "__ROOT",
+            "children": [
+              {
+                "objectName": "Label"
+              },
+              {
+                "objectName": "Idle"
+              },
+              {
+                "objectName": "Hovered"
+              },
+              {
+                "objectName": "Pressed"
+              }
+            ]
+          },
+          "objectsGroups": [],
+          "layers": [
+            {
+              "ambientLightColorB": 200,
+              "ambientLightColorG": 200,
+              "ambientLightColorR": 200,
+              "camera3DFarPlaneDistance": 10000,
+              "camera3DFieldOfView": 45,
+              "camera3DNearPlaneDistance": 3,
+              "cameraType": "",
+              "followBaseLayerCamera": false,
+              "isLightingLayer": false,
+              "isLocked": false,
+              "name": "",
+              "renderingType": "",
+              "visibility": true,
+              "cameras": [
+                {
+                  "defaultSize": true,
+                  "defaultViewport": true,
+                  "height": 0,
+                  "viewportBottom": 1,
+                  "viewportLeft": 0,
+                  "viewportRight": 1,
+                  "viewportTop": 0,
+                  "width": 0
+                }
+              ],
+              "effects": []
+            }
+          ],
+          "instances": [],
           "eventsFunctions": [
             {
               "fullName": "",
@@ -62087,165 +64144,7 @@
               "name": "HoveredFadeOutDuration"
             }
           ],
-          "objects": [
-            {
-              "assetStoreId": "",
-              "bold": false,
-              "italic": false,
-              "name": "Label",
-              "smoothed": true,
-              "type": "TextObject::Text",
-              "underlined": false,
-              "variables": [],
-              "effects": [],
-              "behaviors": [],
-              "string": "Text",
-              "font": "",
-              "textAlignment": "",
-              "characterSize": 20,
-              "color": {
-                "b": 0,
-                "g": 0,
-                "r": 0
-              },
-              "content": {
-                "bold": false,
-                "isOutlineEnabled": false,
-                "isShadowEnabled": false,
-                "italic": false,
-                "outlineColor": "255;255;255",
-                "outlineThickness": 2,
-                "shadowAngle": 90,
-                "shadowBlurRadius": 2,
-                "shadowColor": "0;0;0",
-                "shadowDistance": 4,
-                "shadowOpacity": 127,
-                "smoothed": true,
-                "underlined": false,
-                "text": "Text",
-                "font": "",
-                "textAlignment": "",
-                "verticalTextAlignment": "top",
-                "characterSize": 20,
-                "color": "0;0;0"
-              }
-            },
-            {
-              "assetStoreId": "",
-              "bottomMargin": 0,
-              "height": 32,
-              "leftMargin": 0,
-              "name": "Idle",
-              "rightMargin": 0,
-              "texture": "",
-              "tiled": false,
-              "topMargin": 0,
-              "type": "PanelSpriteObject::PanelSprite",
-              "width": 32,
-              "variables": [
-                {
-                  "folded": true,
-                  "name": "State",
-                  "type": "string",
-                  "value": "Idle"
-                }
-              ],
-              "effects": [],
-              "behaviors": [
-                {
-                  "name": "ButtonFSM",
-                  "type": "PanelSpriteButton::ButtonFSM",
-                  "ShouldCheckHovering": true
-                }
-              ]
-            },
-            {
-              "assetStoreId": "",
-              "bottomMargin": 0,
-              "height": 32,
-              "leftMargin": 0,
-              "name": "Hovered",
-              "rightMargin": 0,
-              "texture": "",
-              "tiled": false,
-              "topMargin": 0,
-              "type": "PanelSpriteObject::PanelSprite",
-              "width": 32,
-              "variables": [],
-              "effects": [],
-              "behaviors": [
-                {
-                  "name": "Tween",
-                  "type": "Tween::TweenBehavior"
-                }
-              ]
-            },
-            {
-              "assetStoreId": "",
-              "bottomMargin": 0,
-              "height": 32,
-              "leftMargin": 0,
-              "name": "Pressed",
-              "rightMargin": 0,
-              "texture": "",
-              "tiled": false,
-              "topMargin": 0,
-              "type": "PanelSpriteObject::PanelSprite",
-              "width": 32,
-              "variables": [],
-              "effects": [],
-              "behaviors": []
-            }
-          ],
-          "objectsFolderStructure": {
-            "folderName": "__ROOT",
-            "children": [
-              {
-                "objectName": "Label"
-              },
-              {
-                "objectName": "Idle"
-              },
-              {
-                "objectName": "Hovered"
-              },
-              {
-                "objectName": "Pressed"
-              }
-            ]
-          },
-          "objectsGroups": [],
-          "layers": [
-            {
-              "ambientLightColorB": 200,
-              "ambientLightColorG": 200,
-              "ambientLightColorR": 200,
-              "camera3DFarPlaneDistance": 10000,
-              "camera3DFieldOfView": 45,
-              "camera3DNearPlaneDistance": 3,
-              "cameraType": "",
-              "followBaseLayerCamera": false,
-              "isLightingLayer": false,
-              "isLocked": false,
-              "name": "",
-              "renderingType": "",
-              "visibility": true,
-              "cameras": [
-                {
-                  "defaultSize": true,
-                  "defaultViewport": true,
-                  "height": 0,
-                  "viewportBottom": 1,
-                  "viewportLeft": 0,
-                  "viewportRight": 1,
-                  "viewportTop": 0,
-                  "width": 0
-                }
-              ],
-              "effects": []
-            }
-          ],
-          "instances": []
+          "variants": []
         }
       ]
     },

@@ -12050,7 +12050,7 @@
     {
       "name": "Sabre_name",
       "type": "string",
-      "value": "Verde"
+      "value": "Azul"
     },
     {
       "folded": true,
@@ -44443,16 +44443,21 @@
                     "=",
                     "\"Azul\""
                   ]
-                },
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
                 {
                   "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                    "value": "SetStringVariable"
                   },
                   "parameters": [
-                    "sabre_de_luz_jedi",
-                    "Animation",
-                    "=",
-                    "\"Verde\""
+                    "Sabre_name",
+                    "+",
+                    "\"variableName\""
                   ]
                 },
                 {
@@ -44463,29 +44468,23 @@
                     "sabre_de_luz_jedi",
                     "Animation",
                     "=",
-                    "\"Roxo\""
+                    "\"Vermelho\""
                   ]
-                },
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
                 {
                   "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                    "value": "SetStringVariable"
                   },
                   "parameters": [
-                    "sabre_de_luz_jedi",
-                    "Animation",
-                    "=",
-                    "\"Amarelo\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                  },
-                  "parameters": [
-                    "sabre_de_luz_jedi",
-                    "Animation",
-                    "=",
-                    "\"Laranja\""
+                    "Sabre_name",
+                    "+",
+                    "\"variableName\""
                   ]
                 },
                 {
@@ -44498,6 +44497,22 @@
                     "=",
                     "\"Branco\""
                   ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetStringVariable"
+                  },
+                  "parameters": [
+                    "Sabre_name",
+                    "+",
+                    "\"variableName\""
+                  ]
                 },
                 {
                   "type": {
@@ -44507,7 +44522,88 @@
                     "sabre_de_luz_jedi",
                     "Animation",
                     "=",
-                    "\"Vermelho\""
+                    "\"Laranja\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetStringVariable"
+                  },
+                  "parameters": [
+                    "Sabre_name",
+                    "+",
+                    "\"variableName\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "sabre_de_luz_jedi",
+                    "Animation",
+                    "=",
+                    "\"Amarelo\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetStringVariable"
+                  },
+                  "parameters": [
+                    "Sabre_name",
+                    "+",
+                    "\"variableName\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "sabre_de_luz_jedi",
+                    "Animation",
+                    "=",
+                    "\"Roxo\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetStringVariable"
+                  },
+                  "parameters": [
+                    "Sabre_name",
+                    "+",
+                    "\"variableName\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "sabre_de_luz_jedi",
+                    "Animation",
+                    "=",
+                    "\"Verde\""
                   ]
                 }
               ]

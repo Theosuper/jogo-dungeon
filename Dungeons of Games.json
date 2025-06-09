@@ -1024,7 +1024,7 @@
       {
         "file": "assets/images_Dungeon_boss-nivel-5-removebg-preview2.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/images_Dungeon_boss-nivel-5-removebg-preview2.png\"}",
         "name": "images\\Dungeon\\boss-nivel-5-removebg-preview2",
         "smoothed": false,
         "userAdded": true
@@ -5799,6 +5799,330 @@
         "name": "verde7",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Arqueiro/Walk/Frame-1.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"pixel-arts-euesora/Arqueiro/Walk/Frame-1.png\",\"extension\":\".png\"}",
+        "name": "pixel-arts-euesora\\Arqueiro\\Walk\\Frame-1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Arqueiro/Walk/Frame-2.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"pixel-arts-euesora/Arqueiro/Walk/Frame-2.png\",\"extension\":\".png\"}",
+        "name": "pixel-arts-euesora\\Arqueiro\\Walk\\Frame-2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Arqueiro/Walk/Frame-3.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"pixel-arts-euesora/Arqueiro/Walk/Frame-3.png\",\"extension\":\".png\"}",
+        "name": "pixel-arts-euesora\\Arqueiro\\Walk\\Frame-3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Arqueiro/Walk/Frame-4.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"pixel-arts-euesora/Arqueiro/Walk/Frame-4.png\",\"extension\":\".png\"}",
+        "name": "pixel-arts-euesora\\Arqueiro\\Walk\\Frame-4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Frame-1-removebg-preview.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Frame-1-removebg-preview.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Frame-2-removebg-preview.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Frame-2-removebg-preview.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Frame-3-removebg-preview.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Frame-3-removebg-preview.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Frame-4-removebg-preview.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Frame-4-removebg-preview.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Arquer-walk.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Arquer-walk.png\"}",
+        "name": "Arquer-walk",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Arquer-walk2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Arquer-walk2.png\"}",
+        "name": "Arquer-walk2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Arquer-walk3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Arquer-walk3.png\"}",
+        "name": "Arquer-walk3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Arquer-walk4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Arquer-walk4.png\"}",
+        "name": "Arquer-walk4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Granada-removebg-preview.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Granada-removebg-preview.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Granada-removebg-preview.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Granada-removebg-preview",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/LightGlow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "LightGlow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Particles/GDevelop/c17e2d500015e598624b763f4942b26e3aac96efca094cd20257a61e15b27fcb_LightGlow.png",
+          "name": "LightGlow.png"
+        }
+      },
+      {
+        "file": "assets/Granada_boss_2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Granada_boss_2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Arquer-walk5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Arquer-walk5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Arquer-walk6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Arquer-walk6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Arquer-walk7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Arquer-walk7",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Arquer-walk8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Arquer-walk8",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Arqueiro/Walk/Frame-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Arqueiro\\Walk\\Frame-5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Frame-5-removebg-preview.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Frame-5-removebg-preview.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Arquer-walk9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Arquer-walk9",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Arquer-walk10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Arquer-walk10",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Arquer-walk11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Arquer-walk11",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Arquer-walk12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Arquer-walk12",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Arquer-walk13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Arquer-walk13",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Arquer-walk14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Arquer-walk14.png\"}",
+        "name": "Arquer-walk14",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Arquer-walk15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Arquer-walk15.png\"}",
+        "name": "Arquer-walk15",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Arquer-walk16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Arquer-walk16.png\"}",
+        "name": "Arquer-walk16",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Arquer-walk17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Arquer-walk17.png\"}",
+        "name": "Arquer-walk17",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Arquer-walk18.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Arquer-walk18.png\"}",
+        "name": "Arquer-walk18",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Frame-6-removebg-preview.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"Frame-6-removebg-preview.png\",\"extension\":\".png\"}",
+        "name": "Frame-6-removebg-preview.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Arquer-walk19.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Arquer-walk19.png\"}",
+        "name": "Arquer-walk19",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Arquer-walk20.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Arquer-walk20.png\"}",
+        "name": "Arquer-walk20",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Arquer-walk21.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Arquer-walk21.png\"}",
+        "name": "Arquer-walk21",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Arquer-walk22.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Arquer-walk22.png\"}",
+        "name": "Arquer-walk22",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Arquer-walk23.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Arquer-walk23.png\"}",
+        "name": "Arquer-walk23",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Arquer-walk24.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Arquer-walk24.png\"}",
+        "name": "Arquer-walk24",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Frame-6-removebg-preview (1).png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"Frame-6-removebg-preview (1).png\",\"extension\":\".png\"}",
+        "name": "Frame-6-removebg-preview (1).png",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -7279,6 +7603,104 @@
                       }
                     ]
                   ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Arquer-walk",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.8,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Arquer-walk19",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Arquer-walk20",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Arquer-walk21",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Arquer-walk22",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Frame-6-removebg-preview (1).png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
                 }
               ]
             }
@@ -12689,7 +13111,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.5250860067782672,
+        "zoomFactor": 0.44485159988867934,
         "windowMask": false
       },
       "objectsGroups": [
@@ -17431,7 +17853,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.491387754532942,
+        "zoomFactor": 0.4913877545329422,
         "windowMask": false
       },
       "objectsGroups": [
@@ -17899,6 +18321,23 @@
           "x": 810,
           "y": 65,
           "zOrder": 110,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 165,
+          "keepRatio": true,
+          "layer": "",
+          "name": "RedExplosion",
+          "persistentUuid": "6e8b8a33-d58d-471a-bb6b-4246661eaa2c",
+          "width": 165,
+          "x": 1272,
+          "y": 427,
+          "zOrder": 112,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -20787,6 +21226,179 @@
           "variables": [],
           "effects": [],
           "behaviors": []
+        },
+        {
+          "adaptCollisionMaskAutomatically": false,
+          "assetStoreId": "",
+          "name": "Granada_boss_2",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Granada-removebg-preview",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Granada-removebg-preview",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 278,
+                            "y": 0
+                          },
+                          {
+                            "x": 278,
+                            "y": 378
+                          },
+                          {
+                            "x": 0,
+                            "y": 378
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Granada_boss_2",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Granada_boss_2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 18.5
+                          },
+                          {
+                            "x": 20,
+                            "y": 0
+                          },
+                          {
+                            "x": 42,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 18
+                          },
+                          {
+                            "x": 64,
+                            "y": 42.5
+                          },
+                          {
+                            "x": 43.5,
+                            "y": 64
+                          },
+                          {
+                            "x": 21.5,
+                            "y": 64
+                          },
+                          {
+                            "x": 0,
+                            "y": 40.5
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "additive": true,
+          "assetStoreId": "b87985c7d940ec893b61769fbdc76585c5a871da0bd68799eeda96791b3b763d",
+          "destroyWhenNoParticles": true,
+          "emitterAngleA": 0,
+          "emitterAngleB": 360,
+          "emitterForceMax": 140,
+          "emitterForceMin": 80,
+          "flow": 400,
+          "jumpForwardInTimeOnCreation": 0,
+          "maxParticleNb": 500,
+          "name": "RedExplosion",
+          "particleAlpha1": 255,
+          "particleAlpha2": 0,
+          "particleAlphaRandomness1": 0,
+          "particleAlphaRandomness2": 0,
+          "particleAngle1": 0,
+          "particleAngle2": 0,
+          "particleAngleRandomness1": 0,
+          "particleAngleRandomness2": 0,
+          "particleBlue1": 0,
+          "particleBlue2": 0,
+          "particleColor1": "12;255;0",
+          "particleColor2": "255;0;0",
+          "particleGravityX": 0,
+          "particleGravityY": 0,
+          "particleGreen1": 255,
+          "particleGreen2": 0,
+          "particleLifeTimeMax": 1.2,
+          "particleLifeTimeMin": 0.6,
+          "particleRed1": 12,
+          "particleRed2": 255,
+          "particleSize1": 50,
+          "particleSize2": 500,
+          "particleSizeRandomness1": 0,
+          "particleSizeRandomness2": 0,
+          "rendererParam1": 0,
+          "rendererParam2": 0,
+          "rendererType": "Quad",
+          "tank": 100,
+          "textureParticleName": "LightGlow.png",
+          "type": "ParticleSystem::ParticleEmitter",
+          "zoneRadius": 0,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
         }
       ],
       "objectsFolderStructure": {
@@ -20916,6 +21528,12 @@
             "children": [
               {
                 "objectName": "Boss_tema_2"
+              },
+              {
+                "objectName": "RedExplosion"
+              },
+              {
+                "objectName": "Granada_boss_2"
               },
               {
                 "objectName": "Enemy_nivel_9"
@@ -44425,185 +45043,13 @@
               "actions": [
                 {
                   "type": {
-                    "value": "SetStringVariable"
-                  },
-                  "parameters": [
-                    "Sabre_name",
-                    "+",
-                    "\"variableName\""
-                  ]
-                },
-                {
-                  "type": {
                     "value": "AnimatableCapability::AnimatableBehavior::SetName"
                   },
                   "parameters": [
                     "sabre_de_luz_jedi",
                     "Animation",
                     "=",
-                    "\"Azul\""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": [
-                {
-                  "type": {
-                    "value": "SetStringVariable"
-                  },
-                  "parameters": [
-                    "Sabre_name",
-                    "+",
-                    "\"variableName\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                  },
-                  "parameters": [
-                    "sabre_de_luz_jedi",
-                    "Animation",
-                    "=",
-                    "\"Vermelho\""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": [
-                {
-                  "type": {
-                    "value": "SetStringVariable"
-                  },
-                  "parameters": [
-                    "Sabre_name",
-                    "+",
-                    "\"variableName\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                  },
-                  "parameters": [
-                    "sabre_de_luz_jedi",
-                    "Animation",
-                    "=",
-                    "\"Branco\""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": [
-                {
-                  "type": {
-                    "value": "SetStringVariable"
-                  },
-                  "parameters": [
-                    "Sabre_name",
-                    "+",
-                    "\"variableName\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                  },
-                  "parameters": [
-                    "sabre_de_luz_jedi",
-                    "Animation",
-                    "=",
-                    "\"Laranja\""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": [
-                {
-                  "type": {
-                    "value": "SetStringVariable"
-                  },
-                  "parameters": [
-                    "Sabre_name",
-                    "+",
-                    "\"variableName\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                  },
-                  "parameters": [
-                    "sabre_de_luz_jedi",
-                    "Animation",
-                    "=",
-                    "\"Amarelo\""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": [
-                {
-                  "type": {
-                    "value": "SetStringVariable"
-                  },
-                  "parameters": [
-                    "Sabre_name",
-                    "+",
-                    "\"variableName\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                  },
-                  "parameters": [
-                    "sabre_de_luz_jedi",
-                    "Animation",
-                    "=",
-                    "\"Roxo\""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": [
-                {
-                  "type": {
-                    "value": "SetStringVariable"
-                  },
-                  "parameters": [
-                    "Sabre_name",
-                    "+",
-                    "\"variableName\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                  },
-                  "parameters": [
-                    "sabre_de_luz_jedi",
-                    "Animation",
-                    "=",
-                    "\"Verde\""
+                    "Sabre_name"
                   ]
                 }
               ]

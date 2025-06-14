@@ -6123,6 +6123,382 @@
         "name": "Frame-6-removebg-preview (1).png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Arqueiro/Walk/Arquer-walk1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Arqueiro\\Walk\\Arquer-walk1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Arqueiro/Walk/Arquer-walk2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Arqueiro\\Walk\\Arquer-walk2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Arqueiro/Walk/Arquer-walk3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Arqueiro\\Walk\\Arquer-walk3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Arqueiro/Walk/Arquer-walk4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Arqueiro\\Walk\\Arquer-walk4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Arqueiro/Walk/Arquer-walk5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Arqueiro\\Walk\\Arquer-walk5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Arquer-walk25.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Arquer-walk25.png\"}",
+        "name": "Arquer-walk25",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Arquer-walk26.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Arquer-walk26.png\"}",
+        "name": "Arquer-walk26",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Arquer-walk27.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Arquer-walk27.png\"}",
+        "name": "Arquer-walk27",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Arquer-walk28.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Arquer-walk28.png\"}",
+        "name": "Arquer-walk28",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Arquer-walk29.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Arquer-walk29.png\"}",
+        "name": "Arquer-walk29",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Arqueiro/Idle/Arquer-idle1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Arqueiro\\Idle\\Arquer-idle1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Arqueiro/Idle/Arquer-idle2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Arqueiro\\Idle\\Arquer-idle2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Arqueiro/Idle/Arquer-idle3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Arqueiro\\Idle\\Arquer-idle3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Arqueiro/Idle/Arquer-idle4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Arqueiro\\Idle\\Arquer-idle4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Arquer-idle.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Arquer-idle.png\"}",
+        "name": "Arquer-idle",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Arquer-idle2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Arquer-idle2.png\"}",
+        "name": "Arquer-idle2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Arquer-idle3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Arquer-idle3.png\"}",
+        "name": "Arquer-idle3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Arquer-idle4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Arquer-idle4.png\"}",
+        "name": "Arquer-idle4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Arquer-walk30.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Arquer-walk30",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Arquer-walk31.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Arquer-walk31",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Arquer-walk32.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Arquer-walk32",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Arquer-walk33.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Arquer-walk33",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Arquer-walk34.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Arquer-walk34",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Arquer-idle5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Arquer-idle5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Arquer-idle6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Arquer-idle6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Arquer-idle7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Arquer-idle7",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Arquer-idle8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Arquer-idle8",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Arqueiro/Attack/Arquer-attack1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Arqueiro\\Attack\\Arquer-attack1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Arqueiro/Attack/Arquer-attack2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Arqueiro\\Attack\\Arquer-attack2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Arqueiro/Attack/Arquer-attack3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Arqueiro\\Attack\\Arquer-attack3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Arqueiro/Attack/Arquer-attack4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Arqueiro\\Attack\\Arquer-attack4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Arqueiro/Attack/Arquer-attack5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Arqueiro\\Attack\\Arquer-attack5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Arqueiro/Attack/Arquer-attack6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Arqueiro\\Attack\\Arquer-attack6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Arqueiro/Attack/Arquer-attack7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Arqueiro\\Attack\\Arquer-attack7.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Arqueiro/Attack/Arquer-attack8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Arqueiro\\Attack\\Arquer-attack8.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Arqueiro/Attack/Arquer-attack9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Arqueiro\\Attack\\Arquer-attack9.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Arqueiro/Attack/Arquer-attack10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Arqueiro\\Attack\\Arquer-attack10.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Arquer-attack.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Arquer-attack",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Arquer-attack2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Arquer-attack2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Arquer-attack3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Arquer-attack3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Arquer-attack4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Arquer-attack4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Arquer-attack5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Arquer-attack5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Arquer-attack6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Arquer-attack6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Arquer-attack7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Arquer-attack7",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Arquer-attack8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Arquer-attack8",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Arquer-attack9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Arquer-attack9",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Arquer-attack10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Arquer-attack10",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -7619,7 +7995,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Arquer-walk19",
+                  "image": "Arquer-walk30",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -7636,7 +8012,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Arquer-walk20",
+                  "image": "Arquer-walk31",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -7653,7 +8029,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Arquer-walk21",
+                  "image": "Arquer-walk32",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -7670,7 +8046,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Arquer-walk22",
+                  "image": "Arquer-walk33",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -7687,7 +8063,271 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Frame-6-removebg-preview (1).png",
+                  "image": "Arquer-walk34",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Arquer-idle",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Arquer-idle5",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Arquer-idle6",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Arquer-idle7",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Arquer-idle8",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Arquer-attack",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Arquer-attack",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Arquer-attack2",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Arquer-attack3",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Arquer-attack4",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Arquer-attack5",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Arquer-attack6",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Arquer-attack7",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Arquer-attack8",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Arquer-attack9",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Arquer-attack10",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -12537,7 +13177,7 @@
       "folded": true,
       "name": "class",
       "type": "string",
-      "value": "jedi"
+      "value": "human"
     },
     {
       "folded": true,
@@ -17853,7 +18493,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.4913877545329422,
+        "zoomFactor": 0.47535850871269986,
         "windowMask": false
       },
       "objectsGroups": [
@@ -18321,23 +18961,6 @@
           "x": 810,
           "y": 65,
           "zOrder": 110,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 165,
-          "keepRatio": true,
-          "layer": "",
-          "name": "RedExplosion",
-          "persistentUuid": "6e8b8a33-d58d-471a-bb6b-4246661eaa2c",
-          "width": 165,
-          "x": 1272,
-          "y": 427,
-          "zOrder": 112,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -19334,9 +19957,10 @@
           "effects": [],
           "behaviors": [
             {
+              "acceleration": 50,
+              "maxSpeed": 50,
               "name": "Pathfinding",
               "type": "PathfindingBehavior::PathfindingBehavior",
-              "acceleration": 400,
               "allowDiagonals": true,
               "angleOffset": 0,
               "angularMaxSpeed": 180,
@@ -19345,7 +19969,6 @@
               "extraBorder": 0,
               "gridOffsetX": 0,
               "gridOffsetY": 0,
-              "maxSpeed": 200,
               "rotateObject": false,
               "smoothingMaxCellGap": 1
             }
@@ -19363,7 +19986,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "images\\Dungeon\\boss-nivel-5-removebg-preview2",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Granada",
+                          "x": 41.5,
+                          "y": 45.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 23.5,
@@ -21233,9 +21862,32 @@
           "name": "Granada_boss_2",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [],
+          "variables": [
+            {
+              "name": "Damage",
+              "type": "boolean",
+              "value": false
+            }
+          ],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "acceleration": 400,
+              "allowDiagonals": true,
+              "angleOffset": 0,
+              "angularMaxSpeed": 180,
+              "cellHeight": 20,
+              "cellWidth": 20,
+              "extraBorder": 0,
+              "gridOffsetX": 0,
+              "gridOffsetY": 0,
+              "maxSpeed": 200,
+              "name": "Pathfinding",
+              "rotateObject": false,
+              "smoothingMaxCellGap": 1,
+              "type": "PathfindingBehavior::PathfindingBehavior"
+            }
+          ],
           "animations": [
             {
               "name": "Granada-removebg-preview",
@@ -21364,7 +22016,7 @@
           "flow": 400,
           "jumpForwardInTimeOnCreation": 0,
           "maxParticleNb": 500,
-          "name": "RedExplosion",
+          "name": "Granada_boss_2_explosion",
           "particleAlpha1": 255,
           "particleAlpha2": 0,
           "particleAlphaRandomness1": 0,
@@ -21530,7 +22182,7 @@
                 "objectName": "Boss_tema_2"
               },
               {
-                "objectName": "RedExplosion"
+                "objectName": "Granada_boss_2_explosion"
               },
               {
                 "objectName": "Granada_boss_2"
@@ -21570,6 +22222,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "movimentacao monstros",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -22107,6 +22760,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "quando Iniciar A Tela",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -22529,7 +23183,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "luta",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -22803,6 +23456,15 @@
                         "=",
                         "6"
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "ResetTimer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Granada-boss-2\""
+                      ]
                     }
                   ]
                 },
@@ -22930,6 +23592,224 @@
                         "Vida",
                         "-",
                         "1"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CompareTimer"
+                      },
+                      "parameters": [
+                        "Granada_boss_2",
+                        "\"Granada-boss-2\"",
+                        ">",
+                        "2"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "Granada_boss_2",
+                        "Boss_tema_2.PointX(\"Granada\")",
+                        "Boss_tema_2.PointY(\"Granada\")",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ScalableCapability::ScalableBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "Granada_boss_2",
+                        "Scale",
+                        "=",
+                        "0.2"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PathfindingBehavior::SetDestination"
+                      },
+                      "parameters": [
+                        "Granada_boss_2",
+                        "Pathfinding",
+                        "",
+                        "Player.X()",
+                        "Player.Y()"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ResetTimer"
+                      },
+                      "parameters": [
+                        "Granada_boss_2",
+                        "\"Granada-boss-2\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ResetObjectTimer"
+                      },
+                      "parameters": [
+                        "Granada_boss_2",
+                        "\"Explosion\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Rotate"
+                      },
+                      "parameters": [
+                        "Granada_boss_2",
+                        "80",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CompareObjectTimer"
+                      },
+                      "parameters": [
+                        "Granada_boss_2",
+                        "\"Explosion\"",
+                        ">",
+                        "4"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "Granada_boss_2_explosion",
+                        "Granada_boss_2.CenterX()",
+                        "Granada_boss_2.CenterY()",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Delete"
+                      },
+                      "parameters": [
+                        "Granada_boss_2",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "Player",
+                        "Granada_boss_2_explosion",
+                        "",
+                        "",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "BooleanObjectVariable"
+                          },
+                          "parameters": [
+                            "Granada_boss_2",
+                            "Damage",
+                            "=",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetNumberVariable"
+                          },
+                          "parameters": [
+                            "hp",
+                            "-",
+                            "10"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetBooleanObjectVariable"
+                          },
+                          "parameters": [
+                            "Granada_boss_2",
+                            "Damage",
+                            "True",
+                            ""
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "NumberObjectVariable"
+                      },
+                      "parameters": [
+                        "Boss_tema_2",
+                        "Vida",
+                        "<=",
+                        "0"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "RemoveTimer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Granada-boss-2\""
                       ]
                     }
                   ]

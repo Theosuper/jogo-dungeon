@@ -6695,7 +6695,7 @@
       {
         "file": "assets/warrior-idle.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/warrior-idle.png\"}",
         "name": "warrior-idle",
         "smoothed": false,
         "userAdded": false
@@ -6703,7 +6703,7 @@
       {
         "file": "assets/warrior-idle2.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/warrior-idle2.png\"}",
         "name": "warrior-idle2",
         "smoothed": false,
         "userAdded": false
@@ -6711,7 +6711,7 @@
       {
         "file": "assets/warrior-idle3.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/warrior-idle3.png\"}",
         "name": "warrior-idle3",
         "smoothed": false,
         "userAdded": false
@@ -6719,7 +6719,7 @@
       {
         "file": "assets/warrior-idle4.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/warrior-idle4.png\"}",
         "name": "warrior-idle4",
         "smoothed": false,
         "userAdded": false
@@ -6727,7 +6727,7 @@
       {
         "file": "assets/warrior-idle5.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/warrior-idle5.png\"}",
         "name": "warrior-idle5",
         "smoothed": false,
         "userAdded": false
@@ -6809,6 +6809,470 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "warrior-walk5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Guerreiro/Attack/Warrior-attack1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Guerreiro\\Attack\\Warrior-attack1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Guerreiro/Attack/Warrior-attack2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Guerreiro\\Attack\\Warrior-attack2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Guerreiro/Attack/Warrior-attack3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Guerreiro\\Attack\\Warrior-attack3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Guerreiro/Attack/Warrior-attack4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Guerreiro\\Attack\\Warrior-attack4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Guerreiro/Attack/Warrior-attack5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Guerreiro\\Attack\\Warrior-attack5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Guerreiro/Attack/Warrior-attack6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Guerreiro\\Attack\\Warrior-attack6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Guerreiro/Attack/Warrior-attack7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Guerreiro\\Attack\\Warrior-attack7.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Guerreiro/Attack/Warrior-attack8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Guerreiro\\Attack\\Warrior-attack8.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Guerreiro/Attack/Warrior-attack9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Guerreiro\\Attack\\Warrior-attack9.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Guerreiro/Attack/Warrior-attack10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Guerreiro\\Attack\\Warrior-attack10.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Guerreiro/Attack/Warrior-attack11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Guerreiro\\Attack\\Warrior-attack11.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Guerreiro/Attack/Warrior-attack12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Guerreiro\\Attack\\Warrior-attack12.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Guerreiro/Attack/Warrior-attack13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Guerreiro\\Attack\\Warrior-attack13.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Guerreiro/Attack/Warrior-attack14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Guerreiro\\Attack\\Warrior-attack14.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Guerreiro/Attack/Warrior-attack15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Guerreiro\\Attack\\Warrior-attack15.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Guerreiro/Attack/Warrior-attack16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Guerreiro\\Attack\\Warrior-attack16.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Guerreiro/Attack/Warrior-attack17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Guerreiro\\Attack\\Warrior-attack17.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Guerreiro/Attack/Warrior-attack18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Guerreiro\\Attack\\Warrior-attack18.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Guerreiro/Attack/Warrior-attack19.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Guerreiro\\Attack\\Warrior-attack19.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Guerreiro/Attack/Warrior-attack20.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Guerreiro\\Attack\\Warrior-attack20.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/warrior-attack.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/warrior-attack.png\"}",
+        "name": "warrior-attack",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/warrior-attack2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/warrior-attack2.png\"}",
+        "name": "warrior-attack2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/warrior-attack3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/warrior-attack3.png\"}",
+        "name": "warrior-attack3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/warrior-attack4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/warrior-attack4.png\"}",
+        "name": "warrior-attack4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/warrior-attack5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/warrior-attack5.png\"}",
+        "name": "warrior-attack5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/warrior-attack6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/warrior-attack6.png\"}",
+        "name": "warrior-attack6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/warrior-attack7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/warrior-attack7.png\"}",
+        "name": "warrior-attack7",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/warrior-attack8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/warrior-attack8.png\"}",
+        "name": "warrior-attack8",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/warrior-attack9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/warrior-attack9.png\"}",
+        "name": "warrior-attack9",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/warrior-attack10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/warrior-attack10.png\"}",
+        "name": "warrior-attack10",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/warrior-attack11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/warrior-attack11.png\"}",
+        "name": "warrior-attack11",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/warrior-attack12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/warrior-attack12.png\"}",
+        "name": "warrior-attack12",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/warrior-attack13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/warrior-attack13.png\"}",
+        "name": "warrior-attack13",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/warrior-attack14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/warrior-attack14.png\"}",
+        "name": "warrior-attack14",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/warrior-attack15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/warrior-attack15.png\"}",
+        "name": "warrior-attack15",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/warrior-attack16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/warrior-attack16.png\"}",
+        "name": "warrior-attack16",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/warrior-attack17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/warrior-attack17.png\"}",
+        "name": "warrior-attack17",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/warrior-attack18.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/warrior-attack18.png\"}",
+        "name": "warrior-attack18",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/warrior-attack19.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/warrior-attack19.png\"}",
+        "name": "warrior-attack19",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/warrior-attack20.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/warrior-attack20.png\"}",
+        "name": "warrior-attack20",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Ninja/Idle/Ninja-idle1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Ninja\\Idle\\Ninja-idle1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Ninja/Idle/Ninja-idle2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Ninja\\Idle\\Ninja-idle2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Ninja/Idle/Ninja-idle3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Ninja\\Idle\\Ninja-idle3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Ninja/Idle/Ninja-idle4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Ninja\\Idle\\Ninja-idle4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ninja-idle.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "ninja-idle",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ninja-idle2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "ninja-idle2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ninja-idle3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "ninja-idle3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ninja-idle4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "ninja-idle4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Ninja/Walk/Ninja-walk1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Ninja\\Walk\\Ninja-walk1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Ninja/Walk/Ninja-walk2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Ninja\\Walk\\Ninja-walk2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Ninja/Walk/Ninja-walk3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Ninja\\Walk\\Ninja-walk3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Ninja/Walk/Ninja-walk4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Ninja\\Walk\\Ninja-walk4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Ninja/Walk/Ninja-walk5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Ninja\\Walk\\Ninja-walk5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ninja-walk.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "ninja-walk",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ninja-walk2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "ninja-walk2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ninja-walk3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "ninja-walk3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ninja-walk4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "ninja-walk4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ninja-walk5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "ninja-walk5",
         "smoothed": false,
         "userAdded": false
       }
@@ -9134,16 +9598,32 @@
             {
               "looping": false,
               "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
+              "timeBetweenFrames": 0.5,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
                   "image": "warrior-idle",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "lifebar",
+                      "x": 8.5,
+                      "y": -3.5
+                    },
+                    {
+                      "name": "Name",
+                      "x": 8.5,
+                      "y": -6
+                    },
+                    {
+                      "name": "attack",
+                      "x": 15.5,
+                      "y": 17.5
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 8.5,
+                    "y": 12.5
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -9156,11 +9636,27 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "warrior-idle2",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "lifebar",
+                      "x": 8.5,
+                      "y": -3.5
+                    },
+                    {
+                      "name": "Name",
+                      "x": 8.5,
+                      "y": -6
+                    },
+                    {
+                      "name": "attack",
+                      "x": 15.5,
+                      "y": 17.5
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 8.5,
+                    "y": 12.5
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -9173,11 +9669,27 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "warrior-idle3",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "lifebar",
+                      "x": 8.5,
+                      "y": -3.5
+                    },
+                    {
+                      "name": "Name",
+                      "x": 8.5,
+                      "y": -6
+                    },
+                    {
+                      "name": "attack",
+                      "x": 15.5,
+                      "y": 17.5
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 8.5,
+                    "y": 12.5
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -9190,11 +9702,27 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "warrior-idle4",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "lifebar",
+                      "x": 8.5,
+                      "y": -3.5
+                    },
+                    {
+                      "name": "Name",
+                      "x": 8.5,
+                      "y": -6
+                    },
+                    {
+                      "name": "attack",
+                      "x": 15.5,
+                      "y": 17.5
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 8.5,
+                    "y": 12.5
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -9207,11 +9735,27 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "warrior-idle5",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "lifebar",
+                      "x": 8.5,
+                      "y": -3.5
+                    },
+                    {
+                      "name": "Name",
+                      "x": 8.5,
+                      "y": -6
+                    },
+                    {
+                      "name": "attack",
+                      "x": 15.5,
+                      "y": 17.5
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 8.5,
+                    "y": 12.5
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -9232,16 +9776,32 @@
             {
               "looping": false,
               "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
+              "timeBetweenFrames": 0.5,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
                   "image": "warrior-walk",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8.5,
+                      "y": -6
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8.5,
+                      "y": -3.5
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16,
+                      "y": 17.5
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 8.5,
+                    "y": 12.5
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -9254,11 +9814,27 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "warrior-walk2",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8.5,
+                      "y": -6
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8.5,
+                      "y": -3.5
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16,
+                      "y": 17.5
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 8.5,
+                    "y": 12.5
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -9271,11 +9847,27 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "warrior-walk3",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8.5,
+                      "y": -6
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8.5,
+                      "y": -3.5
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16,
+                      "y": 17.5
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 8.5,
+                    "y": 12.5
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -9288,11 +9880,27 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "warrior-walk4",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8.5,
+                      "y": -6
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8.5,
+                      "y": -3.5
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16,
+                      "y": 17.5
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 8.5,
+                    "y": 12.5
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -9305,11 +9913,1023 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "warrior-walk5",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8.5,
+                      "y": -6
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8.5,
+                      "y": -3.5
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16,
+                      "y": 17.5
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
+                    "x": 8.5,
+                    "y": 12.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
                     "x": 0,
                     "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "warrior-attack",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "warrior-attack",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8.5,
+                      "y": -6
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8.5,
+                      "y": -3.5
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16.5,
+                      "y": 17.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 8.5,
+                    "y": 12.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "warrior-attack2",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8.5,
+                      "y": -6
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8.5,
+                      "y": -3.5
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16.5,
+                      "y": 17.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 10.5,
+                    "y": 12.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "warrior-attack3",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8.5,
+                      "y": -6
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8.5,
+                      "y": -3.5
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16.5,
+                      "y": 17.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 10.5,
+                    "y": 12.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "warrior-attack4",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8.5,
+                      "y": -6
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8.5,
+                      "y": -3.5
+                    },
+                    {
+                      "name": "attack",
+                      "x": 19.5,
+                      "y": 18.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 10.5,
+                    "y": 12.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "warrior-attack5",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8.5,
+                      "y": -6
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8.5,
+                      "y": -3.5
+                    },
+                    {
+                      "name": "attack",
+                      "x": 20.5,
+                      "y": 18.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 10.5,
+                    "y": 12.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "warrior-attack6",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8.5,
+                      "y": -6
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8.5,
+                      "y": -3.5
+                    },
+                    {
+                      "name": "attack",
+                      "x": 20,
+                      "y": 17.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 10.5,
+                    "y": 12.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "warrior-attack7",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8.5,
+                      "y": -6
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8.5,
+                      "y": -3.5
+                    },
+                    {
+                      "name": "attack",
+                      "x": 20.5,
+                      "y": 16.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 10.5,
+                    "y": 12.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "warrior-attack8",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8.5,
+                      "y": -6
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8.5,
+                      "y": -3.5
+                    },
+                    {
+                      "name": "attack",
+                      "x": 20.5,
+                      "y": 15.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 10.5,
+                    "y": 12.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "warrior-attack9",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8.5,
+                      "y": -6
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8.5,
+                      "y": -3.5
+                    },
+                    {
+                      "name": "attack",
+                      "x": 20.5,
+                      "y": 14.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 10.5,
+                    "y": 12.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "warrior-attack10",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8.5,
+                      "y": -6
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8.5,
+                      "y": -3.5
+                    },
+                    {
+                      "name": "attack",
+                      "x": 20.5,
+                      "y": 13.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 10.5,
+                    "y": 12.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "warrior-attack11",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8.5,
+                      "y": -6
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8.5,
+                      "y": -3.5
+                    },
+                    {
+                      "name": "attack",
+                      "x": 20.5,
+                      "y": 12.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 10.5,
+                    "y": 12.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "warrior-attack12",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8.5,
+                      "y": -6
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8.5,
+                      "y": -3.5
+                    },
+                    {
+                      "name": "attack",
+                      "x": 20.5,
+                      "y": 13.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 10.5,
+                    "y": 12.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "warrior-attack13",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8.5,
+                      "y": -6
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8.5,
+                      "y": -3.5
+                    },
+                    {
+                      "name": "attack",
+                      "x": 20.5,
+                      "y": 14.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 10.5,
+                    "y": 12.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "warrior-attack14",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8.5,
+                      "y": -6
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8.5,
+                      "y": -3.5
+                    },
+                    {
+                      "name": "attack",
+                      "x": 20.5,
+                      "y": 15.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 10.5,
+                    "y": 12.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "warrior-attack15",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8.5,
+                      "y": -6
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8.5,
+                      "y": -3.5
+                    },
+                    {
+                      "name": "attack",
+                      "x": 20.5,
+                      "y": 16.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 10.5,
+                    "y": 12.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "warrior-attack16",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8.5,
+                      "y": -6
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8.5,
+                      "y": -3.5
+                    },
+                    {
+                      "name": "attack",
+                      "x": 20.5,
+                      "y": 17.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 10.5,
+                    "y": 12.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "warrior-attack17",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8.5,
+                      "y": -6
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8.5,
+                      "y": -3.5
+                    },
+                    {
+                      "name": "attack",
+                      "x": 20.5,
+                      "y": 18.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 10.5,
+                    "y": 12.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "warrior-attack18",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8.5,
+                      "y": -6
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8.5,
+                      "y": -3.5
+                    },
+                    {
+                      "name": "attack",
+                      "x": 19.5,
+                      "y": 18.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 10.5,
+                    "y": 12.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "warrior-attack19",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8.5,
+                      "y": -6
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8.5,
+                      "y": -3.5
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16.5,
+                      "y": 17.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 10.5,
+                    "y": 12.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "warrior-attack20",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8.5,
+                      "y": -6
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8.5,
+                      "y": -3.5
+                    },
+                    {
+                      "name": "attack",
+                      "x": 17.5,
+                      "y": 17
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 10.5,
+                    "y": 12.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ninja-idle",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "ninja-idle",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 9,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 9,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16,
+                      "y": 14
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 8.5,
+                    "y": 10.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "ninja-idle2",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 9,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 9,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16,
+                      "y": 14
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 8.5,
+                    "y": 10.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "ninja-idle3",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 9,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 9,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16,
+                      "y": 14
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 8.5,
+                    "y": 10.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "ninja-idle4",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 9,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 9,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16,
+                      "y": 14
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 8.5,
+                    "y": 10.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ninja-walk",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "ninja-walk",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 9,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 9,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16,
+                      "y": 14
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 8.5,
+                    "y": 10.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "ninja-walk2",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 9,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 9,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16,
+                      "y": 14
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 8.5,
+                    "y": 10.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "ninja-walk3",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 9,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 9,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16,
+                      "y": 14
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 8.5,
+                    "y": 10.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "ninja-walk4",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 9,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 9,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16,
+                      "y": 14
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 8.5,
+                    "y": 10.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "ninja-walk5",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 9,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 9,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16,
+                      "y": 14
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 8.5,
+                    "y": 10.5
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -14154,7 +15774,7 @@
       "folded": true,
       "name": "class",
       "type": "string",
-      "value": "arquer"
+      "value": "warrior"
     },
     {
       "folded": true,

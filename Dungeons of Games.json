@@ -7275,6 +7275,678 @@
         "name": "ninja-walk5",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Ninja/Attack/Ninja-attack1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Ninja\\Attack\\Ninja-attack1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Ninja/Attack/Ninja-attack2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Ninja\\Attack\\Ninja-attack2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Ninja/Attack/Ninja-attack3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Ninja\\Attack\\Ninja-attack3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Ninja/Attack/Ninja-attack4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Ninja\\Attack\\Ninja-attack4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Ninja/Attack/Ninja-attack5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Ninja\\Attack\\Ninja-attack5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Ninja/Attack/Ninja-attack6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Ninja\\Attack\\Ninja-attack6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Ninja/Attack/Ninja-attack7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Ninja\\Attack\\Ninja-attack7.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Ninja/Attack/Ninja-attack8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Ninja\\Attack\\Ninja-attack8.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Ninja/Attack/Ninja-attack9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Ninja\\Attack\\Ninja-attack9.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Ninja/Attack/Ninja-attack10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Ninja\\Attack\\Ninja-attack10.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Ninja/Attack/Ninja-attack11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Ninja\\Attack\\Ninja-attack11.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Ninja/Attack/Ninja-attack12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Ninja\\Attack\\Ninja-attack12.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Ninja/Attack/Ninja-attack13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Ninja\\Attack\\Ninja-attack13.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ninja-attack.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "ninja-attack",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ninja-attack2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "ninja-attack2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ninja-attack3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "ninja-attack3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ninja-attack4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "ninja-attack4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ninja-attack5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "ninja-attack5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ninja-attack6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "ninja-attack6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ninja-attack7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "ninja-attack7",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ninja-attack8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "ninja-attack8",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ninja-attack9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "ninja-attack9",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ninja-attack10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "ninja-attack10",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ninja-attack11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "ninja-attack11",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ninja-attack12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "ninja-attack12",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ninja-attack13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "ninja-attack13",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ninja5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "ninja5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/warrior.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "warrior",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Monge/Idle/Monk-idle1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Monge\\Idle\\Monk-idle1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Monge/Idle/Monk-idle2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Monge\\Idle\\Monk-idle2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Monge/Idle/Monk-idle3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Monge\\Idle\\Monk-idle3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Monge/Idle/Monk-idle4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Monge\\Idle\\Monk-idle4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/monk-idle.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "monk-idle",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/monk-idle2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "monk-idle2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/monk-idle3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "monk-idle3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/monk-idle4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "monk-idle4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Monge/Walk/Monk-walk1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Monge\\Walk\\Monk-walk1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Monge/Walk/Monk-walk2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Monge\\Walk\\Monk-walk2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Monge/Walk/Monk-walk3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Monge\\Walk\\Monk-walk3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/monk-walk.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "monk-walk",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/monk-walk2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "monk-walk2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/monk-walk3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "monk-walk3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Monge/Attack/Monk-attack1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Monge\\Attack\\Monk-attack1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Monge/Attack/Monk-attack2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Monge\\Attack\\Monk-attack2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Monge/Attack/Monk-attack3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Monge\\Attack\\Monk-attack3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Monge/Attack/Monk-attack4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Monge\\Attack\\Monk-attack4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Monge/Attack/Monk-attack5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Monge\\Attack\\Monk-attack5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Monge/Attack/Monk-attack6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Monge\\Attack\\Monk-attack6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Monge/Attack/Monk-attack7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Monge\\Attack\\Monk-attack7.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Monge/Attack/Monk-attack8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Monge\\Attack\\Monk-attack8.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Monge/Attack/Monk-attack9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Monge\\Attack\\Monk-attack9.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Monge/Attack/Monk-attack10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Monge\\Attack\\Monk-attack10.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Monge/Attack/Monk-attack11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Monge\\Attack\\Monk-attack11.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Monge/Attack/Monk-attack12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Monge\\Attack\\Monk-attack12.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Monge/Attack/Monk-attack13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Monge\\Attack\\Monk-attack13.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Monge/Attack/Monk-attack14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Monge\\Attack\\Monk-attack14.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Monge/Attack/Monk-attack15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Monge\\Attack\\Monk-attack15.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Monge/Attack/Monk-attack16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Monge\\Attack\\Monk-attack16.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Monge/Attack/Monk-attack17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Monge\\Attack\\Monk-attack17.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Monge/Attack/Monk-attack18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Monge\\Attack\\Monk-attack18.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Monge/Attack/Monk-attack19.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Monge\\Attack\\Monk-attack19.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Monge/Attack/Monk-attack20.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Monge\\Attack\\Monk-attack20.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Monge/Attack/Monk-attack21.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Monge\\Attack\\Monk-attack21.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/monk-attack.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "monk-attack",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/monk-attack2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "monk-attack2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/monk-attack3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "monk-attack3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/monk-attack4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "monk-attack4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/monk-attack5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "monk-attack5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/monk-attack6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "monk-attack6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/monk-attack7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "monk-attack7",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/monk-attack8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "monk-attack8",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/monk-attack9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "monk-attack9",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/monk-attack10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "monk-attack10",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/monk-attack11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "monk-attack11",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/monk-attack12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "monk-attack12",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/monk-attack13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "monk-attack13",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/monk-attack14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "monk-attack14",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/monk-attack15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "monk-attack15",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/monk-attack16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "monk-attack16",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/monk-attack17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "monk-attack17",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/monk-attack18.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "monk-attack18",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/monk-attack19.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "monk-attack19",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/monk-attack20.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "monk-attack20",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/monk-attack21.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "monk-attack21",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -10942,6 +11614,1411 @@
               ]
             }
           ]
+        },
+        {
+          "name": "ninja-attack",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "ninja-attack",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 9,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 9,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16,
+                      "y": 14
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 10,
+                    "y": 10.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "ninja-attack2",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 9,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 9,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16,
+                      "y": 14
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 10,
+                    "y": 10.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "ninja-attack3",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 9,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 9,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16,
+                      "y": 14
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 10,
+                    "y": 10.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "ninja-attack4",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 9,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 9,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16,
+                      "y": 14
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 10,
+                    "y": 10.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "ninja-attack5",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 9,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 9,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16,
+                      "y": 14
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 10,
+                    "y": 10.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "ninja-attack6",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 9,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 9,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16,
+                      "y": 14
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 10,
+                    "y": 10.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "ninja-attack7",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 9,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 9,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16,
+                      "y": 14
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 10,
+                    "y": 10.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "ninja-attack8",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 9,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 9,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16,
+                      "y": 14
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 10,
+                    "y": 10.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "ninja-attack9",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 9,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 9,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16,
+                      "y": 14
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 10,
+                    "y": 10.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "ninja-attack10",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 9,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 9,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16,
+                      "y": 14
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 10,
+                    "y": 10.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "ninja-attack11",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 9,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 9,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16,
+                      "y": 14
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 10,
+                    "y": 10.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "ninja-attack12",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 9,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 9,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16,
+                      "y": 14
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 10,
+                    "y": 10.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "ninja-attack13",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 9,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 9,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16,
+                      "y": 14
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 10,
+                    "y": 10.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "monk-idle",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "monk-idle",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 15.5,
+                      "y": 18
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 8.5,
+                    "y": 13
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "monk-idle2",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 15.5,
+                      "y": 18
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 8.5,
+                    "y": 13
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "monk-idle3",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 15.5,
+                      "y": 18
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 8.5,
+                    "y": 13
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "monk-idle4",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 15.5,
+                      "y": 18
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 8.5,
+                    "y": 13
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "monk-walk",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "monk-walk",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 15.5,
+                      "y": 18
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 9,
+                    "y": 13
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "monk-walk2",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 15.5,
+                      "y": 18
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 9,
+                    "y": 13
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "monk-walk3",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 15.5,
+                      "y": 18
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 9,
+                    "y": 13
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "monk-attack",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "monk-attack",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 14,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 14,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 22,
+                      "y": 18.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 15,
+                    "y": 13
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "monk-attack2",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 14,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 14,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 23,
+                      "y": 18
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 15,
+                    "y": 13
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "monk-attack3",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 14,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 14,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 23,
+                      "y": 18
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 15,
+                    "y": 13
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "monk-attack4",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 14,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 14,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 23.5,
+                      "y": 17
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 15,
+                    "y": 13
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "monk-attack5",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 14,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 14,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 23.5,
+                      "y": 16.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 15,
+                    "y": 13
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "monk-attack6",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 14,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 14,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 24,
+                      "y": 14.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 15,
+                    "y": 13
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "monk-attack7",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 14,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 14,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 24,
+                      "y": 13.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 15,
+                    "y": 13
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "monk-attack8",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 14,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 14,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 25,
+                      "y": 12
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 15,
+                    "y": 13
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "monk-attack9",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 14,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 14,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 26,
+                      "y": 11.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 15,
+                    "y": 13
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "monk-attack10",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 14,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 14,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 26,
+                      "y": 11.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 15,
+                    "y": 13
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "monk-attack11",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 14,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 14,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 26,
+                      "y": 10.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 15,
+                    "y": 13
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "monk-attack12",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 14,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 14,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 26,
+                      "y": 11
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 15,
+                    "y": 13
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "monk-attack13",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 14,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 14,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 26,
+                      "y": 11.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 15,
+                    "y": 13
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "monk-attack14",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 14,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 14,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 25.5,
+                      "y": 12.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 15,
+                    "y": 13
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "monk-attack15",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 14,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 14,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 24.5,
+                      "y": 13.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 15,
+                    "y": 13
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "monk-attack16",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 14,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 14,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 23.5,
+                      "y": 14.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 15,
+                    "y": 13
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "monk-attack17",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 14,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 14,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 23.5,
+                      "y": 16
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 15,
+                    "y": 13
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "monk-attack18",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 14,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 14,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 23.5,
+                      "y": 17.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 15,
+                    "y": 13
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "monk-attack19",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 14,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 14,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 23,
+                      "y": 18
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 15,
+                    "y": 13
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "monk-attack20",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 14,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 14,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 23,
+                      "y": 18
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 15,
+                    "y": 13
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "monk-attack21",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 14,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 14,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 21.5,
+                      "y": 18.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 15,
+                    "y": 13
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -11064,7 +13141,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "ninja3",
+                  "image": "ninja5",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -11113,7 +13190,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "images\\UI\\guerrer-head",
+                  "image": "warrior",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -15774,7 +17851,7 @@
       "folded": true,
       "name": "class",
       "type": "string",
-      "value": "warrior"
+      "value": "arquer"
     },
     {
       "folded": true,
@@ -33158,7 +35235,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.4027225833325917,
+        "zoomFactor": 0.4027225833325918,
         "windowMask": false
       },
       "objectsGroups": [
@@ -47347,7 +49424,7 @@
                 "Normal_head",
                 "Scale",
                 "=",
-                "3.0"
+                "11.0"
               ]
             }
           ]

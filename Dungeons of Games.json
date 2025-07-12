@@ -7947,6 +7947,630 @@
         "name": "monk-attack21",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Jedi/Idle/Jedi-idle1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Jedi\\Idle\\Jedi-idle1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Jedi/Idle/Jedi-idle2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Jedi\\Idle\\Jedi-idle2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Jedi/Idle/Jedi-idle3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Jedi\\Idle\\Jedi-idle3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Jedi/Idle/Jedi-idle4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Jedi\\Idle\\Jedi-idle4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/jedi-idle.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "jedi-idle",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/jedi-idle2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "jedi-idle2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/jedi-idle3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "jedi-idle3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/jedi-idle4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "jedi-idle4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Jedi/Walk/Jedi-walk1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Jedi\\Walk\\Jedi-walk1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Jedi/Walk/Jedi-walk2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Jedi\\Walk\\Jedi-walk2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Jedi/Walk/Jedi-walk3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Jedi\\Walk\\Jedi-walk3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Jedi/Walk/Jedi-walk4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Jedi\\Walk\\Jedi-walk4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Jedi/Walk/Jedi-walk5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Jedi\\Walk\\Jedi-walk5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/jedi-walk.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "jedi-walk",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/jedi-walk2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "jedi-walk2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/jedi-walk3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "jedi-walk3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/jedi-walk4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "jedi-walk4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/jedi-walk5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "jedi-walk5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Jedi/Attack/Jedi-attack1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Jedi\\Attack\\Jedi-attack1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Jedi/Attack/Jedi-attack2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Jedi\\Attack\\Jedi-attack2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Jedi/Attack/Jedi-attack3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Jedi\\Attack\\Jedi-attack3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Jedi/Attack/Jedi-attack4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Jedi\\Attack\\Jedi-attack4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Jedi/Attack/Jedi-attack5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Jedi\\Attack\\Jedi-attack5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Jedi/Attack/Jedi-attack6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Jedi\\Attack\\Jedi-attack6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Jedi/Attack/Jedi-attack7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Jedi\\Attack\\Jedi-attack7.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Jedi/Attack/Jedi-attack8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Jedi\\Attack\\Jedi-attack8.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Jedi/Attack/Jedi-attack9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Jedi\\Attack\\Jedi-attack9.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Jedi/Attack/Jedi-attack10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Jedi\\Attack\\Jedi-attack10.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Jedi/Attack/Jedi-attack11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Jedi\\Attack\\Jedi-attack11.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Jedi/Attack/Jedi-attack12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Jedi\\Attack\\Jedi-attack12.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/jedi-attack.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "jedi-attack",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/jedi-attack2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "jedi-attack2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/jedi-attack3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "jedi-attack3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/jedi-attack4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "jedi-attack4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/jedi-attack5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "jedi-attack5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/jedi-attack6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "jedi-attack6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/jedi-attack7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "jedi-attack7",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/jedi-attack8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "jedi-attack8",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/jedi-attack9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "jedi-attack9",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/jedi-attack10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "jedi-attack10",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/jedi-attack11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "jedi-attack11",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/jedi-attack12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "jedi-attack12",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Mago/Idle/Mage-idle1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Mago\\Idle\\Mage-idle1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Mago/Idle/Mage-idle2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Mago\\Idle\\Mage-idle2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Mago/Idle/Mage-idle3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Mago\\Idle\\Mage-idle3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Mago/Idle/Mage-idle4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Mago\\Idle\\Mage-idle4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/mage-idle.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "mage-idle",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/mage-idle2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "mage-idle2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/mage-idle3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "mage-idle3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/mage-idle4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "mage-idle4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Mago/Walk/Mage-walk1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Mago\\Walk\\Mage-walk1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Mago/Walk/Mage-walk2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Mago\\Walk\\Mage-walk2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Mago/Walk/Mage-walk3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Mago\\Walk\\Mage-walk3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Mago/Walk/Mage-walk4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Mago\\Walk\\Mage-walk4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Mago/Walk/Mage-walk5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Mago\\Walk\\Mage-walk5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/mage-walk.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "mage-walk",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/mage-walk2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "mage-walk2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/mage-walk3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "mage-walk3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/mage-walk4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "mage-walk4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/mage-walk5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "mage-walk5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Aventureiro/Idle/Adventurous-idle1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Aventureiro\\Idle\\Adventurous-idle1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Aventureiro/Idle/Adventurous-idle2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Aventureiro\\Idle\\Adventurous-idle2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Aventureiro/Idle/Adventurous-idle3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Aventureiro\\Idle\\Adventurous-idle3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Aventureiro/Idle/Adventurous-idle4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Aventureiro\\Idle\\Adventurous-idle4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/adventurous-idle.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adventurous-idle",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/adventurous-idle2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adventurous-idle2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/adventurous-idle3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adventurous-idle3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/adventurous-idle4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adventurous-idle4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Aventureiro/Walk/Adventurous-walk1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Aventureiro\\Walk\\Adventurous-walk1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Aventureiro/Walk/Adventurous-walk2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Aventureiro\\Walk\\Adventurous-walk2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Aventureiro/Walk/Adventurous-walk3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Aventureiro\\Walk\\Adventurous-walk3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Aventureiro/Walk/Adventurous-walk4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Aventureiro\\Walk\\Adventurous-walk4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Aventureiro/Walk/Adventurous-walk5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Aventureiro\\Walk\\Adventurous-walk5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/adventurous-walk.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adventurous-walk",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/adventurous-walk2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adventurous-walk2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/adventurous-walk3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adventurous-walk3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/adventurous-walk4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adventurous-walk4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/adventurous-walk5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adventurous-walk5",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -13019,6 +13643,1406 @@
               ]
             }
           ]
+        },
+        {
+          "name": "jedi-idle",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "jedi-idle",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 7,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 7,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 13.5,
+                      "y": 14
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 7,
+                    "y": 10
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "jedi-idle2",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 7,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 7,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 13.5,
+                      "y": 14
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 7,
+                    "y": 10
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "jedi-idle3",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 7,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 7,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 13.5,
+                      "y": 14
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 7,
+                    "y": 10
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "jedi-idle4",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 7,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 7,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 13.5,
+                      "y": 14
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 7,
+                    "y": 10
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "jedi-walk",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "jedi-walk",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 7,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 7,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 13.5,
+                      "y": 14
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 7,
+                    "y": 10
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "jedi-walk2",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 7,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 7,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 13.5,
+                      "y": 14
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 7,
+                    "y": 10
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "jedi-walk3",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 7,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 7,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 13.5,
+                      "y": 14
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 7,
+                    "y": 10
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "jedi-walk4",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 7,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 7,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 13.5,
+                      "y": 14
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 7,
+                    "y": 10
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "jedi-walk5",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 7,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 7,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 13.5,
+                      "y": 14
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 7,
+                    "y": 10
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "jedi-attack",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "jedi-attack",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 13,
+                      "y": 14
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 9,
+                    "y": 10
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "jedi-attack2",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 14.5,
+                      "y": 14
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 9,
+                    "y": 10
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "jedi-attack3",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 15.5,
+                      "y": 13
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 9,
+                    "y": 10
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "jedi-attack4",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16,
+                      "y": 13
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 9,
+                    "y": 10
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "jedi-attack5",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16,
+                      "y": 12
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 9,
+                    "y": 10
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "jedi-attack6",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16,
+                      "y": 11
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 9,
+                    "y": 10
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "jedi-attack7",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 17.5,
+                      "y": 11
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 9,
+                    "y": 10
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "jedi-attack8",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16,
+                      "y": 11
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 9,
+                    "y": 10
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "jedi-attack9",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16,
+                      "y": 12
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 9,
+                    "y": 10
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "jedi-attack10",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16,
+                      "y": 13
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 9,
+                    "y": 10
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "jedi-attack11",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 15,
+                      "y": 13
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 9,
+                    "y": 10
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "jedi-attack12",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 14.5,
+                      "y": 14
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 9,
+                    "y": 10
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "mage-idle",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "mage-idle",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 6.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 6.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 11.5,
+                      "y": 16
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 6.5,
+                    "y": 10.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "mage-idle2",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 6.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 6.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 11.5,
+                      "y": 16
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 6.5,
+                    "y": 10.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "mage-idle3",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 6.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 6.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 11.5,
+                      "y": 16
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 6.5,
+                    "y": 10.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "mage-idle4",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 6.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 6.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 11.5,
+                      "y": 16
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 6.5,
+                    "y": 10.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "mage-walk",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "mage-walk",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 6.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 6.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 11.5,
+                      "y": 16
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 6.5,
+                    "y": 10.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "mage-walk2",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 6.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 6.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 11.5,
+                      "y": 16
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 6.5,
+                    "y": 10.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "mage-walk3",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 6.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 6.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 11.5,
+                      "y": 16
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 6.5,
+                    "y": 10.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "mage-walk4",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 6.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 6.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 11.5,
+                      "y": 16
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 6.5,
+                    "y": 10.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "mage-walk5",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 6.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 6.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 11.5,
+                      "y": 16
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 6.5,
+                    "y": 10.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "mage-attack",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": []
+            }
+          ]
+        },
+        {
+          "name": "adventurous-idle",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurous-idle",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 13.5,
+                      "y": 14
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 8,
+                    "y": 10
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurous-idle2",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 13.5,
+                      "y": 14
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 8,
+                    "y": 10
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurous-idle3",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 13.5,
+                      "y": 14
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 8,
+                    "y": 10
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurous-idle4",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 13.5,
+                      "y": 14
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 8,
+                    "y": 10
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "adventurous-walk",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurous-walk",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 13.5,
+                      "y": 14
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 8.5,
+                    "y": 10
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurous-walk2",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 13.5,
+                      "y": 14
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 8.5,
+                    "y": 10
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurous-walk3",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 13.5,
+                      "y": 14
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 8.5,
+                    "y": 10
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurous-walk4",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 13.5,
+                      "y": 14
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 8.5,
+                    "y": 10
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurous-walk5",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 13.5,
+                      "y": 14
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 8.5,
+                    "y": 10
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "adventurous-attac",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": []
+            }
+          ]
         }
       ]
     },
@@ -17851,7 +19875,7 @@
       "folded": true,
       "name": "class",
       "type": "string",
-      "value": "arquer"
+      "value": "jedi"
     },
     {
       "folded": true,
@@ -35235,7 +37259,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.4027225833325918,
+        "zoomFactor": 0.43034038022076615,
         "windowMask": false
       },
       "objectsGroups": [

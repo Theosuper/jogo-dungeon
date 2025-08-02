@@ -10107,6 +10107,486 @@
         "name": "arquer-attack30",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "assets/arquer-attack31.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/arquer-attack31.png\"}",
+        "name": "arquer-attack31",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-attack32.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/arquer-attack32.png\"}",
+        "name": "arquer-attack32",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-attack33.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/arquer-attack33.png\"}",
+        "name": "arquer-attack33",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-attack34.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/arquer-attack34.png\"}",
+        "name": "arquer-attack34",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-attack35.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/arquer-attack35.png\"}",
+        "name": "arquer-attack35",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-attack36.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/arquer-attack36.png\"}",
+        "name": "arquer-attack36",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-attack37.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/arquer-attack37.png\"}",
+        "name": "arquer-attack37",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-attack38.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/arquer-attack38.png\"}",
+        "name": "arquer-attack38",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-attack39.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/arquer-attack39.png\"}",
+        "name": "arquer-attack39",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-attack40.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/arquer-attack40.png\"}",
+        "name": "arquer-attack40",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-attack41.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/arquer-attack41.png\"}",
+        "name": "arquer-attack41",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-attack42.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/arquer-attack42.png\"}",
+        "name": "arquer-attack42",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-attack43.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/arquer-attack43.png\"}",
+        "name": "arquer-attack43",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-attack44.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/arquer-attack44.png\"}",
+        "name": "arquer-attack44",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-attack45.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/arquer-attack45.png\"}",
+        "name": "arquer-attack45",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-idle11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "arquer-idle9",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-idle11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "arquer-idle10",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-idle11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "arquer-idle11",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-idle12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "arquer-idle12",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-idle13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "arquer-idle13",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-idle14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "arquer-idle14",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-idle15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "arquer-idle15",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-idle16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "arquer-idle16",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-walk39.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "arquer-walk21",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-walk39.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "arquer-walk22",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-walk39.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "arquer-walk23",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-walk39.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "arquer-walk24",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-walk39.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "arquer-walk25",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-walk40.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "arquer-walk26",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-walk40.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "arquer-walk27",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-walk40.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "arquer-walk28",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-walk40.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "arquer-walk29",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-walk40.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "arquer-walk30",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-walk41.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "arquer-walk31",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-walk41.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "arquer-walk32",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-walk41.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "arquer-walk33",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-walk41.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "arquer-walk34",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-walk41.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "arquer-walk35",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-walk42.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/arquer-walk42.png\"}",
+        "name": "arquer-walk36",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-walk42.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/arquer-walk42.png\"}",
+        "name": "arquer-walk37",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-walk42.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/arquer-walk42.png\"}",
+        "name": "arquer-walk38",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-walk42.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/arquer-walk42.png\"}",
+        "name": "arquer-walk39",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-walk42.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/arquer-walk42.png\"}",
+        "name": "arquer-walk40",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-walk43.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "arquer-walk41",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-walk43.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "arquer-walk42",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-walk43.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "arquer-walk43",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-walk44.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "arquer-walk44",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-walk45.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "arquer-walk45",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-walk46.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/arquer-walk46.png\"}",
+        "name": "arquer-walk46",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-walk47.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/arquer-walk47.png\"}",
+        "name": "arquer-walk47",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-walk48.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/arquer-walk48.png\"}",
+        "name": "arquer-walk48",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-walk49.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/arquer-walk49.png\"}",
+        "name": "arquer-walk49",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-walk50.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/arquer-walk50.png\"}",
+        "name": "arquer-walk50",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixelarts/objects/arquer/Arco-arquer.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixelarts\\objects\\arquer\\Arco-arquer.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/download-removebg-preview (3).png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "download-removebg-preview (3)",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-walk51.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "arquer-walk51",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-walk52.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "arquer-walk52",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-walk53.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "arquer-walk53",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-walk54.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "arquer-walk54",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-walk55.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "arquer-walk55",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -11603,12 +12083,28 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "arquer-idle5",
-                  "points": [],
+                  "image": "arquer-idle13",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 7,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 7,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 14,
+                      "y": 11.5
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 7,
+                    "y": 9
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -11620,12 +12116,28 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "arquer-idle6",
-                  "points": [],
+                  "image": "arquer-idle14",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 7,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 7,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 14,
+                      "y": 11.5
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 7,
+                    "y": 9
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -11637,12 +12149,28 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "arquer-idle7",
-                  "points": [],
+                  "image": "arquer-idle15",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 7,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 7,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 14,
+                      "y": 11.5
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 7,
+                    "y": 9
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -11654,12 +12182,28 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "arquer-idle8",
-                  "points": [],
+                  "image": "arquer-idle16",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 7,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 7,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 14,
+                      "y": 11.5
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 7,
+                    "y": 9
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -11684,12 +12228,28 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "arquer-walk16",
-                  "points": [],
+                  "image": "arquer-walk51",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 7,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 7,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 14,
+                      "y": 11.5
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 7,
+                    "y": 9
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -11701,12 +12261,28 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "arquer-walk17",
-                  "points": [],
+                  "image": "arquer-walk52",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 7,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 7,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 14,
+                      "y": 11.5
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 7,
+                    "y": 9
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -11718,12 +12294,28 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "arquer-walk18",
-                  "points": [],
+                  "image": "arquer-walk53",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 7,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 7,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 14,
+                      "y": 11.5
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 7,
+                    "y": 9
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -11735,12 +12327,28 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "arquer-walk19",
-                  "points": [],
+                  "image": "arquer-walk54",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 7,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 7,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 14,
+                      "y": 11.5
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 7,
+                    "y": 9
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -11752,12 +12360,28 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "arquer-walk20",
-                  "points": [],
+                  "image": "arquer-walk55",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 7,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 7,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 14,
+                      "y": 11.5
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 7,
+                    "y": 9
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -11782,12 +12406,28 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "arquer-attack16",
-                  "points": [],
+                  "image": "arquer-attack31",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16,
+                      "y": 11
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 8.5,
+                    "y": 10.5
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -11799,12 +12439,28 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "arquer-attack17",
-                  "points": [],
+                  "image": "arquer-attack32",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16,
+                      "y": 11
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 8.5,
+                    "y": 10.5
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -11816,12 +12472,28 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "arquer-attack18",
-                  "points": [],
+                  "image": "arquer-attack33",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16,
+                      "y": 11
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 8.5,
+                    "y": 10.5
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -11833,12 +12505,28 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "arquer-attack19",
-                  "points": [],
+                  "image": "arquer-attack34",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16,
+                      "y": 11
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 8.5,
+                    "y": 10.5
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -11850,12 +12538,28 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "arquer-attack20",
-                  "points": [],
+                  "image": "arquer-attack35",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16,
+                      "y": 11
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 8.5,
+                    "y": 10.5
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -11867,12 +12571,28 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "arquer-attack21",
-                  "points": [],
+                  "image": "arquer-attack36",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16,
+                      "y": 11
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 8.5,
+                    "y": 10.5
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -11884,12 +12604,28 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "arquer-attack22",
-                  "points": [],
+                  "image": "arquer-attack37",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16,
+                      "y": 11
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 8.5,
+                    "y": 10.5
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -11901,12 +12637,28 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "arquer-attack23",
-                  "points": [],
+                  "image": "arquer-attack38",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16,
+                      "y": 11
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 8.5,
+                    "y": 10.5
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -11918,12 +12670,28 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "arquer-attack24",
-                  "points": [],
+                  "image": "arquer-attack39",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16,
+                      "y": 11
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 8.5,
+                    "y": 10.5
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -11935,12 +12703,28 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "arquer-attack25",
-                  "points": [],
+                  "image": "arquer-attack40",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16,
+                      "y": 11
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 8.5,
+                    "y": 10.5
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -11952,12 +12736,28 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "arquer-attack26",
-                  "points": [],
+                  "image": "arquer-attack41",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16,
+                      "y": 11
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 8.5,
+                    "y": 10.5
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -11969,12 +12769,28 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "arquer-attack27",
-                  "points": [],
+                  "image": "arquer-attack42",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16,
+                      "y": 11
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 8.5,
+                    "y": 10.5
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -11986,12 +12802,28 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "arquer-attack28",
-                  "points": [],
+                  "image": "arquer-attack43",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16,
+                      "y": 11
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 8.5,
+                    "y": 10.5
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -12003,12 +12835,28 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "arquer-attack29",
-                  "points": [],
+                  "image": "arquer-attack44",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16,
+                      "y": 11
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 8.5,
+                    "y": 10.5
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -12020,12 +12868,28 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "arquer-attack30",
-                  "points": [],
+                  "image": "arquer-attack45",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16,
+                      "y": 11
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 8.5,
+                    "y": 10.5
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -20891,6 +21755,12 @@
   "variables": [
     {
       "folded": true,
+      "name": "class",
+      "type": "string",
+      "value": "arquer"
+    },
+    {
+      "folded": true,
       "name": "coins",
       "type": "number",
       "value": 0
@@ -20975,12 +21845,6 @@
       "name": "monk",
       "type": "string",
       "value": "monk"
-    },
-    {
-      "folded": true,
-      "name": "class",
-      "type": "string",
-      "value": "jedi"
     },
     {
       "folded": true,
@@ -26288,7 +27152,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.44485159988867123,
+        "zoomFactor": 0.47535850871269986,
         "windowMask": false
       },
       "objectsGroups": [
@@ -28581,27 +29445,28 @@
           ],
           "animations": [
             {
-              "name": "",
+              "name": "download-removebg-preview (3)",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "download-removebg-preview (3).png",
+                      "image": "download-removebg-preview (3)",
                       "points": [
                         {
                           "name": "arrow",
-                          "x": 127,
-                          "y": 172
+                          "x": 14,
+                          "y": 50.5
                         }
                       ],
                       "originPoint": {
                         "name": "origine",
-                        "x": 38,
-                        "y": 172
+                        "x": 8,
+                        "y": 51
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -28612,20 +29477,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 6,
-                            "y": 6
+                            "x": 0,
+                            "y": 0
                           },
                           {
-                            "x": 141,
-                            "y": 6
+                            "x": 16,
+                            "y": 0
                           },
                           {
-                            "x": 141,
-                            "y": 338
+                            "x": 16,
+                            "y": 102
                           },
                           {
-                            "x": 6,
-                            "y": 338
+                            "x": 0,
+                            "y": 102
                           }
                         ]
                       ]
@@ -52154,6 +53019,7 @@
               ]
             },
             {
+              "disabled": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -52163,7 +53029,7 @@
                   "parameters": [
                     "Player",
                     "IsAttacking",
-                    "True"
+                    "False"
                   ]
                 },
                 {
@@ -52192,6 +53058,7 @@
               ]
             },
             {
+              "disabled": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -52223,7 +53090,7 @@
                     "Player",
                     "Animation",
                     "=",
-                    "class+\"attack\""
+                    "class+\"-attack\""
                   ]
                 },
                 {
@@ -52242,6 +53109,17 @@
                     "Player",
                     "IsAttacking",
                     ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Animation",
+                    "=",
+                    "class+\"-idle\""
                   ]
                 }
               ]
@@ -53072,6 +53950,28 @@
                   "actions": [
                     {
                       "type": {
+                        "value": "SetBooleanObjectVariable"
+                      },
+                      "parameters": [
+                        "Player",
+                        "IsAttacking",
+                        "True",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                      },
+                      "parameters": [
+                        "Player",
+                        "Animation",
+                        "=",
+                        "\"mage-attack\""
+                      ]
+                    },
+                    {
+                      "type": {
                         "value": "FireBullet::FireBullet::FireTowardPosition"
                       },
                       "parameters": [
@@ -53105,6 +54005,17 @@
                         "Scale",
                         "*",
                         "0.7"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetBooleanObjectVariable"
+                      },
+                      "parameters": [
+                        "Player",
+                        "IsAttacking",
+                        "False",
+                        ""
                       ]
                     },
                     {
@@ -53413,7 +54324,7 @@
                         "arco_arqueiro",
                         "Resizable",
                         "*",
-                        "0.6"
+                        "2"
                       ]
                     },
                     {
@@ -53424,7 +54335,7 @@
                         "arco_arqueiro",
                         "Resizable",
                         "*",
-                        "0.6"
+                        "2"
                       ]
                     }
                   ]
@@ -54148,6 +55059,41 @@
                       "actions": [],
                       "events": [
                         {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "Cache"
+                              },
+                              "parameters": [
+                                "sabre_de_luz_jedi"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "SetObjectVariableAsBoolean"
+                              },
+                              "parameters": [
+                                "Player",
+                                "IsAttacking",
+                                "True"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                              },
+                              "parameters": [
+                                "Player",
+                                "Animation",
+                                "=",
+                                "\"jedi-attack\""
+                              ]
+                            }
+                          ]
+                        },
+                        {
                           "type": "BuiltinCommonInstructions::Comment",
                           "color": {
                             "b": 212,
@@ -54379,6 +55325,50 @@
                               },
                               "parameters": [
                                 "GlobalMonsters"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "Wait"
+                              },
+                              "parameters": [
+                                "1"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "Montre"
+                              },
+                              "parameters": [
+                                "sabre_de_luz_jedi",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "SetObjectVariableAsBoolean"
+                              },
+                              "parameters": [
+                                "Player",
+                                "IsAttacking",
+                                "False"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                              },
+                              "parameters": [
+                                "Player",
+                                "Animation",
+                                "=",
+                                "\"jedi-attack\""
                               ]
                             }
                           ]
@@ -54973,7 +55963,6 @@
           "parameters": []
         },
         {
-          "folded": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -55336,6 +56325,36 @@
                       "actions": [
                         {
                           "type": {
+                            "value": "SetBooleanObjectVariable"
+                          },
+                          "parameters": [
+                            "Player",
+                            "IsAttacking",
+                            "True",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                          },
+                          "parameters": [
+                            "Player",
+                            "Animation",
+                            "=",
+                            "\"monk-attack\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Wait"
+                          },
+                          "parameters": [
+                            "1"
+                          ]
+                        },
+                        {
+                          "type": {
                             "value": "SetBooleanVariable"
                           },
                           "parameters": [
@@ -55365,6 +56384,28 @@
                             "",
                             "GlobalMonsters.X()",
                             "GlobalMonsters.Y()"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetBooleanObjectVariable"
+                          },
+                          "parameters": [
+                            "Player",
+                            "IsAttacking",
+                            "False",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                          },
+                          "parameters": [
+                            "Player",
+                            "Animation",
+                            "=",
+                            "\"monk-idle\""
                           ]
                         }
                       ]

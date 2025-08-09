@@ -10587,6 +10587,302 @@
         "name": "arquer-walk55",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "assets/arquer-walk56.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "arquer-walk56",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-walk57.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "arquer-walk57",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-walk58.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "arquer-walk58",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-walk59.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "arquer-walk59",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/arquer-walk60.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "arquer-walk60",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Mago/Attack/Mage-attack-1/Mage-attack-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Mago\\Attack\\Mage-attack-1\\Mage-attack-1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Mago/Attack/Mage-attack-1/Mage-attack-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Mago\\Attack\\Mage-attack-1\\Mage-attack-2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Mago/Attack/Mage-attack-1/Mage-attack-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Mago\\Attack\\Mage-attack-1\\Mage-attack-3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Mago/Attack/Mage-attack-1/Mage-attack-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Mago\\Attack\\Mage-attack-1\\Mage-attack-4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Mago/Attack/Mage-attack-1/Mage-attack-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Mago\\Attack\\Mage-attack-1\\Mage-attack-5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Mago/Attack/Mage-attack-1/Mage-attack-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Mago\\Attack\\Mage-attack-1\\Mage-attack-6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Mago/Attack/Mage-attack-1/Mage-attack-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Mago\\Attack\\Mage-attack-1\\Mage-attack-7.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Mago/Attack/Mage-attack-1/Mage-attack-8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Mago\\Attack\\Mage-attack-1\\Mage-attack-8.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/mage-attack-1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "mage-attack-1",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/mage-attack0.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "mage-attack0",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/mage-attack1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "mage-attack1",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/mage-attack2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "mage-attack2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/mage-attack3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "mage-attack3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/mage-attack4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "mage-attack4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/mage-attack5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "mage-attack5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/mage-attack6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "mage-attack6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Mago/Attack/Mage-attack-2/Mage-attack-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Mago\\Attack\\Mage-attack-2\\Mage-attack-2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Mago/Attack/Mage-attack-2/Mage-attack-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Mago\\Attack\\Mage-attack-2\\Mage-attack-3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Mago/Attack/Mage-attack-2/Mage-attack-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Mago\\Attack\\Mage-attack-2\\Mage-attack-4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Mago/Attack/Mage-attack-2/Mage-attack-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Mago\\Attack\\Mage-attack-2\\Mage-attack-5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Mago/Attack/Mage-attack-2/Mage-attack-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Mago\\Attack\\Mage-attack-2\\Mage-attack-6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Mago/Attack/Mage-attack-2/Mage-attack-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Mago\\Attack\\Mage-attack-2\\Mage-attack-7.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Mago/Attack/Mage-attack-2/Mage-attack-8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Mago\\Attack\\Mage-attack-2\\Mage-attack-8.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Mago/Attack/Mage-attack-2/Mage-attack-9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Mago\\Attack\\Mage-attack-2\\Mage-attack-9.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/mage-attack-2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/mage-attack-2.png\"}",
+        "name": "mage-attack-2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/mage-attack7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/mage-attack7.png\"}",
+        "name": "mage-attack7",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/mage-attack8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/mage-attack8.png\"}",
+        "name": "mage-attack8",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/mage-attack9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/mage-attack9.png\"}",
+        "name": "mage-attack9",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/mage-attack10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/mage-attack10.png\"}",
+        "name": "mage-attack10",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/mage-attack11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/mage-attack11.png\"}",
+        "name": "mage-attack11",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/mage-attack12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/mage-attack12.png\"}",
+        "name": "mage-attack12",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/mage-attack13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/mage-attack13.png\"}",
+        "name": "mage-attack13",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -12228,7 +12524,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "arquer-walk51",
+                  "image": "arquer-walk56",
                   "points": [
                     {
                       "name": "Name",
@@ -12261,7 +12557,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "arquer-walk52",
+                  "image": "arquer-walk57",
                   "points": [
                     {
                       "name": "Name",
@@ -12294,7 +12590,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "arquer-walk53",
+                  "image": "arquer-walk58",
                   "points": [
                     {
                       "name": "Name",
@@ -12327,7 +12623,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "arquer-walk54",
+                  "image": "arquer-walk59",
                   "points": [
                     {
                       "name": "Name",
@@ -12360,7 +12656,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "arquer-walk55",
+                  "image": "arquer-walk60",
                   "points": [
                     {
                       "name": "Name",
@@ -13252,7 +13548,7 @@
                     {
                       "name": "attack",
                       "x": 15.5,
-                      "y": 18
+                      "y": 19.5
                     }
                   ],
                   "originPoint": {
@@ -13284,8 +13580,8 @@
                     },
                     {
                       "name": "attack",
-                      "x": 16.5,
-                      "y": 17
+                      "x": 17,
+                      "y": 18.5
                     }
                   ],
                   "originPoint": {
@@ -13304,39 +13600,6 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "warrior-attack23",
-                  "points": [
-                    {
-                      "name": "Name",
-                      "x": 10.5,
-                      "y": -4
-                    },
-                    {
-                      "name": "lifebar",
-                      "x": 10.5,
-                      "y": -2
-                    },
-                    {
-                      "name": "attack",
-                      "x": 16.5,
-                      "y": 16.5
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 10.5,
-                    "y": 12.5
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": []
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "warrior-attack24",
                   "points": [
                     {
                       "name": "Name",
@@ -13369,6 +13632,39 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
+                  "image": "warrior-attack24",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 10.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 10.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 18.5,
+                      "y": 18.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 10.5,
+                    "y": 12.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
                   "image": "warrior-attack25",
                   "points": [
                     {
@@ -13383,8 +13679,8 @@
                     },
                     {
                       "name": "attack",
-                      "x": 18,
-                      "y": 17.5
+                      "x": 19.5,
+                      "y": 18.5
                     }
                   ],
                   "originPoint": {
@@ -13416,8 +13712,8 @@
                     },
                     {
                       "name": "attack",
-                      "x": 18,
-                      "y": 16.5
+                      "x": 19.5,
+                      "y": 17.5
                     }
                   ],
                   "originPoint": {
@@ -13449,7 +13745,7 @@
                     },
                     {
                       "name": "attack",
-                      "x": 18,
+                      "x": 19.5,
                       "y": 16.5
                     }
                   ],
@@ -13482,8 +13778,8 @@
                     },
                     {
                       "name": "attack",
-                      "x": 18,
-                      "y": 16
+                      "x": 19.5,
+                      "y": 15.5
                     }
                   ],
                   "originPoint": {
@@ -13515,8 +13811,8 @@
                     },
                     {
                       "name": "attack",
-                      "x": 18,
-                      "y": 15
+                      "x": 19.5,
+                      "y": 14.5
                     }
                   ],
                   "originPoint": {
@@ -13548,8 +13844,8 @@
                     },
                     {
                       "name": "attack",
-                      "x": 18,
-                      "y": 13.5
+                      "x": 19.5,
+                      "y": 13
                     }
                   ],
                   "originPoint": {
@@ -13581,8 +13877,8 @@
                     },
                     {
                       "name": "attack",
-                      "x": 17.5,
-                      "y": 13.5
+                      "x": 19.5,
+                      "y": 12
                     }
                   ],
                   "originPoint": {
@@ -13614,8 +13910,8 @@
                     },
                     {
                       "name": "attack",
-                      "x": 18,
-                      "y": 14
+                      "x": 19.5,
+                      "y": 13
                     }
                   ],
                   "originPoint": {
@@ -13647,8 +13943,8 @@
                     },
                     {
                       "name": "attack",
-                      "x": 18,
-                      "y": 15
+                      "x": 19.5,
+                      "y": 14
                     }
                   ],
                   "originPoint": {
@@ -13680,8 +13976,8 @@
                     },
                     {
                       "name": "attack",
-                      "x": 17.5,
-                      "y": 16
+                      "x": 19.5,
+                      "y": 15
                     }
                   ],
                   "originPoint": {
@@ -13713,8 +14009,8 @@
                     },
                     {
                       "name": "attack",
-                      "x": 18,
-                      "y": 16.5
+                      "x": 19.5,
+                      "y": 16
                     }
                   ],
                   "originPoint": {
@@ -13746,8 +14042,8 @@
                     },
                     {
                       "name": "attack",
-                      "x": 18,
-                      "y": 16.5
+                      "x": 19.5,
+                      "y": 17.5
                     }
                   ],
                   "originPoint": {
@@ -13779,8 +14075,8 @@
                     },
                     {
                       "name": "attack",
-                      "x": 18,
-                      "y": 17.5
+                      "x": 19.5,
+                      "y": 18.5
                     }
                   ],
                   "originPoint": {
@@ -13812,8 +14108,8 @@
                     },
                     {
                       "name": "attack",
-                      "x": 17.5,
-                      "y": 17.5
+                      "x": 19,
+                      "y": 18.5
                     }
                   ],
                   "originPoint": {
@@ -13846,7 +14142,7 @@
                     {
                       "name": "attack",
                       "x": 16.5,
-                      "y": 16.5
+                      "y": 17.5
                     }
                   ],
                   "originPoint": {
@@ -13879,7 +14175,7 @@
                     {
                       "name": "attack",
                       "x": 16.5,
-                      "y": 17
+                      "y": 18.5
                     }
                   ],
                   "originPoint": {
@@ -16749,13 +17045,556 @@
           ]
         },
         {
-          "name": "mage-attack",
+          "name": "mage-attack-1",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
-              "sprites": []
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "mage-attack-1",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 13.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 13.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 19.5,
+                      "y": 15.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 13.5,
+                    "y": 10.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "mage-attack0",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 13.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 13.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 19.5,
+                      "y": 15.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 13.5,
+                    "y": 10.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "mage-attack1",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 13.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 13.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 19.5,
+                      "y": 15.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 13.5,
+                    "y": 10.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "mage-attack2",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 13.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 13.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 19.5,
+                      "y": 15.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 13.5,
+                    "y": 10.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "mage-attack3",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 13.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 13.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 19.5,
+                      "y": 15.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 13.5,
+                    "y": 10.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "mage-attack4",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 13.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 13.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 19.5,
+                      "y": 15.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 13.5,
+                    "y": 10.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "mage-attack5",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 13.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 13.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 19.5,
+                      "y": 15.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 13.5,
+                    "y": 10.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "mage-attack6",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 13.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 13.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 19.5,
+                      "y": 15.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 13.5,
+                    "y": 10.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "mage-attack-2",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "mage-attack-2",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 13.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 13.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 19.5,
+                      "y": 15.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 13.5,
+                    "y": 10.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "mage-attack7",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 13.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 13.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 19.5,
+                      "y": 15.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 13.5,
+                    "y": 10.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "mage-attack8",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 13.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 13.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 19.5,
+                      "y": 15.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 13.5,
+                    "y": 10.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "mage-attack9",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 13.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 13.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 19.5,
+                      "y": 15.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 13.5,
+                    "y": 10.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "mage-attack10",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 13.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 13.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 19.5,
+                      "y": 15.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 13.5,
+                    "y": 10.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "mage-attack11",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 13.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 13.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 19.5,
+                      "y": 15.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 13.5,
+                    "y": 10.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "mage-attack12",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 13.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 13.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 19.5,
+                      "y": 15.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 13.5,
+                    "y": 10.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "mage-attack13",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 13.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 13.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 19.5,
+                      "y": 15.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 13.5,
+                    "y": 10.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
             }
           ]
         },
@@ -21757,7 +22596,7 @@
       "folded": true,
       "name": "class",
       "type": "string",
-      "value": "arquer"
+      "value": "mage"
     },
     {
       "folded": true,
@@ -53447,7 +54286,7 @@
                 "Normal_head",
                 "Scale",
                 "=",
-                "5.0"
+                "12.0"
               ]
             }
           ]
@@ -53808,6 +54647,28 @@
                   "actions": [
                     {
                       "type": {
+                        "value": "SetBooleanObjectVariable"
+                      },
+                      "parameters": [
+                        "Player",
+                        "IsAttacking",
+                        "True",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                      },
+                      "parameters": [
+                        "Player",
+                        "Animation",
+                        "=",
+                        "\"mage-attack-1\""
+                      ]
+                    },
+                    {
+                      "type": {
                         "value": "FireBullet::FireBullet::FireTowardPosition"
                       },
                       "parameters": [
@@ -53830,6 +54691,17 @@
                         "mana",
                         "-",
                         "5"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetBooleanObjectVariable"
+                      },
+                      "parameters": [
+                        "Player",
+                        "IsAttacking",
+                        "False",
+                        ""
                       ]
                     },
                     {
@@ -53967,7 +54839,7 @@
                         "Player",
                         "Animation",
                         "=",
-                        "\"mage-attack\""
+                        "\"mage-attack-2\""
                       ]
                     },
                     {
@@ -54228,6 +55100,44 @@
                   "actions": [
                     {
                       "type": {
+                        "value": "Cache"
+                      },
+                      "parameters": [
+                        "arco_arqueiro"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetBooleanObjectVariable"
+                      },
+                      "parameters": [
+                        "Player",
+                        "IsAttacking",
+                        "True",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                      },
+                      "parameters": [
+                        "Player",
+                        "Animation",
+                        "=",
+                        "\"arquer-attack\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Wait"
+                      },
+                      "parameters": [
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
                         "value": "FireBullet::FireBullet::FireTowardPosition"
                       },
                       "parameters": [
@@ -54272,6 +55182,34 @@
                         "arrows",
                         "-",
                         "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Wait"
+                      },
+                      "parameters": [
+                        "0.2"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetBooleanObjectVariable"
+                      },
+                      "parameters": [
+                        "Player",
+                        "IsAttacking",
+                        "False",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Montre"
+                      },
+                      "parameters": [
+                        "arco_arqueiro",
+                        ""
                       ]
                     },
                     {
@@ -54324,7 +55262,7 @@
                         "arco_arqueiro",
                         "Resizable",
                         "*",
-                        "2"
+                        "2.1"
                       ]
                     },
                     {
@@ -54335,7 +55273,7 @@
                         "arco_arqueiro",
                         "Resizable",
                         "*",
-                        "2"
+                        "5"
                       ]
                     }
                   ]
@@ -54472,16 +55410,6 @@
                     },
                     {
                       "type": {
-                        "value": "ModVarGlobal"
-                      },
-                      "parameters": [
-                        "arrows",
-                        "-",
-                        "3"
-                      ]
-                    },
-                    {
-                      "type": {
                         "value": "ResizableCapability::ResizableBehavior::SetHeight"
                       },
                       "parameters": [
@@ -54500,6 +55428,16 @@
                         "Resizable",
                         "*",
                         "0.9"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "arrows",
+                        "-",
+                        "3"
                       ]
                     },
                     {
@@ -57082,6 +58020,34 @@
               ]
             },
             {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Escudo_guerreiro",
+                    "Granada_boss_2",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Granada_boss_2",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
               "type": "BuiltinCommonInstructions::Comment",
               "color": {
                 "b": 224,
@@ -57696,6 +58662,28 @@
                         },
                         {
                           "type": {
+                            "value": "SetBooleanObjectVariable"
+                          },
+                          "parameters": [
+                            "Player",
+                            "IsAttacking",
+                            "True",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                          },
+                          "parameters": [
+                            "Player",
+                            "Animation",
+                            "=",
+                            "\"warrior-attack\""
+                          ]
+                        },
+                        {
+                          "type": {
                             "value": "Create"
                           },
                           "parameters": [
@@ -57723,6 +58711,17 @@
                           },
                           "parameters": [
                             "2"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetBooleanObjectVariable"
+                          },
+                          "parameters": [
+                            "Player",
+                            "IsAttacking",
+                            "False",
+                            ""
                           ]
                         },
                         {
@@ -58233,6 +59232,36 @@
                       "actions": [
                         {
                           "type": {
+                            "value": "SetBooleanObjectVariable"
+                          },
+                          "parameters": [
+                            "Player",
+                            "IsAttacking",
+                            "True",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                          },
+                          "parameters": [
+                            "Player",
+                            "Animation",
+                            "=",
+                            "\"ninja-attack\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Wait"
+                          },
+                          "parameters": [
+                            "1"
+                          ]
+                        },
+                        {
+                          "type": {
                             "value": "Create"
                           },
                           "parameters": [
@@ -58318,6 +59347,17 @@
                             "Opacity",
                             "=",
                             "255"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetBooleanObjectVariable"
+                          },
+                          "parameters": [
+                            "Player",
+                            "IsAttacking",
+                            "False",
+                            ""
                           ]
                         }
                       ]

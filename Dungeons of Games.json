@@ -17055,39 +17055,6 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "mage-attack-1",
-                  "points": [
-                    {
-                      "name": "Name",
-                      "x": 13.5,
-                      "y": -4
-                    },
-                    {
-                      "name": "lifebar",
-                      "x": 13.5,
-                      "y": -2
-                    },
-                    {
-                      "name": "attack",
-                      "x": 19.5,
-                      "y": 15.5
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 13.5,
-                    "y": 10.5
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": []
-                },
-                {
-                  "hasCustomCollisionMask": true,
                   "image": "mage-attack0",
                   "points": [
                     {
@@ -17330,39 +17297,6 @@
               "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "mage-attack-2",
-                  "points": [
-                    {
-                      "name": "Name",
-                      "x": 13.5,
-                      "y": -4
-                    },
-                    {
-                      "name": "lifebar",
-                      "x": 13.5,
-                      "y": -2
-                    },
-                    {
-                      "name": "attack",
-                      "x": 19.5,
-                      "y": 15.5
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 13.5,
-                    "y": 10.5
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": []
-                },
                 {
                   "hasCustomCollisionMask": true,
                   "image": "mage-attack7",
@@ -54669,6 +54603,14 @@
                     },
                     {
                       "type": {
+                        "value": "Wait"
+                      },
+                      "parameters": [
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
                         "value": "FireBullet::FireBullet::FireTowardPosition"
                       },
                       "parameters": [
@@ -54709,7 +54651,7 @@
                         "value": "Wait"
                       },
                       "parameters": [
-                        "5"
+                        "3"
                       ]
                     },
                     {
@@ -54844,6 +54786,14 @@
                     },
                     {
                       "type": {
+                        "value": "Wait"
+                      },
+                      "parameters": [
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
                         "value": "FireBullet::FireBullet::FireTowardPosition"
                       },
                       "parameters": [
@@ -54895,7 +54845,7 @@
                         "value": "Wait"
                       },
                       "parameters": [
-                        "5"
+                        "3"
                       ]
                     },
                     {

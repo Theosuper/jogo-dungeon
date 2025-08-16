@@ -10883,6 +10883,566 @@
         "name": "mage-attack13",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Aventureiro/Attack/Advenurous-attack-1/Adventurous-attack-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Aventureiro\\Attack\\Advenurous-attack-1\\Adventurous-attack-1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Aventureiro/Attack/Advenurous-attack-1/Adventurous-attack-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Aventureiro\\Attack\\Advenurous-attack-1\\Adventurous-attack-2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Aventureiro/Attack/Advenurous-attack-1/Adventurous-attack-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Aventureiro\\Attack\\Advenurous-attack-1\\Adventurous-attack-3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Aventureiro/Attack/Advenurous-attack-1/Adventurous-attack-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Aventureiro\\Attack\\Advenurous-attack-1\\Adventurous-attack-4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Aventureiro/Attack/Advenurous-attack-1/Adventurous-attack-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Aventureiro\\Attack\\Advenurous-attack-1\\Adventurous-attack-5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Aventureiro/Attack/Advenurous-attack-1/Adventurous-attack-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Aventureiro\\Attack\\Advenurous-attack-1\\Adventurous-attack-6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/adventurous-attack-1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adventurous-attack-1",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/adventurous-attack0.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adventurous-attack0",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/adventurous-attack1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adventurous-attack1",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/adventurous-attack16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adventurous-attack16",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/adventurous-attack17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adventurous-attack17",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/adventurous-attack18.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adventurous-attack18",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Aventureiro/Attack/Advenurous-attack-2/Adventurous-attack-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Aventureiro\\Attack\\Advenurous-attack-2\\Adventurous-attack-2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Aventureiro/Attack/Advenurous-attack-2/Adventurous-attack-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Aventureiro\\Attack\\Advenurous-attack-2\\Adventurous-attack-3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Aventureiro/Attack/Advenurous-attack-2/Adventurous-attack-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Aventureiro\\Attack\\Advenurous-attack-2\\Adventurous-attack-4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Aventureiro/Attack/Advenurous-attack-2/Adventurous-attack-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Aventureiro\\Attack\\Advenurous-attack-2\\Adventurous-attack-5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Aventureiro/Attack/Advenurous-attack-2/Adventurous-attack-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Aventureiro\\Attack\\Advenurous-attack-2\\Adventurous-attack-6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Aventureiro/Attack/Advenurous-attack-2/Adventurous-attack-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Aventureiro\\Attack\\Advenurous-attack-2\\Adventurous-attack-7.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Aventureiro/Attack/Advenurous-attack-2/Adventurous-attack-8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Aventureiro\\Attack\\Advenurous-attack-2\\Adventurous-attack-8.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Aventureiro/Attack/Advenurous-attack-2/Adventurous-attack-9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Aventureiro\\Attack\\Advenurous-attack-2\\Adventurous-attack-9.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Aventureiro/Attack/Advenurous-attack-2/Adventurous-attack-10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Aventureiro\\Attack\\Advenurous-attack-2\\Adventurous-attack-10.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Aventureiro/Attack/Advenurous-attack-2/Adventurous-attack-11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Aventureiro\\Attack\\Advenurous-attack-2\\Adventurous-attack-11.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Aventureiro/Attack/Advenurous-attack-2/Adventurous-attack-12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Aventureiro\\Attack\\Advenurous-attack-2\\Adventurous-attack-12.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Aventureiro/Attack/Advenurous-attack-2/Adventurous-attack-13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Aventureiro\\Attack\\Advenurous-attack-2\\Adventurous-attack-13.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Aventureiro/Attack/Advenurous-attack-2/Adventurous-attack-14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Aventureiro\\Attack\\Advenurous-attack-2\\Adventurous-attack-14.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Aventureiro/Attack/Advenurous-attack-2/Adventurous-attack-15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Aventureiro\\Attack\\Advenurous-attack-2\\Adventurous-attack-15.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Aventureiro/Attack/Advenurous-attack-2/Adventurous-attack-16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Aventureiro\\Attack\\Advenurous-attack-2\\Adventurous-attack-16.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Aventureiro/Attack/Advenurous-attack-2/Adventurous-attack-17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Aventureiro\\Attack\\Advenurous-attack-2\\Adventurous-attack-17.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Aventureiro/Attack/Advenurous-attack-2/Adventurous-attack-18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Aventureiro\\Attack\\Advenurous-attack-2\\Adventurous-attack-18.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Aventureiro/Attack/Advenurous-attack-2/Adventurous-attack-19.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Aventureiro\\Attack\\Advenurous-attack-2\\Adventurous-attack-19.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Aventureiro/Attack/Advenurous-attack-2/Adventurous-attack-20.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Aventureiro\\Attack\\Advenurous-attack-2\\Adventurous-attack-20.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Aventureiro/Attack/Advenurous-attack-2/Adventurous-attack-21.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Aventureiro\\Attack\\Advenurous-attack-2\\Adventurous-attack-21.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Aventureiro/Attack/Advenurous-attack-2/Adventurous-attack-22.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Aventureiro\\Attack\\Advenurous-attack-2\\Adventurous-attack-22.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Aventureiro/Attack/Advenurous-attack-2/Adventurous-attack-23.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Aventureiro\\Attack\\Advenurous-attack-2\\Adventurous-attack-23.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Aventureiro/Attack/Advenurous-attack-2/Adventurous-attack-24.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Aventureiro\\Attack\\Advenurous-attack-2\\Adventurous-attack-24.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Aventureiro/Attack/Advenurous-attack-2/Adventurous-attack-25.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Aventureiro\\Attack\\Advenurous-attack-2\\Adventurous-attack-25.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Aventureiro/Attack/Advenurous-attack-2/Adventurous-attack-26.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Aventureiro\\Attack\\Advenurous-attack-2\\Adventurous-attack-26.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Aventureiro/Attack/Advenurous-attack-2/Adventurous-attack-27.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Aventureiro\\Attack\\Advenurous-attack-2\\Adventurous-attack-27.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Aventureiro/Attack/Advenurous-attack-2/Adventurous-attack-28.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Aventureiro\\Attack\\Advenurous-attack-2\\Adventurous-attack-28.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Aventureiro/Attack/Advenurous-attack-2/Adventurous-attack-29.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Aventureiro\\Attack\\Advenurous-attack-2\\Adventurous-attack-29.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixel-arts-euesora/Aventureiro/Attack/Advenurous-attack-2/Adventurous-attack-30.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-arts-euesora\\Aventureiro\\Attack\\Advenurous-attack-2\\Adventurous-attack-30.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/adventurous-attack-2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adventurous-attack-2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/adventurous-attack19.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adventurous-attack19",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/adventurous-attack20.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adventurous-attack20",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/adventurous-attack21.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adventurous-attack21",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/adventurous-attack22.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adventurous-attack22",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/adventurous-attack23.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adventurous-attack23",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/adventurous-attack24.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adventurous-attack24",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/adventurous-attack25.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adventurous-attack25",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/adventurous-attack26.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adventurous-attack26",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/adventurous-attack27.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adventurous-attack27",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/adventurous-attack28.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adventurous-attack28",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/adventurous-attack29.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adventurous-attack29",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/adventurous-attack30.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adventurous-attack30",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/adventurous-attack31.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adventurous-attack31",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/adventurous-attack32.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adventurous-attack32",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/adventurous-attack33.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adventurous-attack33",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/adventurous-attack34.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adventurous-attack34",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/adventurous-attack35.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adventurous-attack35",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/adventurous-attack36.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adventurous-attack36",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/adventurous-attack37.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adventurous-attack37",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/adventurous-attack38.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adventurous-attack38",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/adventurous-attack39.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adventurous-attack39",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/adventurous-attack40.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adventurous-attack40",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/adventurous-attack41.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adventurous-attack41",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/adventurous-attack42.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adventurous-attack42",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/adventurous-attack43.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adventurous-attack43",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/adventurous-attack44.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adventurous-attack44",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/adventurous-attack45.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adventurous-attack45",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/adventurous-attack46.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "adventurous-attack46",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -17776,13 +18336,1183 @@
           ]
         },
         {
-          "name": "adventurous-attack",
+          "name": "adventurous-attack-1",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
-              "sprites": []
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurous-attack-1",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 9.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 9.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 13.5,
+                      "y": 14
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 9.5,
+                    "y": 10
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurous-attack0",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 9.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 9.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 14.5,
+                      "y": 14
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 9.5,
+                    "y": 10
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurous-attack1",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 9.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 9.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 15,
+                      "y": 14
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 9.5,
+                    "y": 10
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurous-attack16",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 9.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 9.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16,
+                      "y": 14
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 9.5,
+                    "y": 10
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurous-attack17",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 9.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 9.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 16,
+                      "y": 13
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 9.5,
+                    "y": 10
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurous-attack18",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 9.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 9.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 17,
+                      "y": 13
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 9.5,
+                    "y": 10
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "adventurous-attack-2",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurous-attack-2",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 24.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 24.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 23.5,
+                      "y": 27
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 24.5,
+                    "y": 17
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurous-attack19",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 24.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 24.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 24.5,
+                      "y": 27
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 24.5,
+                    "y": 17
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurous-attack20",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 24.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 24.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 25,
+                      "y": 27.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 24.5,
+                    "y": 17
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurous-attack21",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 24.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 24.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 24.5,
+                      "y": 30
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 24.5,
+                    "y": 17
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurous-attack22",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 24.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 24.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 24.5,
+                      "y": 28.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 24.5,
+                    "y": 17
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurous-attack23",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 24.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 24.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 24.5,
+                      "y": 29.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 24.5,
+                    "y": 17
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurous-attack24",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 24.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 24.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 25.5,
+                      "y": 29.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 24.5,
+                    "y": 17
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurous-attack25",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 24.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 24.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 25.5,
+                      "y": 31
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 24.5,
+                    "y": 17
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurous-attack26",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 24.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 24.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 25.5,
+                      "y": 29.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 24.5,
+                    "y": 17
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurous-attack27",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 24.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 24.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 24.5,
+                      "y": 29.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 24.5,
+                    "y": 17
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurous-attack28",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 24.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 24.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 25.5,
+                      "y": 31
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 24.5,
+                    "y": 17
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurous-attack29",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 24.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 24.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 25.5,
+                      "y": 31
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 24.5,
+                    "y": 17
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurous-attack30",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 24.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 24.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 35.5,
+                      "y": 30
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 24.5,
+                    "y": 17
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurous-attack31",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 24.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 24.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 48.5,
+                      "y": 17.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 24.5,
+                    "y": 17
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurous-attack32",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 24.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 24.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 36.5,
+                      "y": 6.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 24.5,
+                    "y": 17
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurous-attack33",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 24.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 24.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 25.5,
+                      "y": 9.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 24.5,
+                    "y": 17
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurous-attack34",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 24.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 24.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 10.5,
+                      "y": 19
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 24.5,
+                    "y": 17
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurous-attack35",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 24.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 24.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 17.5,
+                      "y": 3.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 24.5,
+                    "y": 17
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurous-attack36",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 24.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 24.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 25,
+                      "y": 19.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 24.5,
+                    "y": 17
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurous-attack37",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 24.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 24.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 34.5,
+                      "y": 10.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 24.5,
+                    "y": 17
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurous-attack38",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 24.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 24.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 42.5,
+                      "y": 10.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 24.5,
+                    "y": 17
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurous-attack39",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 24.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 24.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 37.5,
+                      "y": 20.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 24.5,
+                    "y": 17
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurous-attack40",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 24.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 24.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 33.5,
+                      "y": 18.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 24.5,
+                    "y": 17
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurous-attack41",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 24.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 24.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 43.5,
+                      "y": 19.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 24.5,
+                    "y": 17
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurous-attack42",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 24.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 24.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 35.5,
+                      "y": 17.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 24.5,
+                    "y": 17
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurous-attack43",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 24.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 24.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 30,
+                      "y": 24
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 24.5,
+                    "y": 17
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurous-attack44",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 24.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 24.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 28.5,
+                      "y": 26.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 24.5,
+                    "y": 17
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurous-attack45",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 24.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 24.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 26.5,
+                      "y": 26.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 24.5,
+                    "y": 17
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "adventurous-attack46",
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 24.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 24.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 25.5,
+                      "y": 28.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 24.5,
+                    "y": 17
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
             }
           ]
         }
@@ -22530,7 +24260,7 @@
       "folded": true,
       "name": "class",
       "type": "string",
-      "value": "mage"
+      "value": "adventurous"
     },
     {
       "folded": true,
@@ -57493,11 +59223,65 @@
                   "actions": [
                     {
                       "type": {
+                        "value": "SetBooleanObjectVariable"
+                      },
+                      "parameters": [
+                        "Player",
+                        "IsAttacking",
+                        "True",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                      },
+                      "parameters": [
+                        "Player",
+                        "Animation",
+                        "=",
+                        "\"adventurous-attack-2\""
+                      ]
+                    },
+                    {
+                      "type": {
                         "value": "SetBooleanVariable"
                       },
                       "parameters": [
                         "Girando",
                         "False",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Delete"
+                      },
+                      "parameters": [
+                        "chicote_aventureiro",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetBooleanObjectVariable"
+                      },
+                      "parameters": [
+                        "Player",
+                        "IsAttacking",
+                        "False",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "chicote_aventureiro",
+                        "Player.PointX(\"attack\")",
+                        "Player.PointY(\"attack\")",
                         ""
                       ]
                     }
@@ -57607,17 +59391,6 @@
                       "actions": [
                         {
                           "type": {
-                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                          },
-                          "parameters": [
-                            "Player",
-                            "Animation",
-                            "=",
-                            "\"adventurous-attac\""
-                          ]
-                        },
-                        {
-                          "type": {
                             "value": "SetBooleanObjectVariable"
                           },
                           "parameters": [
@@ -57625,6 +59398,17 @@
                             "IsAttacking",
                             "True",
                             ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                          },
+                          "parameters": [
+                            "Player",
+                            "Animation",
+                            "=",
+                            "\"adventurous-attack-2\""
                           ]
                         },
                         {

@@ -59240,7 +59240,15 @@
                         "Player",
                         "Animation",
                         "=",
-                        "\"adventurous-attack-2\""
+                        "\"adventurous-attack-1\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Wait"
+                      },
+                      "parameters": [
+                        "1"
                       ]
                     },
                     {
@@ -59255,33 +59263,12 @@
                     },
                     {
                       "type": {
-                        "value": "Delete"
-                      },
-                      "parameters": [
-                        "chicote_aventureiro",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
                         "value": "SetBooleanObjectVariable"
                       },
                       "parameters": [
                         "Player",
                         "IsAttacking",
                         "False",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Create"
-                      },
-                      "parameters": [
-                        "",
-                        "chicote_aventureiro",
-                        "Player.PointX(\"attack\")",
-                        "Player.PointY(\"attack\")",
                         ""
                       ]
                     }
@@ -59391,6 +59378,15 @@
                       "actions": [
                         {
                           "type": {
+                            "value": "Delete"
+                          },
+                          "parameters": [
+                            "chicote_aventureiro",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
                             "value": "SetBooleanObjectVariable"
                           },
                           "parameters": [
@@ -59413,13 +59409,33 @@
                         },
                         {
                           "type": {
+                            "value": "Wait"
+                          },
+                          "parameters": [
+                            "2.5"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Create"
+                          },
+                          "parameters": [
+                            "",
+                            "chicote_aventureiro",
+                            "Player.PointX(\"attack\")",
+                            "Player.PointY(\"attack\")",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
                             "value": "ResizableCapability::ResizableBehavior::SetHeight"
                           },
                           "parameters": [
-                            "Player",
+                            "chicote_aventureiro",
                             "Resizable",
-                            "=",
-                            "300"
+                            "*",
+                            "0.6"
                           ]
                         },
                         {
@@ -59427,18 +59443,21 @@
                             "value": "ResizableCapability::ResizableBehavior::SetWidth"
                           },
                           "parameters": [
-                            "Player",
+                            "chicote_aventureiro",
                             "Resizable",
-                            "=",
-                            "560"
+                            "*",
+                            "0.6"
                           ]
                         },
                         {
                           "type": {
-                            "value": "Wait"
+                            "value": "SetBooleanObjectVariable"
                           },
                           "parameters": [
-                            "2"
+                            "Player",
+                            "IsAttacking",
+                            "False",
+                            ""
                           ]
                         }
                       ]
@@ -59463,7 +59482,7 @@
                             "Player",
                             "Animation",
                             "=",
-                            "\"adventurous-attac\""
+                            "\"adventurous-attack-2\""
                           ]
                         }
                       ],

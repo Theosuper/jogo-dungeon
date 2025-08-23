@@ -11443,6 +11443,66 @@
         "name": "adventurous-attack46",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "assets/Blue Button With Shadow_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blue Button With Shadow_Hovered.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/37288d30c2e013a34e415fb35fffd2f7267ebd031c4380927485d7461708f810_Blue Button With Shadow_Hovered.png",
+          "name": "Blue Button With Shadow_Hovered.png"
+        }
+      },
+      {
+        "file": "assets/Blue Button With Shadow_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blue Button With Shadow_Idle.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/22930cdc6b25260eef3817f1687842974261b68c84ec2a13d7f32b1a2985240f_Blue Button With Shadow_Idle.png",
+          "name": "Blue Button With Shadow_Idle.png"
+        }
+      },
+      {
+        "file": "assets/Blue Button With Shadow_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blue Button With Shadow_Pressed.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/26efbc7581c47b884f5335aa7581999a75b3062aa24062a1a91955e334826d21_Blue Button With Shadow_Pressed.png",
+          "name": "Blue Button With Shadow_Pressed.png"
+        }
+      },
+      {
+        "file": "assets/arco-de-pixel-art-icone-de-vetor-de-arco-de-madeira-para-jogo-de-8-bits-em-fundo-branco_360488-1142-removebg-preview2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "arco-de-pixel-art-icone-de-vetor-de-arco-de-madeira-para-jogo-de-8-bits-em-fundo-branco_360488-1142-removebg-preview2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Porta-pocoes.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Porta-pocoes.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Porta-pocoes.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Porta-pocoes",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -18249,11 +18309,27 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurous-walk6",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 13.5,
+                      "y": 14
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 8,
+                    "y": 10
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -18266,11 +18342,27 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurous-walk7",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 13.5,
+                      "y": 14
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 8,
+                    "y": 10
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -18283,11 +18375,27 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurous-walk8",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 13.5,
+                      "y": 14
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 8,
+                    "y": 10
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -18300,11 +18408,27 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurous-walk9",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 13.5,
+                      "y": 14
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 8,
+                    "y": 10
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -18317,11 +18441,27 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "adventurous-walk10",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "Name",
+                      "x": 8.5,
+                      "y": -4
+                    },
+                    {
+                      "name": "lifebar",
+                      "x": 8.5,
+                      "y": -2
+                    },
+                    {
+                      "name": "attack",
+                      "x": 13.5,
+                      "y": 14
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 8,
+                    "y": 10
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -18346,39 +18486,6 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "adventurous-attack-1",
-                  "points": [
-                    {
-                      "name": "Name",
-                      "x": 9.5,
-                      "y": -4
-                    },
-                    {
-                      "name": "lifebar",
-                      "x": 9.5,
-                      "y": -2
-                    },
-                    {
-                      "name": "attack",
-                      "x": 13.5,
-                      "y": 14
-                    }
-                  ],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 9.5,
-                    "y": 10
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": []
-                },
-                {
-                  "hasCustomCollisionMask": true,
                   "image": "adventurous-attack0",
                   "points": [
                     {
@@ -18399,7 +18506,7 @@
                   ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 9.5,
+                    "x": 8,
                     "y": 10
                   },
                   "centerPoint": {
@@ -18577,8 +18684,8 @@
                   ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 24.5,
-                    "y": 17
+                    "x": 8,
+                    "y": 10
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -22574,27 +22681,28 @@
         "PressedLabelOffsetY": 10,
         "BottomPadding": 32,
         "TopPadding": 16,
-        "HoveredFadeOutDuration": 0.25
+        "HoveredFadeOutDuration": 0.25,
+        "LabelText": ""
       },
       "childrenContent": {
         "Hovered": {
           "bottomMargin": 32,
           "height": 106,
-          "leftMargin": 16,
+          "leftMargin": 4,
           "rightMargin": 16,
           "texture": "Green Button_Hovered.png",
           "tiled": false,
-          "topMargin": 16,
+          "topMargin": 4,
           "width": 256
         },
         "Idle": {
           "bottomMargin": 32,
           "height": 106,
-          "leftMargin": 16,
+          "leftMargin": 4,
           "rightMargin": 16,
           "texture": "Green Button_Idle.png",
           "tiled": false,
-          "topMargin": 16,
+          "topMargin": 4,
           "width": 256
         },
         "Label": {
@@ -22636,11 +22744,11 @@
         "Pressed": {
           "bottomMargin": 16,
           "height": 106,
-          "leftMargin": 16,
+          "leftMargin": 4,
           "rightMargin": 16,
           "texture": "Green Button_Pressed.png",
           "tiled": false,
-          "topMargin": 32,
+          "topMargin": 4,
           "width": 256
         }
       }
@@ -22659,7 +22767,8 @@
         "PressedLabelOffsetY": 3,
         "BottomPadding": 32,
         "TopPadding": 32,
-        "HoveredFadeOutDuration": 0.25
+        "HoveredFadeOutDuration": 0.25,
+        "LabelText": ""
       },
       "childrenContent": {
         "Hovered": {
@@ -22692,9 +22801,9 @@
           "textAlignment": "center",
           "characterSize": 40,
           "color": {
-            "b": 255,
-            "g": 255,
-            "r": 255
+            "b": 0,
+            "g": 0,
+            "r": 0
           },
           "content": {
             "bold": false,
@@ -22715,7 +22824,7 @@
             "textAlignment": "center",
             "verticalTextAlignment": "top",
             "characterSize": 40,
-            "color": "255;255;255"
+            "color": "0;0;0"
           }
         },
         "Pressed": {
@@ -24197,6 +24306,12 @@
         },
         {
           "name": "Confirmar_fazer_produto"
+        },
+        {
+          "name": "Sim_pocoes"
+        },
+        {
+          "name": "Nao_pocoes"
         }
       ]
     },
@@ -24260,7 +24375,7 @@
       "folded": true,
       "name": "class",
       "type": "string",
-      "value": "adventurous"
+      "value": "human"
     },
     {
       "folded": true,
@@ -24294,7 +24409,7 @@
       "folded": true,
       "name": "DungeonPiso",
       "type": "number",
-      "value": 2
+      "value": 1
     },
     {
       "name": "MaxPiso",
@@ -24305,7 +24420,7 @@
       "folded": true,
       "name": "Derrotados",
       "type": "number",
-      "value": 9
+      "value": 0
     },
     {
       "folded": true,
@@ -24436,7 +24551,7 @@
       "folded": true,
       "name": "level",
       "type": "number",
-      "value": 2
+      "value": 1
     },
     {
       "name": "Bag",
@@ -25580,7 +25695,7 @@
           "persistentUuid": "320235d3-1961-4a03-b607-ba3e07ee71dc",
           "width": 259,
           "x": 1644,
-          "y": 242,
+          "y": 244,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -25598,7 +25713,7 @@
           "width": 64,
           "x": 1741,
           "y": 566,
-          "zOrder": 1000000003,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -28360,6 +28475,17 @@
                 "=",
                 "Player.PointY(\"Name\")"
               ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "NomePlayer",
+                "Text",
+                "=",
+                "NamePlayer"
+              ]
             }
           ]
         },
@@ -29655,7 +29781,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.47535850871269986,
+        "zoomFactor": 0.4598521426736396,
         "windowMask": false
       },
       "objectsGroups": [
@@ -30704,7 +30830,7 @@
               "folded": true,
               "name": "Vida",
               "type": "number",
-              "value": 100
+              "value": 50
             },
             {
               "folded": true,
@@ -31107,7 +31233,7 @@
               "folded": true,
               "name": "Vida",
               "type": "number",
-              "value": 200
+              "value": 100
             },
             {
               "folded": true,
@@ -35588,12 +35714,12 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.3411856023473449,
+        "zoomFactor": 0.45985214267363317,
         "windowMask": false
       },
       "objectsGroups": [
         {
-          "name": "Itens-ferreiro",
+          "name": "ItensFerreiro",
           "objects": [
             {
               "name": "espada"
@@ -36064,14 +36190,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 36,
-          "height": 80,
+          "height": 94,
           "keepRatio": true,
           "layer": "",
           "name": "Sim",
           "persistentUuid": "8dfdf737-64ec-495d-9198-d220d4889646",
-          "width": 194,
-          "x": 697,
-          "y": 590,
+          "width": 212,
+          "x": 722,
+          "y": 591,
           "zOrder": 21,
           "numberProperties": [],
           "stringProperties": [],
@@ -36081,14 +36207,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 49,
-          "height": 71,
+          "height": 83,
           "keepRatio": true,
           "layer": "",
           "name": "Nao",
           "persistentUuid": "df2294fb-cbe5-4ed1-92a1-8b51c6bbe77d",
-          "width": 198,
+          "width": 214,
           "x": 1024,
-          "y": 594,
+          "y": 592,
           "zOrder": 22,
           "numberProperties": [],
           "stringProperties": [],
@@ -36123,6 +36249,38 @@
           "x": 10,
           "y": 569,
           "zOrder": 24,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Sim_pocoes",
+          "persistentUuid": "37096d8b-6713-494b-9954-88d03be390fc",
+          "width": 0,
+          "x": 780,
+          "y": 606,
+          "zOrder": 25,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Nao_pocoes",
+          "persistentUuid": "f4812fd8-79c1-42e4-bba4-263614004c3d",
+          "width": 0,
+          "x": 1076,
+          "y": 599,
+          "zOrder": 26,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -36941,7 +37099,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "arco-de-pixel-art-icone-de-vetor-de-arco-de-madeira-para-jogo-de-8-bits-em-fundo-branco_360488-1142-removebg-preview",
+                      "image": "arco-de-pixel-art-icone-de-vetor-de-arco-de-madeira-para-jogo-de-8-bits-em-fundo-branco_360488-1142-removebg-preview2",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -36957,20 +37115,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 1,
+                            "x": 0,
                             "y": 0
                           },
                           {
-                            "x": 245,
+                            "x": 7,
                             "y": 0
                           },
                           {
-                            "x": 245,
-                            "y": 604
+                            "x": 7,
+                            "y": 19
                           },
                           {
-                            "x": 1,
-                            "y": 604
+                            "x": 0,
+                            "y": 19
                           }
                         ]
                       ]
@@ -37247,6 +37405,90 @@
             "characterSize": 50,
             "color": "255;255;255"
           }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "Sim_pocoes",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Sim",
+          "font": "",
+          "textAlignment": "center",
+          "characterSize": 60,
+          "color": {
+            "b": 14,
+            "g": 139,
+            "r": 33
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Sim",
+            "font": "",
+            "textAlignment": "center",
+            "verticalTextAlignment": "top",
+            "characterSize": 60,
+            "color": "33;139;14"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "Nao_pocoes",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Não",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 60,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Não",
+            "font": "",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 60,
+            "color": "0;0;0"
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -37296,6 +37538,12 @@
           },
           {
             "objectName": "Confirmar_fazer_produto"
+          },
+          {
+            "objectName": "Sim_pocoes"
+          },
+          {
+            "objectName": "Nao_pocoes"
           }
         ]
       },
@@ -37338,7 +37586,7 @@
                 "value": "SourisSurObjet"
               },
               "parameters": [
-                "Itens-ferreiro",
+                "ItensFerreiro",
                 "",
                 "",
                 ""
@@ -37372,7 +37620,7 @@
                 "Information_text",
                 "Text",
                 "=",
-                "\"Serão removidos Itens-ferreiro. da sua conta, se cofirmar, esta ação será irreversível.\n\nTem certeza que deseja continuar?\""
+                "\"Serão removidos \"+ItensFerreiro.ObjectName()+\". da sua conta, se cofirmar, esta ação será irreversível.\n\nTem certeza que deseja continuar?\""
               ]
             }
           ]
@@ -40258,7 +40506,7 @@
           "width": 385,
           "x": 1501,
           "y": 111,
-          "zOrder": 4,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -40291,7 +40539,7 @@
           "width": 234.68512110726644,
           "x": 5,
           "y": 201,
-          "zOrder": 6,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -40308,7 +40556,7 @@
           "width": 125,
           "x": 229,
           "y": 302,
-          "zOrder": 7,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -47896,7 +48144,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.30887412163426553,
+        "zoomFactor": 0.330056004916593,
         "windowMask": false
       },
       "objectsGroups": [
@@ -48294,6 +48542,22 @@
           "x": 1097,
           "y": 530,
           "zOrder": 23,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Button_Exit",
+          "persistentUuid": "a104a297-8275-49b7-bfef-ddd2dab6e1c6",
+          "width": 0,
+          "x": 1635,
+          "y": 1004,
+          "zOrder": 24,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -48838,6 +49102,24 @@
             "characterSize": 50,
             "color": "255;255;255"
           }
+        },
+        {
+          "assetStoreId": "33302f0b615672a2e96316c096e13ad8d7242adba8bd5709538691894f0eae6e",
+          "name": "Button_Exit",
+          "type": "PanelSpriteButton::PanelSpriteButton",
+          "variant": "Blue Button With Shadow",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "LeftPadding": 16,
+            "RightPadding": 16,
+            "PressedLabelOffsetY": 3,
+            "BottomPadding": 32,
+            "TopPadding": 32,
+            "HoveredFadeOutDuration": 0.25,
+            "LabelText": "Sair"
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -48899,10 +49181,13 @@
             "objectName": "Button_Buy"
           },
           {
-            "objectName": "Error_Mensage"
+            "objectName": "Button_Exit"
           },
           {
             "objectName": "Confirmar_comp"
+          },
+          {
+            "objectName": "Error_Mensage"
           }
         ]
       },
@@ -49713,6 +49998,32 @@
             }
           ],
           "parameters": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+              },
+              "parameters": [
+                "Button_Exit",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Saguao\"",
+                ""
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -50125,8 +50436,8 @@
           "name": "Mesa_pocoes",
           "persistentUuid": "6697064d-7212-4cda-8a84-dfedddb8050e",
           "width": 522,
-          "x": 0,
-          "y": 658,
+          "x": 942,
+          "y": 664,
           "zOrder": 8,
           "numberProperties": [],
           "stringProperties": [],
@@ -50193,8 +50504,8 @@
           "name": "Player",
           "persistentUuid": "347cb9b5-f4a7-4695-9596-9cbf5a805c42",
           "width": 242,
-          "x": 979,
-          "y": 948,
+          "x": 635,
+          "y": 964,
           "zOrder": 12,
           "numberProperties": [],
           "stringProperties": [],
@@ -50212,6 +50523,23 @@
           "x": 731,
           "y": 37,
           "zOrder": 13,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 464,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Porta_pocoes",
+          "persistentUuid": "5cb3cdb7-8f59-4c2a-85e9-a064480f40a6",
+          "width": 376,
+          "x": -42,
+          "y": 678,
+          "zOrder": 14,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -50755,6 +51083,67 @@
             "characterSize": 40,
             "color": "144;19;254"
           }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Porta_pocoes",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Porta-pocoes",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Porta-pocoes",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 137,
+                            "y": 113
+                          },
+                          {
+                            "x": 831,
+                            "y": 113
+                          },
+                          {
+                            "x": 831,
+                            "y": 1066
+                          },
+                          {
+                            "x": 137,
+                            "y": 1066
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -50786,6 +51175,9 @@
           },
           {
             "objectName": "welcome_pocoes"
+          },
+          {
+            "objectName": "Porta_pocoes"
           }
         ]
       },
@@ -51213,6 +51605,35 @@
                     }
                   ]
                 }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Player",
+                "Porta_pocoes",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Saguao\"",
+                ""
               ]
             }
           ]
@@ -58491,7 +58912,7 @@
                   "parameters": [
                     "mana_assistent",
                     "-",
-                    "5"
+                    "2"
                   ]
                 },
                 {
@@ -59435,7 +59856,7 @@
                             "chicote_aventureiro",
                             "Resizable",
                             "*",
-                            "0.6"
+                            "0.8"
                           ]
                         },
                         {
@@ -59446,7 +59867,7 @@
                             "chicote_aventureiro",
                             "Resizable",
                             "*",
-                            "0.6"
+                            "0.8"
                           ]
                         },
                         {
@@ -77043,15 +77464,15 @@
       "category": "User interface",
       "extensionNamespace": "",
       "fullName": "Panel sprite button",
-      "gdevelopVersion": "",
+      "gdevelopVersion": ">=5.5.230",
       "helpPath": "/objects/button",
       "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyMy4wLjMsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iSWNvbnMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4Ig0KCSB2aWV3Qm94PSIwIDAgMzIgMzIiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDMyIDMyOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPg0KCS5zdDB7ZmlsbDpub25lO3N0cm9rZTojMDAwMDAwO3N0cm9rZS13aWR0aDoyO3N0cm9rZS1saW5lY2FwOnJvdW5kO3N0cm9rZS1saW5lam9pbjpyb3VuZDtzdHJva2UtbWl0ZXJsaW1pdDoxMDt9DQo8L3N0eWxlPg0KPHBhdGggY2xhc3M9InN0MCIgZD0iTTI5LDIzSDNjLTEuMSwwLTItMC45LTItMlYxMWMwLTEuMSwwLjktMiwyLTJoMjZjMS4xLDAsMiwwLjksMiwydjEwQzMxLDIyLjEsMzAuMSwyMywyOSwyM3oiLz4NCjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0xMywxOUwxMywxOWMtMS4xLDAtMi0wLjktMi0ydi0yYzAtMS4xLDAuOS0yLDItMmgwYzEuMSwwLDIsMC45LDIsMnYyQzE1LDE4LjEsMTQuMSwxOSwxMywxOXoiLz4NCjxsaW5lIGNsYXNzPSJzdDAiIHgxPSIxOCIgeTE9IjEzIiB4Mj0iMTgiIHkyPSIxOSIvPg0KPGxpbmUgY2xhc3M9InN0MCIgeDE9IjIxIiB5MT0iMTMiIHgyPSIxOCIgeTI9IjE3Ii8+DQo8bGluZSBjbGFzcz0ic3QwIiB4MT0iMjEiIHkxPSIxOSIgeDI9IjE5IiB5Mj0iMTYiLz4NCjwvc3ZnPg0K",
       "name": "PanelSpriteButton",
       "previewIconUrl": "https://resources.gdevelop-app.com/assets/Icons/Line Hero Pack/Master/SVG/Interface Elements/Interface Elements_interface_ui_button_ok_cta_clock_tap.svg",
       "shortDescription": "A button that can be customized.",
-      "version": "1.4.6",
+      "version": "2.0.0",
       "description": [
-        "The button can be customized with a background for each state and a label. It handles user interactions and a simple condition can be used to check if it is clicked.",
+        "A button that can be used for menus and most labelled buttons of a game. The button can be customized with a background for each state and a label. It handles user interactions and a simple condition can be used to check if it is clicked.",
         "",
         "There are ready-to-use buttons in the asset-store [menu buttons pack](https://editor.gdevelop.io/?initial-dialog=asset-store&asset-pack=menu-buttons-menu-buttons)."
       ],
@@ -77065,6 +77486,12 @@
       ],
       "authorIds": [
         "IWykYNRvhCZBN3vEgKEbBPOR3Oc2"
+      ],
+      "changelog": [
+        {
+          "version": "2.0.0",
+          "breaking": "- Buttons now use \"variants\", allowing easy swapping of their visual aspect. You will have to make some adjustments to existing buttons in your project. Follow this [migration documentation](https://wiki.gdevelop.io/gdevelop5/objects/custom-objects-prefab-template/migrate-to-variants/) to do these changes."
+        }
       ],
       "dependencies": [],
       "globalVariables": [],
@@ -77110,11 +77537,10 @@
                       "conditions": [
                         {
                           "type": {
-                            "value": "PanelSpriteButton::ButtonFSM::PropertyState"
+                            "value": "StringVariable"
                           },
                           "parameters": [
-                            "Object",
-                            "Behavior",
+                            "State",
                             "=",
                             "\"Validated\""
                           ]
@@ -77123,11 +77549,10 @@
                       "actions": [
                         {
                           "type": {
-                            "value": "PanelSpriteButton::ButtonFSM::SetPropertyState"
+                            "value": "SetStringVariable"
                           },
                           "parameters": [
-                            "Object",
-                            "Behavior",
+                            "State",
                             "=",
                             "\"Idle\""
                           ]
@@ -77161,12 +77586,12 @@
                           "actions": [
                             {
                               "type": {
-                                "value": "PanelSpriteButton::ButtonFSM::SetPropertyMouseIsInside"
+                                "value": "SetBooleanVariable"
                               },
                               "parameters": [
-                                "Object",
-                                "Behavior",
-                                "no"
+                                "MouseIsInside",
+                                "False",
+                                ""
                               ]
                             }
                           ]
@@ -77176,11 +77601,12 @@
                           "conditions": [
                             {
                               "type": {
-                                "value": "PanelSpriteButton::ButtonFSM::PropertyShouldCheckHovering"
+                                "value": "BooleanVariable"
                               },
                               "parameters": [
-                                "Object",
-                                "Behavior"
+                                "ShouldCheckHovering",
+                                "True",
+                                ""
                               ]
                             },
                             {
@@ -77197,12 +77623,12 @@
                           "actions": [
                             {
                               "type": {
-                                "value": "PanelSpriteButton::ButtonFSM::SetPropertyMouseIsInside"
+                                "value": "SetBooleanVariable"
                               },
                               "parameters": [
-                                "Object",
-                                "Behavior",
-                                "yes"
+                                "MouseIsInside",
+                                "True",
+                                ""
                               ]
                             }
                           ]
@@ -77225,12 +77651,12 @@
                           "actions": [
                             {
                               "type": {
-                                "value": "PanelSpriteButton::ButtonFSM::SetPropertyTouchIsInside"
+                                "value": "SetBooleanVariable"
                               },
                               "parameters": [
-                                "Object",
-                                "Behavior",
-                                "no"
+                                "TouchIsInside",
+                                "False",
+                                ""
                               ]
                             }
                           ]
@@ -77240,11 +77666,10 @@
                           "conditions": [
                             {
                               "type": {
-                                "value": "PanelSpriteButton::ButtonFSM::PropertyTouchId"
+                                "value": "NumberVariable"
                               },
                               "parameters": [
-                                "Object",
-                                "Behavior",
+                                "TouchId",
                                 "!=",
                                 "0"
                               ]
@@ -77263,12 +77688,12 @@
                           "actions": [
                             {
                               "type": {
-                                "value": "PanelSpriteButton::ButtonFSM::SetPropertyTouchIsInside"
+                                "value": "SetBooleanVariable"
                               },
                               "parameters": [
-                                "Object",
-                                "Behavior",
-                                "yes"
+                                "TouchIsInside",
+                                "True",
+                                ""
                               ]
                             }
                           ]
@@ -77300,11 +77725,10 @@
                           "actions": [
                             {
                               "type": {
-                                "value": "PanelSpriteButton::ButtonFSM::SetPropertyIndex"
+                                "value": "SetNumberVariable"
                               },
                               "parameters": [
-                                "Object",
-                                "Behavior",
+                                "Index",
                                 "=",
                                 "0"
                               ]
@@ -77334,23 +77758,22 @@
                                   "actions": [
                                     {
                                       "type": {
-                                        "value": "PanelSpriteButton::ButtonFSM::SetPropertyTouchId"
+                                        "value": "SetNumberVariable"
                                       },
                                       "parameters": [
-                                        "Object",
-                                        "Behavior",
+                                        "TouchId",
                                         "=",
                                         "StartedTouchOrMouseId(Index)"
                                       ]
                                     },
                                     {
                                       "type": {
-                                        "value": "PanelSpriteButton::ButtonFSM::SetPropertyTouchIsInside"
+                                        "value": "SetBooleanVariable"
                                       },
                                       "parameters": [
-                                        "Object",
-                                        "Behavior",
-                                        "yes"
+                                        "TouchIsInside",
+                                        "True",
+                                        ""
                                       ]
                                     }
                                   ],
@@ -77392,11 +77815,10 @@
                                       "actions": [
                                         {
                                           "type": {
-                                            "value": "PanelSpriteButton::ButtonFSM::SetPropertyState"
+                                            "value": "SetStringVariable"
                                           },
                                           "parameters": [
-                                            "Object",
-                                            "Behavior",
+                                            "State",
                                             "=",
                                             "\"PressedInside\""
                                           ]
@@ -77411,11 +77833,10 @@
                                   "actions": [
                                     {
                                       "type": {
-                                        "value": "PanelSpriteButton::ButtonFSM::SetPropertyIndex"
+                                        "value": "SetNumberVariable"
                                       },
                                       "parameters": [
-                                        "Object",
-                                        "Behavior",
+                                        "Index",
                                         "+",
                                         "1"
                                       ]
@@ -77444,20 +77865,20 @@
                             {
                               "type": {
                                 "inverted": true,
-                                "value": "PanelSpriteButton::ButtonFSM::PropertyMouseIsInside"
+                                "value": "BooleanVariable"
                               },
                               "parameters": [
-                                "Object",
-                                "Behavior"
+                                "MouseIsInside",
+                                "True",
+                                ""
                               ]
                             },
                             {
                               "type": {
-                                "value": "PanelSpriteButton::ButtonFSM::PropertyState"
+                                "value": "StringVariable"
                               },
                               "parameters": [
-                                "Object",
-                                "Behavior",
+                                "State",
                                 "=",
                                 "\"Hovered\""
                               ]
@@ -77466,11 +77887,10 @@
                           "actions": [
                             {
                               "type": {
-                                "value": "PanelSpriteButton::ButtonFSM::SetPropertyState"
+                                "value": "SetStringVariable"
                               },
                               "parameters": [
-                                "Object",
-                                "Behavior",
+                                "State",
                                 "=",
                                 "\"Idle\""
                               ]
@@ -77482,20 +77902,20 @@
                           "conditions": [
                             {
                               "type": {
-                                "value": "PanelSpriteButton::ButtonFSM::PropertyMouseIsInside"
+                                "value": "BooleanVariable"
                               },
                               "parameters": [
-                                "Object",
-                                "Behavior"
+                                "MouseIsInside",
+                                "True",
+                                ""
                               ]
                             },
                             {
                               "type": {
-                                "value": "PanelSpriteButton::ButtonFSM::PropertyState"
+                                "value": "StringVariable"
                               },
                               "parameters": [
-                                "Object",
-                                "Behavior",
+                                "State",
                                 "=",
                                 "\"Idle\""
                               ]
@@ -77504,11 +77924,10 @@
                           "actions": [
                             {
                               "type": {
-                                "value": "PanelSpriteButton::ButtonFSM::SetPropertyState"
+                                "value": "SetStringVariable"
                               },
                               "parameters": [
-                                "Object",
-                                "Behavior",
+                                "State",
                                 "=",
                                 "\"Hovered\""
                               ]
@@ -77521,20 +77940,20 @@
                             {
                               "type": {
                                 "inverted": true,
-                                "value": "PanelSpriteButton::ButtonFSM::PropertyTouchIsInside"
+                                "value": "BooleanVariable"
                               },
                               "parameters": [
-                                "Object",
-                                "Behavior"
+                                "TouchIsInside",
+                                "True",
+                                ""
                               ]
                             },
                             {
                               "type": {
-                                "value": "PanelSpriteButton::ButtonFSM::PropertyState"
+                                "value": "StringVariable"
                               },
                               "parameters": [
-                                "Object",
-                                "Behavior",
+                                "State",
                                 "=",
                                 "\"PressedInside\""
                               ]
@@ -77543,11 +77962,10 @@
                           "actions": [
                             {
                               "type": {
-                                "value": "PanelSpriteButton::ButtonFSM::SetPropertyState"
+                                "value": "SetStringVariable"
                               },
                               "parameters": [
-                                "Object",
-                                "Behavior",
+                                "State",
                                 "=",
                                 "\"PressedOutside\""
                               ]
@@ -77559,20 +77977,20 @@
                           "conditions": [
                             {
                               "type": {
-                                "value": "PanelSpriteButton::ButtonFSM::PropertyTouchIsInside"
+                                "value": "BooleanVariable"
                               },
                               "parameters": [
-                                "Object",
-                                "Behavior"
+                                "TouchIsInside",
+                                "True",
+                                ""
                               ]
                             },
                             {
                               "type": {
-                                "value": "PanelSpriteButton::ButtonFSM::PropertyState"
+                                "value": "StringVariable"
                               },
                               "parameters": [
-                                "Object",
-                                "Behavior",
+                                "State",
                                 "=",
                                 "\"PressedOutside\""
                               ]
@@ -77581,11 +77999,10 @@
                           "actions": [
                             {
                               "type": {
-                                "value": "PanelSpriteButton::ButtonFSM::SetPropertyState"
+                                "value": "SetStringVariable"
                               },
                               "parameters": [
-                                "Object",
-                                "Behavior",
+                                "State",
                                 "=",
                                 "\"PressedInside\""
                               ]
@@ -77620,11 +78037,10 @@
                           "actions": [
                             {
                               "type": {
-                                "value": "PanelSpriteButton::ButtonFSM::SetPropertyTouchId"
+                                "value": "SetNumberVariable"
                               },
                               "parameters": [
-                                "Object",
-                                "Behavior",
+                                "TouchId",
                                 "=",
                                 "0"
                               ]
@@ -77636,11 +78052,10 @@
                               "conditions": [
                                 {
                                   "type": {
-                                    "value": "PanelSpriteButton::ButtonFSM::PropertyState"
+                                    "value": "StringVariable"
                                   },
                                   "parameters": [
-                                    "Object",
-                                    "Behavior",
+                                    "State",
                                     "=",
                                     "\"PressedInside\""
                                   ]
@@ -77649,11 +78064,10 @@
                               "actions": [
                                 {
                                   "type": {
-                                    "value": "PanelSpriteButton::ButtonFSM::SetPropertyState"
+                                    "value": "SetStringVariable"
                                   },
                                   "parameters": [
-                                    "Object",
-                                    "Behavior",
+                                    "State",
                                     "=",
                                     "\"Validated\""
                                   ]
@@ -77666,11 +78080,10 @@
                                 {
                                   "type": {
                                     "inverted": true,
-                                    "value": "PanelSpriteButton::ButtonFSM::PropertyState"
+                                    "value": "StringVariable"
                                   },
                                   "parameters": [
-                                    "Object",
-                                    "Behavior",
+                                    "State",
                                     "=",
                                     "\"PressedInside\""
                                   ]
@@ -77678,11 +78091,10 @@
                                 {
                                   "type": {
                                     "inverted": true,
-                                    "value": "PanelSpriteButton::ButtonFSM::PropertyState"
+                                    "value": "StringVariable"
                                   },
                                   "parameters": [
-                                    "Object",
-                                    "Behavior",
+                                    "State",
                                     "=",
                                     "\"Validated\""
                                   ]
@@ -77691,11 +78103,10 @@
                               "actions": [
                                 {
                                   "type": {
-                                    "value": "PanelSpriteButton::ButtonFSM::SetPropertyState"
+                                    "value": "SetStringVariable"
                                   },
                                   "parameters": [
-                                    "Object",
-                                    "Behavior",
+                                    "State",
                                     "=",
                                     "\"Idle\""
                                   ]
@@ -77778,22 +78189,20 @@
                   "actions": [
                     {
                       "type": {
-                        "value": "PanelSpriteButton::ButtonFSM::SetPropertyState"
+                        "value": "SetStringVariable"
                       },
                       "parameters": [
-                        "Object",
-                        "Behavior",
+                        "State",
                         "=",
                         "\"Idle\""
                       ]
                     },
                     {
                       "type": {
-                        "value": "PanelSpriteButton::ButtonFSM::SetPropertyTouchId"
+                        "value": "SetNumberVariable"
                       },
                       "parameters": [
-                        "Object",
-                        "Behavior",
+                        "TouchId",
                         "=",
                         "0"
                       ]
@@ -77828,11 +78237,10 @@
                   "conditions": [
                     {
                       "type": {
-                        "value": "PanelSpriteButton::ButtonFSM::PropertyState"
+                        "value": "StringVariable"
                       },
                       "parameters": [
-                        "Object",
-                        "Behavior",
+                        "State",
                         "=",
                         "\"Idle\""
                       ]
@@ -77877,11 +78285,10 @@
                   "conditions": [
                     {
                       "type": {
-                        "value": "PanelSpriteButton::ButtonFSM::PropertyState"
+                        "value": "StringVariable"
                       },
                       "parameters": [
-                        "Object",
-                        "Behavior",
+                        "State",
                         "=",
                         "\"Validated\""
                       ]
@@ -77926,11 +78333,10 @@
                   "conditions": [
                     {
                       "type": {
-                        "value": "PanelSpriteButton::ButtonFSM::PropertyState"
+                        "value": "StringVariable"
                       },
                       "parameters": [
-                        "Object",
-                        "Behavior",
+                        "State",
                         "=",
                         "\"Hovered\""
                       ]
@@ -77975,11 +78381,10 @@
                   "conditions": [
                     {
                       "type": {
-                        "value": "PanelSpriteButton::ButtonFSM::PropertyState"
+                        "value": "StringVariable"
                       },
                       "parameters": [
-                        "Object",
-                        "Behavior",
+                        "State",
                         "=",
                         "\"Hovered\""
                       ]
@@ -78001,11 +78406,10 @@
                   "conditions": [
                     {
                       "type": {
-                        "value": "PanelSpriteButton::ButtonFSM::PropertyState"
+                        "value": "StringVariable"
                       },
                       "parameters": [
-                        "Object",
-                        "Behavior",
+                        "State",
                         "=",
                         "\"PressedOutside\""
                       ]
@@ -78050,11 +78454,10 @@
                   "conditions": [
                     {
                       "type": {
-                        "value": "PanelSpriteButton::ButtonFSM::PropertyState"
+                        "value": "StringVariable"
                       },
                       "parameters": [
-                        "Object",
-                        "Behavior",
+                        "State",
                         "=",
                         "\"PressedInside\""
                       ]
@@ -78099,11 +78502,10 @@
                   "conditions": [
                     {
                       "type": {
-                        "value": "PanelSpriteButton::ButtonFSM::PropertyState"
+                        "value": "StringVariable"
                       },
                       "parameters": [
-                        "Object",
-                        "Behavior",
+                        "State",
                         "=",
                         "\"PressedOutside\""
                       ]
@@ -78234,7 +78636,7 @@
       ],
       "eventsBasedObjects": [
         {
-          "areaMaxX": 64,
+          "areaMaxX": 256,
           "areaMaxY": 64,
           "areaMaxZ": 64,
           "areaMinX": 0,
@@ -78243,7 +78645,8 @@
           "defaultName": "Button",
           "description": "A button that can be customized.",
           "fullName": "Button (panel sprite)",
-          "isUsingLegacyInstancesRenderer": true,
+          "isInnerAreaFollowingParentSize": true,
+          "isUsingLegacyInstancesRenderer": false,
           "name": "PanelSpriteButton",
           "objects": [
             {
@@ -78256,10 +78659,21 @@
               "underlined": false,
               "variables": [],
               "effects": [],
-              "behaviors": [],
+              "behaviors": [
+                {
+                  "name": "Anchor",
+                  "type": "AnchorBehavior::AnchorBehavior",
+                  "bottomEdgeAnchor": 4,
+                  "topEdgeAnchor": 4,
+                  "leftEdgeAnchor": 1,
+                  "relativeToOriginalWindowSize": true,
+                  "rightEdgeAnchor": 2,
+                  "useLegacyBottomAndRightAnchors": false
+                }
+              ],
               "string": "Text",
               "font": "",
-              "textAlignment": "",
+              "textAlignment": "center",
               "characterSize": 20,
               "color": {
                 "b": 0,
@@ -78282,8 +78696,8 @@
                 "underlined": false,
                 "text": "Text",
                 "font": "",
-                "textAlignment": "",
-                "verticalTextAlignment": "top",
+                "textAlignment": "center",
+                "verticalTextAlignment": "center",
                 "characterSize": 20,
                 "color": "0;0;0"
               }
@@ -78311,6 +78725,16 @@
               "effects": [],
               "behaviors": [
                 {
+                  "name": "Anchor",
+                  "type": "AnchorBehavior::AnchorBehavior",
+                  "bottomEdgeAnchor": 2,
+                  "leftEdgeAnchor": 1,
+                  "relativeToOriginalWindowSize": true,
+                  "rightEdgeAnchor": 2,
+                  "topEdgeAnchor": 1,
+                  "useLegacyBottomAndRightAnchors": false
+                },
+                {
                   "name": "ButtonFSM",
                   "type": "PanelSpriteButton::ButtonFSM",
                   "ShouldCheckHovering": true
@@ -78333,6 +78757,16 @@
               "effects": [],
               "behaviors": [
                 {
+                  "name": "Anchor",
+                  "type": "AnchorBehavior::AnchorBehavior",
+                  "bottomEdgeAnchor": 2,
+                  "leftEdgeAnchor": 1,
+                  "relativeToOriginalWindowSize": true,
+                  "rightEdgeAnchor": 2,
+                  "topEdgeAnchor": 1,
+                  "useLegacyBottomAndRightAnchors": false
+                },
+                {
                   "name": "Tween",
                   "type": "Tween::TweenBehavior"
                 }
@@ -78352,7 +78786,18 @@
               "width": 32,
               "variables": [],
               "effects": [],
-              "behaviors": []
+              "behaviors": [
+                {
+                  "name": "Anchor",
+                  "type": "AnchorBehavior::AnchorBehavior",
+                  "bottomEdgeAnchor": 2,
+                  "leftEdgeAnchor": 1,
+                  "relativeToOriginalWindowSize": true,
+                  "rightEdgeAnchor": 2,
+                  "topEdgeAnchor": 1,
+                  "useLegacyBottomAndRightAnchors": false
+                }
+              ]
             }
           ],
           "objectsFolderStructure": {
@@ -78372,7 +78817,22 @@
               }
             ]
           },
-          "objectsGroups": [],
+          "objectsGroups": [
+            {
+              "name": "Background",
+              "objects": [
+                {
+                  "name": "Idle"
+                },
+                {
+                  "name": "Hovered"
+                },
+                {
+                  "name": "Pressed"
+                }
+              ]
+            }
+          ],
           "layers": [
             {
               "ambientLightColorB": 200,
@@ -78403,7 +78863,40 @@
               "effects": []
             }
           ],
-          "instances": [],
+          "instances": [
+            {
+              "angle": 0,
+              "customSize": true,
+              "depth": 1,
+              "height": 64,
+              "layer": "",
+              "name": "Idle",
+              "persistentUuid": "24882334-eec8-403e-8bf1-70fc928a46e6",
+              "width": 256,
+              "x": 0,
+              "y": 0,
+              "zOrder": 1,
+              "numberProperties": [],
+              "stringProperties": [],
+              "initialVariables": []
+            },
+            {
+              "angle": 0,
+              "customSize": true,
+              "depth": 1,
+              "height": 64,
+              "layer": "",
+              "name": "Label",
+              "persistentUuid": "3b29c95c-5363-4e25-bf47-eecf13e8a226",
+              "width": 256,
+              "x": 0,
+              "y": 32,
+              "zOrder": 2,
+              "numberProperties": [],
+              "stringProperties": [],
+              "initialVariables": []
+            }
+          ],
           "eventsFunctions": [
             {
               "fullName": "",
@@ -78433,18 +78926,6 @@
                       },
                       "parameters": [
                         "",
-                        "Idle",
-                        "0",
-                        "0",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Create"
-                      },
-                      "parameters": [
-                        "",
                         "Hovered",
                         "0",
                         "0",
@@ -78461,6 +78942,28 @@
                         "0",
                         "0",
                         ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ResizableCapability::ResizableBehavior::SetSize"
+                      },
+                      "parameters": [
+                        "Hovered",
+                        "Resizable",
+                        "Idle.Width()",
+                        "Idle.Height()"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ResizableCapability::ResizableBehavior::SetSize"
+                      },
+                      "parameters": [
+                        "Pressed",
+                        "Resizable",
+                        "Idle.Width()",
+                        "Idle.Height()"
                       ]
                     },
                     {
@@ -78488,63 +78991,26 @@
                         "=",
                         "1"
                       ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Comment",
-                  "color": {
-                    "b": 109,
-                    "g": 230,
-                    "r": 255,
-                    "textB": 0,
-                    "textG": 0,
-                    "textR": 0
-                  },
-                  "comment": "Place the label over the backgrounds."
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Create"
-                      },
-                      "parameters": [
-                        "",
-                        "Label",
-                        "0",
-                        "0",
-                        ""
-                      ]
                     },
                     {
                       "type": {
                         "value": "ChangePlan"
                       },
                       "parameters": [
-                        "Label",
+                        "Pressed",
                         "=",
-                        "2"
+                        "1"
                       ]
                     },
                     {
                       "type": {
-                        "value": "TextObject::SetWrapping"
+                        "value": "TextContainerCapability::TextContainerBehavior::SetValue"
                       },
                       "parameters": [
                         "Label",
-                        "yes"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "PanelSpriteButton::PanelSpriteButton::CenterLabel"
-                      },
-                      "parameters": [
-                        "Object",
-                        ""
+                        "Text",
+                        "=",
+                        "LabelText"
                       ]
                     }
                   ]
@@ -78583,15 +79049,44 @@
               "events": [
                 {
                   "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [
+                  "conditions": [
                     {
                       "type": {
-                        "value": "PanelSpriteButton::PanelSpriteButton::CenterLabel"
+                        "value": "PanelSpriteButton::PanelSpriteButton::IsPressed"
                       },
                       "parameters": [
                         "Object",
                         ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PanelSpriteButton::PanelSpriteButton::SetLabelOffset"
+                      },
+                      "parameters": [
+                        "Object",
+                        "=",
+                        "PressedLabelOffsetY",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "Label",
+                        "Text",
+                        "=",
+                        "LabelText"
                       ]
                     }
                   ]
@@ -78656,12 +79151,13 @@
                       "actions": [
                         {
                           "type": {
-                            "value": "SetCenterY"
+                            "value": "PanelSpriteButton::PanelSpriteButton::SetLabelOffset"
                           },
                           "parameters": [
-                            "Label",
+                            "Object",
                             "=",
-                            "Object.CenterWithPaddingY()"
+                            "0",
+                            ""
                           ]
                         },
                         {
@@ -78696,10 +79192,10 @@
                             },
                             {
                               "type": {
-                                "value": "PanelSpriteButton::PanelSpriteButton::PropertyHoveredFadeOutDuration"
+                                "value": "NumberVariable"
                               },
                               "parameters": [
-                                "Object",
+                                "HoveredFadeOutDuration",
                                 ">",
                                 "0"
                               ]
@@ -78708,7 +79204,7 @@
                           "actions": [
                             {
                               "type": {
-                                "value": "Tween::AddObjectOpacityTween"
+                                "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
                               },
                               "parameters": [
                                 "Hovered",
@@ -78716,7 +79212,7 @@
                                 "\"Fadeout\"",
                                 "0",
                                 "\"linear\"",
-                                "Object.PropertyHoveredFadeOutDuration() * 1000",
+                                "HoveredFadeOutDuration",
                                 ""
                               ]
                             }
@@ -78727,10 +79223,10 @@
                           "conditions": [
                             {
                               "type": {
-                                "value": "PanelSpriteButton::PanelSpriteButton::PropertyHoveredFadeOutDuration"
+                                "value": "NumberVariable"
                               },
                               "parameters": [
-                                "Object",
+                                "HoveredFadeOutDuration",
                                 "=",
                                 "0"
                               ]
@@ -78754,10 +79250,11 @@
                       "conditions": [
                         {
                           "type": {
-                            "value": "PanelSpriteObject::Opacity"
+                            "value": "OpacityCapability::OpacityBehavior::Value"
                           },
                           "parameters": [
                             "Hovered",
+                            "Opacity",
                             "=",
                             "0"
                           ]
@@ -78774,10 +79271,11 @@
                         },
                         {
                           "type": {
-                            "value": "PanelSpriteObject::SetOpacity"
+                            "value": "OpacityCapability::OpacityBehavior::SetValue"
                           },
                           "parameters": [
                             "Hovered",
+                            "Opacity",
                             "=",
                             "255"
                           ]
@@ -78806,12 +79304,13 @@
                       "actions": [
                         {
                           "type": {
-                            "value": "SetCenterY"
+                            "value": "PanelSpriteButton::PanelSpriteButton::SetLabelOffset"
                           },
                           "parameters": [
-                            "Label",
+                            "Object",
                             "=",
-                            "Object.CenterWithPaddingY()"
+                            "0",
+                            ""
                           ]
                         },
                         {
@@ -78851,10 +79350,11 @@
                         },
                         {
                           "type": {
-                            "value": "PanelSpriteObject::SetOpacity"
+                            "value": "OpacityCapability::OpacityBehavior::SetValue"
                           },
                           "parameters": [
                             "Hovered",
+                            "Opacity",
                             "=",
                             "255"
                           ]
@@ -78883,12 +79383,13 @@
                       "actions": [
                         {
                           "type": {
-                            "value": "SetCenterY"
+                            "value": "PanelSpriteButton::PanelSpriteButton::SetLabelOffset"
                           },
                           "parameters": [
-                            "Label",
+                            "Object",
                             "=",
-                            "Object.CenterWithPaddingY() + Object.PropertyPressedLabelOffsetY()"
+                            "PressedLabelOffsetY",
+                            ""
                           ]
                         },
                         {
@@ -78940,12 +79441,13 @@
                       "actions": [
                         {
                           "type": {
-                            "value": "SetCenterY"
+                            "value": "PanelSpriteButton::PanelSpriteButton::SetLabelOffset"
                           },
                           "parameters": [
-                            "Label",
+                            "Object",
                             "=",
-                            "Object.CenterWithPaddingY()"
+                            "0",
+                            ""
                           ]
                         },
                         {
@@ -78977,143 +79479,6 @@
                     }
                   ],
                   "parameters": []
-                },
-                {
-                  "colorB": 228,
-                  "colorG": 176,
-                  "colorR": 74,
-                  "creationTime": 0,
-                  "name": "Resize",
-                  "source": "",
-                  "type": "BuiltinCommonInstructions::Group",
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Comment",
-                      "color": {
-                        "b": 109,
-                        "g": 230,
-                        "r": 255,
-                        "textB": 0,
-                        "textG": 0,
-                        "textR": 0
-                      },
-                      "comment": "Children instances must be resized when the button size change:\n- backgrounds for each state are resized to take the full dimensions of the button\n- the label is put back at the center of the button\n\nThe scale is set back to 1 because it means that the parent instance has the same dimensions as the union of its children instances."
-                    },
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "BuiltinCommonInstructions::Or"
-                          },
-                          "parameters": [],
-                          "subInstructions": [
-                            {
-                              "type": {
-                                "value": "BuiltinCommonInstructions::CompareNumbers"
-                              },
-                              "parameters": [
-                                "Object.Width()",
-                                "!=",
-                                "max(Idle.BoundingBoxRight(), Label.BoundingBoxRight()) - min(Idle.BoundingBoxLeft(), Label.BoundingBoxLeft())"
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "BuiltinCommonInstructions::CompareNumbers"
-                              },
-                              "parameters": [
-                                "Object.Height()",
-                                "!=",
-                                "max(Idle.BoundingBoxBottom(), Label.BoundingBoxBottom()) - min(Idle.BoundingBoxTop(), Label.BoundingBoxTop())"
-                              ]
-                            }
-                          ]
-                        }
-                      ],
-                      "actions": [],
-                      "events": [
-                        {
-                          "type": "BuiltinCommonInstructions::Standard",
-                          "conditions": [],
-                          "actions": [
-                            {
-                              "type": {
-                                "value": "SetNumberVariable"
-                              },
-                              "parameters": [
-                                "Width",
-                                "=",
-                                "Object.Width()"
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "SetNumberVariable"
-                              },
-                              "parameters": [
-                                "Height",
-                                "=",
-                                "Object.Height()"
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "PanelSpriteButton::Scale"
-                              },
-                              "parameters": [
-                                "Object",
-                                "=",
-                                "1"
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "PanelSpriteObject::Width"
-                              },
-                              "parameters": [
-                                "Background",
-                                "=",
-                                "Width"
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "PanelSpriteObject::Height"
-                              },
-                              "parameters": [
-                                "Background",
-                                "=",
-                                "Height"
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "PanelSpriteButton::PanelSpriteButton::CenterLabel"
-                              },
-                              "parameters": [
-                                "Object",
-                                ""
-                              ]
-                            }
-                          ],
-                          "variables": [
-                            {
-                              "name": "Width",
-                              "type": "number",
-                              "value": 0
-                            },
-                            {
-                              "name": "Height",
-                              "type": "number",
-                              "value": 0
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ],
-                  "parameters": []
                 }
               ],
               "parameters": [
@@ -79124,22 +79489,7 @@
                   "type": "object"
                 }
               ],
-              "objectGroups": [
-                {
-                  "name": "Background",
-                  "objects": [
-                    {
-                      "name": "Idle"
-                    },
-                    {
-                      "name": "Hovered"
-                    },
-                    {
-                      "name": "Pressed"
-                    }
-                  ]
-                }
-              ]
+              "objectGroups": []
             },
             {
               "description": "Check if the button is not used.",
@@ -79361,6 +79711,7 @@
               "fullName": "Label text",
               "functionType": "Action",
               "name": "SetLabelText",
+              "private": true,
               "sentence": "Change the text of _PARAM0_ to _PARAM1_",
               "events": [
                 {
@@ -79369,21 +79720,13 @@
                   "actions": [
                     {
                       "type": {
-                        "value": "TextObject::String"
+                        "value": "TextContainerCapability::TextContainerBehavior::SetValue"
                       },
                       "parameters": [
                         "Label",
+                        "Text",
                         "=",
-                        "LabelText"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "PanelSpriteButton::PanelSpriteButton::CenterLabel"
-                      },
-                      "parameters": [
-                        "Object",
-                        ""
+                        "Value"
                       ]
                     }
                   ]
@@ -79398,18 +79741,53 @@
                 },
                 {
                   "description": "Text",
-                  "name": "LabelText",
+                  "name": "Value",
                   "type": "string"
                 }
               ],
               "objectGroups": []
             },
             {
-              "description": "Return the label text.",
-              "fullName": "Label text",
-              "functionType": "StringExpression",
-              "name": "LabelText",
+              "fullName": "",
+              "functionType": "ActionWithOperator",
+              "getterName": "LabelText",
+              "name": "SetLabelTextOp",
               "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "Label",
+                        "Text",
+                        "=",
+                        "Value"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "supplementaryInformation": "PanelSpriteButton::PanelSpriteButton",
+                  "type": "object"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "the label text.",
+              "fullName": "Label text",
+              "functionType": "ExpressionAndCondition",
+              "name": "LabelText",
+              "sentence": "the label text",
               "events": [
                 {
                   "type": "BuiltinCommonInstructions::Standard",
@@ -79420,7 +79798,7 @@
                         "value": "SetReturnString"
                       },
                       "parameters": [
-                        "Label.String()"
+                        "Label.Text::Value()"
                       ]
                     }
                   ]
@@ -79440,158 +79818,6 @@
               "objectGroups": []
             },
             {
-              "description": "Return the label center Y according to the button configuration. This expression is used in doStepPostEvents when the button is pressed or released.",
-              "fullName": "",
-              "functionType": "Expression",
-              "name": "CenterWithPaddingY",
-              "private": true,
-              "sentence": "",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetReturnNumber"
-                      },
-                      "parameters": [
-                        "Idle.CenterY() + (Object.PropertyTopPadding() - Object.PropertyBottomPadding()) / 2"
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "expressionType": {
-                "type": "expression"
-              },
-              "parameters": [
-                {
-                  "description": "Object",
-                  "name": "Object",
-                  "supplementaryInformation": "PanelSpriteButton::PanelSpriteButton",
-                  "type": "object"
-                }
-              ],
-              "objectGroups": []
-            },
-            {
-              "description": "Center the label according to the button configuration. This is used in doStepPostEvents when the button is resized.",
-              "fullName": "",
-              "functionType": "Action",
-              "name": "CenterLabel",
-              "private": true,
-              "sentence": "Center the label of _PARAM0_",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "MettreXY"
-                      },
-                      "parameters": [
-                        "Label",
-                        "=",
-                        "Object.PropertyLeftPadding()",
-                        "=",
-                        "Object.PropertyTopPadding()"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "TextObject::WrappingWidth"
-                      },
-                      "parameters": [
-                        "Label",
-                        "=",
-                        "Idle.Width() - Object.PropertyLeftPadding() - Object.PropertyRightPadding()"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "SetCenterY"
-                      },
-                      "parameters": [
-                        "Label",
-                        "=",
-                        "Object.CenterWithPaddingY()"
-                      ]
-                    }
-                  ],
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "SetCenterX"
-                          },
-                          "parameters": [
-                            "Label",
-                            "=",
-                            "Background.CenterX() +  (Object.PropertyLeftPadding() - Object.PropertyRightPadding()) / 2"
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "PanelSpriteButton::PanelSpriteButton::IsPressed"
-                      },
-                      "parameters": [
-                        "Object",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "MettreY"
-                      },
-                      "parameters": [
-                        "Label",
-                        "+",
-                        "Object.PropertyPressedLabelOffsetY()"
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "parameters": [
-                {
-                  "description": "Object",
-                  "name": "Object",
-                  "supplementaryInformation": "PanelSpriteButton::PanelSpriteButton",
-                  "type": "object"
-                }
-              ],
-              "objectGroups": [
-                {
-                  "name": "Background",
-                  "objects": [
-                    {
-                      "name": "Idle"
-                    },
-                    {
-                      "name": "Hovered"
-                    },
-                    {
-                      "name": "Pressed"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "description": "De/activate interactions with the button.",
               "fullName": "De/activate interactions",
               "functionType": "Action",
@@ -79603,10 +79829,12 @@
                   "conditions": [
                     {
                       "type": {
-                        "value": "GetArgumentAsBoolean"
+                        "value": "BooleanVariable"
                       },
                       "parameters": [
-                        "\"ShouldActivate\""
+                        "ShouldActivate",
+                        "True",
+                        ""
                       ]
                     }
                   ],
@@ -79629,10 +79857,12 @@
                     {
                       "type": {
                         "inverted": true,
-                        "value": "GetArgumentAsBoolean"
+                        "value": "BooleanVariable"
                       },
                       "parameters": [
-                        "\"ShouldActivate\""
+                        "ShouldActivate",
+                        "True",
+                        ""
                       ]
                     }
                   ],
@@ -79706,63 +79936,402 @@
                 }
               ],
               "objectGroups": []
+            },
+            {
+              "description": "the labelOffset of the object.",
+              "fullName": "LabelOffset",
+              "functionType": "ExpressionAndCondition",
+              "name": "LabelOffset",
+              "private": true,
+              "sentence": "the labelOffset",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetReturnNumber"
+                      },
+                      "parameters": [
+                        "LabelOffset"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "expressionType": {
+                "type": "expression"
+              },
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "supplementaryInformation": "PanelSpriteButton::PanelSpriteButton",
+                  "type": "object"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "fullName": "",
+              "functionType": "ActionWithOperator",
+              "getterName": "LabelOffset",
+              "name": "SetLabelOffset",
+              "private": true,
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetCenterY"
+                      },
+                      "parameters": [
+                        "Label",
+                        "+",
+                        "Value - LabelOffset"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "LabelOffset",
+                        "=",
+                        "Value"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "supplementaryInformation": "PanelSpriteButton::PanelSpriteButton",
+                  "type": "object"
+                }
+              ],
+              "objectGroups": []
             }
           ],
           "propertyDescriptors": [
             {
+              "value": "",
+              "type": "MultilineString",
+              "label": "Label",
+              "name": "LabelText"
+            },
+            {
+              "value": "0.25",
+              "type": "Number",
+              "unit": "Second",
+              "label": "Hovered fade out duration",
+              "group": "States",
+              "name": "HoveredFadeOutDuration"
+            },
+            {
               "value": "0",
               "type": "Number",
+              "unit": "Pixel",
               "label": "Label offset on Y axis when pressed",
+              "group": "States",
               "name": "PressedLabelOffsetY"
             },
             {
               "value": "0",
               "type": "Number",
-              "label": "Left padding",
-              "group": "Padding",
-              "extraInformation": [
-                "Label"
-              ],
-              "name": "LeftPadding"
+              "unit": "Pixel",
+              "label": "",
+              "hidden": true,
+              "name": "LabelOffset"
             },
             {
-              "value": "0",
-              "type": "Number",
-              "label": "Right padding",
-              "group": "Padding",
+              "value": "",
+              "type": "Choice",
+              "label": "",
               "extraInformation": [
-                "Label"
+                "Label.Text=LabelText"
               ],
-              "name": "RightPadding"
-            },
-            {
-              "value": "0",
-              "type": "Number",
-              "label": "Top padding",
-              "group": "Padding",
-              "extraInformation": [
-                "Label"
-              ],
-              "name": "TopPadding"
-            },
-            {
-              "value": "0",
-              "type": "Number",
-              "label": "Bottom padding",
-              "group": "Padding",
-              "extraInformation": [
-                "Label"
-              ],
-              "name": "BottomPadding"
-            },
-            {
-              "value": "0.25",
-              "type": "Number",
-              "label": "Hovered fade out duration (in seconds)",
-              "name": "HoveredFadeOutDuration"
+              "hidden": true,
+              "name": "_PropertyMapping"
             }
           ],
-          "variants": []
+          "variants": [
+            {
+              "areaMaxX": 192,
+              "areaMaxY": 69,
+              "areaMaxZ": 64,
+              "areaMinX": 0,
+              "areaMinY": 0,
+              "areaMinZ": 0,
+              "assetStoreAssetId": "33302f0b615672a2e96316c096e13ad8d7242adba8bd5709538691894f0eae6e",
+              "assetStoreOriginalName": "Blue Button With Shadow",
+              "name": "Blue Button With Shadow",
+              "objects": [
+                {
+                  "assetStoreId": "",
+                  "bold": false,
+                  "italic": false,
+                  "name": "Label",
+                  "smoothed": true,
+                  "type": "TextObject::Text",
+                  "underlined": false,
+                  "variables": [],
+                  "effects": [],
+                  "behaviors": [
+                    {
+                      "name": "Anchor",
+                      "type": "AnchorBehavior::AnchorBehavior",
+                      "bottomEdgeAnchor": 2,
+                      "leftEdgeAnchor": 1,
+                      "relativeToOriginalWindowSize": true,
+                      "rightEdgeAnchor": 2,
+                      "topEdgeAnchor": 1,
+                      "useLegacyBottomAndRightAnchors": false
+                    }
+                  ],
+                  "string": "BUTTON",
+                  "font": "CantoraOne-Regular.ttf",
+                  "textAlignment": "center",
+                  "characterSize": 40,
+                  "color": {
+                    "b": 255,
+                    "g": 255,
+                    "r": 255
+                  },
+                  "content": {
+                    "bold": false,
+                    "isOutlineEnabled": false,
+                    "isShadowEnabled": false,
+                    "italic": false,
+                    "outlineColor": "255;255;255",
+                    "outlineThickness": 2,
+                    "shadowAngle": 90,
+                    "shadowBlurRadius": 2,
+                    "shadowColor": "0;0;0",
+                    "shadowDistance": 4,
+                    "shadowOpacity": 127,
+                    "smoothed": true,
+                    "underlined": false,
+                    "text": "BUTTON",
+                    "font": "CantoraOne-Regular.ttf",
+                    "textAlignment": "center",
+                    "verticalTextAlignment": "center",
+                    "characterSize": 40,
+                    "color": "255;255;255"
+                  }
+                },
+                {
+                  "assetStoreId": "",
+                  "bottomMargin": 16,
+                  "height": 69,
+                  "leftMargin": 16,
+                  "name": "Idle",
+                  "rightMargin": 16,
+                  "texture": "Blue Button With Shadow_Idle.png",
+                  "tiled": false,
+                  "topMargin": 16,
+                  "type": "PanelSpriteObject::PanelSprite",
+                  "width": 192,
+                  "variables": [
+                    {
+                      "folded": true,
+                      "name": "State",
+                      "type": "string",
+                      "value": "Idle"
+                    }
+                  ],
+                  "effects": [],
+                  "behaviors": [
+                    {
+                      "name": "Anchor",
+                      "type": "AnchorBehavior::AnchorBehavior",
+                      "bottomEdgeAnchor": 2,
+                      "leftEdgeAnchor": 1,
+                      "relativeToOriginalWindowSize": true,
+                      "rightEdgeAnchor": 2,
+                      "topEdgeAnchor": 1,
+                      "useLegacyBottomAndRightAnchors": false
+                    },
+                    {
+                      "name": "ButtonFSM",
+                      "type": "PanelSpriteButton::ButtonFSM",
+                      "serializedBehavior": {
+                        "name": "ButtonFSM",
+                        "type": "PanelSpriteButton::ButtonFSM",
+                        "ShouldCheckHovering": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "assetStoreId": "",
+                  "bottomMargin": 16,
+                  "height": 69,
+                  "leftMargin": 16,
+                  "name": "Hovered",
+                  "rightMargin": 16,
+                  "texture": "Blue Button With Shadow_Hovered.png",
+                  "tiled": false,
+                  "topMargin": 16,
+                  "type": "PanelSpriteObject::PanelSprite",
+                  "width": 192,
+                  "variables": [],
+                  "effects": [],
+                  "behaviors": [
+                    {
+                      "name": "Anchor",
+                      "type": "AnchorBehavior::AnchorBehavior",
+                      "bottomEdgeAnchor": 2,
+                      "leftEdgeAnchor": 1,
+                      "relativeToOriginalWindowSize": true,
+                      "rightEdgeAnchor": 2,
+                      "topEdgeAnchor": 1,
+                      "useLegacyBottomAndRightAnchors": false
+                    },
+                    {
+                      "name": "Tween",
+                      "type": "Tween::TweenBehavior",
+                      "serializedBehavior": {
+                        "name": "Tween",
+                        "type": "Tween::TweenBehavior"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "assetStoreId": "",
+                  "bottomMargin": 16,
+                  "height": 69,
+                  "leftMargin": 16,
+                  "name": "Pressed",
+                  "rightMargin": 16,
+                  "texture": "Blue Button With Shadow_Pressed.png",
+                  "tiled": false,
+                  "topMargin": 16,
+                  "type": "PanelSpriteObject::PanelSprite",
+                  "width": 192,
+                  "variables": [],
+                  "effects": [],
+                  "behaviors": [
+                    {
+                      "name": "Anchor",
+                      "type": "AnchorBehavior::AnchorBehavior",
+                      "bottomEdgeAnchor": 2,
+                      "leftEdgeAnchor": 1,
+                      "relativeToOriginalWindowSize": true,
+                      "rightEdgeAnchor": 2,
+                      "topEdgeAnchor": 1,
+                      "useLegacyBottomAndRightAnchors": false
+                    }
+                  ]
+                }
+              ],
+              "objectsFolderStructure": {
+                "folderName": "__ROOT",
+                "children": [
+                  {
+                    "objectName": "Label"
+                  },
+                  {
+                    "objectName": "Idle"
+                  },
+                  {
+                    "objectName": "Hovered"
+                  },
+                  {
+                    "objectName": "Pressed"
+                  }
+                ]
+              },
+              "objectsGroups": [
+                {
+                  "name": "Background",
+                  "objects": [
+                    {
+                      "name": "Idle"
+                    },
+                    {
+                      "name": "Hovered"
+                    },
+                    {
+                      "name": "Pressed"
+                    }
+                  ]
+                }
+              ],
+              "layers": [
+                {
+                  "ambientLightColorB": 200,
+                  "ambientLightColorG": 200,
+                  "ambientLightColorR": 200,
+                  "camera3DFarPlaneDistance": 10000,
+                  "camera3DFieldOfView": 45,
+                  "camera3DNearPlaneDistance": 3,
+                  "cameraType": "",
+                  "followBaseLayerCamera": false,
+                  "isLightingLayer": false,
+                  "isLocked": false,
+                  "name": "",
+                  "renderingType": "",
+                  "visibility": true,
+                  "cameras": [
+                    {
+                      "defaultSize": true,
+                      "defaultViewport": true,
+                      "height": 0,
+                      "viewportBottom": 1,
+                      "viewportLeft": 0,
+                      "viewportRight": 1,
+                      "viewportTop": 0,
+                      "width": 0
+                    }
+                  ],
+                  "effects": []
+                }
+              ],
+              "instances": [
+                {
+                  "angle": 0,
+                  "customSize": false,
+                  "depth": 1,
+                  "height": 64,
+                  "layer": "",
+                  "name": "Idle",
+                  "persistentUuid": "24882334-eec8-403e-8bf1-70fc928a46e6",
+                  "width": 64,
+                  "x": 0,
+                  "y": 0,
+                  "zOrder": 1,
+                  "numberProperties": [],
+                  "stringProperties": [],
+                  "initialVariables": []
+                },
+                {
+                  "angle": 0,
+                  "customSize": true,
+                  "depth": 1,
+                  "height": 61,
+                  "keepRatio": true,
+                  "layer": "",
+                  "name": "Label",
+                  "persistentUuid": "ac76ffd4-0cc6-4581-b73c-f840b4eda2c1",
+                  "width": 188,
+                  "x": 2,
+                  "y": 32,
+                  "zOrder": 2,
+                  "numberProperties": [],
+                  "stringProperties": [],
+                  "initialVariables": []
+                }
+              ]
+            }
+          ]
         }
       ]
     },
